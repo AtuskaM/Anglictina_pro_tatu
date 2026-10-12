@@ -1,0 +1,146 @@
+[
+  {
+    "id": "i-live",
+    "en": "I live here.",
+    "sk": "Bývam tu.",
+    "label": "ja",
+    "image": "images/pronouns/i-live.webp",
+    "alt": "One adult blue bird points one wing to its OWN chest, other wing to its nest beside it. Alone at its home.",
+    "note": "I = ja. Hovorím o sebe. Modrý vtáčik ukazuje na seba a svoj domov."
+  },
+  {
+    "id": "you-live",
+    "en": "You live here.",
+    "sk": "Ty tu bývaš.",
+    "label": "ty",
+    "image": "images/pronouns/you-live.webp",
+    "alt": "Blue bird speaker on left points to ONE orange adult listener on right and the orange listener's nest. Clear conversational gesture toward listener.",
+    "note": "You = ty. Hovorím k jednému človeku. Modrý vtáčik oslovuje oranžového."
+  },
+  {
+    "id": "you-plural",
+    "en": "You live here.",
+    "sk": "Vy tu bývate.",
+    "label": "vy",
+    "image": "images/pronouns/you-plural.webp",
+    "alt": "Blue bird speaker on left addresses TWO orange and violet adult birds on right, points to their two nests. Addressed group clearly separate from speaker.",
+    "note": "You = vy. Hovorím k viacerým ľuďom. Po anglicky je you rovnaké pre ty aj vy."
+  },
+  {
+    "id": "he-work",
+    "en": "He works.",
+    "sk": "On pracuje.",
+    "label": "on",
+    "image": "images/pronouns/he-work.webp",
+    "alt": "Blue narrator in foreground points toward ONE male orange adult bird wearing a work cap fixing a wooden bench farther away.",
+    "note": "He = on. Hovorím o mužovi, ktorý pracuje."
+  },
+  {
+    "id": "she-work",
+    "en": "She works.",
+    "sk": "Ona pracuje.",
+    "label": "ona",
+    "image": "images/pronouns/she-work.webp",
+    "alt": "Blue narrator in foreground points toward ONE female violet adult bird wearing a scarf gardening with watering can farther away.",
+    "note": "She = ona. Hovorím o žene, ktorá pracuje."
+  },
+  {
+    "id": "we-work",
+    "en": "We work.",
+    "sk": "My pracujeme.",
+    "label": "my",
+    "image": "images/pronouns/we-work.webp",
+    "alt": "Blue bird pointing to own chest while collaborating WITH orange adult bird building a wooden bench together, both actively working.",
+    "note": "We = my. Ja aj niekto ďalší pracujeme spolu."
+  },
+  {
+    "id": "they-live",
+    "en": "They live here.",
+    "sk": "Oni tu bývajú.",
+    "label": "oni / ony",
+    "image": "images/pronouns/they-live.webp",
+    "alt": "One blue narrator separate in foreground points to THREE adult orange green violet birds beside their three nests across a garden.",
+    "note": "They = oni / ony. Hovorím o iných ľuďoch. Ja do tejto skupiny nepatrím."
+  },
+  {
+    "id": "my-keys",
+    "en": "my keys",
+    "sk": "moje kľúče",
+    "label": "moje",
+    "image": "images/pronouns/my-keys.webp",
+    "alt": "ONE blue adult bird pointing to its own chest and holding its own large ring of keys prominently.",
+    "note": "My keys = moje kľúče. Patria mne."
+  },
+  {
+    "id": "your-car",
+    "en": "your car",
+    "sk": "tvoje auto / vaše auto",
+    "label": "tvoje / vaše",
+    "image": "images/pronouns/your-car.webp",
+    "alt": "Blue speaker points toward orange listener beside listener's small green car, orange listener holds car key. Car and owner dominate.",
+    "note": "Your car = tvoje auto / vaše auto. Patrí tomu, koho oslovujem."
+  },
+  {
+    "id": "his-coat",
+    "en": "his coat",
+    "sk": "jeho kabát",
+    "label": "jeho",
+    "image": "images/pronouns/his-coat.webp",
+    "alt": "Blue narrator points to male orange bird wearing his distinctive green coat. Coat clearly belongs to orange bird.",
+    "note": "His coat = jeho kabát. Patrí mužovi, o ktorom hovorím."
+  },
+  {
+    "id": "her-phone",
+    "en": "her phone",
+    "sk": "jej telefón",
+    "label": "jej",
+    "image": "images/pronouns/her-phone.webp",
+    "alt": "Blue narrator points toward female violet bird in scarf holding her own orange phone prominently, screen blank.",
+    "note": "Her phone = jej telefón. Patrí žene, o ktorej hovorím."
+  },
+  {
+    "id": "our-home",
+    "en": "our home",
+    "sk": "náš domov",
+    "label": "náš",
+    "image": "images/pronouns/our-home.webp",
+    "alt": "Blue and orange adult birds standing together at entrance of shared cozy birdhouse, blue points to BOTH of them and shared home.",
+    "note": "Our home = náš domov. Patrí mne aj niekomu ďalšiemu."
+  },
+  {
+    "id": "their-bags",
+    "en": "their bags",
+    "sk": "ich tašky",
+    "label": "ich",
+    "image": "images/pronouns/their-bags.webp",
+    "alt": "Separate blue narrator points toward TWO orange violet adult birds each holding own travel bag. Bags prominent.",
+    "note": "Their bags = ich tašky. Patria iným ľuďom."
+  },
+  {
+    "id": "i-work",
+    "en": "I work.",
+    "sk": "Ja pracujem.",
+    "label": "ja",
+    "image": "images/pronouns/i-work.webp",
+    "alt": "ONE blue adult bird points to its own chest with wing while using hammer to work at bench. Clearly self referring.",
+    "note": "I = ja. Hovorím o sebe. Ja pracujem."
+  },
+  {
+    "id": "you-work",
+    "en": "You work.",
+    "sk": "Ty pracuješ. / Vy pracujete.",
+    "label": "ty / vy",
+    "image": "images/pronouns/you-work.webp",
+    "alt": "Blue speaker watches and points to orange adult listener using hammer working at wooden bench. Speaker is not working.",
+    "note": "You = ty / vy. Hovorím k tomu, kto pracuje."
+  },
+  {
+    "id": "she-live",
+    "en": "She lives here.",
+    "sk": "Ona tu býva.",
+    "label": "ona",
+    "image": "images/pronouns/she-live.webp",
+    "alt": "Blue narrator points toward female violet adult bird in scarf beside her own leafy nest, female indicates her nest.",
+    "note": "She = ona. Hovorím o žene a jej domove."
+  }
+]

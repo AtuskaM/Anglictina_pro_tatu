@@ -1,0 +1,3575 @@
+[
+  {
+    "id": "pharmacy-0",
+    "en": "Hello? Is anybody here?",
+    "sk": "Haló? Je tu niekto?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-1",
+    "en": "Just a moment! I’ll be right with you.",
+    "sk": "Momentík! Hneď budem pri vás.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-2",
+    "en": "No problem. I can wait.",
+    "sk": "Žiadny problém. Môžem počkať.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-3",
+    "en": "Sorry to keep you waiting. How can I help you?",
+    "sk": "Prepáčte, že ste museli čakať. Ako vám môžem pomôcť?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-4",
+    "en": "I’m here to pick up my prescription.",
+    "sk": "Prišiel som si vyzdvihnúť lieky na recept.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-5",
+    "en": "What’s your last name, please?",
+    "sk": "Aké je vaše priezvisko, prosím?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-6",
+    "en": "Novak. N-O-V-A-K.",
+    "sk": "Novak. N-O-V-A-K.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-7",
+    "en": "And your date of birth?",
+    "sk": "A váš dátum narodenia?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-8",
+    "en": "March fifth, nineteen fifty-one.",
+    "sk": "Piateho marca tisícdeväťstopäťdesiatjeden.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-9",
+    "en": "Can you confirm your phone number?",
+    "sk": "Môžete potvrdiť svoje telefónne číslo?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-10",
+    "en": "Yes. It’s the number ending in four two eight one.",
+    "sk": "Áno. Je to číslo, ktoré sa končí na štyri dva osem jeden.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-11",
+    "en": "Let me check the computer.",
+    "sk": "Pozriem sa do počítača.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-12",
+    "en": "I’m sorry. It isn’t ready yet.",
+    "sk": "Je mi ľúto. Ešte to nie je pripravené.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-13",
+    "en": "Do I need to come back later?",
+    "sk": "Musím sa vrátiť neskôr?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-14",
+    "en": "Yes, please. We’re still working on it.",
+    "sk": "Áno, prosím. Ešte na tom pracujeme.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-15",
+    "en": "Do you know when it will be ready?",
+    "sk": "Viete, kedy to bude pripravené?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-16",
+    "en": "It should be ready this afternoon, but I can’t promise.",
+    "sk": "Malo by to byť pripravené dnes popoludní, ale nemôžem to sľúbiť.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-17",
+    "en": "Will you call me when it’s ready?",
+    "sk": "Zavoláte mi, keď to bude pripravené?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-18",
+    "en": "We can send you a text message instead.",
+    "sk": "Namiesto toho vám môžeme poslať SMS.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-19",
+    "en": "A text is fine. What if I don’t get it?",
+    "sk": "SMS mi vyhovuje. Čo ak mi nepríde?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-20",
+    "en": "You can call us or check with the pharmacy.",
+    "sk": "Môžete nám zavolať alebo sa informovať v lekárni.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-21",
+    "en": "My phone says RENEW. What does that mean?",
+    "sk": "Na telefóne mám napísané RENEW. Čo to znamená?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-22",
+    "en": "It usually means there are no refills left on that prescription.",
+    "sk": "Zvyčajne to znamená, že na tom recepte už nemáte povolené ďalšie vydania.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-23",
+    "en": "Can you contact my doctor for a new prescription?",
+    "sk": "Môžete kontaktovať môjho lekára kvôli novému receptu?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-24",
+    "en": "Yes, we can send a renewal request. Your doctor must approve it.",
+    "sk": "Áno, môžeme poslať žiadosť o obnovenie receptu. Váš lekár ju musí schváliť.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-25",
+    "en": "Does that mean I can pick it up today?",
+    "sk": "Znamená to, že si lieky môžem vyzdvihnúť dnes?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-26",
+    "en": "Not necessarily. Please wait for our confirmation.",
+    "sk": "Nie nevyhnutne. Počkajte, prosím, na naše potvrdenie.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-27",
+    "en": "Thank you. I’ll wait for the message.",
+    "sk": "Ďakujem. Počkám na správu.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-28",
+    "en": "Is there a problem with my insurance?",
+    "sk": "Je problém s mojím poistením?",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-29",
+    "en": "Your insurance requires prior authorization from your doctor.",
+    "sk": "Vaša poisťovňa vyžaduje predchádzajúce schválenie na základe žiadosti vášho lekára.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-30",
+    "en": "We are waiting for approval. There may be a delay.",
+    "sk": "Čakáme na schválenie. Môže to chvíľu trvať.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "pharmacy-31",
+    "en": "Please let me know when it is ready.",
+    "sk": "Prosím, dajte mi vedieť, keď to bude pripravené.",
+    "image": "images/pharmacy_scene.jpg",
+    "note": "V lekárni",
+    "story": "pharmacy",
+    "context": "V lekárni"
+  },
+  {
+    "id": "neighbor-package-0",
+    "en": "Good morning. Is this your package?",
+    "sk": "Dobré ráno. Je toto váš balík?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-1",
+    "en": "No, it is for my neighbor.",
+    "sk": "Nie, je pre môjho suseda.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-2",
+    "en": "Does he live here?",
+    "sk": "Býva tu?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-3",
+    "en": "He lives upstairs, in apartment twelve.",
+    "sk": "Býva hore, v byte číslo dvanásť.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-4",
+    "en": "Can I leave it with you?",
+    "sk": "Môžem ho nechať u vás?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-5",
+    "en": "Yes, but please tell me his name.",
+    "sk": "Áno, ale povedzte mi, prosím, jeho meno.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-6",
+    "en": "His name is Mr. Brown.",
+    "sk": "Volá sa pán Brown.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-7",
+    "en": "All right. I will give it to him.",
+    "sk": "Dobre. Dám mu ho.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-8",
+    "en": "Is the name and apartment number on the label?",
+    "sk": "Je na štítku meno a číslo bytu?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-9",
+    "en": "Yes. Please check the label before accepting it.",
+    "sk": "Áno. Pred prevzatím si, prosím, overte štítok.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-10",
+    "en": "Do I need to sign for it?",
+    "sk": "Musím prevzatie podpísať?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-11",
+    "en": "Not for this package. Thank you for helping.",
+    "sk": "Pri tomto balíku nie. Ďakujem za pomoc.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-12",
+    "en": "I will keep it inside, away from the rain.",
+    "sk": "Odložím ho dovnútra, aby nezmokol.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-13",
+    "en": "Hello. Did a package arrive for me?",
+    "sk": "Dobrý deň. Prišiel mi nejaký balík?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-14",
+    "en": "Yes. Could you tell me the name on it?",
+    "sk": "Áno. Môžete mi povedať, aké meno je na ňom?",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-15",
+    "en": "It should say Mr. Brown, apartment twelve.",
+    "sk": "Malo by tam byť pán Brown, byt číslo dvanásť.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-16",
+    "en": "That's right. Here it is.",
+    "sk": "To je správne. Tu ho máte.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-17",
+    "en": "Thank you for keeping it safe.",
+    "sk": "Ďakujem, že ste ho bezpečne odložili.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-18",
+    "en": "You're welcome. The courier came this morning.",
+    "sk": "Rado sa stalo. Kuriér prišiel dnes ráno.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "neighbor-package-19",
+    "en": "I'll let the courier know I received it.",
+    "sk": "Dám kuriérovi vedieť, že som ho prevzal.",
+    "image": "images/situations/neighbor-package.webp",
+    "note": "Balík pre suseda",
+    "story": "neighbor-package",
+    "context": "Balík pre suseda"
+  },
+  {
+    "id": "repair-visit-0",
+    "en": "The kitchen faucet is leaking.",
+    "sk": "Kuchynský kohútik tečie.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-1",
+    "en": "How long has it been leaking?",
+    "sk": "Ako dlho už tečie?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-2",
+    "en": "Since yesterday evening.",
+    "sk": "Od včerajšieho večera.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-3",
+    "en": "Please turn off the water.",
+    "sk": "Prosím, zastavte vodu.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-4",
+    "en": "Where is the valve?",
+    "sk": "Kde je ventil?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-5",
+    "en": "Under the sink, on the left.",
+    "sk": "Pod drezom, naľavo.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-6",
+    "en": "Do you need a tool?",
+    "sk": "Potrebujete náradie?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-7",
+    "en": "No, thank you. I have everything.",
+    "sk": "Nie, ďakujem. Mám všetko.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-8",
+    "en": "Can you give me an estimate before you start?",
+    "sk": "Môžete mi dať cenovú ponuku skôr, než začnete?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-9",
+    "en": "Yes. First I need to check the faucet.",
+    "sk": "Áno. Najprv musím skontrolovať kohútik.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-10",
+    "en": "Will it need a new part?",
+    "sk": "Bude potrebný nový diel?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-11",
+    "en": "It may need a new cartridge. I will show you.",
+    "sk": "Možno bude treba novú kartušu. Ukážem vám ju.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-12",
+    "en": "Does the price include the part and labor?",
+    "sk": "Zahŕňa cena diel aj prácu?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-13",
+    "en": "Yes. Here is the written estimate.",
+    "sk": "Áno. Tu je písomná cenová ponuka.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-14",
+    "en": "How long will it take?",
+    "sk": "Ako dlho to bude trvať?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-15",
+    "en": "About an hour if I have the right part.",
+    "sk": "Asi hodinu, ak mám správny diel.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-16",
+    "en": "Please tell me before adding any extra charges.",
+    "sk": "Prosím, povedzte mi vopred, ak by vznikli ďalšie poplatky.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-17",
+    "en": "Of course. I need your approval.",
+    "sk": "Samozrejme. Potrebujem váš súhlas.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-18",
+    "en": "Will you clean up when you finish?",
+    "sk": "Keď skončíte, upracete po sebe?",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "repair-visit-19",
+    "en": "Yes. We will test the faucet and clean the area.",
+    "sk": "Áno. Vyskúšame kohútik a upraceme okolie.",
+    "image": "images/repair_scene.jpg",
+    "note": "Majster opravuje",
+    "story": "repair-visit",
+    "context": "Majster opravuje"
+  },
+  {
+    "id": "car-start-0",
+    "en": "My car won't start.",
+    "sk": "Auto mi neštartuje.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-1",
+    "en": "Do the dashboard lights come on?",
+    "sk": "Rozsvietia sa kontrolky na palubnej doske?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-2",
+    "en": "Yes, but I only hear a clicking sound.",
+    "sk": "Áno, ale počujem iba cvakanie.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-3",
+    "en": "The battery might be dead.",
+    "sk": "Batéria môže byť vybitá.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-4",
+    "en": "Could you help me jump-start it?",
+    "sk": "Mohli by ste mi pomôcť naštartovať ho pomocou káblov?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-5",
+    "en": "Do you have jumper cables?",
+    "sk": "Máte štartovacie káble?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-6",
+    "en": "No. Do you have any?",
+    "sk": "Nie. Máte nejaké vy?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-7",
+    "en": "I have a jump starter. Let's check your owner's manual first.",
+    "sk": "Mám štartovací zdroj. Najprv sa pozrime do návodu k vášmu autu.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-8",
+    "en": "I'm not sure how to connect it.",
+    "sk": "Nie som si istý, ako sa pripája.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-9",
+    "en": "Let's call roadside assistance if we're not sure.",
+    "sk": "Ak si nie sme istí, zavolajme asistenčnú službu.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-10",
+    "en": "Is that included in my insurance?",
+    "sk": "Je to zahrnuté v mojom poistení?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-11",
+    "en": "You'll need to check your policy.",
+    "sk": "Musíte si to overiť v poistnej zmluve.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-12",
+    "en": "What should I tell them?",
+    "sk": "Čo im mám povedať?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-13",
+    "en": "Tell them your car won't start and give them your location.",
+    "sk": "Povedzte im, že vám auto neštartuje, a uveďte, kde ste.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-14",
+    "en": "Can they send a tow truck if it won't start?",
+    "sk": "Môžu poslať odťahové auto, ak sa ho nepodarí naštartovať?",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "car-start-15",
+    "en": "Ask them. Also ask about the cost and arrival time.",
+    "sk": "Opýtajte sa ich. Spýtajte sa aj na cenu a čas príchodu.",
+    "image": "images/situations/car-start.webp",
+    "note": "Auto neštartuje",
+    "story": "car-start",
+    "context": "Auto neštartuje"
+  },
+  {
+    "id": "repair-shop-0",
+    "en": "My car makes a strange noise when I brake.",
+    "sk": "Keď brzdím, auto vydáva zvláštny zvuk.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-1",
+    "en": "When did you first notice it?",
+    "sk": "Kedy ste si to prvýkrát všimli?",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-2",
+    "en": "Yesterday. The engine light is on, too.",
+    "sk": "Včera. Svieti aj kontrolka motora.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-3",
+    "en": "Have you noticed any other problems?",
+    "sk": "Všimli ste si aj iné problémy?",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-4",
+    "en": "There may be an oil leak under the car.",
+    "sk": "Pod autom môže unikať olej.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-5",
+    "en": "We can inspect the brakes and check the engine light.",
+    "sk": "Môžeme skontrolovať brzdy a zistiť, prečo svieti kontrolka motora.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-6",
+    "en": "How much does the inspection cost?",
+    "sk": "Koľko stojí kontrola?",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-7",
+    "en": "The inspection is ninety dollars. Repairs cost extra.",
+    "sk": "Kontrola stojí deväťdesiat dolárov. Opravy sa platia osobitne.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-8",
+    "en": "Does the estimate include labor and parts?",
+    "sk": "Zahŕňa cenová ponuka prácu aj diely?",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-9",
+    "en": "We'll list labor and parts separately.",
+    "sk": "Prácu a diely uvedieme osobitne.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-10",
+    "en": "Please call me before you do any repairs.",
+    "sk": "Pred akoukoľvek opravou mi, prosím, zavolajte.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-11",
+    "en": "Of course. We need your approval first.",
+    "sk": "Samozrejme. Najprv potrebujeme váš súhlas.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-12",
+    "en": "How long will the inspection take?",
+    "sk": "Ako dlho bude kontrola trvať?",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-13",
+    "en": "About two hours, but repairs may take longer.",
+    "sk": "Asi dve hodiny, ale oprava môže trvať dlhšie.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-14",
+    "en": "Can I get the estimate in writing?",
+    "sk": "Môžem dostať cenovú ponuku písomne?",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-15",
+    "en": "Yes. We'll explain it before you decide.",
+    "sk": "Áno. Vysvetlíme vám ju skôr, než sa rozhodnete.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "repair-shop-16",
+    "en": "The mechanic checks the brakes before giving an estimate.",
+    "sk": "Automechanik skontroluje brzdy, kým dá cenovú ponuku.",
+    "image": "images/situations/repair-shop.webp",
+    "note": "V autoservise",
+    "story": "repair-shop",
+    "context": "V autoservise"
+  },
+  {
+    "id": "flat-tire-0",
+    "en": "I have a flat tire. Can you send someone?",
+    "sk": "Mám defekt. Môžete niekoho poslať?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-1",
+    "en": "Are you in a safe place, away from traffic?",
+    "sk": "Ste na bezpečnom mieste, mimo premávky?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-2",
+    "en": "Yes. I pulled over and turned on my hazard lights.",
+    "sk": "Áno. Zastavil som pri kraji a zapol výstražné svetlá.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-3",
+    "en": "What is your exact location?",
+    "sk": "Kde presne ste?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-4",
+    "en": "I'm near the gas station on Cicero Avenue.",
+    "sk": "Som pri čerpacej stanici na Cicero Avenue.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-5",
+    "en": "Can you give me the street number or a nearby intersection?",
+    "sk": "Môžete mi povedať číslo domu alebo blízku križovatku?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-6",
+    "en": "The sign says 5500. Can I text you a photo?",
+    "sk": "Na označení je 5500. Môžem vám poslať fotografiu cez SMS?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-7",
+    "en": "Yes, I'll send you instructions.",
+    "sk": "Áno, pošlem vám pokyny.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-8",
+    "en": "Do I need a spare tire?",
+    "sk": "Potrebujem rezervné koleso?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-9",
+    "en": "Do you have one in your car?",
+    "sk": "Máte ho v aute?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-10",
+    "en": "I think so, but I don't know its condition.",
+    "sk": "Myslím, že áno, ale neviem, v akom je stave.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-11",
+    "en": "The technician will check it and the tire pressure.",
+    "sk": "Technik ho skontroluje a zmeria tlak v pneumatikách.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-12",
+    "en": "How long will I have to wait?",
+    "sk": "Ako dlho budem musieť čakať?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-13",
+    "en": "About forty-five minutes. Stay in a safe place.",
+    "sk": "Asi štyridsaťpäť minút. Zostaňte na bezpečnom mieste.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-14",
+    "en": "What if the tire needs to be replaced?",
+    "sk": "Čo ak treba pneumatiku vymeniť?",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "flat-tire-15",
+    "en": "We'll explain your options and the cost first.",
+    "sk": "Najprv vám vysvetlíme možnosti a cenu.",
+    "image": "images/situations/flat-tire.webp",
+    "note": "Defekt na ceste",
+    "story": "flat-tire",
+    "context": "Defekt na ceste"
+  },
+  {
+    "id": "minor-accident-0",
+    "en": "Are you okay? Is anyone hurt?",
+    "sk": "Ste v poriadku? Je niekto zranený?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-1",
+    "en": "I'm okay. Are you hurt?",
+    "sk": "Som v poriadku. Ste zranený vy?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-2",
+    "en": "No. Can we pull over somewhere safe?",
+    "sk": "Nie. Môžeme zastaviť niekde, kde je bezpečne?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-3",
+    "en": "Yes, if the cars can be moved safely.",
+    "sk": "Áno, ak môžeme autá bezpečne premiestniť.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-4",
+    "en": "Let's exchange insurance information.",
+    "sk": "Vymeňme si údaje o poistení.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-5",
+    "en": "Here is my insurance card and driver's license.",
+    "sk": "Tu je moja kartička poistenia a vodičský preukaz.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-6",
+    "en": "Could I see your registration, too?",
+    "sk": "Môžem vidieť aj doklad o registrácii vozidla?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-7",
+    "en": "Yes. May I take a photo of your documents?",
+    "sk": "Áno. Môžem si odfotografovať vaše doklady?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-8",
+    "en": "Yes. Let's also take photos of the damage.",
+    "sk": "Áno. Odfotografujme aj poškodenie.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-9",
+    "en": "Did anyone see what happened?",
+    "sk": "Videl niekto, čo sa stalo?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-10",
+    "en": "That person over there may be a witness.",
+    "sk": "Tamten človek môže byť svedkom.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-11",
+    "en": "Do we need a police report?",
+    "sk": "Potrebujeme policajnú správu?",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-12",
+    "en": "Let's contact the police and ask what to do.",
+    "sk": "Kontaktujme políciu a spýtajme sa, čo máme robiť.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-13",
+    "en": "I was stopping when your car hit my bumper.",
+    "sk": "Zastavoval som, keď vaše auto narazilo do môjho nárazníka.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-14",
+    "en": "I'll describe what I saw to my insurance company.",
+    "sk": "Svojej poisťovni opíšem, čo som videl.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "minor-accident-15",
+    "en": "Let's write down the date, time, and location.",
+    "sk": "Zapíšme si dátum, čas a miesto.",
+    "image": "images/situations/minor-accident.webp",
+    "note": "Malá dopravná nehoda",
+    "story": "minor-accident",
+    "context": "Malá dopravná nehoda"
+  },
+  {
+    "id": "car-ready-0",
+    "en": "I'm here to pick up my car. Is it ready?",
+    "sk": "Prišiel som si po auto. Je hotové?",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-1",
+    "en": "Yes. We replaced the front brake pads.",
+    "sk": "Áno. Vymenili sme predné brzdové doštičky.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-2",
+    "en": "What was wrong with the old ones?",
+    "sk": "Čo bolo so starými?",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-3",
+    "en": "They were worn out. We checked the oil leak, too.",
+    "sk": "Boli opotrebované. Skontrolovali sme aj únik oleja.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-4",
+    "en": "Did you fix the leak?",
+    "sk": "Opravili ste ten únik?",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-5",
+    "en": "Yes. We replaced a seal you approved yesterday.",
+    "sk": "Áno. Vymenili sme tesnenie, ktoré ste včera odsúhlasili.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-6",
+    "en": "Does the repair have a warranty?",
+    "sk": "Je na opravu záruka?",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-7",
+    "en": "These parts have a warranty. The details are on your receipt.",
+    "sk": "Na tieto diely je záruka. Podrobnosti sú na účtenke.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-8",
+    "en": "Could you explain this extra charge?",
+    "sk": "Mohli by ste mi vysvetliť tento príplatok?",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-9",
+    "en": "That's the inspection fee from the estimate.",
+    "sk": "To je poplatok za kontrolu z cenovej ponuky.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-10",
+    "en": "I thought it was included in the repair price.",
+    "sk": "Myslel som si, že bol zahrnutý v cene opravy.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-11",
+    "en": "Let's check the estimate together.",
+    "sk": "Pozrime sa spolu do cenovej ponuky.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-12",
+    "en": "Can I have an itemized receipt?",
+    "sk": "Môžem dostať účtenku s rozpísanými položkami?",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-13",
+    "en": "Of course. It lists parts, labor, and tax.",
+    "sk": "Samozrejme. Sú na nej diely, práca a daň.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-14",
+    "en": "I'll pay by debit card. Please keep a copy for me.",
+    "sk": "Zaplatím debetnou kartou. Prosím, odložte mi kópiu.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "car-ready-15",
+    "en": "Here are your keys and receipt. Call if you have questions.",
+    "sk": "Tu sú vaše kľúče a účtenka. Ak máte otázky, zavolajte.",
+    "image": "images/situations/car-ready.webp",
+    "note": "Auto je opravené",
+    "story": "car-ready",
+    "context": "Auto je opravené"
+  },
+  {
+    "id": "insurance-call-0",
+    "en": "I'd like to speak to a representative about my policy.",
+    "sk": "Chcel by som hovoriť s pracovníkom o svojej poistnej zmluve.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-1",
+    "en": "May I have your policy number?",
+    "sk": "Môžete mi povedať číslo poistnej zmluvy?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-2",
+    "en": "It's A B one two three four.",
+    "sk": "Je to A B jeden dva tri štyri.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-3",
+    "en": "Thank you. What would you like to know?",
+    "sk": "Ďakujem. Čo by ste chceli vedieť?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-4",
+    "en": "Is my coverage still active?",
+    "sk": "Je moje poistenie stále platné?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-5",
+    "en": "Let me check the dates on your policy.",
+    "sk": "Pozriem sa na dátumy vo vašej zmluve.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-6",
+    "en": "When is my next payment due?",
+    "sk": "Kedy mám zaplatiť ďalšiu platbu?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-7",
+    "en": "Your next premium payment is due on November first.",
+    "sk": "Ďalšiu platbu poistného máte zaplatiť do prvého novembra.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-8",
+    "en": "Does my policy renew automatically?",
+    "sk": "Obnoví sa moja zmluva automaticky?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-9",
+    "en": "This policy does, unless it is changed or canceled.",
+    "sk": "Táto zmluva áno, pokiaľ sa nezmení alebo nezruší.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-10",
+    "en": "Could my premium change when it renews?",
+    "sk": "Môže sa pri obnovení zmeniť moje poistné?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-11",
+    "en": "Yes. Please read the renewal notice carefully.",
+    "sk": "Áno. Pozorne si prečítajte oznámenie o obnovení.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-12",
+    "en": "How can I get proof of insurance?",
+    "sk": "Ako získam doklad o poistení?",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-13",
+    "en": "I can send a copy through your account.",
+    "sk": "Môžem vám poslať kópiu do vášho účtu.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-14",
+    "en": "Please confirm the coverage and payment date in writing.",
+    "sk": "Prosím, potvrďte mi písomne rozsah poistenia a dátum platby.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-call-15",
+    "en": "I can send the policy documents. Check them for the exact terms.",
+    "sk": "Môžem poslať dokumenty k zmluve. Presné podmienky si overte v nich.",
+    "image": "images/situations/insurance-call.webp",
+    "note": "Volám do poisťovne",
+    "story": "insurance-call",
+    "context": "Volám do poisťovne"
+  },
+  {
+    "id": "insurance-claim-0",
+    "en": "I'd like to file a claim for a car accident.",
+    "sk": "Chcel by som nahlásiť poistnú udalosť po dopravnej nehode.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-1",
+    "en": "What date did the accident happen?",
+    "sk": "Kedy sa nehoda stala?",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-2",
+    "en": "It happened yesterday, October tenth.",
+    "sk": "Stala sa včera, desiateho októbra.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-3",
+    "en": "Was anyone injured?",
+    "sk": "Bol niekto zranený?",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-4",
+    "en": "No one was injured, as far as I know.",
+    "sk": "Pokiaľ viem, nikto nebol zranený.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-5",
+    "en": "Please describe the damage to your car.",
+    "sk": "Opíšte, prosím, poškodenie vášho auta.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-6",
+    "en": "The rear bumper is damaged. I took photographs.",
+    "sk": "Zadný nárazník je poškodený. Urobil som fotografie.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-7",
+    "en": "We may need photos and a repair estimate.",
+    "sk": "Možno budeme potrebovať fotografie a cenovú ponuku na opravu.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-8",
+    "en": "Where should I send the documents?",
+    "sk": "Kam mám poslať dokumenty?",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-9",
+    "en": "Use the secure upload option in your account.",
+    "sk": "Použite zabezpečené nahrávanie vo svojom účte.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-10",
+    "en": "Will an adjuster contact me?",
+    "sk": "Ozve sa mi likvidátor poistnej udalosti?",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-11",
+    "en": "Yes. An adjuster will review the claim and contact you.",
+    "sk": "Áno. Likvidátor posúdi udalosť a bude vás kontaktovať.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-12",
+    "en": "Can you give me my claim number?",
+    "sk": "Môžete mi povedať číslo poistnej udalosti?",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-13",
+    "en": "Yes. It's five seven two eight.",
+    "sk": "Áno. Je to päť sedem dva osem.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-14",
+    "en": "What should I mention when I call for an update?",
+    "sk": "Čo mám uviesť, keď zavolám a spýtam sa na stav?",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-claim-15",
+    "en": "Give us your claim number. Keep copies of what you send.",
+    "sk": "Uveďte číslo poistnej udalosti. Odložte si kópie všetkého, čo posielate.",
+    "image": "images/situations/insurance-claim.webp",
+    "note": "Nahlasujem nehodu",
+    "story": "insurance-claim",
+    "context": "Nahlasujem nehodu"
+  },
+  {
+    "id": "insurance-denied-0",
+    "en": "I received a letter saying my claim was denied.",
+    "sk": "Dostal som list, že moja poistná udalosť bola zamietnutá.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-1",
+    "en": "Do you have your claim number?",
+    "sk": "Máte číslo poistnej udalosti?",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-2",
+    "en": "Yes. Could you explain the reason in plain English?",
+    "sk": "Áno. Mohli by ste mi dôvod vysvetliť jednoduchou angličtinou?",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-3",
+    "en": "The letter says this type of damage is not covered.",
+    "sk": "V liste sa píše, že tento druh poškodenia nie je poistený.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-4",
+    "en": "But I pay a premium every month.",
+    "sk": "Ale každý mesiac platím poistné.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-5",
+    "en": "A premium pays for the policy. It doesn't cover every loss.",
+    "sk": "Poistné platíte za poistenie. Neznamená to, že pokrýva každú škodu.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-6",
+    "en": "Is this because of my deductible?",
+    "sk": "Je to kvôli mojej spoluúčasti?",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-7",
+    "en": "A deductible is the amount you pay for a covered claim.",
+    "sk": "Spoluúčasť je suma, ktorú pri uznanej poistnej udalosti platíte vy.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-8",
+    "en": "So a deductible is different from a premium?",
+    "sk": "Takže spoluúčasť je niečo iné než poistné?",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-9",
+    "en": "Yes. A denial is different, too. Please read the specific reason.",
+    "sk": "Áno. Zamietnutie je tiež niečo iné. Prečítajte si konkrétny dôvod.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-10",
+    "en": "Can I ask you to review this decision?",
+    "sk": "Môžem požiadať o prehodnotenie rozhodnutia?",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-11",
+    "en": "You can ask about the appeal process and its deadline.",
+    "sk": "Môžete sa spýtať na postup odvolania a jeho lehotu.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-12",
+    "en": "Which documents do you need from me?",
+    "sk": "Aké dokumenty odo mňa potrebujete?",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-13",
+    "en": "We'll send a list and explain where to submit them.",
+    "sk": "Pošleme zoznam a vysvetlíme, kam ich máte poslať.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-14",
+    "en": "Please send the reason and next steps in writing.",
+    "sk": "Prosím, pošlite mi dôvod a ďalší postup písomne.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "insurance-denied-15",
+    "en": "We can do that. An appeal does not guarantee payment.",
+    "sk": "Môžeme to urobiť. Odvolanie nezaručuje, že poisťovňa zaplatí.",
+    "image": "images/situations/insurance-denied.webp",
+    "note": "Poisťovňa nechce zaplatiť",
+    "story": "insurance-denied",
+    "context": "Poisťovňa nechce zaplatiť"
+  },
+  {
+    "id": "health-insurance-0",
+    "en": "I want to check whether this doctor is in-network.",
+    "sk": "Chcem si overiť, či je tento lekár v sieti mojej poisťovne.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-1",
+    "en": "Please give me the doctor's name and location.",
+    "sk": "Povedzte mi, prosím, meno lekára a adresu ambulancie.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-2",
+    "en": "The name is Dr. Green. The office is in Burbank.",
+    "sk": "Volá sa doktor Green. Ambulancia je v Burbanku.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-3",
+    "en": "We'll check your plan's network.",
+    "sk": "Overíme sieť vášho poistenia.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-4",
+    "en": "What happens if I go out-of-network?",
+    "sk": "Čo sa stane, ak pôjdem mimo siete?",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-5",
+    "en": "Your costs may be higher, or the visit may not be covered.",
+    "sk": "Môžete platiť viac alebo návšteva nemusí byť hradená.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-6",
+    "en": "What is my copay for this visit?",
+    "sk": "Aký je môj pevný doplatok za túto návštevu?",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-7",
+    "en": "It depends on your plan and the type of visit.",
+    "sk": "Závisí to od vášho poistenia a typu návštevy.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-8",
+    "en": "Do I have to meet a deductible first?",
+    "sk": "Musím najprv zaplatiť sumu do výšky spoluúčasti?",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-9",
+    "en": "Some services apply to the deductible. Others may have a copay.",
+    "sk": "Niektoré služby sa započítavajú do spoluúčasti. Pri iných môže byť pevný doplatok.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-10",
+    "en": "Do I need a referral to see a specialist?",
+    "sk": "Potrebujem odporúčanie, aby som mohol ísť k špecialistovi?",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-11",
+    "en": "Let's check. Some plans require a referral.",
+    "sk": "Overme si to. Niektoré poistenia vyžadujú odporúčanie.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-12",
+    "en": "Does my prescription need prior authorization?",
+    "sk": "Treba na môj liek vopred schválenie poisťovne?",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-13",
+    "en": "It might. Your prescriber can help submit the request.",
+    "sk": "Možno áno. Lekár, ktorý liek predpísal, môže pomôcť podať žiadosť.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-14",
+    "en": "Please confirm my prescription coverage and costs in writing.",
+    "sk": "Prosím, potvrďte mi písomne úhradu liekov a moje náklady.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "health-insurance-15",
+    "en": "We'll explain the benefits. Approval and final costs depend on your plan.",
+    "sk": "Vysvetlíme vám podmienky. Schválenie a konečná cena závisia od vášho poistenia.",
+    "image": "images/situations/health-insurance.webp",
+    "note": "Zdravotné poistenie",
+    "story": "health-insurance",
+    "context": "Zdravotné poistenie"
+  },
+  {
+    "id": "medical-bill-0",
+    "en": "I'm calling about a medical bill I don't understand.",
+    "sk": "Volám kvôli účtu za zdravotnú starostlivosť, ktorému nerozumiem.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-1",
+    "en": "May I have the account number on the bill?",
+    "sk": "Môžete mi povedať číslo účtu uvedené na doklade?",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-2",
+    "en": "Yes. The bill says I owe three hundred dollars.",
+    "sk": "Áno. Na účte je napísané, že mám zaplatiť tristo dolárov.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-3",
+    "en": "Do you also have your explanation of benefits?",
+    "sk": "Máte aj prehľad vyúčtovania od poisťovne?",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-4",
+    "en": "Is that the document called an EOB?",
+    "sk": "Je to dokument s názvom EOB?",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-5",
+    "en": "Yes. An EOB explains the claim. It is not a bill.",
+    "sk": "Áno. EOB vysvetľuje vyúčtovanie poistnej udalosti. Nie je to účet na zaplatenie.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-6",
+    "en": "Where can I see the insurance payment?",
+    "sk": "Kde nájdem sumu, ktorú zaplatila poisťovňa?",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-7",
+    "en": "Look for the amount paid by your insurance.",
+    "sk": "Hľadajte sumu uhradenú vašou poisťovňou.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-8",
+    "en": "The balance on the bill looks different.",
+    "sk": "Zostávajúca suma na účte vyzerá inak.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-9",
+    "en": "Let's compare the dates and services first.",
+    "sk": "Najprv porovnajme dátumy a služby.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-10",
+    "en": "Could you send me an itemized bill?",
+    "sk": "Mohli by ste mi poslať účet s rozpísanými položkami?",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-11",
+    "en": "Yes. It will list each service and charge.",
+    "sk": "Áno. Budú na ňom jednotlivé služby a poplatky.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-12",
+    "en": "What is the due date? I don't want to miss it.",
+    "sk": "Aký je termín splatnosti? Nechcem ho zmeškať.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-13",
+    "en": "It's on the bill. We'll explain any disputed charges.",
+    "sk": "Je uvedený na účte. Vysvetlíme vám sporné poplatky.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-14",
+    "en": "If the bill is correct, can I ask about a payment plan?",
+    "sk": "Ak je účet správny, môžem sa spýtať na splátky?",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-15",
+    "en": "Yes. Ask our billing office about available options.",
+    "sk": "Áno. Spýtajte sa nášho fakturačného oddelenia na možnosti.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "medical-bill-16",
+    "en": "The amount due is the money still owed on the bill.",
+    "sk": "Amount due je suma, ktorú treba ešte zaplatiť.",
+    "image": "images/situations/medical-bill.webp",
+    "note": "Nerozumiem účtu",
+    "story": "medical-bill",
+    "context": "Nerozumiem účtu"
+  },
+  {
+    "id": "food-halusky-0",
+    "en": "Excuse me. Do you carry potatoes and all-purpose flour?",
+    "sk": "Prepáčte. Máte zemiaky a hladkú univerzálnu múku?",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-1",
+    "en": "Yes. Potatoes are in produce, and flour is in the baking aisle.",
+    "sk": "Áno. Zemiaky sú v oddelení ovocia a zeleniny a múka v uličke s potrebami na pečenie.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-2",
+    "en": "I'm making Slovak potato dumplings called halusky.",
+    "sk": "Robím slovenské zemiakové halušky.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-3",
+    "en": "What else do you need?",
+    "sk": "Čo ešte potrebujete?",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-4",
+    "en": "I'm looking for a cheese called bryndza.",
+    "sk": "Hľadám syr, ktorý sa volá bryndza.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-5",
+    "en": "We don't usually carry bryndza. What kind of cheese is it?",
+    "sk": "Bryndzu zvyčajne nemávame. Aký je to syr?",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-6",
+    "en": "It's a tangy sheep's milk cheese used in Slovakia.",
+    "sk": "Je to syr z ovčieho mlieka s výraznou chuťou, ktorý sa používa na Slovensku.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-7",
+    "en": "We have some sheep's milk cheese, but it isn't the same product.",
+    "sk": "Máme nejaký ovčí syr, ale nie je to ten istý výrobok.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-8",
+    "en": "Do you have farmer cheese?",
+    "sk": "Máte farmer cheese, taký čerstvý hrudkovitý syr?",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-9",
+    "en": "Yes. It's near the cottage cheese.",
+    "sk": "Áno. Je pri cottage cheese.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-10",
+    "en": "Would it be an exact substitute?",
+    "sk": "Bola by to presná náhrada?",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-11",
+    "en": "No. The flavor and texture would be different.",
+    "sk": "Nie. Chuť aj konzistencia by boli iné.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-12",
+    "en": "I understand. I'll check the ingredients.",
+    "sk": "Rozumiem. Pozriem si zloženie.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-13",
+    "en": "You could also ask a specialty store about bryndza.",
+    "sk": "Na bryndzu sa môžete spýtať aj v špecializovanom obchode.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-14",
+    "en": "Where can I find sour cream?",
+    "sk": "Kde nájdem kyslú smotanu?",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "food-halusky-15",
+    "en": "In the dairy section. I can show you.",
+    "sk": "V oddelení mliečnych výrobkov. Môžem vám ukázať kde.",
+    "image": "images/situations/food-halusky.webp",
+    "note": "Suroviny na halušky",
+    "story": "food-halusky",
+    "context": "Suroviny na halušky"
+  },
+  {
+    "id": "meat-counter-0",
+    "en": "I'd like two pounds of pork shoulder, please.",
+    "sk": "Prosím si dve libry bravčového pliecka.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-1",
+    "en": "Would you like it whole or cut into pieces?",
+    "sk": "Chcete ho vcelku alebo nakrájané na kúsky?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-2",
+    "en": "Cut into pieces, please. How much is it per pound?",
+    "sk": "Na kúsky, prosím. Koľko stojí libra?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-3",
+    "en": "It's four dollars and ninety-nine cents per pound today.",
+    "sk": "Dnes stojí štyri doláre deväťdesiatdeväť centov za libru.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-4",
+    "en": "Do you also have pork belly?",
+    "sk": "Máte aj bravčový bôčik?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-5",
+    "en": "Yes. It's in the case on your left.",
+    "sk": "Áno. Je vo vitríne naľavo od vás.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-6",
+    "en": "I'd like one pound of ground pork, too.",
+    "sk": "Prosím si aj jednu libru mletého bravčového mäsa.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-7",
+    "en": "This package is sixteen ounces, which is one pound.",
+    "sk": "Toto balenie má šestnásť uncí, teda jednu libru.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-8",
+    "en": "Do you carry smoked sausage?",
+    "sk": "Máte údenú klobásu?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-9",
+    "en": "Yes, but check the label for the ingredients.",
+    "sk": "Áno, ale zloženie si pozrite na etikete.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-10",
+    "en": "Could you slice that piece of meat thinly?",
+    "sk": "Mohli by ste mi ten kus mäsa nakrájať na tenké plátky?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-11",
+    "en": "Of course. How much would you like?",
+    "sk": "Samozrejme. Koľko si prosíte?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-12",
+    "en": "About half a pound. Do you have bones for soup?",
+    "sk": "Asi pol libry. Máte aj kosti do polievky?",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-13",
+    "en": "We have some pork bones. I'll show you.",
+    "sk": "Máme bravčové kosti. Ukážem vám ich.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-14",
+    "en": "Please wrap the meat separately.",
+    "sk": "Prosím, zabaľte mäso osobitne.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "meat-counter-15",
+    "en": "Certainly. The weight and price are on each package.",
+    "sk": "Samozrejme. Hmotnosť a cena sú na každom balení.",
+    "image": "images/situations/meat-counter.webp",
+    "note": "U mäsiara",
+    "story": "meat-counter",
+    "context": "U mäsiara"
+  },
+  {
+    "id": "food-baking-0",
+    "en": "Where can I find sauerkraut?",
+    "sk": "Kde nájdem kyslú kapustu?",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-1",
+    "en": "Some is in jars, and some is refrigerated.",
+    "sk": "Niektorá je v pohároch a niektorá v chladiacom boxe.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-2",
+    "en": "I also need a head of fresh cabbage.",
+    "sk": "Potrebujem aj jednu hlávku čerstvej kapusty.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-3",
+    "en": "Fresh cabbage is in the produce section.",
+    "sk": "Čerstvá kapusta je v oddelení ovocia a zeleniny.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-4",
+    "en": "Do you carry poppy seeds for baking?",
+    "sk": "Máte mak na pečenie?",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-5",
+    "en": "Yes. Check the baking aisle and the spice section.",
+    "sk": "Áno. Pozrite sa do uličky s potrebami na pečenie a do oddelenia korenín.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-6",
+    "en": "I need yeast, not baking powder.",
+    "sk": "Potrebujem droždie, nie prášok do pečiva.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-7",
+    "en": "We have dry yeast packets. They're near the flour.",
+    "sk": "Máme sušené droždie vo vrecúškach. Je pri múke.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-8",
+    "en": "Is cottage cheese the same as Slovak tvaroh?",
+    "sk": "Je cottage cheese to isté ako slovenský tvaroh?",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-9",
+    "en": "It has curds and is often wetter. It may not work the same way.",
+    "sk": "Má hrudky a často obsahuje viac tekutiny. Pri varení sa nemusí správať rovnako.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-10",
+    "en": "I'll check the recipe. I also need sour cream.",
+    "sk": "Pozriem si recept. Potrebujem aj kyslú smotanu.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-11",
+    "en": "That's in the dairy section.",
+    "sk": "Tá je v oddelení mliečnych výrobkov.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-12",
+    "en": "Where are the plain breadcrumbs?",
+    "sk": "Kde je neochutená strúhanka?",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-13",
+    "en": "Near the stuffing mixes. Look for plain, not seasoned.",
+    "sk": "Pri zmesiach na plnku. Hľadajte neochutenú, nie korenenú.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-14",
+    "en": "Do you have caraway seeds, not cumin?",
+    "sk": "Máte rascu, nie rímsku rascu?",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "food-baking-15",
+    "en": "Yes. Those are different spices. Let's check the labels.",
+    "sk": "Áno. Sú to rôzne koreniny. Pozrime sa na etikety.",
+    "image": "images/situations/food-baking.webp",
+    "note": "Kapusta a pečenie",
+    "story": "food-baking",
+    "context": "Kapusta a pečenie"
+  },
+  {
+    "id": "store-directions-0",
+    "en": "Excuse me. Where can I find all-purpose flour?",
+    "sk": "Prepáčte. Kde nájdem univerzálnu múku?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-1",
+    "en": "It's in aisle five, on the right.",
+    "sk": "Je v piatej uličke, napravo.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-2",
+    "en": "Is that near the sugar?",
+    "sk": "Je to pri cukre?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-3",
+    "en": "Yes. The flour is on the lower shelf.",
+    "sk": "Áno. Múka je na spodnej polici.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-4",
+    "en": "Do you carry caraway seeds, too?",
+    "sk": "Máte aj rascu?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-5",
+    "en": "We usually do. Let me check if they're in stock.",
+    "sk": "Zvyčajne áno. Overím, či ich máme na sklade.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-6",
+    "en": "Could you show me where they are?",
+    "sk": "Mohli by ste mi ukázať, kde sú?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-7",
+    "en": "Sure. Follow me to the spice section.",
+    "sk": "Samozrejme. Poďte za mnou do oddelenia korenín.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-8",
+    "en": "I can't find the small package.",
+    "sk": "Neviem nájsť malé balenie.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-9",
+    "en": "It may be sold out. Would a larger package work?",
+    "sk": "Možno je vypredané. Vyhovovalo by vám väčšie balenie?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-10",
+    "en": "Is there something similar?",
+    "sk": "Máte niečo podobné?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-11",
+    "en": "There are other spices, but they won't taste the same.",
+    "sk": "Máme aj iné koreniny, ale nebudú chutiť rovnako.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-12",
+    "en": "When might you get more?",
+    "sk": "Kedy by ste mohli dostať ďalšie?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-13",
+    "en": "I don't have a delivery date yet.",
+    "sk": "Zatiaľ neviem termín dodávky.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-14",
+    "en": "Could you check another store nearby?",
+    "sk": "Mohli by ste to overiť v inom obchode nablízku?",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "store-directions-15",
+    "en": "I can check our system, but call that store to confirm.",
+    "sk": "Môžem sa pozrieť do systému, ale zavolajte do toho obchodu a overte si to.",
+    "image": "images/situations/store-directions.webp",
+    "note": "Kde to nájdem?",
+    "story": "store-directions",
+    "context": "Kde to nájdem?"
+  },
+  {
+    "id": "checkout-0",
+    "en": "Do you have a loyalty card?",
+    "sk": "Máte zákaznícku kartu?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-1",
+    "en": "No. Can I still use this coupon?",
+    "sk": "Nie. Môžem aj tak použiť tento kupón?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-2",
+    "en": "Let me check the coupon's terms.",
+    "sk": "Pozriem sa na podmienky kupónu.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-3",
+    "en": "The price on the shelf was lower than this.",
+    "sk": "Cena na polici bola nižšia než táto.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-4",
+    "en": "Which item are you asking about?",
+    "sk": "Na ktorý výrobok sa pýtate?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-5",
+    "en": "This bag of flour. Could you check the price?",
+    "sk": "Na toto vrecko múky. Mohli by ste overiť cenu?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-6",
+    "en": "Yes. I'll ask someone to check the shelf tag.",
+    "sk": "Áno. Poprosím kolegu, aby skontroloval cenovku na polici.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-7",
+    "en": "Thank you. Can I pay with a debit card?",
+    "sk": "Ďakujem. Môžem platiť debetnou kartou?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-8",
+    "en": "Yes. We also take credit cards and cash.",
+    "sk": "Áno. Prijímame aj kreditné karty a hotovosť.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-9",
+    "en": "Could you put the meat in a separate bag?",
+    "sk": "Mohli by ste dať mäso do osobitnej tašky?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-10",
+    "en": "Of course. Would you like a receipt?",
+    "sk": "Samozrejme. Chcete účtenku?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-11",
+    "en": "Yes, please. What if I need to return an item?",
+    "sk": "Áno, prosím. Čo ak budem musieť niečo vrátiť?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-12",
+    "en": "Keep the receipt and ask customer service about the return policy.",
+    "sk": "Odložte si účtenku a na zákazníckom oddelení sa spýtajte na podmienky vrátenia.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-13",
+    "en": "Will the refund go back to my card?",
+    "sk": "Vrátia sa mi peniaze na kartu?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-14",
+    "en": "Usually, but it depends on the purchase and our policy.",
+    "sk": "Zvyčajne áno, ale závisí to od nákupu a našich podmienok.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-15",
+    "en": "Next time, I may try self-checkout. Can someone help me?",
+    "sk": "Nabudúce možno skúsim samoobslužnú pokladňu. Môže mi niekto pomôcť?",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "checkout-16",
+    "en": "An employee can help you there.",
+    "sk": "Tam vám môže pomôcť zamestnanec.",
+    "image": "images/situations/checkout.webp",
+    "note": "Pri pokladni",
+    "story": "checkout",
+    "context": "Pri pokladni"
+  },
+  {
+    "id": "package-missing-0",
+    "en": "My package says delivered, but I can't find it.",
+    "sk": "Pri balíku je uvedené doručené, ale neviem ho nájsť.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-1",
+    "en": "May I have the tracking number?",
+    "sk": "Môžete mi povedať sledovacie číslo zásielky?",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-2",
+    "en": "Yes. I'll read it slowly.",
+    "sk": "Áno. Pomaly vám ho prečítam.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-3",
+    "en": "Have you checked the delivery confirmation photo?",
+    "sk": "Pozreli ste si fotografiu potvrdzujúcu doručenie?",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-4",
+    "en": "Yes. That isn't my front door.",
+    "sk": "Áno. To nie sú moje vchodové dvere.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-5",
+    "en": "Could it be a neighbor's address?",
+    "sk": "Môže to byť adresa suseda?",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-6",
+    "en": "I asked my neighbor. He doesn't have it.",
+    "sk": "Spýtal som sa suseda. Nemá ho.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-7",
+    "en": "Please confirm the shipping address in your account.",
+    "sk": "Prosím, overte dodaciu adresu vo svojom účte.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-8",
+    "en": "The address is correct. I think it went to the wrong address.",
+    "sk": "Adresa je správna. Myslím, že balík išiel na nesprávnu adresu.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-9",
+    "en": "We'll open a delivery investigation.",
+    "sk": "Začneme preverovať doručenie.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-10",
+    "en": "Can I get a case number?",
+    "sk": "Môžem dostať číslo prípadu?",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-11",
+    "en": "Yes. Keep it for any follow-up questions.",
+    "sk": "Áno. Odložte si ho pre ďalšie otázky.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-12",
+    "en": "What if the package cannot be found?",
+    "sk": "Čo ak sa balík nenájde?",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-13",
+    "en": "We'll explain whether a replacement or refund is available.",
+    "sk": "Vysvetlíme vám, či môžete dostať náhradný výrobok alebo peniaze späť.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-14",
+    "en": "Please send the next steps in writing.",
+    "sk": "Prosím, pošlite mi ďalší postup písomne.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "package-missing-15",
+    "en": "We can send an update through your account.",
+    "sk": "Môžeme poslať aktuálne informácie do vášho účtu.",
+    "image": "images/situations/package-missing.webp",
+    "note": "Balík sa stratil",
+    "story": "package-missing",
+    "context": "Balík sa stratil"
+  },
+  {
+    "id": "hardware-0",
+    "en": "I need a fitting for this pipe.",
+    "sk": "Potrebujem tvarovku na túto rúru.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-1",
+    "en": "Do you know the size?",
+    "sk": "Viete rozmer?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-2",
+    "en": "I'm not sure. I brought the old part.",
+    "sk": "Nie som si istý. Priniesol som starý diel.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-3",
+    "en": "That helps. Let's compare the sizes.",
+    "sk": "To nám pomôže. Porovnajme rozmery.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-4",
+    "en": "Is this fitting for a faucet?",
+    "sk": "Je táto tvarovka určená ku kohútiku?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-5",
+    "en": "This one may work, but we need to check the connection.",
+    "sk": "Táto by mohla pasovať, ale musíme overiť pripojenie.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-6",
+    "en": "I also need screws, not nails.",
+    "sk": "Potrebujem aj skrutky, nie klince.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-7",
+    "en": "How long should the screws be?",
+    "sk": "Aké dlhé majú byť skrutky?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-8",
+    "en": "About one inch. Do you have a small package?",
+    "sk": "Asi jeden palec. Máte malé balenie?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-9",
+    "en": "Yes. They're in the next aisle.",
+    "sk": "Áno. Sú v ďalšej uličke.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-10",
+    "en": "Where can I find drill bits and a screwdriver?",
+    "sk": "Kde nájdem vrtáky a skrutkovač?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-11",
+    "en": "In the tool section, near the drills.",
+    "sk": "V oddelení náradia pri vŕtačkách.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-12",
+    "en": "Do I need a wrench or pliers for this?",
+    "sk": "Potrebujem na to kľúč alebo kliešte?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-13",
+    "en": "Ask the technician which tool is right for that fitting.",
+    "sk": "Spýtajte sa opravára, ktoré náradie je vhodné na tú tvarovku.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-14",
+    "en": "Can I return the part if it doesn't fit?",
+    "sk": "Môžem diel vrátiť, ak nebude pasovať?",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "hardware-15",
+    "en": "Keep the receipt and packaging. Check our return policy.",
+    "sk": "Odložte si účtenku a obal. Overte si naše podmienky vrátenia.",
+    "image": "images/situations/hardware.webp",
+    "note": "V obchode s náradím",
+    "story": "hardware",
+    "context": "V obchode s náradím"
+  },
+  {
+    "id": "repair-call-0",
+    "en": "I'd like to make an appointment for a leaking faucet.",
+    "sk": "Chcel by som si dohodnúť termín na opravu tečúceho kohútika.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-1",
+    "en": "Is there also a problem with the drain?",
+    "sk": "Je problém aj s odtokom?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-2",
+    "en": "Yes. The drain is clogged and the water goes down slowly.",
+    "sk": "Áno. Odtok je upchatý a voda odteká pomaly.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-3",
+    "en": "We can send a technician tomorrow.",
+    "sk": "Zajtra môžeme poslať opravára.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-4",
+    "en": "What is the arrival window?",
+    "sk": "V akom časovom rozpätí príde?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-5",
+    "en": "Between nine and noon. We'll call before we arrive.",
+    "sk": "Medzi deviatou a dvanástou. Pred príchodom zavoláme.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-6",
+    "en": "Is there a service fee for the visit?",
+    "sk": "Platí sa poplatok za výjazd?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-7",
+    "en": "Yes. The visit fee is eighty dollars, before any repairs.",
+    "sk": "Áno. Poplatok za výjazd je osemdesiat dolárov, ešte pred opravou.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-8",
+    "en": "Will I get an estimate before you start?",
+    "sk": "Dostanem cenovú ponuku skôr, než začnete?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-9",
+    "en": "Yes. You can decide after the technician explains the estimate.",
+    "sk": "Áno. Rozhodnete sa, keď vám opravár vysvetlí cenovú ponuku.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-10",
+    "en": "My dishwasher is broken, too. Do you repair appliances?",
+    "sk": "Pokazila sa mi aj umývačka riadu. Opravujete spotrebiče?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-11",
+    "en": "We don't repair dishwashers. You'll need an appliance technician.",
+    "sk": "Umývačky neopravujeme. Potrebujete opravára spotrebičov.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-12",
+    "en": "Does your work have a warranty?",
+    "sk": "Je na vašu prácu záruka?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-13",
+    "en": "The terms depend on the repair. Ask for them in writing.",
+    "sk": "Podmienky závisia od opravy. Požiadajte o ne písomne.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-14",
+    "en": "What if I need to reschedule?",
+    "sk": "Čo ak budem musieť zmeniť termín?",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-15",
+    "en": "Please call as soon as possible. Ask about cancellation fees.",
+    "sk": "Zavolajte čo najskôr. Spýtajte sa na poplatky za zrušenie termínu.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "repair-call-16",
+    "en": "The clogged drain needs attention before the sink overflows.",
+    "sk": "Upchatý odtok treba vyriešiť skôr, než drez pretečie.",
+    "image": "images/situations/repair-call.webp",
+    "note": "Volám opravára",
+    "story": "repair-call",
+    "context": "Volám opravára"
+  },
+  {
+    "id": "phone-help-0",
+    "en": "Hello. I'm calling to confirm your appointment.",
+    "sk": "Dobrý deň. Volám, aby som potvrdil váš termín.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-1",
+    "en": "Could you speak more slowly, please?",
+    "sk": "Mohli by ste hovoriť pomalšie, prosím?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-2",
+    "en": "Of course. Your appointment is on Tuesday at ten.",
+    "sk": "Samozrejme. Váš termín je v utorok o desiatej.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-3",
+    "en": "Could you repeat that?",
+    "sk": "Mohli by ste to zopakovať?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-4",
+    "en": "Tuesday at ten in the morning.",
+    "sk": "V utorok o desiatej ráno.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-5",
+    "en": "Let me write that down. What is the address?",
+    "sk": "Zapíšem si to. Aká je adresa?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-6",
+    "en": "The office is on Oak Street.",
+    "sk": "Ambulancia je na Oak Street.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-7",
+    "en": "Can you spell the street name?",
+    "sk": "Môžete vyhláskovať názov ulice?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-8",
+    "en": "Oak. O-A-K.",
+    "sk": "Oak. O-A-K.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-9",
+    "en": "Can you text me the address?",
+    "sk": "Môžete mi adresu poslať cez SMS?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-10",
+    "en": "Yes. Please hold while I check your number.",
+    "sk": "Áno. Zostaňte na linke, kým si overím vaše číslo.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-11",
+    "en": "Thank you. I understand better when I can read it.",
+    "sk": "Ďakujem. Lepšie tomu rozumiem, keď si to môžem prečítať.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-12",
+    "en": "If we miss you, may we leave a voicemail?",
+    "sk": "Ak vás nezastihneme, môžeme nechať odkaz v hlasovej schránke?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-13",
+    "en": "Yes, but please speak slowly.",
+    "sk": "Áno, ale hovorte, prosím, pomaly.",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-14",
+    "en": "And if I call the wrong number?",
+    "sk": "A čo ak zavolám na nesprávne číslo?",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "phone-help-15",
+    "en": "You can say, \"Sorry, I have the wrong number.\"",
+    "sk": "Môžete povedať: „Prepáčte, pomýlil som si číslo.“",
+    "image": "images/situations/phone-help.webp",
+    "note": "Nerozumiem telefonátu",
+    "story": "phone-help",
+    "context": "Nerozumiem telefonátu"
+  },
+  {
+    "id": "suspicious-text-0",
+    "en": "I got a text saying my delivery needs a small payment.",
+    "sk": "Dostal som SMS, že za doručenie treba zaplatiť malý poplatok.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-1",
+    "en": "Were you expecting a delivery?",
+    "sk": "Čakali ste zásielku?",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-2",
+    "en": "Yes, but the link looks strange.",
+    "sk": "Áno, ale odkaz vyzerá zvláštne.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-3",
+    "en": "Don't tap the suspicious link. Check the delivery company's official site.",
+    "sk": "Neklikajte na podozrivý odkaz. Pozrite sa na oficiálnu stránku doručovacej spoločnosti.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-4",
+    "en": "Another message says it's from my bank.",
+    "sk": "Ďalšia správa tvrdí, že je od mojej banky.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-5",
+    "en": "What does it ask you to do?",
+    "sk": "Čo od vás chce?",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-6",
+    "en": "It asks for my password and a verification code.",
+    "sk": "Pýta si heslo a overovací kód.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-7",
+    "en": "Don't give those to an unexpected caller or message sender.",
+    "sk": "Nedávajte ich nečakanému volajúcemu ani odosielateľovi správy.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-8",
+    "en": "Should I call the number in the message?",
+    "sk": "Mám zavolať na číslo v správe?",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-9",
+    "en": "Use a trusted number, such as the one on your bank card.",
+    "sk": "Použite overené číslo, napríklad číslo na svojej bankovej karte.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-10",
+    "en": "What if they say it's urgent?",
+    "sk": "Čo ak povedia, že je to súrne?",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-11",
+    "en": "Stop and check independently. Pressure can be a warning sign.",
+    "sk": "Zastavte sa a overte si to nezávisle. Nátlak môže byť varovným signálom.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-12",
+    "en": "How can I verify my identity safely?",
+    "sk": "Ako môžem bezpečne overiť svoju totožnosť?",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-13",
+    "en": "Contact the company yourself through a trusted channel.",
+    "sk": "Kontaktujte spoločnosť sami cez overený spôsob spojenia.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-14",
+    "en": "I already clicked, but I didn't enter anything.",
+    "sk": "Už som klikol, ale nič som nezadal.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-15",
+    "en": "Don't enter information. Contact the real company if you're concerned.",
+    "sk": "Nezadávajte údaje. Ak máte obavy, kontaktujte skutočnú spoločnosť.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  },
+  {
+    "id": "suspicious-text-16",
+    "en": "A scam can look like a real message from a company.",
+    "sk": "Podvod môže vyzerať ako skutočná správa od firmy.",
+    "image": "images/situations/suspicious-text.webp",
+    "note": "Podozrivá správa",
+    "story": "suspicious-text",
+    "context": "Podozrivá správa"
+  }
+]

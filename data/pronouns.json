@@ -1,0 +1,137 @@
+[
+  {
+    "kind": "subject",
+    "en": "I",
+    "sk": "ja"
+  },
+  {
+    "kind": "subject",
+    "en": "you",
+    "sk": "ty / vy"
+  },
+  {
+    "kind": "subject",
+    "en": "he",
+    "sk": "on"
+  },
+  {
+    "kind": "subject",
+    "en": "she",
+    "sk": "ona"
+  },
+  {
+    "kind": "subject",
+    "en": "it",
+    "sk": "ono / to"
+  },
+  {
+    "kind": "subject",
+    "en": "we",
+    "sk": "my"
+  },
+  {
+    "kind": "subject",
+    "en": "they",
+    "sk": "oni / ony"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "my",
+    "sk": "môj / moja / moje"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "your",
+    "sk": "tvoj / váš"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "his",
+    "sk": "jeho"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "her",
+    "sk": "jej"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "its",
+    "sk": "jeho / jej (pri veci alebo zvierati)"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "our",
+    "sk": "náš"
+  },
+  {
+    "kind": "possessive_before_noun",
+    "en": "their",
+    "sk": "ich"
+  },
+  {
+    "kind": "object",
+    "en": "me",
+    "sk": "mňa / mi"
+  },
+  {
+    "kind": "object",
+    "en": "you",
+    "sk": "teba / vás"
+  },
+  {
+    "kind": "object",
+    "en": "him",
+    "sk": "jeho / jemu"
+  },
+  {
+    "kind": "object",
+    "en": "her",
+    "sk": "ju / jej"
+  },
+  {
+    "kind": "object",
+    "en": "it",
+    "sk": "to"
+  },
+  {
+    "kind": "object",
+    "en": "us",
+    "sk": "nás / nám"
+  },
+  {
+    "kind": "object",
+    "en": "them",
+    "sk": "ich / im"
+  },
+  {
+    "kind": "standalone_possessive",
+    "en": "mine",
+    "sk": "môj / moja / moje"
+  },
+  {
+    "kind": "standalone_possessive",
+    "en": "yours",
+    "sk": "tvoj / váš"
+  },
+  {
+    "kind": "standalone_possessive",
+    "en": "his",
+    "sk": "jeho"
+  },
+  {
+    "kind": "standalone_possessive",
+    "en": "hers",
+    "sk": "jej"
+  },
+  {
+    "kind": "standalone_possessive",
+    "en": "ours",
+    "sk": "náš"
+  },
+  {
+    "kind": "standalone_possessive",
+    "en": "theirs",
+    "sk": "ich"
+  }
+]

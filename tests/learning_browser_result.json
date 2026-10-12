@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "lessons": 95,
+  "guided_questions": 760,
+  "first15_screenshots": 15,
+  "stories": 23,
+  "viewports": 4,
+  "english_only_audio": true,
+  "no_autoplay": true,
+  "progress_and_retry": true
+}

@@ -1,0 +1,4929 @@
+[
+  {
+    "title": "V lekárni",
+    "subtitle": "Reálna návšteva: čakanie, recept, telefonát, správa",
+    "scene": "images/pharmacy_scene.jpg",
+    "emoji": "💊",
+    "intro": "Ján príde do americkej lekárne. Pri okienku nikto nie je. Recept ešte nie je pripravený. Naučí sa, čo povedať a čo urobiť, keď mu príde správa.",
+    "lines": [
+      [
+        "Ján",
+        "Hello? Is anybody here?",
+        "Haló? Je tu niekto?"
+      ],
+      [
+        "Lekárnička",
+        "Just a moment! I’ll be right with you.",
+        "Momentík! Hneď budem pri vás."
+      ],
+      [
+        "Ján",
+        "No problem. I can wait.",
+        "Žiadny problém. Môžem počkať."
+      ],
+      [
+        "Lekárnička",
+        "Sorry to keep you waiting. How can I help you?",
+        "Prepáčte, že ste museli čakať. Ako vám môžem pomôcť?"
+      ],
+      [
+        "Ján",
+        "I’m here to pick up my prescription.",
+        "Prišiel som si vyzdvihnúť lieky na recept."
+      ],
+      [
+        "Lekárnička",
+        "What’s your last name, please?",
+        "Aké je vaše priezvisko, prosím?"
+      ],
+      [
+        "Ján",
+        "Novak. N-O-V-A-K.",
+        "Novak. N-O-V-A-K."
+      ],
+      [
+        "Lekárnička",
+        "And your date of birth?",
+        "A váš dátum narodenia?"
+      ],
+      [
+        "Ján",
+        "March fifth, nineteen fifty-one.",
+        "Piateho marca tisícdeväťstopäťdesiatjeden."
+      ],
+      [
+        "Lekárnička",
+        "Can you confirm your phone number?",
+        "Môžete potvrdiť svoje telefónne číslo?"
+      ],
+      [
+        "Ján",
+        "Yes. It’s the number ending in four two eight one.",
+        "Áno. Je to číslo, ktoré sa končí na štyri dva osem jeden."
+      ],
+      [
+        "Lekárnička",
+        "Let me check the computer.",
+        "Pozriem sa do počítača."
+      ],
+      [
+        "Lekárnička",
+        "I’m sorry. It isn’t ready yet.",
+        "Je mi ľúto. Ešte to nie je pripravené."
+      ],
+      [
+        "Ján",
+        "Do I need to come back later?",
+        "Musím sa vrátiť neskôr?"
+      ],
+      [
+        "Lekárnička",
+        "Yes, please. We’re still working on it.",
+        "Áno, prosím. Ešte na tom pracujeme."
+      ],
+      [
+        "Ján",
+        "Do you know when it will be ready?",
+        "Viete, kedy to bude pripravené?"
+      ],
+      [
+        "Lekárnička",
+        "It should be ready this afternoon, but I can’t promise.",
+        "Malo by to byť pripravené dnes popoludní, ale nemôžem to sľúbiť."
+      ],
+      [
+        "Ján",
+        "Will you call me when it’s ready?",
+        "Zavoláte mi, keď to bude pripravené?"
+      ],
+      [
+        "Lekárnička",
+        "We can send you a text message instead.",
+        "Namiesto toho vám môžeme poslať SMS."
+      ],
+      [
+        "Ján",
+        "A text is fine. What if I don’t get it?",
+        "SMS mi vyhovuje. Čo ak mi nepríde?"
+      ],
+      [
+        "Lekárnička",
+        "You can call us or check with the pharmacy.",
+        "Môžete nám zavolať alebo sa informovať v lekárni."
+      ],
+      [
+        "Ján",
+        "My phone says RENEW. What does that mean?",
+        "Na telefóne mám napísané RENEW. Čo to znamená?"
+      ],
+      [
+        "Lekárnička",
+        "It usually means there are no refills left on that prescription.",
+        "Zvyčajne to znamená, že na tom recepte už nemáte povolené ďalšie vydania."
+      ],
+      [
+        "Ján",
+        "Can you contact my doctor for a new prescription?",
+        "Môžete kontaktovať môjho lekára kvôli novému receptu?"
+      ],
+      [
+        "Lekárnička",
+        "Yes, we can send a renewal request. Your doctor must approve it.",
+        "Áno, môžeme poslať žiadosť o obnovenie receptu. Váš lekár ju musí schváliť."
+      ],
+      [
+        "Ján",
+        "Does that mean I can pick it up today?",
+        "Znamená to, že si lieky môžem vyzdvihnúť dnes?"
+      ],
+      [
+        "Lekárnička",
+        "Not necessarily. Please wait for our confirmation.",
+        "Nie nevyhnutne. Počkajte, prosím, na naše potvrdenie."
+      ],
+      [
+        "Ján",
+        "Thank you. I’ll wait for the message.",
+        "Ďakujem. Počkám na správu."
+      ],
+      [
+        "Ján",
+        "Is there a problem with my insurance?",
+        "Je problém s mojím poistením?"
+      ],
+      [
+        "Lekárnička",
+        "Your insurance requires prior authorization from your doctor.",
+        "Vaša poisťovňa vyžaduje predchádzajúce schválenie na základe žiadosti vášho lekára."
+      ],
+      [
+        "Lekárnička",
+        "We are waiting for approval. There may be a delay.",
+        "Čakáme na schválenie. Môže to chvíľu trvať."
+      ],
+      [
+        "Ján",
+        "Please let me know when it is ready.",
+        "Prosím, dajte mi vedieť, keď to bude pripravené."
+      ]
+    ],
+    "vocab": [
+      [
+        "prescription",
+        "recept"
+      ],
+      [
+        "tablet",
+        "tabletka"
+      ],
+      [
+        "morning",
+        "ráno"
+      ],
+      [
+        "evening",
+        "večer"
+      ],
+      [
+        "with food",
+        "s jedlom"
+      ]
+    ],
+    "end": [
+      "Ján leaves the pharmacy. He waits for a message before returning.",
+      "Ján odchádza z lekárne. Pred návratom počká na správu."
+    ],
+    "questions": [
+      [
+        "Kedy má Ján užívať liek?",
+        [
+          "Iba ráno.",
+          "Ráno a večer.",
+          "Iba večer."
+        ],
+        1
+      ],
+      [
+        "Čo znamená „with food“?",
+        [
+          "S jedlom.",
+          "Bez jedla.",
+          "Pred spaním."
+        ],
+        0
+      ],
+      [
+        "O čo Ján na konci požiada?",
+        [
+          "O nový recept.",
+          "O pohár vody.",
+          "O napísanie pokynov."
+        ],
+        2
+      ]
+    ],
+    "id": "pharmacy",
+    "group": "Pôvodné príbehy",
+    "title_en": "At the Pharmacy",
+    "intro_en": "Jan checks his prescription at the pharmacy.",
+    "intro_sk": "Ján si v lekárni overuje lieky na recept.",
+    "comprehension": [
+      {
+        "q": "Čo má Ján urobiť pred návratom do lekárne?",
+        "a": [
+          "Počkať na potvrdenie.",
+          "Vždy prísť hneď.",
+          "Kúpiť múku."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján leaves the pharmacy. He waits for a message before returning.“?",
+        "a": [
+          "Ján odchádza z lekárne. Pred návratom počká na správu.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján leaves the pharmacy. He waits for a message before returning."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What’s your last name, please?",
+        "sk": "Aké je vaše priezvisko, prosím?",
+        "a": [
+          "My last name is Novak.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "correct_sk": "Moje priezvisko je Novak.",
+        "a_sk": [
+          "Moje priezvisko je Novak.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Sorry to keep you waiting. How can I help you?",
+        "sk": "Prepáčte, že ste museli čakať. Ako vám môžem pomôcť?",
+        "a": [
+          "I’m here to pick up my prescription.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Prišiel som si vyzdvihnúť lieky na recept.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Prišiel som si vyzdvihnúť lieky na recept."
+      },
+      {
+        "en": "Will you call me when it’s ready?",
+        "sk": "Zavoláte mi, keď to bude pripravené?",
+        "a": [
+          "We can send you a text message instead.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Namiesto toho vám môžeme poslať SMS.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Namiesto toho vám môžeme poslať SMS."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "title": "Balík pre suseda",
+    "subtitle": "Doručenie zásielky",
+    "emoji": "📦",
+    "intro": "Kuriér zvoní pri nesprávnych dverách. Ján mu pomôže nájsť suseda.",
+    "lines": [
+      [
+        "Kuriér",
+        "Good morning. Is this your package?",
+        "Dobré ráno. Je toto váš balík?"
+      ],
+      [
+        "Ján",
+        "No, it is for my neighbor.",
+        "Nie, je pre môjho suseda."
+      ],
+      [
+        "Kuriér",
+        "Does he live here?",
+        "Býva tu?"
+      ],
+      [
+        "Ján",
+        "He lives upstairs, in apartment twelve.",
+        "Býva hore, v byte číslo dvanásť."
+      ],
+      [
+        "Kuriér",
+        "Can I leave it with you?",
+        "Môžem ho nechať u vás?"
+      ],
+      [
+        "Ján",
+        "Yes, but please tell me his name.",
+        "Áno, ale povedzte mi, prosím, jeho meno."
+      ],
+      [
+        "Kuriér",
+        "His name is Mr. Brown.",
+        "Volá sa pán Brown."
+      ],
+      [
+        "Ján",
+        "All right. I will give it to him.",
+        "Dobre. Dám mu ho."
+      ],
+      [
+        "Ján",
+        "Is the name and apartment number on the label?",
+        "Je na štítku meno a číslo bytu?"
+      ],
+      [
+        "Kuriér",
+        "Yes. Please check the label before accepting it.",
+        "Áno. Pred prevzatím si, prosím, overte štítok."
+      ],
+      [
+        "Ján",
+        "Do I need to sign for it?",
+        "Musím prevzatie podpísať?"
+      ],
+      [
+        "Kuriér",
+        "Not for this package. Thank you for helping.",
+        "Pri tomto balíku nie. Ďakujem za pomoc."
+      ],
+      [
+        "Ján",
+        "I will keep it inside, away from the rain.",
+        "Odložím ho dovnútra, aby nezmokol."
+      ],
+      [
+        "Sused",
+        "Hello. Did a package arrive for me?",
+        "Dobrý deň. Prišiel mi nejaký balík?"
+      ],
+      [
+        "Ján",
+        "Yes. Could you tell me the name on it?",
+        "Áno. Môžete mi povedať, aké meno je na ňom?"
+      ],
+      [
+        "Sused",
+        "It should say Mr. Brown, apartment twelve.",
+        "Malo by tam byť pán Brown, byt číslo dvanásť."
+      ],
+      [
+        "Ján",
+        "That's right. Here it is.",
+        "To je správne. Tu ho máte."
+      ],
+      [
+        "Sused",
+        "Thank you for keeping it safe.",
+        "Ďakujem, že ste ho bezpečne odložili."
+      ],
+      [
+        "Ján",
+        "You're welcome. The courier came this morning.",
+        "Rado sa stalo. Kuriér prišiel dnes ráno."
+      ],
+      [
+        "Sused",
+        "I'll let the courier know I received it.",
+        "Dám kuriérovi vedieť, že som ho prevzal."
+      ]
+    ],
+    "vocab": [
+      [
+        "package",
+        "balík"
+      ],
+      [
+        "neighbor",
+        "sused"
+      ],
+      [
+        "upstairs",
+        "hore, na poschodí"
+      ],
+      [
+        "leave",
+        "nechať"
+      ],
+      [
+        "give",
+        "dať"
+      ]
+    ],
+    "end": [
+      "John puts the package safely inside and knocks on his neighbor’s door later.",
+      "Ján odloží balík na bezpečné miesto a neskôr zaklope susedovi na dvere."
+    ],
+    "questions": [
+      [
+        "Komu patrí balík?",
+        [
+          "Jánovi.",
+          "Susedovi.",
+          "Kuriérovi."
+        ],
+        1
+      ],
+      [
+        "Kde býva sused?",
+        [
+          "Hore.",
+          "V pivnici.",
+          "Vedľa lekárne."
+        ],
+        0
+      ],
+      [
+        "Čo Ján urobí?",
+        [
+          "Balík otvorí.",
+          "Balík zahodí.",
+          "Balík odovzdá susedovi."
+        ],
+        2
+      ]
+    ],
+    "scene": "images/situations/neighbor-package.webp",
+    "id": "neighbor-package",
+    "group": "Pôvodné príbehy",
+    "title_en": "A Package for the Neighbor",
+    "intro_en": "Jan accepts a package for his neighbor and keeps it safe.",
+    "intro_sk": "Ján prevezme balík pre suseda a bezpečne ho odloží.",
+    "comprehension": [
+      {
+        "q": "Kde býva sused?",
+        "a": [
+          "V byte číslo dvanásť.",
+          "V autoservise.",
+          "Na pošte."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „John puts the package safely inside and knocks on his neighbor’s door later.“?",
+        "a": [
+          "Ján odloží balík na bezpečné miesto a neskôr zaklope susedovi na dvere.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "John puts the package safely inside and knocks on his neighbor’s door later."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Can I leave it with you?",
+        "sk": "Môžem ho nechať u vás?",
+        "a": [
+          "Yes, but please tell me his name.",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno, ale povedzte mi, prosím, jeho meno.",
+        "a_sk": [
+          "Áno, ale povedzte mi, prosím, jeho meno.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "Does he live here?",
+        "sk": "Býva tu?",
+        "a": [
+          "He lives upstairs, in apartment twelve.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Býva hore, v byte číslo dvanásť.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Býva hore, v byte číslo dvanásť."
+      },
+      {
+        "en": "Did a package arrive for me?",
+        "sk": "Prišiel mi nejaký balík?",
+        "a": [
+          "Yes. Could you tell me the name on it?",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Áno. Môžete mi povedať, aké meno je na ňom?",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Môžete mi povedať, aké meno je na ňom?"
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "title": "Majster opravuje",
+    "subtitle": "Pokazený kohútik",
+    "scene": "images/repair_scene.jpg",
+    "emoji": "🔧",
+    "intro": "V kuchyni kvapká kohútik. Ján vysvetľuje majstrovi, čo sa pokazilo.",
+    "lines": [
+      [
+        "Ján",
+        "The kitchen faucet is leaking.",
+        "Kuchynský kohútik tečie."
+      ],
+      [
+        "Majster",
+        "How long has it been leaking?",
+        "Ako dlho už tečie?"
+      ],
+      [
+        "Ján",
+        "Since yesterday evening.",
+        "Od včerajšieho večera."
+      ],
+      [
+        "Majster",
+        "Please turn off the water.",
+        "Prosím, zastavte vodu."
+      ],
+      [
+        "Ján",
+        "Where is the valve?",
+        "Kde je ventil?"
+      ],
+      [
+        "Majster",
+        "Under the sink, on the left.",
+        "Pod drezom, naľavo."
+      ],
+      [
+        "Ján",
+        "Do you need a tool?",
+        "Potrebujete náradie?"
+      ],
+      [
+        "Majster",
+        "No, thank you. I have everything.",
+        "Nie, ďakujem. Mám všetko."
+      ],
+      [
+        "Ján",
+        "Can you give me an estimate before you start?",
+        "Môžete mi dať cenovú ponuku skôr, než začnete?"
+      ],
+      [
+        "Majster",
+        "Yes. First I need to check the faucet.",
+        "Áno. Najprv musím skontrolovať kohútik."
+      ],
+      [
+        "Ján",
+        "Will it need a new part?",
+        "Bude potrebný nový diel?"
+      ],
+      [
+        "Majster",
+        "It may need a new cartridge. I will show you.",
+        "Možno bude treba novú kartušu. Ukážem vám ju."
+      ],
+      [
+        "Ján",
+        "Does the price include the part and labor?",
+        "Zahŕňa cena diel aj prácu?"
+      ],
+      [
+        "Majster",
+        "Yes. Here is the written estimate.",
+        "Áno. Tu je písomná cenová ponuka."
+      ],
+      [
+        "Ján",
+        "How long will it take?",
+        "Ako dlho to bude trvať?"
+      ],
+      [
+        "Majster",
+        "About an hour if I have the right part.",
+        "Asi hodinu, ak mám správny diel."
+      ],
+      [
+        "Ján",
+        "Please tell me before adding any extra charges.",
+        "Prosím, povedzte mi vopred, ak by vznikli ďalšie poplatky."
+      ],
+      [
+        "Majster",
+        "Of course. I need your approval.",
+        "Samozrejme. Potrebujem váš súhlas."
+      ],
+      [
+        "Ján",
+        "Will you clean up when you finish?",
+        "Keď skončíte, upracete po sebe?"
+      ],
+      [
+        "Majster",
+        "Yes. We will test the faucet and clean the area.",
+        "Áno. Vyskúšame kohútik a upraceme okolie."
+      ]
+    ],
+    "vocab": [
+      [
+        "faucet",
+        "kohútik"
+      ],
+      [
+        "leaking",
+        "tečie, preteká"
+      ],
+      [
+        "valve",
+        "ventil"
+      ],
+      [
+        "under",
+        "pod"
+      ],
+      [
+        "tool",
+        "náradie"
+      ]
+    ],
+    "end": [
+      "The plumber changes a small washer. The faucet stops dripping.",
+      "Inštalatér vymení malé tesnenie. Kohútik prestane kvapkať."
+    ],
+    "questions": [
+      [
+        "Čo je pokazené?",
+        [
+          "Kohútik.",
+          "Chladnička.",
+          "Okno."
+        ],
+        0
+      ],
+      [
+        "Kde je ventil?",
+        [
+          "Na streche.",
+          "Pod drezom.",
+          "Za dverami."
+        ],
+        1
+      ],
+      [
+        "Čo znamená „tool“?",
+        [
+          "Voda.",
+          "Tesnenie.",
+          "Náradie."
+        ],
+        2
+      ]
+    ],
+    "id": "repair-visit",
+    "group": "Pôvodné príbehy",
+    "title_en": "A Repair Visit",
+    "intro_en": "Jan asks a technician to repair a leaking kitchen faucet.",
+    "intro_sk": "Ján požiada opravára o opravu tečúceho kuchynského kohútika.",
+    "comprehension": [
+      {
+        "q": "Čo chce Ján vedieť pred opravou?",
+        "a": [
+          "Cenu, diely a čas.",
+          "Číslo letu.",
+          "Hmotnosť klobásy."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „The plumber changes a small washer. The faucet stops dripping.“?",
+        "a": [
+          "Inštalatér vymení malé tesnenie. Kohútik prestane kvapkať.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "The plumber changes a small washer. The faucet stops dripping."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What seems to be the problem?",
+        "sk": "Čo sa deje?",
+        "a": [
+          "The kitchen faucet is leaking.",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "correct_sk": "Kuchynský kohútik tečie.",
+        "a_sk": [
+          "Kuchynský kohútik tečie.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "Where is the valve?",
+        "sk": "Kde je ventil?",
+        "a": [
+          "Under the sink, on the left.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Pod drezom, naľavo.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Pod drezom, naľavo."
+      },
+      {
+        "en": "Do you need a tool?",
+        "sk": "Potrebujete náradie?",
+        "a": [
+          "No, thank you. I have everything.",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Nie, ďakujem. Mám všetko.",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Nie, ďakujem. Mám všetko."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "car-start",
+    "title": "Auto neštartuje",
+    "title_en": "The Car Won't Start",
+    "group": "Autá a opravy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján chce odísť, ale auto neštartuje. Požiada suseda o pomoc.",
+    "intro_en": "Jan wants to leave, but his car will not start. He asks his neighbor for help.",
+    "intro_sk": "Ján chce odísť, ale auto neštartuje. Požiada suseda o pomoc.",
+    "scene": "images/situations/car-start.webp",
+    "lines": [
+      [
+        "Ján",
+        "My car won't start.",
+        "Auto mi neštartuje."
+      ],
+      [
+        "Sused",
+        "Do the dashboard lights come on?",
+        "Rozsvietia sa kontrolky na palubnej doske?"
+      ],
+      [
+        "Ján",
+        "Yes, but I only hear a clicking sound.",
+        "Áno, ale počujem iba cvakanie."
+      ],
+      [
+        "Sused",
+        "The battery might be dead.",
+        "Batéria môže byť vybitá."
+      ],
+      [
+        "Ján",
+        "Could you help me jump-start it?",
+        "Mohli by ste mi pomôcť naštartovať ho pomocou káblov?"
+      ],
+      [
+        "Sused",
+        "Do you have jumper cables?",
+        "Máte štartovacie káble?"
+      ],
+      [
+        "Ján",
+        "No. Do you have any?",
+        "Nie. Máte nejaké vy?"
+      ],
+      [
+        "Sused",
+        "I have a jump starter. Let's check your owner's manual first.",
+        "Mám štartovací zdroj. Najprv sa pozrime do návodu k vášmu autu."
+      ],
+      [
+        "Ján",
+        "I'm not sure how to connect it.",
+        "Nie som si istý, ako sa pripája."
+      ],
+      [
+        "Sused",
+        "Let's call roadside assistance if we're not sure.",
+        "Ak si nie sme istí, zavolajme asistenčnú službu."
+      ],
+      [
+        "Ján",
+        "Is that included in my insurance?",
+        "Je to zahrnuté v mojom poistení?"
+      ],
+      [
+        "Sused",
+        "You'll need to check your policy.",
+        "Musíte si to overiť v poistnej zmluve."
+      ],
+      [
+        "Ján",
+        "What should I tell them?",
+        "Čo im mám povedať?"
+      ],
+      [
+        "Sused",
+        "Tell them your car won't start and give them your location.",
+        "Povedzte im, že vám auto neštartuje, a uveďte, kde ste."
+      ],
+      [
+        "Ján",
+        "Can they send a tow truck if it won't start?",
+        "Môžu poslať odťahové auto, ak sa ho nepodarí naštartovať?"
+      ],
+      [
+        "Sused",
+        "Ask them. Also ask about the cost and arrival time.",
+        "Opýtajte sa ich. Spýtajte sa aj na cenu a čas príchodu."
+      ]
+    ],
+    "vocab": [
+      [
+        "battery",
+        "batéria"
+      ],
+      [
+        "jump-start",
+        "naštartovať pomocou káblov"
+      ],
+      [
+        "jumper cables",
+        "štartovacie káble"
+      ],
+      [
+        "dashboard lights",
+        "kontrolky na palubnej doske"
+      ],
+      [
+        "tow truck",
+        "odťahové auto"
+      ],
+      [
+        "roadside assistance",
+        "asistenčná služba"
+      ],
+      [
+        "location",
+        "miesto"
+      ],
+      [
+        "cost",
+        "cena"
+      ]
+    ],
+    "end": [
+      "Ján calls for help and waits in a safe place.",
+      "Ján zavolá pomoc a čaká na bezpečnom mieste."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo sa deje s autom?",
+        "a": [
+          "Neštartuje.",
+          "Má defekt.",
+          "Je už opravené."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján calls for help and waits in a safe place.“?",
+        "a": [
+          "Ján zavolá pomoc a čaká na bezpečnom mieste.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján calls for help and waits in a safe place."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Could you tell me the problem?",
+        "a": [
+          "My car won't start.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Môžete mi povedať, aký je problém?",
+        "correct_sk": "Auto mi neštartuje.",
+        "a_sk": [
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Could you help me jump-start it?",
+        "sk": "Mohli by ste mi pomôcť naštartovať ho pomocou káblov?",
+        "a": [
+          "Do you have jumper cables?",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Máte štartovacie káble?",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Máte štartovacie káble?"
+      },
+      {
+        "en": "Do you have jumper cables?",
+        "sk": "Máte štartovacie káble?",
+        "a": [
+          "No. Do you have any?",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Nie. Máte nejaké vy?",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Nie. Máte nejaké vy?"
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "repair-shop",
+    "title": "V autoservise",
+    "title_en": "At the Auto Repair Shop",
+    "group": "Autá a opravy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján počuje pri brzdení zvláštny zvuk. V servise chce najprv vedieť cenu.",
+    "intro_en": "Jan hears a strange noise when braking. At the shop, he asks for an estimate first.",
+    "intro_sk": "Ján počuje pri brzdení zvláštny zvuk. V servise chce najprv vedieť cenu.",
+    "scene": "images/situations/repair-shop.webp",
+    "lines": [
+      [
+        "Ján",
+        "My car makes a strange noise when I brake.",
+        "Keď brzdím, auto vydáva zvláštny zvuk."
+      ],
+      [
+        "Automechanik",
+        "When did you first notice it?",
+        "Kedy ste si to prvýkrát všimli?"
+      ],
+      [
+        "Ján",
+        "Yesterday. The engine light is on, too.",
+        "Včera. Svieti aj kontrolka motora."
+      ],
+      [
+        "Automechanik",
+        "Have you noticed any other problems?",
+        "Všimli ste si aj iné problémy?"
+      ],
+      [
+        "Ján",
+        "There may be an oil leak under the car.",
+        "Pod autom môže unikať olej."
+      ],
+      [
+        "Automechanik",
+        "We can inspect the brakes and check the engine light.",
+        "Môžeme skontrolovať brzdy a zistiť, prečo svieti kontrolka motora."
+      ],
+      [
+        "Ján",
+        "How much does the inspection cost?",
+        "Koľko stojí kontrola?"
+      ],
+      [
+        "Automechanik",
+        "The inspection is ninety dollars. Repairs cost extra.",
+        "Kontrola stojí deväťdesiat dolárov. Opravy sa platia osobitne."
+      ],
+      [
+        "Ján",
+        "Does the estimate include labor and parts?",
+        "Zahŕňa cenová ponuka prácu aj diely?"
+      ],
+      [
+        "Automechanik",
+        "We'll list labor and parts separately.",
+        "Prácu a diely uvedieme osobitne."
+      ],
+      [
+        "Ján",
+        "Please call me before you do any repairs.",
+        "Pred akoukoľvek opravou mi, prosím, zavolajte."
+      ],
+      [
+        "Automechanik",
+        "Of course. We need your approval first.",
+        "Samozrejme. Najprv potrebujeme váš súhlas."
+      ],
+      [
+        "Ján",
+        "How long will the inspection take?",
+        "Ako dlho bude kontrola trvať?"
+      ],
+      [
+        "Automechanik",
+        "About two hours, but repairs may take longer.",
+        "Asi dve hodiny, ale oprava môže trvať dlhšie."
+      ],
+      [
+        "Ján",
+        "Can I get the estimate in writing?",
+        "Môžem dostať cenovú ponuku písomne?"
+      ],
+      [
+        "Automechanik",
+        "Yes. We'll explain it before you decide.",
+        "Áno. Vysvetlíme vám ju skôr, než sa rozhodnete."
+      ],
+      [
+        "Rozprávač",
+        "The mechanic checks the brakes before giving an estimate.",
+        "Automechanik skontroluje brzdy, kým dá cenovú ponuku."
+      ]
+    ],
+    "vocab": [
+      [
+        "brakes",
+        "brzdy"
+      ],
+      [
+        "oil leak",
+        "únik oleja"
+      ],
+      [
+        "engine light",
+        "kontrolka motora"
+      ],
+      [
+        "mechanic",
+        "automechanik"
+      ],
+      [
+        "inspection",
+        "kontrola"
+      ],
+      [
+        "estimate",
+        "cenová ponuka"
+      ],
+      [
+        "labor",
+        "práca"
+      ],
+      [
+        "parts",
+        "diely"
+      ],
+      [
+        "approval",
+        "súhlas"
+      ]
+    ],
+    "end": [
+      "Ján waits for an estimate before approving repairs.",
+      "Ján čaká na cenovú ponuku, kým odsúhlasí opravu."
+    ],
+    "comprehension": [
+      {
+        "q": "Kedy smie servis začať s opravou?",
+        "a": [
+          "Až po Jánovom súhlase.",
+          "Bez opýtania.",
+          "Až po nákupe múky."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján waits for an estimate before approving repairs.“?",
+        "a": [
+          "Ján čaká na cenovú ponuku, kým odsúhlasí opravu.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján waits for an estimate before approving repairs."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What problem have you noticed?",
+        "a": [
+          "I hear a strange noise when I brake.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Aký problém ste si všimli?",
+        "correct_sk": "Pri brzdení počujem zvláštny zvuk.",
+        "a_sk": [
+          "Pri brzdení počujem zvláštny zvuk.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Have you noticed any other problems?",
+        "sk": "Všimli ste si aj iné problémy?",
+        "a": [
+          "There may be an oil leak under the car.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Pod autom môže unikať olej.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Pod autom môže unikať olej."
+      },
+      {
+        "en": "How much does the inspection cost?",
+        "sk": "Koľko stojí kontrola?",
+        "a": [
+          "The inspection is ninety dollars. Repairs cost extra.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Kontrola stojí deväťdesiat dolárov. Opravy sa platia osobitne.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Kontrola stojí deväťdesiat dolárov. Opravy sa platia osobitne."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "flat-tire",
+    "title": "Defekt na ceste",
+    "title_en": "A Flat Tire",
+    "group": "Autá a opravy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján zastaví na bezpečnom mieste a zavolá asistenčnú službu.",
+    "intro_en": "Jan stops in a safe place and calls roadside assistance.",
+    "intro_sk": "Ján zastaví na bezpečnom mieste a zavolá asistenčnú službu.",
+    "scene": "images/situations/flat-tire.webp",
+    "lines": [
+      [
+        "Ján",
+        "I have a flat tire. Can you send someone?",
+        "Mám defekt. Môžete niekoho poslať?"
+      ],
+      [
+        "Asistenčná služba",
+        "Are you in a safe place, away from traffic?",
+        "Ste na bezpečnom mieste, mimo premávky?"
+      ],
+      [
+        "Ján",
+        "Yes. I pulled over and turned on my hazard lights.",
+        "Áno. Zastavil som pri kraji a zapol výstražné svetlá."
+      ],
+      [
+        "Asistenčná služba",
+        "What is your exact location?",
+        "Kde presne ste?"
+      ],
+      [
+        "Ján",
+        "I'm near the gas station on Cicero Avenue.",
+        "Som pri čerpacej stanici na Cicero Avenue."
+      ],
+      [
+        "Asistenčná služba",
+        "Can you give me the street number or a nearby intersection?",
+        "Môžete mi povedať číslo domu alebo blízku križovatku?"
+      ],
+      [
+        "Ján",
+        "The sign says 5500. Can I text you a photo?",
+        "Na označení je 5500. Môžem vám poslať fotografiu cez SMS?"
+      ],
+      [
+        "Asistenčná služba",
+        "Yes, I'll send you instructions.",
+        "Áno, pošlem vám pokyny."
+      ],
+      [
+        "Ján",
+        "Do I need a spare tire?",
+        "Potrebujem rezervné koleso?"
+      ],
+      [
+        "Asistenčná služba",
+        "Do you have one in your car?",
+        "Máte ho v aute?"
+      ],
+      [
+        "Ján",
+        "I think so, but I don't know its condition.",
+        "Myslím, že áno, ale neviem, v akom je stave."
+      ],
+      [
+        "Asistenčná služba",
+        "The technician will check it and the tire pressure.",
+        "Technik ho skontroluje a zmeria tlak v pneumatikách."
+      ],
+      [
+        "Ján",
+        "How long will I have to wait?",
+        "Ako dlho budem musieť čakať?"
+      ],
+      [
+        "Asistenčná služba",
+        "About forty-five minutes. Stay in a safe place.",
+        "Asi štyridsaťpäť minút. Zostaňte na bezpečnom mieste."
+      ],
+      [
+        "Ján",
+        "What if the tire needs to be replaced?",
+        "Čo ak treba pneumatiku vymeniť?"
+      ],
+      [
+        "Asistenčná služba",
+        "We'll explain your options and the cost first.",
+        "Najprv vám vysvetlíme možnosti a cenu."
+      ]
+    ],
+    "vocab": [
+      [
+        "flat tire",
+        "defekt"
+      ],
+      [
+        "spare tire",
+        "rezervné koleso"
+      ],
+      [
+        "tire pressure",
+        "tlak v pneumatikách"
+      ],
+      [
+        "hazard lights",
+        "výstražné svetlá"
+      ],
+      [
+        "intersection",
+        "križovatka"
+      ],
+      [
+        "technician",
+        "technik"
+      ],
+      [
+        "replaced",
+        "vymenené"
+      ],
+      [
+        "safe place",
+        "bezpečné miesto"
+      ]
+    ],
+    "end": [
+      "Ján waits away from traffic until help arrives.",
+      "Ján čaká mimo premávky, kým príde pomoc."
+    ],
+    "comprehension": [
+      {
+        "q": "Kde Ján čaká?",
+        "a": [
+          "Na bezpečnom mieste mimo premávky.",
+          "Uprostred cesty.",
+          "Pri pokladni."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján waits away from traffic until help arrives.“?",
+        "a": [
+          "Ján čaká mimo premávky, kým príde pomoc.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján waits away from traffic until help arrives."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Where are you?",
+        "a": [
+          "I'm near the gas station on Cicero Avenue.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Kde ste?",
+        "correct_sk": "Som pri čerpacej stanici na Cicero Avenue.",
+        "a_sk": [
+          "Som pri čerpacej stanici na Cicero Avenue.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Are you in a safe place, away from traffic?",
+        "sk": "Ste na bezpečnom mieste, mimo premávky?",
+        "a": [
+          "Yes. I pulled over and turned on my hazard lights.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Áno. Zastavil som pri kraji a zapol výstražné svetlá.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Zastavil som pri kraji a zapol výstražné svetlá."
+      },
+      {
+        "en": "Can you give me the street number or a nearby intersection?",
+        "sk": "Môžete mi povedať číslo domu alebo blízku križovatku?",
+        "a": [
+          "The sign says 5500. Can I text you a photo?",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Na označení je 5500. Môžem vám poslať fotografiu cez SMS?",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Na označení je 5500. Môžem vám poslať fotografiu cez SMS?"
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "minor-accident",
+    "title": "Malá dopravná nehoda",
+    "title_en": "A Minor Car Accident",
+    "group": "Autá a opravy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Dve autá sa ľahko zrazia. Ján sa najprv spýta, či je druhý vodič v poriadku.",
+    "intro_en": "Two cars have a minor collision. Jan first asks whether the other driver is okay.",
+    "intro_sk": "Dve autá sa ľahko zrazia. Ján sa najprv spýta, či je druhý vodič v poriadku.",
+    "scene": "images/situations/minor-accident.webp",
+    "lines": [
+      [
+        "Ján",
+        "Are you okay? Is anyone hurt?",
+        "Ste v poriadku? Je niekto zranený?"
+      ],
+      [
+        "Druhý vodič",
+        "I'm okay. Are you hurt?",
+        "Som v poriadku. Ste zranený vy?"
+      ],
+      [
+        "Ján",
+        "No. Can we pull over somewhere safe?",
+        "Nie. Môžeme zastaviť niekde, kde je bezpečne?"
+      ],
+      [
+        "Druhý vodič",
+        "Yes, if the cars can be moved safely.",
+        "Áno, ak môžeme autá bezpečne premiestniť."
+      ],
+      [
+        "Ján",
+        "Let's exchange insurance information.",
+        "Vymeňme si údaje o poistení."
+      ],
+      [
+        "Druhý vodič",
+        "Here is my insurance card and driver's license.",
+        "Tu je moja kartička poistenia a vodičský preukaz."
+      ],
+      [
+        "Ján",
+        "Could I see your registration, too?",
+        "Môžem vidieť aj doklad o registrácii vozidla?"
+      ],
+      [
+        "Druhý vodič",
+        "Yes. May I take a photo of your documents?",
+        "Áno. Môžem si odfotografovať vaše doklady?"
+      ],
+      [
+        "Ján",
+        "Yes. Let's also take photos of the damage.",
+        "Áno. Odfotografujme aj poškodenie."
+      ],
+      [
+        "Druhý vodič",
+        "Did anyone see what happened?",
+        "Videl niekto, čo sa stalo?"
+      ],
+      [
+        "Ján",
+        "That person over there may be a witness.",
+        "Tamten človek môže byť svedkom."
+      ],
+      [
+        "Druhý vodič",
+        "Do we need a police report?",
+        "Potrebujeme policajnú správu?"
+      ],
+      [
+        "Ján",
+        "Let's contact the police and ask what to do.",
+        "Kontaktujme políciu a spýtajme sa, čo máme robiť."
+      ],
+      [
+        "Druhý vodič",
+        "I was stopping when your car hit my bumper.",
+        "Zastavoval som, keď vaše auto narazilo do môjho nárazníka."
+      ],
+      [
+        "Ján",
+        "I'll describe what I saw to my insurance company.",
+        "Svojej poisťovni opíšem, čo som videl."
+      ],
+      [
+        "Druhý vodič",
+        "Let's write down the date, time, and location.",
+        "Zapíšme si dátum, čas a miesto."
+      ]
+    ],
+    "vocab": [
+      [
+        "insurance information",
+        "údaje o poistení"
+      ],
+      [
+        "driver's license",
+        "vodičský preukaz"
+      ],
+      [
+        "registration",
+        "registrácia vozidla"
+      ],
+      [
+        "damage",
+        "poškodenie"
+      ],
+      [
+        "police report",
+        "policajná správa"
+      ],
+      [
+        "witness",
+        "svedok"
+      ],
+      [
+        "bumper",
+        "nárazník"
+      ],
+      [
+        "exchange",
+        "vymeniť si"
+      ]
+    ],
+    "end": [
+      "The drivers record the information and contact their insurers.",
+      "Vodiči si zaznamenajú údaje a kontaktujú svoje poisťovne."
+    ],
+    "comprehension": [
+      {
+        "q": "Na čo sa Ján spýta najprv?",
+        "a": [
+          "Či je niekto zranený.",
+          "Na cenu múky.",
+          "Na telefónnu zľavu."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „The drivers record the information and contact their insurers.“?",
+        "a": [
+          "Vodiči si zaznamenajú údaje a kontaktujú svoje poisťovne.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "The drivers record the information and contact their insurers."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Is anyone hurt?",
+        "a": [
+          "No. I'm okay.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Je niekto zranený?",
+        "correct_sk": "Nie. Som v poriadku.",
+        "a_sk": [
+          "Nie. Som v poriadku.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "I'm okay. Are you hurt?",
+        "sk": "Som v poriadku. Ste zranený vy?",
+        "a": [
+          "No. Can we pull over somewhere safe?",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Nie. Môžeme zastaviť niekde, kde je bezpečne?",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Nie. Môžeme zastaviť niekde, kde je bezpečne?"
+      },
+      {
+        "en": "No. Can we pull over somewhere safe?",
+        "sk": "Nie. Môžeme zastaviť niekde, kde je bezpečne?",
+        "a": [
+          "Yes, if the cars can be moved safely.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Áno, ak môžeme autá bezpečne premiestniť.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno, ak môžeme autá bezpečne premiestniť."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "car-ready",
+    "title": "Auto je opravené",
+    "title_en": "Picking Up the Repaired Car",
+    "group": "Autá a opravy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Servis zavolá, že auto je hotové. Ján si pred platením prejde účet.",
+    "intro_en": "The shop says the car is ready. Jan checks the bill before paying.",
+    "intro_sk": "Servis zavolá, že auto je hotové. Ján si pred platením prejde účet.",
+    "scene": "images/situations/car-ready.webp",
+    "lines": [
+      [
+        "Ján",
+        "I'm here to pick up my car. Is it ready?",
+        "Prišiel som si po auto. Je hotové?"
+      ],
+      [
+        "Automechanik",
+        "Yes. We replaced the front brake pads.",
+        "Áno. Vymenili sme predné brzdové doštičky."
+      ],
+      [
+        "Ján",
+        "What was wrong with the old ones?",
+        "Čo bolo so starými?"
+      ],
+      [
+        "Automechanik",
+        "They were worn out. We checked the oil leak, too.",
+        "Boli opotrebované. Skontrolovali sme aj únik oleja."
+      ],
+      [
+        "Ján",
+        "Did you fix the leak?",
+        "Opravili ste ten únik?"
+      ],
+      [
+        "Automechanik",
+        "Yes. We replaced a seal you approved yesterday.",
+        "Áno. Vymenili sme tesnenie, ktoré ste včera odsúhlasili."
+      ],
+      [
+        "Ján",
+        "Does the repair have a warranty?",
+        "Je na opravu záruka?"
+      ],
+      [
+        "Automechanik",
+        "These parts have a warranty. The details are on your receipt.",
+        "Na tieto diely je záruka. Podrobnosti sú na účtenke."
+      ],
+      [
+        "Ján",
+        "Could you explain this extra charge?",
+        "Mohli by ste mi vysvetliť tento príplatok?"
+      ],
+      [
+        "Automechanik",
+        "That's the inspection fee from the estimate.",
+        "To je poplatok za kontrolu z cenovej ponuky."
+      ],
+      [
+        "Ján",
+        "I thought it was included in the repair price.",
+        "Myslel som si, že bol zahrnutý v cene opravy."
+      ],
+      [
+        "Automechanik",
+        "Let's check the estimate together.",
+        "Pozrime sa spolu do cenovej ponuky."
+      ],
+      [
+        "Ján",
+        "Can I have an itemized receipt?",
+        "Môžem dostať účtenku s rozpísanými položkami?"
+      ],
+      [
+        "Automechanik",
+        "Of course. It lists parts, labor, and tax.",
+        "Samozrejme. Sú na nej diely, práca a daň."
+      ],
+      [
+        "Ján",
+        "I'll pay by debit card. Please keep a copy for me.",
+        "Zaplatím debetnou kartou. Prosím, odložte mi kópiu."
+      ],
+      [
+        "Automechanik",
+        "Here are your keys and receipt. Call if you have questions.",
+        "Tu sú vaše kľúče a účtenka. Ak máte otázky, zavolajte."
+      ]
+    ],
+    "vocab": [
+      [
+        "brake pads",
+        "brzdové doštičky"
+      ],
+      [
+        "worn out",
+        "opotrebované"
+      ],
+      [
+        "seal",
+        "tesnenie"
+      ],
+      [
+        "warranty",
+        "záruka"
+      ],
+      [
+        "receipt",
+        "účtenka"
+      ],
+      [
+        "extra charge",
+        "príplatok"
+      ],
+      [
+        "inspection fee",
+        "poplatok za kontrolu"
+      ],
+      [
+        "tax",
+        "daň"
+      ]
+    ],
+    "end": [
+      "Ján keeps the receipt and the warranty details.",
+      "Ján si odloží účtenku a podmienky záruky."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo si Ján odloží?",
+        "a": [
+          "Účtenku a podmienky záruky.",
+          "Štartovacie káble.",
+          "Susedov balík."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján keeps the receipt and the warranty details.“?",
+        "a": [
+          "Ján si odloží účtenku a podmienky záruky.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján keeps the receipt and the warranty details."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "How would you like to pay?",
+        "a": [
+          "I'll pay by debit card.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Ako chcete zaplatiť?",
+        "correct_sk": "Zaplatím debetnou kartou.",
+        "a_sk": [
+          "Zaplatím debetnou kartou.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "What was wrong with the old ones?",
+        "sk": "Čo bolo so starými?",
+        "a": [
+          "They were worn out. We checked the oil leak, too.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Boli opotrebované. Skontrolovali sme aj únik oleja.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Boli opotrebované. Skontrolovali sme aj únik oleja."
+      },
+      {
+        "en": "Did you fix the leak?",
+        "sk": "Opravili ste ten únik?",
+        "a": [
+          "Yes. We replaced a seal you approved yesterday.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Áno. Vymenili sme tesnenie, ktoré ste včera odsúhlasili.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Vymenili sme tesnenie, ktoré ste včera odsúhlasili."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "insurance-call",
+    "title": "Volám do poisťovne",
+    "title_en": "Calling the Insurance Company",
+    "group": "Poistenie v Amerike",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján si chce overiť platnosť poistenia auta a ďalšiu platbu.",
+    "intro_en": "Jan wants to check his car insurance and the next payment.",
+    "intro_sk": "Ján si chce overiť platnosť poistenia auta a ďalšiu platbu.",
+    "scene": "images/situations/insurance-call.webp",
+    "lines": [
+      [
+        "Ján",
+        "I'd like to speak to a representative about my policy.",
+        "Chcel by som hovoriť s pracovníkom o svojej poistnej zmluve."
+      ],
+      [
+        "Poisťovňa",
+        "May I have your policy number?",
+        "Môžete mi povedať číslo poistnej zmluvy?"
+      ],
+      [
+        "Ján",
+        "It's A B one two three four.",
+        "Je to A B jeden dva tri štyri."
+      ],
+      [
+        "Poisťovňa",
+        "Thank you. What would you like to know?",
+        "Ďakujem. Čo by ste chceli vedieť?"
+      ],
+      [
+        "Ján",
+        "Is my coverage still active?",
+        "Je moje poistenie stále platné?"
+      ],
+      [
+        "Poisťovňa",
+        "Let me check the dates on your policy.",
+        "Pozriem sa na dátumy vo vašej zmluve."
+      ],
+      [
+        "Ján",
+        "When is my next payment due?",
+        "Kedy mám zaplatiť ďalšiu platbu?"
+      ],
+      [
+        "Poisťovňa",
+        "Your next premium payment is due on November first.",
+        "Ďalšiu platbu poistného máte zaplatiť do prvého novembra."
+      ],
+      [
+        "Ján",
+        "Does my policy renew automatically?",
+        "Obnoví sa moja zmluva automaticky?"
+      ],
+      [
+        "Poisťovňa",
+        "This policy does, unless it is changed or canceled.",
+        "Táto zmluva áno, pokiaľ sa nezmení alebo nezruší."
+      ],
+      [
+        "Ján",
+        "Could my premium change when it renews?",
+        "Môže sa pri obnovení zmeniť moje poistné?"
+      ],
+      [
+        "Poisťovňa",
+        "Yes. Please read the renewal notice carefully.",
+        "Áno. Pozorne si prečítajte oznámenie o obnovení."
+      ],
+      [
+        "Ján",
+        "How can I get proof of insurance?",
+        "Ako získam doklad o poistení?"
+      ],
+      [
+        "Poisťovňa",
+        "I can send a copy through your account.",
+        "Môžem vám poslať kópiu do vášho účtu."
+      ],
+      [
+        "Ján",
+        "Please confirm the coverage and payment date in writing.",
+        "Prosím, potvrďte mi písomne rozsah poistenia a dátum platby."
+      ],
+      [
+        "Poisťovňa",
+        "I can send the policy documents. Check them for the exact terms.",
+        "Môžem poslať dokumenty k zmluve. Presné podmienky si overte v nich."
+      ]
+    ],
+    "vocab": [
+      [
+        "policy",
+        "poistná zmluva"
+      ],
+      [
+        "coverage",
+        "rozsah poistenia"
+      ],
+      [
+        "premium",
+        "poistné"
+      ],
+      [
+        "policy number",
+        "číslo poistnej zmluvy"
+      ],
+      [
+        "representative",
+        "pracovník zákazníckej podpory"
+      ],
+      [
+        "due",
+        "splatné"
+      ],
+      [
+        "renew",
+        "obnoviť"
+      ],
+      [
+        "proof of insurance",
+        "doklad o poistení"
+      ]
+    ],
+    "end": [
+      "Ján reads the written confirmation before making changes.",
+      "Ján si prečíta písomné potvrdenie, kým niečo zmení."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo je premium?",
+        "a": [
+          "Poistné, ktoré platím za poistenie.",
+          "Časť škody, ktorú platím sám.",
+          "Účtenka za potraviny."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján reads the written confirmation before making changes.“?",
+        "a": [
+          "Ján si prečíta písomné potvrdenie, kým niečo zmení.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján reads the written confirmation before making changes."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "May I have your policy number?",
+        "a": [
+          "It's A B one two three four.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Môžete mi povedať číslo poistnej zmluvy?",
+        "correct_sk": "Je to A B jeden dva tri štyri.",
+        "a_sk": [
+          "Je to A B jeden dva tri štyri.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Thank you. What would you like to know?",
+        "sk": "Ďakujem. Čo by ste chceli vedieť?",
+        "a": [
+          "Is my coverage still active?",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Je moje poistenie stále platné?",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Je moje poistenie stále platné?"
+      },
+      {
+        "en": "Is my coverage still active?",
+        "sk": "Je moje poistenie stále platné?",
+        "a": [
+          "Let me check the dates on your policy.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Pozriem sa na dátumy vo vašej zmluve.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Pozriem sa na dátumy vo vašej zmluve."
+      }
+    ],
+    "notes": [
+      "Premium = poistné. Platím ho za poistenie, aj keď práve nehlásim škodu. Coverage = čo a za akých podmienok je poistené. Overím si to v zmluve."
+    ]
+  },
+  {
+    "id": "insurance-claim",
+    "title": "Nahlasujem nehodu",
+    "title_en": "Filing an Insurance Claim",
+    "group": "Poistenie v Amerike",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Po nehode Ján telefonuje do poisťovne. Pripraví si dátum a fotografie.",
+    "intro_en": "After the accident, Jan calls his insurer with the date and photos ready.",
+    "intro_sk": "Po nehode Ján telefonuje do poisťovne. Pripraví si dátum a fotografie.",
+    "scene": "images/situations/insurance-claim.webp",
+    "lines": [
+      [
+        "Ján",
+        "I'd like to file a claim for a car accident.",
+        "Chcel by som nahlásiť poistnú udalosť po dopravnej nehode."
+      ],
+      [
+        "Poisťovňa",
+        "What date did the accident happen?",
+        "Kedy sa nehoda stala?"
+      ],
+      [
+        "Ján",
+        "It happened yesterday, October tenth.",
+        "Stala sa včera, desiateho októbra."
+      ],
+      [
+        "Poisťovňa",
+        "Was anyone injured?",
+        "Bol niekto zranený?"
+      ],
+      [
+        "Ján",
+        "No one was injured, as far as I know.",
+        "Pokiaľ viem, nikto nebol zranený."
+      ],
+      [
+        "Poisťovňa",
+        "Please describe the damage to your car.",
+        "Opíšte, prosím, poškodenie vášho auta."
+      ],
+      [
+        "Ján",
+        "The rear bumper is damaged. I took photographs.",
+        "Zadný nárazník je poškodený. Urobil som fotografie."
+      ],
+      [
+        "Poisťovňa",
+        "We may need photos and a repair estimate.",
+        "Možno budeme potrebovať fotografie a cenovú ponuku na opravu."
+      ],
+      [
+        "Ján",
+        "Where should I send the documents?",
+        "Kam mám poslať dokumenty?"
+      ],
+      [
+        "Poisťovňa",
+        "Use the secure upload option in your account.",
+        "Použite zabezpečené nahrávanie vo svojom účte."
+      ],
+      [
+        "Ján",
+        "Will an adjuster contact me?",
+        "Ozve sa mi likvidátor poistnej udalosti?"
+      ],
+      [
+        "Poisťovňa",
+        "Yes. An adjuster will review the claim and contact you.",
+        "Áno. Likvidátor posúdi udalosť a bude vás kontaktovať."
+      ],
+      [
+        "Ján",
+        "Can you give me my claim number?",
+        "Môžete mi povedať číslo poistnej udalosti?"
+      ],
+      [
+        "Poisťovňa",
+        "Yes. It's five seven two eight.",
+        "Áno. Je to päť sedem dva osem."
+      ],
+      [
+        "Ján",
+        "What should I mention when I call for an update?",
+        "Čo mám uviesť, keď zavolám a spýtam sa na stav?"
+      ],
+      [
+        "Poisťovňa",
+        "Give us your claim number. Keep copies of what you send.",
+        "Uveďte číslo poistnej udalosti. Odložte si kópie všetkého, čo posielate."
+      ]
+    ],
+    "vocab": [
+      [
+        "file a claim",
+        "nahlásiť poistnú udalosť"
+      ],
+      [
+        "claim number",
+        "číslo poistnej udalosti"
+      ],
+      [
+        "adjuster",
+        "likvidátor poistnej udalosti"
+      ],
+      [
+        "rear bumper",
+        "zadný nárazník"
+      ],
+      [
+        "photographs",
+        "fotografie"
+      ],
+      [
+        "documents",
+        "dokumenty"
+      ],
+      [
+        "secure upload",
+        "zabezpečené nahrávanie"
+      ],
+      [
+        "update",
+        "aktuálna informácia"
+      ]
+    ],
+    "end": [
+      "Ján saves the claim number and copies of his documents.",
+      "Ján si odloží číslo poistnej udalosti a kópie dokumentov."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo má Ján uviesť pri ďalšom telefonáte?",
+        "a": [
+          "Číslo poistnej udalosti.",
+          "Hmotnosť bravčového mäsa.",
+          "Číslo kupónu."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján saves the claim number and copies of his documents.“?",
+        "a": [
+          "Ján si odloží číslo poistnej udalosti a kópie dokumentov.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján saves the claim number and copies of his documents."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What date did the accident happen?",
+        "a": [
+          "It happened yesterday, October tenth.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Kedy sa nehoda stala?",
+        "correct_sk": "Stala sa včera, desiateho októbra.",
+        "a_sk": [
+          "Stala sa včera, desiateho októbra.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Was anyone injured?",
+        "sk": "Bol niekto zranený?",
+        "a": [
+          "No one was injured, as far as I know.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Pokiaľ viem, nikto nebol zranený.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Pokiaľ viem, nikto nebol zranený."
+      },
+      {
+        "en": "Where should I send the documents?",
+        "sk": "Kam mám poslať dokumenty?",
+        "a": [
+          "Use the secure upload option in your account.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Použite zabezpečené nahrávanie vo svojom účte.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Použite zabezpečené nahrávanie vo svojom účte."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "insurance-denied",
+    "title": "Poisťovňa nechce zaplatiť",
+    "title_en": "The Insurance Won't Pay",
+    "group": "Poistenie v Amerike",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján dostal zamietnutie. Chce vedieť prečo a čo môže urobiť ďalej.",
+    "intro_en": "Jan received a denial. He asks why and what he can do next.",
+    "intro_sk": "Ján dostal zamietnutie. Chce vedieť prečo a čo môže urobiť ďalej.",
+    "scene": "images/situations/insurance-denied.webp",
+    "lines": [
+      [
+        "Ján",
+        "I received a letter saying my claim was denied.",
+        "Dostal som list, že moja poistná udalosť bola zamietnutá."
+      ],
+      [
+        "Poisťovňa",
+        "Do you have your claim number?",
+        "Máte číslo poistnej udalosti?"
+      ],
+      [
+        "Ján",
+        "Yes. Could you explain the reason in plain English?",
+        "Áno. Mohli by ste mi dôvod vysvetliť jednoduchou angličtinou?"
+      ],
+      [
+        "Poisťovňa",
+        "The letter says this type of damage is not covered.",
+        "V liste sa píše, že tento druh poškodenia nie je poistený."
+      ],
+      [
+        "Ján",
+        "But I pay a premium every month.",
+        "Ale každý mesiac platím poistné."
+      ],
+      [
+        "Poisťovňa",
+        "A premium pays for the policy. It doesn't cover every loss.",
+        "Poistné platíte za poistenie. Neznamená to, že pokrýva každú škodu."
+      ],
+      [
+        "Ján",
+        "Is this because of my deductible?",
+        "Je to kvôli mojej spoluúčasti?"
+      ],
+      [
+        "Poisťovňa",
+        "A deductible is the amount you pay for a covered claim.",
+        "Spoluúčasť je suma, ktorú pri uznanej poistnej udalosti platíte vy."
+      ],
+      [
+        "Ján",
+        "So a deductible is different from a premium?",
+        "Takže spoluúčasť je niečo iné než poistné?"
+      ],
+      [
+        "Poisťovňa",
+        "Yes. A denial is different, too. Please read the specific reason.",
+        "Áno. Zamietnutie je tiež niečo iné. Prečítajte si konkrétny dôvod."
+      ],
+      [
+        "Ján",
+        "Can I ask you to review this decision?",
+        "Môžem požiadať o prehodnotenie rozhodnutia?"
+      ],
+      [
+        "Poisťovňa",
+        "You can ask about the appeal process and its deadline.",
+        "Môžete sa spýtať na postup odvolania a jeho lehotu."
+      ],
+      [
+        "Ján",
+        "Which documents do you need from me?",
+        "Aké dokumenty odo mňa potrebujete?"
+      ],
+      [
+        "Poisťovňa",
+        "We'll send a list and explain where to submit them.",
+        "Pošleme zoznam a vysvetlíme, kam ich máte poslať."
+      ],
+      [
+        "Ján",
+        "Please send the reason and next steps in writing.",
+        "Prosím, pošlite mi dôvod a ďalší postup písomne."
+      ],
+      [
+        "Poisťovňa",
+        "We can do that. An appeal does not guarantee payment.",
+        "Môžeme to urobiť. Odvolanie nezaručuje, že poisťovňa zaplatí."
+      ]
+    ],
+    "vocab": [
+      [
+        "denied",
+        "zamietnuté"
+      ],
+      [
+        "not covered",
+        "nie je poistené"
+      ],
+      [
+        "deductible",
+        "spoluúčasť"
+      ],
+      [
+        "premium",
+        "poistné"
+      ],
+      [
+        "appeal",
+        "odvolanie"
+      ],
+      [
+        "deadline",
+        "lehota"
+      ],
+      [
+        "decision",
+        "rozhodnutie"
+      ],
+      [
+        "in writing",
+        "písomne"
+      ]
+    ],
+    "end": [
+      "Ján asks for written reasons and checks the appeal deadline.",
+      "Ján požiada o písomné dôvody a overí si lehotu na odvolanie."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo je deductible pri poistenej škode?",
+        "a": [
+          "Spoluúčasť, ktorú platím ja.",
+          "Mesačné poistné.",
+          "Zaručená výplata po odvolaní."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján asks for written reasons and checks the appeal deadline.“?",
+        "a": [
+          "Ján požiada o písomné dôvody a overí si lehotu na odvolanie.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján asks for written reasons and checks the appeal deadline."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Do you have your claim number?",
+        "a": [
+          "Yes. It's five seven two eight.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Máte číslo poistnej udalosti?",
+        "correct_sk": "Áno. Je to päť sedem dva osem.",
+        "a_sk": [
+          "Áno. Je to päť sedem dva osem.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Yes. Could you explain the reason in plain English?",
+        "sk": "Áno. Mohli by ste mi dôvod vysvetliť jednoduchou angličtinou?",
+        "a": [
+          "The letter says this type of damage is not covered.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "V liste sa píše, že tento druh poškodenia nie je poistený.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "V liste sa píše, že tento druh poškodenia nie je poistený."
+      },
+      {
+        "en": "Is this because of my deductible?",
+        "sk": "Je to kvôli mojej spoluúčasti?",
+        "a": [
+          "A deductible is the amount you pay for a covered claim.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Spoluúčasť je suma, ktorú pri uznanej poistnej udalosti platíte vy.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Spoluúčasť je suma, ktorú pri uznanej poistnej udalosti platíte vy."
+      }
+    ],
+    "notes": [
+      "Premium = poistné za zmluvu. Deductible = spoluúčasť pri poistenej škode. Napríklad pri oprave za 1 500 dolárov a spoluúčasti 500 dolárov platím 500 dolárov ja; ostatné závisí od uznania škody a podmienok. Zamietnutie je iná vec: poisťovňa danú škodu neuznala. Pýtam si dôvod a ďalší postup písomne."
+    ]
+  },
+  {
+    "id": "health-insurance",
+    "title": "Zdravotné poistenie",
+    "title_en": "Health Insurance",
+    "group": "Poistenie v Amerike",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Pred návštevou lekára si Ján overí, čo platí pri jeho konkrétnom poistení.",
+    "intro_en": "Before visiting a doctor, Jan checks the terms of his health insurance.",
+    "intro_sk": "Pred návštevou lekára si Ján overí, čo platí pri jeho konkrétnom poistení.",
+    "scene": "images/situations/health-insurance.webp",
+    "lines": [
+      [
+        "Ján",
+        "I want to check whether this doctor is in-network.",
+        "Chcem si overiť, či je tento lekár v sieti mojej poisťovne."
+      ],
+      [
+        "Poisťovňa",
+        "Please give me the doctor's name and location.",
+        "Povedzte mi, prosím, meno lekára a adresu ambulancie."
+      ],
+      [
+        "Ján",
+        "The name is Dr. Green. The office is in Burbank.",
+        "Volá sa doktor Green. Ambulancia je v Burbanku."
+      ],
+      [
+        "Poisťovňa",
+        "We'll check your plan's network.",
+        "Overíme sieť vášho poistenia."
+      ],
+      [
+        "Ján",
+        "What happens if I go out-of-network?",
+        "Čo sa stane, ak pôjdem mimo siete?"
+      ],
+      [
+        "Poisťovňa",
+        "Your costs may be higher, or the visit may not be covered.",
+        "Môžete platiť viac alebo návšteva nemusí byť hradená."
+      ],
+      [
+        "Ján",
+        "What is my copay for this visit?",
+        "Aký je môj pevný doplatok za túto návštevu?"
+      ],
+      [
+        "Poisťovňa",
+        "It depends on your plan and the type of visit.",
+        "Závisí to od vášho poistenia a typu návštevy."
+      ],
+      [
+        "Ján",
+        "Do I have to meet a deductible first?",
+        "Musím najprv zaplatiť sumu do výšky spoluúčasti?"
+      ],
+      [
+        "Poisťovňa",
+        "Some services apply to the deductible. Others may have a copay.",
+        "Niektoré služby sa započítavajú do spoluúčasti. Pri iných môže byť pevný doplatok."
+      ],
+      [
+        "Ján",
+        "Do I need a referral to see a specialist?",
+        "Potrebujem odporúčanie, aby som mohol ísť k špecialistovi?"
+      ],
+      [
+        "Poisťovňa",
+        "Let's check. Some plans require a referral.",
+        "Overme si to. Niektoré poistenia vyžadujú odporúčanie."
+      ],
+      [
+        "Ján",
+        "Does my prescription need prior authorization?",
+        "Treba na môj liek vopred schválenie poisťovne?"
+      ],
+      [
+        "Poisťovňa",
+        "It might. Your prescriber can help submit the request.",
+        "Možno áno. Lekár, ktorý liek predpísal, môže pomôcť podať žiadosť."
+      ],
+      [
+        "Ján",
+        "Please confirm my prescription coverage and costs in writing.",
+        "Prosím, potvrďte mi písomne úhradu liekov a moje náklady."
+      ],
+      [
+        "Poisťovňa",
+        "We'll explain the benefits. Approval and final costs depend on your plan.",
+        "Vysvetlíme vám podmienky. Schválenie a konečná cena závisia od vášho poistenia."
+      ]
+    ],
+    "vocab": [
+      [
+        "copay",
+        "pevný doplatok"
+      ],
+      [
+        "deductible",
+        "spoluúčasť"
+      ],
+      [
+        "in-network",
+        "v sieti poisťovne"
+      ],
+      [
+        "out-of-network",
+        "mimo siete poisťovne"
+      ],
+      [
+        "referral",
+        "odporúčanie"
+      ],
+      [
+        "prior authorization",
+        "predchádzajúce schválenie"
+      ],
+      [
+        "prescription coverage",
+        "úhrada liekov na recept"
+      ],
+      [
+        "plan",
+        "konkrétne zdravotné poistenie"
+      ]
+    ],
+    "end": [
+      "Ján checks both the doctor's office and the insurer before the visit.",
+      "Ján si údaje pred návštevou overí v ambulancii aj v poisťovni."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo môže znamenať návšteva mimo siete?",
+        "a": [
+          "Vyššie náklady alebo nehradenú návštevu.",
+          "Vždy bezplatnú návštevu.",
+          "Automaticky schválený liek."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján checks both the doctor's office and the insurer before the visit.“?",
+        "a": [
+          "Ján si údaje pred návštevou overí v ambulancii aj v poisťovni.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján checks both the doctor's office and the insurer before the visit."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What would you like to check?",
+        "a": [
+          "Is this doctor in-network?",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Čo si chcete overiť?",
+        "correct_sk": "Je tento lekár v sieti poisťovne?",
+        "a_sk": [
+          "Je tento lekár v sieti poisťovne?",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "What is my copay for this visit?",
+        "sk": "Aký je môj pevný doplatok za túto návštevu?",
+        "a": [
+          "It depends on your plan and the type of visit.",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Závisí to od vášho poistenia a typu návštevy.",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Závisí to od vášho poistenia a typu návštevy."
+      },
+      {
+        "en": "Do I have to meet a deductible first?",
+        "sk": "Musím najprv zaplatiť sumu do výšky spoluúčasti?",
+        "a": [
+          "Some services apply to the deductible. Others may have a copay.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Niektoré služby sa započítavajú do spoluúčasti. Pri iných môže byť pevný doplatok.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Niektoré služby sa započítavajú do spoluúčasti. Pri iných môže byť pevný doplatok."
+      }
+    ],
+    "notes": [
+      "Pri zdravotnom poistení sa deductible často počíta za rok. Niektoré služby môžu byť hradené aj pred jeho splnením. Copay je pevný doplatok za konkrétnu službu. Coinsurance je percentuálny podiel. Presné sumy a pravidlá si vždy overím pri svojom poistení.",
+      "In-network znamená poskytovateľa v sieti poisťovne. Referral je odporúčanie lekára; prior authorization je schválenie vopred. Samotné schválenie nemusí zaručiť úhradu všetkých nákladov."
+    ]
+  },
+  {
+    "id": "medical-bill",
+    "title": "Nerozumiem účtu",
+    "title_en": "I Don't Understand This Bill",
+    "group": "Poistenie v Amerike",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján má účet z ambulancie a dokument od poisťovne. Chce ich porovnať.",
+    "intro_en": "Jan has a medical bill and a document from his insurer. He wants to compare them.",
+    "intro_sk": "Ján má účet z ambulancie a dokument od poisťovne. Chce ich porovnať.",
+    "scene": "images/situations/medical-bill.webp",
+    "lines": [
+      [
+        "Ján",
+        "I'm calling about a medical bill I don't understand.",
+        "Volám kvôli účtu za zdravotnú starostlivosť, ktorému nerozumiem."
+      ],
+      [
+        "Fakturačné oddelenie",
+        "May I have the account number on the bill?",
+        "Môžete mi povedať číslo účtu uvedené na doklade?"
+      ],
+      [
+        "Ján",
+        "Yes. The bill says I owe three hundred dollars.",
+        "Áno. Na účte je napísané, že mám zaplatiť tristo dolárov."
+      ],
+      [
+        "Fakturačné oddelenie",
+        "Do you also have your explanation of benefits?",
+        "Máte aj prehľad vyúčtovania od poisťovne?"
+      ],
+      [
+        "Ján",
+        "Is that the document called an EOB?",
+        "Je to dokument s názvom EOB?"
+      ],
+      [
+        "Fakturačné oddelenie",
+        "Yes. An EOB explains the claim. It is not a bill.",
+        "Áno. EOB vysvetľuje vyúčtovanie poistnej udalosti. Nie je to účet na zaplatenie."
+      ],
+      [
+        "Ján",
+        "Where can I see the insurance payment?",
+        "Kde nájdem sumu, ktorú zaplatila poisťovňa?"
+      ],
+      [
+        "Fakturačné oddelenie",
+        "Look for the amount paid by your insurance.",
+        "Hľadajte sumu uhradenú vašou poisťovňou."
+      ],
+      [
+        "Ján",
+        "The balance on the bill looks different.",
+        "Zostávajúca suma na účte vyzerá inak."
+      ],
+      [
+        "Fakturačné oddelenie",
+        "Let's compare the dates and services first.",
+        "Najprv porovnajme dátumy a služby."
+      ],
+      [
+        "Ján",
+        "Could you send me an itemized bill?",
+        "Mohli by ste mi poslať účet s rozpísanými položkami?"
+      ],
+      [
+        "Fakturačné oddelenie",
+        "Yes. It will list each service and charge.",
+        "Áno. Budú na ňom jednotlivé služby a poplatky."
+      ],
+      [
+        "Ján",
+        "What is the due date? I don't want to miss it.",
+        "Aký je termín splatnosti? Nechcem ho zmeškať."
+      ],
+      [
+        "Fakturačné oddelenie",
+        "It's on the bill. We'll explain any disputed charges.",
+        "Je uvedený na účte. Vysvetlíme vám sporné poplatky."
+      ],
+      [
+        "Ján",
+        "If the bill is correct, can I ask about a payment plan?",
+        "Ak je účet správny, môžem sa spýtať na splátky?"
+      ],
+      [
+        "Fakturačné oddelenie",
+        "Yes. Ask our billing office about available options.",
+        "Áno. Spýtajte sa nášho fakturačného oddelenia na možnosti."
+      ],
+      [
+        "Rozprávač",
+        "The amount due is the money still owed on the bill.",
+        "Amount due je suma, ktorú treba ešte zaplatiť."
+      ]
+    ],
+    "vocab": [
+      [
+        "medical bill",
+        "účet za zdravotnú starostlivosť"
+      ],
+      [
+        "EOB",
+        "prehľad vyúčtovania od poisťovne"
+      ],
+      [
+        "amount due",
+        "suma na zaplatenie"
+      ],
+      [
+        "balance",
+        "zostávajúca suma"
+      ],
+      [
+        "due date",
+        "termín splatnosti"
+      ],
+      [
+        "itemized bill",
+        "účet s rozpísanými položkami"
+      ],
+      [
+        "payment plan",
+        "splátkový plán"
+      ],
+      [
+        "billing office",
+        "fakturačné oddelenie"
+      ]
+    ],
+    "end": [
+      "Ján keeps both documents and asks for a written explanation.",
+      "Ján si odloží oba dokumenty a požiada o písomné vysvetlenie."
+    ],
+    "comprehension": [
+      {
+        "q": "Je EOB účet na zaplatenie?",
+        "a": [
+          "Nie. Vysvetľuje vyúčtovanie poisťovne.",
+          "Áno. Treba ho vždy hneď zaplatiť.",
+          "Je to cenovka na mäso."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján keeps both documents and asks for a written explanation.“?",
+        "a": [
+          "Ján si odloží oba dokumenty a požiada o písomné vysvetlenie.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján keeps both documents and asks for a written explanation."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Could you tell me why you're calling?",
+        "a": [
+          "I don't understand this medical bill.",
+          "I need two pounds of pork shoulder.",
+          "The drain is clogged."
+        ],
+        "correct": 0,
+        "sk": "Môžete mi povedať, prečo voláte?",
+        "correct_sk": "Nerozumiem tomuto účtu za zdravotnú starostlivosť.",
+        "a_sk": [
+          "Nerozumiem tomuto účtu za zdravotnú starostlivosť.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Odtok je upchatý."
+        ]
+      },
+      {
+        "en": "Do you also have your explanation of benefits?",
+        "sk": "Máte aj prehľad vyúčtovania od poisťovne?",
+        "a": [
+          "Is that the document called an EOB?",
+          "The drain is clogged.",
+          "I am looking for all-purpose flour."
+        ],
+        "a_sk": [
+          "Je to dokument s názvom EOB?",
+          "Odtok je upchatý.",
+          "Hľadám univerzálnu múku."
+        ],
+        "correct": 0,
+        "correct_sk": "Je to dokument s názvom EOB?"
+      },
+      {
+        "en": "Is that the document called an EOB?",
+        "sk": "Je to dokument s názvom EOB?",
+        "a": [
+          "Yes. An EOB explains the claim. It is not a bill.",
+          "I am looking for all-purpose flour.",
+          "My package is missing."
+        ],
+        "a_sk": [
+          "Áno. EOB vysvetľuje vyúčtovanie poistnej udalosti. Nie je to účet na zaplatenie.",
+          "Hľadám univerzálnu múku.",
+          "Môj balík sa stratil."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. EOB vysvetľuje vyúčtovanie poistnej udalosti. Nie je to účet na zaplatenie."
+      }
+    ],
+    "notes": [
+      "EOB vysvetľuje, ako poisťovňa vyúčtovala starostlivosť. Nie je to výzva na zaplatenie. Porovnám dátum, službu, platbu poisťovne a sumu pre mňa s účtom od poskytovateľa."
+    ]
+  },
+  {
+    "id": "food-halusky",
+    "title": "Suroviny na halušky",
+    "title_en": "Ingredients for Halušky",
+    "group": "Nákupy a slovenské jedlo",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján chce v americkom supermarkete kúpiť suroviny na halušky. Vysvetlí, aký syr hľadá.",
+    "intro_en": "Jan shops for halusky ingredients in an American supermarket. He explains which cheese he wants.",
+    "intro_sk": "Ján chce v americkom supermarkete kúpiť suroviny na halušky. Vysvetlí, aký syr hľadá.",
+    "scene": "images/situations/food-halusky.webp",
+    "lines": [
+      [
+        "Ján",
+        "Excuse me. Do you carry potatoes and all-purpose flour?",
+        "Prepáčte. Máte zemiaky a hladkú univerzálnu múku?"
+      ],
+      [
+        "Zamestnanec",
+        "Yes. Potatoes are in produce, and flour is in the baking aisle.",
+        "Áno. Zemiaky sú v oddelení ovocia a zeleniny a múka v uličke s potrebami na pečenie."
+      ],
+      [
+        "Ján",
+        "I'm making Slovak potato dumplings called halusky.",
+        "Robím slovenské zemiakové halušky."
+      ],
+      [
+        "Zamestnanec",
+        "What else do you need?",
+        "Čo ešte potrebujete?"
+      ],
+      [
+        "Ján",
+        "I'm looking for a cheese called bryndza.",
+        "Hľadám syr, ktorý sa volá bryndza."
+      ],
+      [
+        "Zamestnanec",
+        "We don't usually carry bryndza. What kind of cheese is it?",
+        "Bryndzu zvyčajne nemávame. Aký je to syr?"
+      ],
+      [
+        "Ján",
+        "It's a tangy sheep's milk cheese used in Slovakia.",
+        "Je to syr z ovčieho mlieka s výraznou chuťou, ktorý sa používa na Slovensku."
+      ],
+      [
+        "Zamestnanec",
+        "We have some sheep's milk cheese, but it isn't the same product.",
+        "Máme nejaký ovčí syr, ale nie je to ten istý výrobok."
+      ],
+      [
+        "Ján",
+        "Do you have farmer cheese?",
+        "Máte farmer cheese, taký čerstvý hrudkovitý syr?"
+      ],
+      [
+        "Zamestnanec",
+        "Yes. It's near the cottage cheese.",
+        "Áno. Je pri cottage cheese."
+      ],
+      [
+        "Ján",
+        "Would it be an exact substitute?",
+        "Bola by to presná náhrada?"
+      ],
+      [
+        "Zamestnanec",
+        "No. The flavor and texture would be different.",
+        "Nie. Chuť aj konzistencia by boli iné."
+      ],
+      [
+        "Ján",
+        "I understand. I'll check the ingredients.",
+        "Rozumiem. Pozriem si zloženie."
+      ],
+      [
+        "Zamestnanec",
+        "You could also ask a specialty store about bryndza.",
+        "Na bryndzu sa môžete spýtať aj v špecializovanom obchode."
+      ],
+      [
+        "Ján",
+        "Where can I find sour cream?",
+        "Kde nájdem kyslú smotanu?"
+      ],
+      [
+        "Zamestnanec",
+        "In the dairy section. I can show you.",
+        "V oddelení mliečnych výrobkov. Môžem vám ukázať kde."
+      ]
+    ],
+    "vocab": [
+      [
+        "potatoes",
+        "zemiaky"
+      ],
+      [
+        "all-purpose flour",
+        "univerzálna múka"
+      ],
+      [
+        "produce",
+        "ovocie a zelenina"
+      ],
+      [
+        "sheep's milk cheese",
+        "ovčí syr"
+      ],
+      [
+        "farmer cheese",
+        "čerstvý hrudkovitý syr"
+      ],
+      [
+        "substitute",
+        "náhrada"
+      ],
+      [
+        "texture",
+        "konzistencia"
+      ],
+      [
+        "sour cream",
+        "kyslá smotana"
+      ]
+    ],
+    "end": [
+      "Ján buys the basics and checks the cheese instead of assuming it is bryndza.",
+      "Ján kúpi základné suroviny a overí si syr namiesto toho, aby ho považoval za bryndzu."
+    ],
+    "comprehension": [
+      {
+        "q": "Je farmer cheese presne to isté ako bryndza?",
+        "a": [
+          "Nie, chuť aj konzistencia sú iné.",
+          "Áno, vždy je to bryndza.",
+          "Je to druh múky."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján buys the basics and checks the cheese instead of assuming it is bryndza.“?",
+        "a": [
+          "Ján kúpi základné suroviny a overí si syr namiesto toho, aby ho považoval za bryndzu.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján buys the basics and checks the cheese instead of assuming it is bryndza."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What else do you need?",
+        "a": [
+          "I'm looking for a cheese called bryndza.",
+          "The drain is clogged.",
+          "My package is missing."
+        ],
+        "correct": 0,
+        "sk": "Čo ešte potrebujete?",
+        "correct_sk": "Hľadám syr, ktorý sa volá bryndza.",
+        "a_sk": [
+          "Hľadám syr, ktorý sa volá bryndza.",
+          "Odtok je upchatý.",
+          "Môj balík sa stratil."
+        ]
+      },
+      {
+        "en": "What else do you need?",
+        "sk": "Čo ešte potrebujete?",
+        "a": [
+          "I'm looking for a cheese called bryndza.",
+          "My package is missing.",
+          "I need a screwdriver."
+        ],
+        "a_sk": [
+          "Hľadám syr, ktorý sa volá bryndza.",
+          "Môj balík sa stratil.",
+          "Potrebujem skrutkovač."
+        ],
+        "correct": 0,
+        "correct_sk": "Hľadám syr, ktorý sa volá bryndza."
+      },
+      {
+        "en": "We don't usually carry bryndza. What kind of cheese is it?",
+        "sk": "Bryndzu zvyčajne nemávame. Aký je to syr?",
+        "a": [
+          "It's a tangy sheep's milk cheese used in Slovakia.",
+          "I need a screwdriver.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Je to syr z ovčieho mlieka s výraznou chuťou, ktorý sa používa na Slovensku.",
+          "Potrebujem skrutkovač.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Je to syr z ovčieho mlieka s výraznou chuťou, ktorý sa používa na Slovensku."
+      }
+    ],
+    "notes": [
+      "All-purpose flour je americká univerzálna múka; jej vlastnosti sa môžu líšiť od slovenskej hladkej múky. Bryndza má osobitú chuť a konzistenciu. Farmer cheese alebo iný ovčí syr sú iba približné náhrady, nie ten istý výrobok."
+    ]
+  },
+  {
+    "id": "meat-counter",
+    "title": "U mäsiara",
+    "title_en": "At the Meat Counter",
+    "group": "Nákupy a slovenské jedlo",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján kupuje bravčové mäso. Vopred si overí druh, hmotnosť a cenu.",
+    "intro_en": "Jan buys pork and checks the cut, weight, and price first.",
+    "intro_sk": "Ján kupuje bravčové mäso. Vopred si overí druh, hmotnosť a cenu.",
+    "scene": "images/situations/meat-counter.webp",
+    "lines": [
+      [
+        "Ján",
+        "I'd like two pounds of pork shoulder, please.",
+        "Prosím si dve libry bravčového pliecka."
+      ],
+      [
+        "Mäsiar",
+        "Would you like it whole or cut into pieces?",
+        "Chcete ho vcelku alebo nakrájané na kúsky?"
+      ],
+      [
+        "Ján",
+        "Cut into pieces, please. How much is it per pound?",
+        "Na kúsky, prosím. Koľko stojí libra?"
+      ],
+      [
+        "Mäsiar",
+        "It's four dollars and ninety-nine cents per pound today.",
+        "Dnes stojí štyri doláre deväťdesiatdeväť centov za libru."
+      ],
+      [
+        "Ján",
+        "Do you also have pork belly?",
+        "Máte aj bravčový bôčik?"
+      ],
+      [
+        "Mäsiar",
+        "Yes. It's in the case on your left.",
+        "Áno. Je vo vitríne naľavo od vás."
+      ],
+      [
+        "Ján",
+        "I'd like one pound of ground pork, too.",
+        "Prosím si aj jednu libru mletého bravčového mäsa."
+      ],
+      [
+        "Mäsiar",
+        "This package is sixteen ounces, which is one pound.",
+        "Toto balenie má šestnásť uncí, teda jednu libru."
+      ],
+      [
+        "Ján",
+        "Do you carry smoked sausage?",
+        "Máte údenú klobásu?"
+      ],
+      [
+        "Mäsiar",
+        "Yes, but check the label for the ingredients.",
+        "Áno, ale zloženie si pozrite na etikete."
+      ],
+      [
+        "Ján",
+        "Could you slice that piece of meat thinly?",
+        "Mohli by ste mi ten kus mäsa nakrájať na tenké plátky?"
+      ],
+      [
+        "Mäsiar",
+        "Of course. How much would you like?",
+        "Samozrejme. Koľko si prosíte?"
+      ],
+      [
+        "Ján",
+        "About half a pound. Do you have bones for soup?",
+        "Asi pol libry. Máte aj kosti do polievky?"
+      ],
+      [
+        "Mäsiar",
+        "We have some pork bones. I'll show you.",
+        "Máme bravčové kosti. Ukážem vám ich."
+      ],
+      [
+        "Ján",
+        "Please wrap the meat separately.",
+        "Prosím, zabaľte mäso osobitne."
+      ],
+      [
+        "Mäsiar",
+        "Certainly. The weight and price are on each package.",
+        "Samozrejme. Hmotnosť a cena sú na každom balení."
+      ]
+    ],
+    "vocab": [
+      [
+        "pork shoulder",
+        "bravčové pliecko"
+      ],
+      [
+        "pork belly",
+        "bravčový bôčik"
+      ],
+      [
+        "ground pork",
+        "mleté bravčové mäso"
+      ],
+      [
+        "smoked sausage",
+        "údená klobása"
+      ],
+      [
+        "pound",
+        "libra"
+      ],
+      [
+        "ounces",
+        "unce"
+      ],
+      [
+        "thinly",
+        "na tenké plátky"
+      ],
+      [
+        "bones for soup",
+        "kosti do polievky"
+      ]
+    ],
+    "end": [
+      "Ján checks the price per pound and takes the wrapped meat.",
+      "Ján si overí cenu za libru a vezme si zabalené mäso."
+    ],
+    "comprehension": [
+      {
+        "q": "Koľko uncí je jedna libra?",
+        "a": [
+          "Šestnásť.",
+          "Desať.",
+          "Sto."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján checks the price per pound and takes the wrapped meat.“?",
+        "a": [
+          "Ján si overí cenu za libru a vezme si zabalené mäso.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján checks the price per pound and takes the wrapped meat."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Would you like it whole or cut into pieces?",
+        "a": [
+          "Cut into pieces, please.",
+          "The drain is clogged.",
+          "My package is missing."
+        ],
+        "correct": 0,
+        "sk": "Chcete ho vcelku alebo nakrájané na kúsky?",
+        "correct_sk": "Na kúsky, prosím.",
+        "a_sk": [
+          "Na kúsky, prosím.",
+          "Odtok je upchatý.",
+          "Môj balík sa stratil."
+        ]
+      },
+      {
+        "en": "Cut into pieces, please. How much is it per pound?",
+        "sk": "Na kúsky, prosím. Koľko stojí libra?",
+        "a": [
+          "It's four dollars and ninety-nine cents per pound today.",
+          "My package is missing.",
+          "I need a screwdriver."
+        ],
+        "a_sk": [
+          "Dnes stojí štyri doláre deväťdesiatdeväť centov za libru.",
+          "Môj balík sa stratil.",
+          "Potrebujem skrutkovač."
+        ],
+        "correct": 0,
+        "correct_sk": "Dnes stojí štyri doláre deväťdesiatdeväť centov za libru."
+      },
+      {
+        "en": "Do you also have pork belly?",
+        "sk": "Máte aj bravčový bôčik?",
+        "a": [
+          "Yes. It's in the case on your left.",
+          "I need a screwdriver.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Áno. Je vo vitríne naľavo od vás.",
+          "Potrebujem skrutkovač.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Je vo vitríne naľavo od vás."
+      }
+    ],
+    "notes": [
+      "1 pound (lb) = 16 ounces (oz), približne 454 gramov. Half a pound je asi 227 gramov. Price per pound je cena za libru, nie za celé balenie."
+    ]
+  },
+  {
+    "id": "food-baking",
+    "title": "Kapusta a pečenie",
+    "title_en": "Cabbage and Baking Ingredients",
+    "group": "Nákupy a slovenské jedlo",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján hľadá kapustu a suroviny na pečenie. Niektoré názvy sa podobajú, ale znamenajú niečo iné.",
+    "intro_en": "Jan looks for cabbage and baking ingredients. Some similar names mean different things.",
+    "intro_sk": "Ján hľadá kapustu a suroviny na pečenie. Niektoré názvy sa podobajú, ale znamenajú niečo iné.",
+    "scene": "images/situations/food-baking.webp",
+    "lines": [
+      [
+        "Ján",
+        "Where can I find sauerkraut?",
+        "Kde nájdem kyslú kapustu?"
+      ],
+      [
+        "Zamestnanec",
+        "Some is in jars, and some is refrigerated.",
+        "Niektorá je v pohároch a niektorá v chladiacom boxe."
+      ],
+      [
+        "Ján",
+        "I also need a head of fresh cabbage.",
+        "Potrebujem aj jednu hlávku čerstvej kapusty."
+      ],
+      [
+        "Zamestnanec",
+        "Fresh cabbage is in the produce section.",
+        "Čerstvá kapusta je v oddelení ovocia a zeleniny."
+      ],
+      [
+        "Ján",
+        "Do you carry poppy seeds for baking?",
+        "Máte mak na pečenie?"
+      ],
+      [
+        "Zamestnanec",
+        "Yes. Check the baking aisle and the spice section.",
+        "Áno. Pozrite sa do uličky s potrebami na pečenie a do oddelenia korenín."
+      ],
+      [
+        "Ján",
+        "I need yeast, not baking powder.",
+        "Potrebujem droždie, nie prášok do pečiva."
+      ],
+      [
+        "Zamestnanec",
+        "We have dry yeast packets. They're near the flour.",
+        "Máme sušené droždie vo vrecúškach. Je pri múke."
+      ],
+      [
+        "Ján",
+        "Is cottage cheese the same as Slovak tvaroh?",
+        "Je cottage cheese to isté ako slovenský tvaroh?"
+      ],
+      [
+        "Zamestnanec",
+        "It has curds and is often wetter. It may not work the same way.",
+        "Má hrudky a často obsahuje viac tekutiny. Pri varení sa nemusí správať rovnako."
+      ],
+      [
+        "Ján",
+        "I'll check the recipe. I also need sour cream.",
+        "Pozriem si recept. Potrebujem aj kyslú smotanu."
+      ],
+      [
+        "Zamestnanec",
+        "That's in the dairy section.",
+        "Tá je v oddelení mliečnych výrobkov."
+      ],
+      [
+        "Ján",
+        "Where are the plain breadcrumbs?",
+        "Kde je neochutená strúhanka?"
+      ],
+      [
+        "Zamestnanec",
+        "Near the stuffing mixes. Look for plain, not seasoned.",
+        "Pri zmesiach na plnku. Hľadajte neochutenú, nie korenenú."
+      ],
+      [
+        "Ján",
+        "Do you have caraway seeds, not cumin?",
+        "Máte rascu, nie rímsku rascu?"
+      ],
+      [
+        "Zamestnanec",
+        "Yes. Those are different spices. Let's check the labels.",
+        "Áno. Sú to rôzne koreniny. Pozrime sa na etikety."
+      ]
+    ],
+    "vocab": [
+      [
+        "sauerkraut",
+        "kyslá kapusta"
+      ],
+      [
+        "cabbage",
+        "kapusta"
+      ],
+      [
+        "poppy seeds",
+        "mak"
+      ],
+      [
+        "yeast",
+        "droždie"
+      ],
+      [
+        "cottage cheese",
+        "hrudkovitý čerstvý syr"
+      ],
+      [
+        "breadcrumbs",
+        "strúhanka"
+      ],
+      [
+        "caraway seeds",
+        "rasca"
+      ],
+      [
+        "cumin",
+        "rímska rasca"
+      ]
+    ],
+    "end": [
+      "Ján checks the product names before putting them in his basket.",
+      "Ján si overí názvy výrobkov, kým ich vloží do košíka."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo chce Ján namiesto baking powder?",
+        "a": [
+          "Droždie.",
+          "Brzdové doštičky.",
+          "Odťahové auto."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján checks the product names before putting them in his basket.“?",
+        "a": [
+          "Ján si overí názvy výrobkov, kým ich vloží do košíka.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján checks the product names before putting them in his basket."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Do you need caraway seeds or cumin?",
+        "a": [
+          "Caraway seeds, please.",
+          "The drain is clogged.",
+          "My package is missing."
+        ],
+        "correct": 0,
+        "sk": "Potrebujete rascu alebo rímsku rascu?",
+        "correct_sk": "Rascu, prosím.",
+        "a_sk": [
+          "Rascu, prosím.",
+          "Odtok je upchatý.",
+          "Môj balík sa stratil."
+        ]
+      },
+      {
+        "en": "Do you carry poppy seeds for baking?",
+        "sk": "Máte mak na pečenie?",
+        "a": [
+          "Yes. Check the baking aisle and the spice section.",
+          "My package is missing.",
+          "I need a screwdriver."
+        ],
+        "a_sk": [
+          "Áno. Pozrite sa do uličky s potrebami na pečenie a do oddelenia korenín.",
+          "Môj balík sa stratil.",
+          "Potrebujem skrutkovač."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Pozrite sa do uličky s potrebami na pečenie a do oddelenia korenín."
+      },
+      {
+        "en": "Is cottage cheese the same as Slovak tvaroh?",
+        "sk": "Je cottage cheese to isté ako slovenský tvaroh?",
+        "a": [
+          "It has curds and is often wetter. It may not work the same way.",
+          "I need a screwdriver.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Má hrudky a často obsahuje viac tekutiny. Pri varení sa nemusí správať rovnako.",
+          "Potrebujem skrutkovač.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Má hrudky a často obsahuje viac tekutiny. Pri varení sa nemusí správať rovnako."
+      }
+    ],
+    "notes": [
+      "Caraway = rasca; cumin = rímska rasca. Nie sú to rovnaké koreniny. Yeast = droždie; baking powder = prášok do pečiva. Cottage cheese býva hrudkovitý a vlhkejší než slovenský tvaroh. Vždy si pozriem výrobok aj recept."
+    ]
+  },
+  {
+    "id": "store-directions",
+    "title": "Kde to nájdem?",
+    "title_en": "Where Can I Find It?",
+    "group": "Nákupy a slovenské jedlo",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján sa pýta zamestnanca supermarketu, kde nájde výrobok.",
+    "intro_en": "Jan asks a supermarket employee where to find a product.",
+    "intro_sk": "Ján sa pýta zamestnanca supermarketu, kde nájde výrobok.",
+    "scene": "images/situations/store-directions.webp",
+    "lines": [
+      [
+        "Ján",
+        "Excuse me. Where can I find all-purpose flour?",
+        "Prepáčte. Kde nájdem univerzálnu múku?"
+      ],
+      [
+        "Zamestnanec",
+        "It's in aisle five, on the right.",
+        "Je v piatej uličke, napravo."
+      ],
+      [
+        "Ján",
+        "Is that near the sugar?",
+        "Je to pri cukre?"
+      ],
+      [
+        "Zamestnanec",
+        "Yes. The flour is on the lower shelf.",
+        "Áno. Múka je na spodnej polici."
+      ],
+      [
+        "Ján",
+        "Do you carry caraway seeds, too?",
+        "Máte aj rascu?"
+      ],
+      [
+        "Zamestnanec",
+        "We usually do. Let me check if they're in stock.",
+        "Zvyčajne áno. Overím, či ich máme na sklade."
+      ],
+      [
+        "Ján",
+        "Could you show me where they are?",
+        "Mohli by ste mi ukázať, kde sú?"
+      ],
+      [
+        "Zamestnanec",
+        "Sure. Follow me to the spice section.",
+        "Samozrejme. Poďte za mnou do oddelenia korenín."
+      ],
+      [
+        "Ján",
+        "I can't find the small package.",
+        "Neviem nájsť malé balenie."
+      ],
+      [
+        "Zamestnanec",
+        "It may be sold out. Would a larger package work?",
+        "Možno je vypredané. Vyhovovalo by vám väčšie balenie?"
+      ],
+      [
+        "Ján",
+        "Is there something similar?",
+        "Máte niečo podobné?"
+      ],
+      [
+        "Zamestnanec",
+        "There are other spices, but they won't taste the same.",
+        "Máme aj iné koreniny, ale nebudú chutiť rovnako."
+      ],
+      [
+        "Ján",
+        "When might you get more?",
+        "Kedy by ste mohli dostať ďalšie?"
+      ],
+      [
+        "Zamestnanec",
+        "I don't have a delivery date yet.",
+        "Zatiaľ neviem termín dodávky."
+      ],
+      [
+        "Ján",
+        "Could you check another store nearby?",
+        "Mohli by ste to overiť v inom obchode nablízku?"
+      ],
+      [
+        "Zamestnanec",
+        "I can check our system, but call that store to confirm.",
+        "Môžem sa pozrieť do systému, ale zavolajte do toho obchodu a overte si to."
+      ]
+    ],
+    "vocab": [
+      [
+        "aisle",
+        "ulička"
+      ],
+      [
+        "on the right",
+        "napravo"
+      ],
+      [
+        "lower shelf",
+        "spodná polica"
+      ],
+      [
+        "in stock",
+        "na sklade"
+      ],
+      [
+        "sold out",
+        "vypredané"
+      ],
+      [
+        "spice section",
+        "oddelenie korenín"
+      ],
+      [
+        "larger package",
+        "väčšie balenie"
+      ],
+      [
+        "delivery date",
+        "termín dodávky"
+      ]
+    ],
+    "end": [
+      "Ján follows the employee and checks the right shelf.",
+      "Ján ide za zamestnancom a pozrie si správnu policu."
+    ],
+    "comprehension": [
+      {
+        "q": "Kde je múka?",
+        "a": [
+          "V piatej uličke napravo.",
+          "Pod drezom.",
+          "V kufri auta."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján follows the employee and checks the right shelf.“?",
+        "a": [
+          "Ján ide za zamestnancom a pozrie si správnu policu.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján follows the employee and checks the right shelf."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Would a larger package work?",
+        "a": [
+          "Yes, a larger package is fine.",
+          "The drain is clogged.",
+          "My package is missing."
+        ],
+        "correct": 0,
+        "sk": "Vyhovovalo by vám väčšie balenie?",
+        "correct_sk": "Áno, väčšie balenie mi vyhovuje.",
+        "a_sk": [
+          "Áno, väčšie balenie mi vyhovuje.",
+          "Odtok je upchatý.",
+          "Môj balík sa stratil."
+        ]
+      },
+      {
+        "en": "Is that near the sugar?",
+        "sk": "Je to pri cukre?",
+        "a": [
+          "Yes. The flour is on the lower shelf.",
+          "My package is missing.",
+          "I need a screwdriver."
+        ],
+        "a_sk": [
+          "Áno. Múka je na spodnej polici.",
+          "Môj balík sa stratil.",
+          "Potrebujem skrutkovač."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Múka je na spodnej polici."
+      },
+      {
+        "en": "Do you carry caraway seeds, too?",
+        "sk": "Máte aj rascu?",
+        "a": [
+          "We usually do. Let me check if they're in stock.",
+          "I need a screwdriver.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Zvyčajne áno. Overím, či ich máme na sklade.",
+          "Potrebujem skrutkovač.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Zvyčajne áno. Overím, či ich máme na sklade."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "checkout",
+    "title": "Pri pokladni",
+    "title_en": "At Checkout",
+    "group": "Nákupy a slovenské jedlo",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján si pri pokladni všimne inú cenu. Pokojne požiada o kontrolu.",
+    "intro_en": "Jan notices a different price at checkout and politely asks for a check.",
+    "intro_sk": "Ján si pri pokladni všimne inú cenu. Pokojne požiada o kontrolu.",
+    "scene": "images/situations/checkout.webp",
+    "lines": [
+      [
+        "Pokladníčka",
+        "Do you have a loyalty card?",
+        "Máte zákaznícku kartu?"
+      ],
+      [
+        "Ján",
+        "No. Can I still use this coupon?",
+        "Nie. Môžem aj tak použiť tento kupón?"
+      ],
+      [
+        "Pokladníčka",
+        "Let me check the coupon's terms.",
+        "Pozriem sa na podmienky kupónu."
+      ],
+      [
+        "Ján",
+        "The price on the shelf was lower than this.",
+        "Cena na polici bola nižšia než táto."
+      ],
+      [
+        "Pokladníčka",
+        "Which item are you asking about?",
+        "Na ktorý výrobok sa pýtate?"
+      ],
+      [
+        "Ján",
+        "This bag of flour. Could you check the price?",
+        "Na toto vrecko múky. Mohli by ste overiť cenu?"
+      ],
+      [
+        "Pokladníčka",
+        "Yes. I'll ask someone to check the shelf tag.",
+        "Áno. Poprosím kolegu, aby skontroloval cenovku na polici."
+      ],
+      [
+        "Ján",
+        "Thank you. Can I pay with a debit card?",
+        "Ďakujem. Môžem platiť debetnou kartou?"
+      ],
+      [
+        "Pokladníčka",
+        "Yes. We also take credit cards and cash.",
+        "Áno. Prijímame aj kreditné karty a hotovosť."
+      ],
+      [
+        "Ján",
+        "Could you put the meat in a separate bag?",
+        "Mohli by ste dať mäso do osobitnej tašky?"
+      ],
+      [
+        "Pokladníčka",
+        "Of course. Would you like a receipt?",
+        "Samozrejme. Chcete účtenku?"
+      ],
+      [
+        "Ján",
+        "Yes, please. What if I need to return an item?",
+        "Áno, prosím. Čo ak budem musieť niečo vrátiť?"
+      ],
+      [
+        "Pokladníčka",
+        "Keep the receipt and ask customer service about the return policy.",
+        "Odložte si účtenku a na zákazníckom oddelení sa spýtajte na podmienky vrátenia."
+      ],
+      [
+        "Ján",
+        "Will the refund go back to my card?",
+        "Vrátia sa mi peniaze na kartu?"
+      ],
+      [
+        "Pokladníčka",
+        "Usually, but it depends on the purchase and our policy.",
+        "Zvyčajne áno, ale závisí to od nákupu a našich podmienok."
+      ],
+      [
+        "Ján",
+        "Next time, I may try self-checkout. Can someone help me?",
+        "Nabudúce možno skúsim samoobslužnú pokladňu. Môže mi niekto pomôcť?"
+      ],
+      [
+        "Pokladníčka",
+        "An employee can help you there.",
+        "Tam vám môže pomôcť zamestnanec."
+      ]
+    ],
+    "vocab": [
+      [
+        "loyalty card",
+        "zákaznícka karta"
+      ],
+      [
+        "coupon",
+        "kupón"
+      ],
+      [
+        "debit card",
+        "debetná karta"
+      ],
+      [
+        "credit card",
+        "kreditná karta"
+      ],
+      [
+        "cash",
+        "hotovosť"
+      ],
+      [
+        "self-checkout",
+        "samoobslužná pokladňa"
+      ],
+      [
+        "refund",
+        "vrátenie peňazí"
+      ],
+      [
+        "receipt",
+        "účtenka"
+      ]
+    ],
+    "end": [
+      "Ján checks the corrected price and keeps his receipt.",
+      "Ján si overí opravenú cenu a odloží účtenku."
+    ],
+    "comprehension": [
+      {
+        "q": "Prečo Ján požiada o kontrolu ceny?",
+        "a": [
+          "Na polici bola nižšia.",
+          "Chce nahlásiť nehodu.",
+          "Hľadá lekára v sieti."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján checks the corrected price and keeps his receipt.“?",
+        "a": [
+          "Ján si overí opravenú cenu a odloží účtenku.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján checks the corrected price and keeps his receipt."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Would you like a receipt?",
+        "a": [
+          "Yes, please.",
+          "The drain is clogged.",
+          "My package is missing."
+        ],
+        "correct": 0,
+        "sk": "Chcete účtenku?",
+        "correct_sk": "Áno, prosím.",
+        "a_sk": [
+          "Áno, prosím.",
+          "Odtok je upchatý.",
+          "Môj balík sa stratil."
+        ]
+      },
+      {
+        "en": "No. Can I still use this coupon?",
+        "sk": "Nie. Môžem aj tak použiť tento kupón?",
+        "a": [
+          "Let me check the coupon's terms.",
+          "My package is missing.",
+          "I need a screwdriver."
+        ],
+        "a_sk": [
+          "Pozriem sa na podmienky kupónu.",
+          "Môj balík sa stratil.",
+          "Potrebujem skrutkovač."
+        ],
+        "correct": 0,
+        "correct_sk": "Pozriem sa na podmienky kupónu."
+      },
+      {
+        "en": "Which item are you asking about?",
+        "sk": "Na ktorý výrobok sa pýtate?",
+        "a": [
+          "This bag of flour. Could you check the price?",
+          "I need a screwdriver.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Na toto vrecko múky. Mohli by ste overiť cenu?",
+          "Potrebujem skrutkovač.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Na toto vrecko múky. Mohli by ste overiť cenu?"
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "package-missing",
+    "title": "Balík sa stratil",
+    "title_en": "My Package Is Missing",
+    "group": "Domov a bežné problémy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "V oznámení je doručené, ale pred dverami nič nie je. Ján kontaktuje zákaznícku podporu.",
+    "intro_en": "The notification says delivered, but the doorstep is empty. Jan contacts customer service.",
+    "intro_sk": "V oznámení je doručené, ale pred dverami nič nie je. Ján kontaktuje zákaznícku podporu.",
+    "scene": "images/situations/package-missing.webp",
+    "lines": [
+      [
+        "Ján",
+        "My package says delivered, but I can't find it.",
+        "Pri balíku je uvedené doručené, ale neviem ho nájsť."
+      ],
+      [
+        "Zákaznícka podpora",
+        "May I have the tracking number?",
+        "Môžete mi povedať sledovacie číslo zásielky?"
+      ],
+      [
+        "Ján",
+        "Yes. I'll read it slowly.",
+        "Áno. Pomaly vám ho prečítam."
+      ],
+      [
+        "Zákaznícka podpora",
+        "Have you checked the delivery confirmation photo?",
+        "Pozreli ste si fotografiu potvrdzujúcu doručenie?"
+      ],
+      [
+        "Ján",
+        "Yes. That isn't my front door.",
+        "Áno. To nie sú moje vchodové dvere."
+      ],
+      [
+        "Zákaznícka podpora",
+        "Could it be a neighbor's address?",
+        "Môže to byť adresa suseda?"
+      ],
+      [
+        "Ján",
+        "I asked my neighbor. He doesn't have it.",
+        "Spýtal som sa suseda. Nemá ho."
+      ],
+      [
+        "Zákaznícka podpora",
+        "Please confirm the shipping address in your account.",
+        "Prosím, overte dodaciu adresu vo svojom účte."
+      ],
+      [
+        "Ján",
+        "The address is correct. I think it went to the wrong address.",
+        "Adresa je správna. Myslím, že balík išiel na nesprávnu adresu."
+      ],
+      [
+        "Zákaznícka podpora",
+        "We'll open a delivery investigation.",
+        "Začneme preverovať doručenie."
+      ],
+      [
+        "Ján",
+        "Can I get a case number?",
+        "Môžem dostať číslo prípadu?"
+      ],
+      [
+        "Zákaznícka podpora",
+        "Yes. Keep it for any follow-up questions.",
+        "Áno. Odložte si ho pre ďalšie otázky."
+      ],
+      [
+        "Ján",
+        "What if the package cannot be found?",
+        "Čo ak sa balík nenájde?"
+      ],
+      [
+        "Zákaznícka podpora",
+        "We'll explain whether a replacement or refund is available.",
+        "Vysvetlíme vám, či môžete dostať náhradný výrobok alebo peniaze späť."
+      ],
+      [
+        "Ján",
+        "Please send the next steps in writing.",
+        "Prosím, pošlite mi ďalší postup písomne."
+      ],
+      [
+        "Zákaznícka podpora",
+        "We can send an update through your account.",
+        "Môžeme poslať aktuálne informácie do vášho účtu."
+      ]
+    ],
+    "vocab": [
+      [
+        "delivered",
+        "doručené"
+      ],
+      [
+        "tracking number",
+        "sledovacie číslo zásielky"
+      ],
+      [
+        "delivery confirmation",
+        "potvrdenie o doručení"
+      ],
+      [
+        "front door",
+        "vchodové dvere"
+      ],
+      [
+        "shipping address",
+        "dodacia adresa"
+      ],
+      [
+        "replacement",
+        "náhradný výrobok"
+      ],
+      [
+        "refund",
+        "vrátenie peňazí"
+      ],
+      [
+        "investigation",
+        "preverovanie"
+      ]
+    ],
+    "end": [
+      "Ján keeps the case number and waits for the investigation.",
+      "Ján si odloží číslo prípadu a počká na preverenie."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo ukazuje fotografia doručenia?",
+        "a": [
+          "Iné dvere než Jánove.",
+          "Jánove brzdy.",
+          "Oddelenie mäsa."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján keeps the case number and waits for the investigation.“?",
+        "a": [
+          "Ján si odloží číslo prípadu a počká na preverenie.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján keeps the case number and waits for the investigation."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "May I have the tracking number?",
+        "a": [
+          "Yes. I'll read it slowly.",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "sk": "Môžete mi povedať sledovacie číslo zásielky?",
+        "correct_sk": "Áno. Pomaly vám ho prečítam.",
+        "a_sk": [
+          "Áno. Pomaly vám ho prečítam.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "Have you checked the delivery confirmation photo?",
+        "sk": "Pozreli ste si fotografiu potvrdzujúcu doručenie?",
+        "a": [
+          "Yes. That isn't my front door.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Áno. To nie sú moje vchodové dvere.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. To nie sú moje vchodové dvere."
+      },
+      {
+        "en": "Could it be a neighbor's address?",
+        "sk": "Môže to byť adresa suseda?",
+        "a": [
+          "I asked my neighbor. He doesn't have it.",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Spýtal som sa suseda. Nemá ho.",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Spýtal som sa suseda. Nemá ho."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "hardware",
+    "title": "V obchode s náradím",
+    "title_en": "At the Hardware Store",
+    "group": "Domov a bežné problémy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján prinesie starý diel do obchodu. Chce kúpiť správnu veľkosť.",
+    "intro_en": "Jan brings an old part to the hardware store to find the right size.",
+    "intro_sk": "Ján prinesie starý diel do obchodu. Chce kúpiť správnu veľkosť.",
+    "scene": "images/situations/hardware.webp",
+    "lines": [
+      [
+        "Ján",
+        "I need a fitting for this pipe.",
+        "Potrebujem tvarovku na túto rúru."
+      ],
+      [
+        "Zamestnanec",
+        "Do you know the size?",
+        "Viete rozmer?"
+      ],
+      [
+        "Ján",
+        "I'm not sure. I brought the old part.",
+        "Nie som si istý. Priniesol som starý diel."
+      ],
+      [
+        "Zamestnanec",
+        "That helps. Let's compare the sizes.",
+        "To nám pomôže. Porovnajme rozmery."
+      ],
+      [
+        "Ján",
+        "Is this fitting for a faucet?",
+        "Je táto tvarovka určená ku kohútiku?"
+      ],
+      [
+        "Zamestnanec",
+        "This one may work, but we need to check the connection.",
+        "Táto by mohla pasovať, ale musíme overiť pripojenie."
+      ],
+      [
+        "Ján",
+        "I also need screws, not nails.",
+        "Potrebujem aj skrutky, nie klince."
+      ],
+      [
+        "Zamestnanec",
+        "How long should the screws be?",
+        "Aké dlhé majú byť skrutky?"
+      ],
+      [
+        "Ján",
+        "About one inch. Do you have a small package?",
+        "Asi jeden palec. Máte malé balenie?"
+      ],
+      [
+        "Zamestnanec",
+        "Yes. They're in the next aisle.",
+        "Áno. Sú v ďalšej uličke."
+      ],
+      [
+        "Ján",
+        "Where can I find drill bits and a screwdriver?",
+        "Kde nájdem vrtáky a skrutkovač?"
+      ],
+      [
+        "Zamestnanec",
+        "In the tool section, near the drills.",
+        "V oddelení náradia pri vŕtačkách."
+      ],
+      [
+        "Ján",
+        "Do I need a wrench or pliers for this?",
+        "Potrebujem na to kľúč alebo kliešte?"
+      ],
+      [
+        "Zamestnanec",
+        "Ask the technician which tool is right for that fitting.",
+        "Spýtajte sa opravára, ktoré náradie je vhodné na tú tvarovku."
+      ],
+      [
+        "Ján",
+        "Can I return the part if it doesn't fit?",
+        "Môžem diel vrátiť, ak nebude pasovať?"
+      ],
+      [
+        "Zamestnanec",
+        "Keep the receipt and packaging. Check our return policy.",
+        "Odložte si účtenku a obal. Overte si naše podmienky vrátenia."
+      ]
+    ],
+    "vocab": [
+      [
+        "fitting",
+        "tvarovka"
+      ],
+      [
+        "pipe",
+        "rúra"
+      ],
+      [
+        "faucet",
+        "kohútik"
+      ],
+      [
+        "screws",
+        "skrutky"
+      ],
+      [
+        "nails",
+        "klince"
+      ],
+      [
+        "drill bits",
+        "vrtáky"
+      ],
+      [
+        "screwdriver",
+        "skrutkovač"
+      ],
+      [
+        "wrench",
+        "kľúč na matice"
+      ],
+      [
+        "pliers",
+        "kliešte"
+      ],
+      [
+        "inch",
+        "palec"
+      ]
+    ],
+    "end": [
+      "Ján checks the size before buying the part.",
+      "Ján si overí veľkosť, kým kúpi diel."
+    ],
+    "comprehension": [
+      {
+        "q": "Čo Ján priniesol na porovnanie?",
+        "a": [
+          "Starý diel.",
+          "Lekársky účet.",
+          "Údenú klobásu."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján checks the size before buying the part.“?",
+        "a": [
+          "Ján si overí veľkosť, kým kúpi diel.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján checks the size before buying the part."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Do you know the size?",
+        "a": [
+          "I'm not sure. I brought the old part.",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "sk": "Viete rozmer?",
+        "correct_sk": "Nie som si istý. Priniesol som starý diel.",
+        "a_sk": [
+          "Nie som si istý. Priniesol som starý diel.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "Is this fitting for a faucet?",
+        "sk": "Je táto tvarovka určená ku kohútiku?",
+        "a": [
+          "This one may work, but we need to check the connection.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Táto by mohla pasovať, ale musíme overiť pripojenie.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Táto by mohla pasovať, ale musíme overiť pripojenie."
+      },
+      {
+        "en": "How long should the screws be?",
+        "sk": "Aké dlhé majú byť skrutky?",
+        "a": [
+          "About one inch. Do you have a small package?",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Asi jeden palec. Máte malé balenie?",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Asi jeden palec. Máte malé balenie?"
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "repair-call",
+    "title": "Volám opravára",
+    "title_en": "Calling a Repair Technician",
+    "group": "Domov a bežné problémy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján telefonuje opravárovi. Chce si dohodnúť termín a vedieť poplatky.",
+    "intro_en": "Jan calls a repair technician to arrange a visit and ask about fees.",
+    "intro_sk": "Ján telefonuje opravárovi. Chce si dohodnúť termín a vedieť poplatky.",
+    "scene": "images/situations/repair-call.webp",
+    "lines": [
+      [
+        "Ján",
+        "I'd like to make an appointment for a leaking faucet.",
+        "Chcel by som si dohodnúť termín na opravu tečúceho kohútika."
+      ],
+      [
+        "Opravár",
+        "Is there also a problem with the drain?",
+        "Je problém aj s odtokom?"
+      ],
+      [
+        "Ján",
+        "Yes. The drain is clogged and the water goes down slowly.",
+        "Áno. Odtok je upchatý a voda odteká pomaly."
+      ],
+      [
+        "Opravár",
+        "We can send a technician tomorrow.",
+        "Zajtra môžeme poslať opravára."
+      ],
+      [
+        "Ján",
+        "What is the arrival window?",
+        "V akom časovom rozpätí príde?"
+      ],
+      [
+        "Opravár",
+        "Between nine and noon. We'll call before we arrive.",
+        "Medzi deviatou a dvanástou. Pred príchodom zavoláme."
+      ],
+      [
+        "Ján",
+        "Is there a service fee for the visit?",
+        "Platí sa poplatok za výjazd?"
+      ],
+      [
+        "Opravár",
+        "Yes. The visit fee is eighty dollars, before any repairs.",
+        "Áno. Poplatok za výjazd je osemdesiat dolárov, ešte pred opravou."
+      ],
+      [
+        "Ján",
+        "Will I get an estimate before you start?",
+        "Dostanem cenovú ponuku skôr, než začnete?"
+      ],
+      [
+        "Opravár",
+        "Yes. You can decide after the technician explains the estimate.",
+        "Áno. Rozhodnete sa, keď vám opravár vysvetlí cenovú ponuku."
+      ],
+      [
+        "Ján",
+        "My dishwasher is broken, too. Do you repair appliances?",
+        "Pokazila sa mi aj umývačka riadu. Opravujete spotrebiče?"
+      ],
+      [
+        "Opravár",
+        "We don't repair dishwashers. You'll need an appliance technician.",
+        "Umývačky neopravujeme. Potrebujete opravára spotrebičov."
+      ],
+      [
+        "Ján",
+        "Does your work have a warranty?",
+        "Je na vašu prácu záruka?"
+      ],
+      [
+        "Opravár",
+        "The terms depend on the repair. Ask for them in writing.",
+        "Podmienky závisia od opravy. Požiadajte o ne písomne."
+      ],
+      [
+        "Ján",
+        "What if I need to reschedule?",
+        "Čo ak budem musieť zmeniť termín?"
+      ],
+      [
+        "Opravár",
+        "Please call as soon as possible. Ask about cancellation fees.",
+        "Zavolajte čo najskôr. Spýtajte sa na poplatky za zrušenie termínu."
+      ],
+      [
+        "Rozprávač",
+        "The clogged drain needs attention before the sink overflows.",
+        "Upchatý odtok treba vyriešiť skôr, než drez pretečie."
+      ]
+    ],
+    "vocab": [
+      [
+        "leaking faucet",
+        "tečúci kohútik"
+      ],
+      [
+        "clogged drain",
+        "upchatý odtok"
+      ],
+      [
+        "arrival window",
+        "časové rozpätie príchodu"
+      ],
+      [
+        "service fee",
+        "poplatok za výjazd"
+      ],
+      [
+        "appointment",
+        "dohodnutý termín"
+      ],
+      [
+        "appliance",
+        "spotrebič"
+      ],
+      [
+        "reschedule",
+        "zmeniť termín"
+      ],
+      [
+        "cancellation fees",
+        "poplatky za zrušenie"
+      ]
+    ],
+    "end": [
+      "Ján writes down the arrival window and visit fee.",
+      "Ján si zapíše časové rozpätie príchodu a poplatok za výjazd."
+    ],
+    "comprehension": [
+      {
+        "q": "Kedy má prísť opravár?",
+        "a": [
+          "Medzi deviatou a dvanástou.",
+          "O polnoci.",
+          "Až po Vianociach."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján writes down the arrival window and visit fee.“?",
+        "a": [
+          "Ján si zapíše časové rozpätie príchodu a poplatok za výjazd.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján writes down the arrival window and visit fee."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "What seems to be the problem?",
+        "a": [
+          "The faucet is leaking.",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "sk": "Čo sa deje?",
+        "correct_sk": "Kohútik tečie.",
+        "a_sk": [
+          "Kohútik tečie.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "What is the arrival window?",
+        "sk": "V akom časovom rozpätí príde?",
+        "a": [
+          "Between nine and noon. We'll call before we arrive.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Medzi deviatou a dvanástou. Pred príchodom zavoláme.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Medzi deviatou a dvanástou. Pred príchodom zavoláme."
+      },
+      {
+        "en": "Is there a service fee for the visit?",
+        "sk": "Platí sa poplatok za výjazd?",
+        "a": [
+          "Yes. The visit fee is eighty dollars, before any repairs.",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Áno. Poplatok za výjazd je osemdesiat dolárov, ešte pred opravou.",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Áno. Poplatok za výjazd je osemdesiat dolárov, ešte pred opravou."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "phone-help",
+    "title": "Nerozumiem telefonátu",
+    "title_en": "I Can't Understand the Caller",
+    "group": "Domov a bežné problémy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Volajúci hovorí rýchlo. Ján požiada o pomalšie opakovanie a správu.",
+    "intro_en": "The caller speaks quickly. Jan asks for a slower explanation and a text message.",
+    "intro_sk": "Volajúci hovorí rýchlo. Ján požiada o pomalšie opakovanie a správu.",
+    "scene": "images/situations/phone-help.webp",
+    "lines": [
+      [
+        "Volajúci",
+        "Hello. I'm calling to confirm your appointment.",
+        "Dobrý deň. Volám, aby som potvrdil váš termín."
+      ],
+      [
+        "Ján",
+        "Could you speak more slowly, please?",
+        "Mohli by ste hovoriť pomalšie, prosím?"
+      ],
+      [
+        "Volajúci",
+        "Of course. Your appointment is on Tuesday at ten.",
+        "Samozrejme. Váš termín je v utorok o desiatej."
+      ],
+      [
+        "Ján",
+        "Could you repeat that?",
+        "Mohli by ste to zopakovať?"
+      ],
+      [
+        "Volajúci",
+        "Tuesday at ten in the morning.",
+        "V utorok o desiatej ráno."
+      ],
+      [
+        "Ján",
+        "Let me write that down. What is the address?",
+        "Zapíšem si to. Aká je adresa?"
+      ],
+      [
+        "Volajúci",
+        "The office is on Oak Street.",
+        "Ambulancia je na Oak Street."
+      ],
+      [
+        "Ján",
+        "Can you spell the street name?",
+        "Môžete vyhláskovať názov ulice?"
+      ],
+      [
+        "Volajúci",
+        "Oak. O-A-K.",
+        "Oak. O-A-K."
+      ],
+      [
+        "Ján",
+        "Can you text me the address?",
+        "Môžete mi adresu poslať cez SMS?"
+      ],
+      [
+        "Volajúci",
+        "Yes. Please hold while I check your number.",
+        "Áno. Zostaňte na linke, kým si overím vaše číslo."
+      ],
+      [
+        "Ján",
+        "Thank you. I understand better when I can read it.",
+        "Ďakujem. Lepšie tomu rozumiem, keď si to môžem prečítať."
+      ],
+      [
+        "Volajúci",
+        "If we miss you, may we leave a voicemail?",
+        "Ak vás nezastihneme, môžeme nechať odkaz v hlasovej schránke?"
+      ],
+      [
+        "Ján",
+        "Yes, but please speak slowly.",
+        "Áno, ale hovorte, prosím, pomaly."
+      ],
+      [
+        "Volajúci",
+        "And if I call the wrong number?",
+        "A čo ak zavolám na nesprávne číslo?"
+      ],
+      [
+        "Ján",
+        "You can say, \"Sorry, I have the wrong number.\"",
+        "Môžete povedať: „Prepáčte, pomýlil som si číslo.“"
+      ]
+    ],
+    "vocab": [
+      [
+        "speak more slowly",
+        "hovoriť pomalšie"
+      ],
+      [
+        "repeat",
+        "zopakovať"
+      ],
+      [
+        "spell",
+        "vyhláskovať"
+      ],
+      [
+        "please hold",
+        "zostaňte na linke"
+      ],
+      [
+        "write that down",
+        "zapísať si to"
+      ],
+      [
+        "voicemail",
+        "hlasová schránka"
+      ],
+      [
+        "wrong number",
+        "nesprávne číslo"
+      ],
+      [
+        "confirm",
+        "potvrdiť"
+      ]
+    ],
+    "end": [
+      "Ján writes down the time and checks the texted address.",
+      "Ján si zapíše čas a overí si adresu v SMS."
+    ],
+    "comprehension": [
+      {
+        "q": "Kedy je Jánov termín?",
+        "a": [
+          "V utorok o desiatej ráno.",
+          "V pondelok o polnoci.",
+          "V nedeľu o šiestej."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján writes down the time and checks the texted address.“?",
+        "a": [
+          "Ján si zapíše čas a overí si adresu v SMS.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján writes down the time and checks the texted address."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Your appointment is on Tuesday at ten.",
+        "a": [
+          "Could you repeat that, please?",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "sk": "Váš termín je v utorok o desiatej.",
+        "correct_sk": "Mohli by ste to zopakovať, prosím?",
+        "a_sk": [
+          "Mohli by ste to zopakovať, prosím?",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "Could you repeat that?",
+        "sk": "Mohli by ste to zopakovať?",
+        "a": [
+          "Tuesday at ten in the morning.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "V utorok o desiatej ráno.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "V utorok o desiatej ráno."
+      },
+      {
+        "en": "Let me write that down. What is the address?",
+        "sk": "Zapíšem si to. Aká je adresa?",
+        "a": [
+          "The office is on Oak Street.",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Ambulancia je na Oak Street.",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Ambulancia je na Oak Street."
+      }
+    ],
+    "notes": [
+      "Nauč sa celú užitočnú vetu. Ak nerozumieš, pokojne požiadaj o zopakovanie alebo písomné potvrdenie."
+    ]
+  },
+  {
+    "id": "suspicious-text",
+    "title": "Podozrivá správa",
+    "title_en": "A Suspicious Text Message",
+    "group": "Domov a bežné problémy",
+    "subtitle": "Praktický rozhovor · počúvaj, čítaj a skús odpovedať",
+    "intro": "Ján dostane nečakanú správu s odkazom. Najprv si ju overí.",
+    "intro_en": "Jan receives an unexpected message with a link. He verifies it first.",
+    "intro_sk": "Ján dostane nečakanú správu s odkazom. Najprv si ju overí.",
+    "scene": "images/situations/suspicious-text.webp",
+    "lines": [
+      [
+        "Ján",
+        "I got a text saying my delivery needs a small payment.",
+        "Dostal som SMS, že za doručenie treba zaplatiť malý poplatok."
+      ],
+      [
+        "Sused",
+        "Were you expecting a delivery?",
+        "Čakali ste zásielku?"
+      ],
+      [
+        "Ján",
+        "Yes, but the link looks strange.",
+        "Áno, ale odkaz vyzerá zvláštne."
+      ],
+      [
+        "Sused",
+        "Don't tap the suspicious link. Check the delivery company's official site.",
+        "Neklikajte na podozrivý odkaz. Pozrite sa na oficiálnu stránku doručovacej spoločnosti."
+      ],
+      [
+        "Ján",
+        "Another message says it's from my bank.",
+        "Ďalšia správa tvrdí, že je od mojej banky."
+      ],
+      [
+        "Sused",
+        "What does it ask you to do?",
+        "Čo od vás chce?"
+      ],
+      [
+        "Ján",
+        "It asks for my password and a verification code.",
+        "Pýta si heslo a overovací kód."
+      ],
+      [
+        "Sused",
+        "Don't give those to an unexpected caller or message sender.",
+        "Nedávajte ich nečakanému volajúcemu ani odosielateľovi správy."
+      ],
+      [
+        "Ján",
+        "Should I call the number in the message?",
+        "Mám zavolať na číslo v správe?"
+      ],
+      [
+        "Sused",
+        "Use a trusted number, such as the one on your bank card.",
+        "Použite overené číslo, napríklad číslo na svojej bankovej karte."
+      ],
+      [
+        "Ján",
+        "What if they say it's urgent?",
+        "Čo ak povedia, že je to súrne?"
+      ],
+      [
+        "Sused",
+        "Stop and check independently. Pressure can be a warning sign.",
+        "Zastavte sa a overte si to nezávisle. Nátlak môže byť varovným signálom."
+      ],
+      [
+        "Ján",
+        "How can I verify my identity safely?",
+        "Ako môžem bezpečne overiť svoju totožnosť?"
+      ],
+      [
+        "Sused",
+        "Contact the company yourself through a trusted channel.",
+        "Kontaktujte spoločnosť sami cez overený spôsob spojenia."
+      ],
+      [
+        "Ján",
+        "I already clicked, but I didn't enter anything.",
+        "Už som klikol, ale nič som nezadal."
+      ],
+      [
+        "Sused",
+        "Don't enter information. Contact the real company if you're concerned.",
+        "Nezadávajte údaje. Ak máte obavy, kontaktujte skutočnú spoločnosť."
+      ],
+      [
+        "Rozprávač",
+        "A scam can look like a real message from a company.",
+        "Podvod môže vyzerať ako skutočná správa od firmy."
+      ]
+    ],
+    "vocab": [
+      [
+        "scam",
+        "podvod"
+      ],
+      [
+        "suspicious link",
+        "podozrivý odkaz"
+      ],
+      [
+        "verification code",
+        "overovací kód"
+      ],
+      [
+        "password",
+        "heslo"
+      ],
+      [
+        "bank card",
+        "banková karta"
+      ],
+      [
+        "urgent",
+        "súrne"
+      ],
+      [
+        "warning sign",
+        "varovný signál"
+      ],
+      [
+        "trusted number",
+        "overené číslo"
+      ]
+    ],
+    "end": [
+      "Ján ignores the link and contacts the company using a trusted number.",
+      "Ján odkaz ignoruje a kontaktuje spoločnosť cez overené číslo."
+    ],
+    "comprehension": [
+      {
+        "q": "Na aké číslo má Ján volať banke?",
+        "a": [
+          "Na overené číslo z bankovej karty.",
+          "Na číslo z podozrivej SMS.",
+          "Na náhodné číslo."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Čo znamená táto veta: „Ján ignores the link and contacts the company using a trusted number.“?",
+        "a": [
+          "Ján odkaz ignoruje a kontaktuje spoločnosť cez overené číslo.",
+          "Ján kupuje letenku do iného mesta.",
+          "Ján varí večeru pre celú ulicu."
+        ],
+        "correct": 0,
+        "en": "Ján ignores the link and contacts the company using a trusted number."
+      }
+    ],
+    "roleplay": [
+      {
+        "en": "Can you give me the verification code from your phone?",
+        "a": [
+          "No. I'll contact the company myself.",
+          "I need two pounds of pork shoulder.",
+          "I am looking for all-purpose flour."
+        ],
+        "correct": 0,
+        "sk": "Môžete mi povedať overovací kód z vášho telefónu?",
+        "correct_sk": "Nie. Spoločnosť kontaktujem sám.",
+        "a_sk": [
+          "Nie. Spoločnosť kontaktujem sám.",
+          "Potrebujem dve libry bravčového pliecka.",
+          "Hľadám univerzálnu múku."
+        ]
+      },
+      {
+        "en": "What does it ask you to do?",
+        "sk": "Čo od vás chce?",
+        "a": [
+          "It asks for my password and a verification code.",
+          "I am looking for all-purpose flour.",
+          "My car will not start."
+        ],
+        "a_sk": [
+          "Pýta si heslo a overovací kód.",
+          "Hľadám univerzálnu múku.",
+          "Auto mi neštartuje."
+        ],
+        "correct": 0,
+        "correct_sk": "Pýta si heslo a overovací kód."
+      },
+      {
+        "en": "Should I call the number in the message?",
+        "sk": "Mám zavolať na číslo v správe?",
+        "a": [
+          "Use a trusted number, such as the one on your bank card.",
+          "My car will not start.",
+          "I need two pounds of pork shoulder."
+        ],
+        "a_sk": [
+          "Použite overené číslo, napríklad číslo na svojej bankovej karte.",
+          "Auto mi neštartuje.",
+          "Potrebujem dve libry bravčového pliecka."
+        ],
+        "correct": 0,
+        "correct_sk": "Použite overené číslo, napríklad číslo na svojej bankovej karte."
+      }
+    ],
+    "notes": [
+      "Nečakanému volajúcemu ani odosielateľovi správy nedávam heslá, overovacie kódy ani finančné údaje. Firmu kontaktujem sám cez číslo z karty, výpisu alebo oficiálnej aplikácie."
+    ]
+  }
+]

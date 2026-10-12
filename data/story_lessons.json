@@ -1,0 +1,1838 @@
+[
+  {
+    "words": [
+      [
+        "pharmacist",
+        "lekárnik / lekárnička"
+      ],
+      [
+        "prescription",
+        "lekársky recept"
+      ],
+      [
+        "tablet",
+        "tabletka"
+      ],
+      [
+        "morning",
+        "ráno"
+      ],
+      [
+        "evening",
+        "večer"
+      ],
+      [
+        "water",
+        "voda"
+      ],
+      [
+        "name",
+        "meno"
+      ],
+      [
+        "food",
+        "jedlo"
+      ],
+      [
+        "pharmacy bag",
+        "sáčok z lekárne"
+      ],
+      [
+        "instructions",
+        "pokyny"
+      ],
+      [
+        "prescription",
+        "recept, lieky na recept"
+      ],
+      [
+        "last name",
+        "priezvisko"
+      ],
+      [
+        "date of birth",
+        "dátum narodenia"
+      ],
+      [
+        "phone number",
+        "telefónne číslo"
+      ],
+      [
+        "ready",
+        "pripravený"
+      ],
+      [
+        "later",
+        "neskôr"
+      ],
+      [
+        "text message",
+        "SMS správa"
+      ],
+      [
+        "refill",
+        "ďalšie vydanie lieku na existujúci recept"
+      ],
+      [
+        "renewal",
+        "obnovenie receptu"
+      ],
+      [
+        "approve",
+        "schváliť"
+      ],
+      [
+        "prior authorization",
+        "predchádzajúce schválenie"
+      ],
+      [
+        "approval",
+        "schválenie"
+      ],
+      [
+        "delay",
+        "oneskorenie"
+      ]
+    ],
+    "phrases": [
+      [
+        "Good afternoon.",
+        "Dobrý deň.",
+        "Takto môžeš pozdraviť niekoho popoludní."
+      ],
+      [
+        "I have a prescription.",
+        "Mám recept.",
+        "I have = mám."
+      ],
+      [
+        "What is your name?",
+        "Ako sa voláte?",
+        "Otázka na meno."
+      ],
+      [
+        "My name is…",
+        "Volám sa…",
+        "Takto povieš svoje meno."
+      ],
+      [
+        "Take one tablet.",
+        "Užite jednu tabletku.",
+        "Take pri liekoch znamená užiť."
+      ],
+      [
+        "in the morning",
+        "ráno",
+        "IN THE MORNING = ráno."
+      ],
+      [
+        "in the evening",
+        "večer",
+        "IN THE EVENING = večer."
+      ],
+      [
+        "with food",
+        "s jedlom",
+        "WITH = s."
+      ],
+      [
+        "plenty of water",
+        "veľa vody",
+        "PLENTY OF = veľa."
+      ],
+      [
+        "Should I take it with food?",
+        "Mám ho užívať s jedlom?",
+        "Should I…? sa tu používa, keď sa pýtaš, čo máš urobiť."
+      ],
+      [
+        "Could you write that down, please?",
+        "Mohli by ste mi to, prosím, napísať?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Here you are.",
+        "Nech sa páči.",
+        "Keď niekomu niečo podávaš."
+      ],
+      [
+        "check them again",
+        "znova si ich skontrolovať",
+        "AGAIN = znova."
+      ],
+      [
+        "at home",
+        "doma",
+        "AT HOME = doma."
+      ],
+      [
+        "I’ll be right with you.",
+        "Hneď budem pri vás.",
+        "Keď pracovník príde o chvíľu."
+      ],
+      [
+        "Sorry to keep you waiting.",
+        "Prepáčte, že ste museli čakať.",
+        "Ospravedlnenie za čakanie."
+      ],
+      [
+        "It isn’t ready yet.",
+        "Ešte to nie je pripravené.",
+        "YET tu znamená ešte nie."
+      ],
+      [
+        "Come back later.",
+        "Vráťte sa neskôr.",
+        "Nemusíš sa vrátiť hneď."
+      ],
+      [
+        "We’ll send you a text.",
+        "Pošleme vám SMS.",
+        "TEXT je tu SMS správa."
+      ],
+      [
+        "There are no refills left.",
+        "Už nemáte povolené ďalšie vydania.",
+        "Na ďalšie vydanie môže byť potrebný nový recept."
+      ],
+      [
+        "Contact your doctor.",
+        "Kontaktujte svojho lekára.",
+        "CONTACT znamená spojiť sa s niekým."
+      ],
+      [
+        "Wait for confirmation.",
+        "Počkajte na potvrdenie.",
+        "Potvrdenie ešte nie je hotové."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "package",
+        "balík"
+      ],
+      [
+        "neighbor",
+        "sused"
+      ],
+      [
+        "delivery driver",
+        "kuriér"
+      ],
+      [
+        "apartment",
+        "byt"
+      ],
+      [
+        "upstairs",
+        "hore / na poschodí"
+      ],
+      [
+        "door",
+        "dvere"
+      ],
+      [
+        "name",
+        "meno"
+      ],
+      [
+        "inside",
+        "vnútri"
+      ],
+      [
+        "later",
+        "neskôr"
+      ],
+      [
+        "twelve",
+        "dvanásť"
+      ]
+    ],
+    "phrases": [
+      [
+        "Is this your package?",
+        "Je toto váš balík?",
+        "IS THIS…? = Je toto…?"
+      ],
+      [
+        "It is for my neighbor.",
+        "Je pre môjho suseda.",
+        "FOR = pre."
+      ],
+      [
+        "Does he live here?",
+        "Býva tu?",
+        "DOES HE…? je spôsob, ako sa pýtať na niekoho."
+      ],
+      [
+        "He lives upstairs.",
+        "Býva hore.",
+        "HE LIVES = on býva."
+      ],
+      [
+        "in apartment twelve",
+        "v byte číslo dvanásť",
+        "IN = v."
+      ],
+      [
+        "Can I leave it with you?",
+        "Môžem ho nechať u vás?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "please tell me his name",
+        "povedzte mi, prosím, jeho meno",
+        "PLEASE je zdvorilé prosím."
+      ],
+      [
+        "His name is…",
+        "Volá sa…",
+        "HIS = jeho."
+      ],
+      [
+        "All right.",
+        "Dobre.",
+        "Bežná odpoveď, keď súhlasíš."
+      ],
+      [
+        "I will give it to him.",
+        "Dám mu ho.",
+        "I WILL = urobím to v budúcnosti."
+      ],
+      [
+        "knock on the door",
+        "zaklopať na dvere",
+        "KNOCK ON = zaklopať na."
+      ],
+      [
+        "later",
+        "neskôr",
+        "Keď niečo urobíš až potom."
+      ],
+      [
+        "Is the name and apartment number on the label?",
+        "Je na štítku meno a číslo bytu?",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Yes. Please check the label before accepting it.",
+        "Áno. Pred prevzatím si, prosím, overte štítok.",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Do I need to sign for it?",
+        "Musím prevzatie podpísať?",
+        "Overujem si, čo musím urobiť alebo mať."
+      ],
+      [
+        "Not for this package. Thank you for helping.",
+        "Pri tomto balíku nie. Ďakujem za pomoc.",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "I will keep it inside, away from the rain.",
+        "Odložím ho dovnútra, aby nezmokol.",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Hello. Did a package arrive for me?",
+        "Dobrý deň. Prišiel mi nejaký balík?",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "kitchen",
+        "kuchyňa"
+      ],
+      [
+        "faucet",
+        "vodovodný kohútik"
+      ],
+      [
+        "leak",
+        "tiecť / pretekať"
+      ],
+      [
+        "water",
+        "voda"
+      ],
+      [
+        "valve",
+        "ventil"
+      ],
+      [
+        "sink",
+        "drez"
+      ],
+      [
+        "left",
+        "ľavá strana"
+      ],
+      [
+        "tool",
+        "náradie / nástroj"
+      ],
+      [
+        "plumber",
+        "inštalatér"
+      ],
+      [
+        "washer",
+        "tesnenie"
+      ],
+      [
+        "drip",
+        "kvapkať"
+      ]
+    ],
+    "phrases": [
+      [
+        "The faucet is leaking.",
+        "Kohútik tečie.",
+        "IS LEAKING = práve tečie / preteká."
+      ],
+      [
+        "How long…?",
+        "Ako dlho…?",
+        "Pýtam sa, ako dlho to potrvá."
+      ],
+      [
+        "How long has it been leaking?",
+        "Ako dlho už tečie?",
+        "Pýtam sa, ako dlho to potrvá."
+      ],
+      [
+        "Since yesterday evening.",
+        "Od včerajšieho večera.",
+        "SINCE = od určitého okamihu."
+      ],
+      [
+        "Please turn off the water.",
+        "Prosím, zastavte vodu.",
+        "TURN OFF = vypnúť alebo zastaviť."
+      ],
+      [
+        "Where is the valve?",
+        "Kde je ventil?",
+        "Pýtam sa na miesto."
+      ],
+      [
+        "under the sink",
+        "pod drezom",
+        "UNDER = pod."
+      ],
+      [
+        "on the left",
+        "naľavo",
+        "LEFT = ľavá strana."
+      ],
+      [
+        "Do you need a tool?",
+        "Potrebujete náradie?",
+        "NEED = potrebovať."
+      ],
+      [
+        "I have everything.",
+        "Mám všetko.",
+        "EVERYTHING = všetko."
+      ],
+      [
+        "stops dripping",
+        "prestane kvapkať",
+        "STOP + činnosť = prestať s ňou."
+      ],
+      [
+        "changes a small washer",
+        "vymení malé tesnenie",
+        "CHANGE môže znamenať vymeniť."
+      ],
+      [
+        "Can you give me an estimate before you start?",
+        "Môžete mi dať cenovú ponuku skôr, než začnete?",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Yes. First I need to check the faucet.",
+        "Áno. Najprv musím skontrolovať kohútik.",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Will it need a new part?",
+        "Bude potrebný nový diel?",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "It may need a new cartridge. I will show you.",
+        "Možno bude treba novú kartušu. Ukážem vám ju.",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Does the price include the part and labor?",
+        "Zahŕňa cena diel aj prácu?",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ],
+      [
+        "Yes. Here is the written estimate.",
+        "Áno. Tu je písomná cenová ponuka.",
+        "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "battery",
+        "batéria"
+      ],
+      [
+        "jump-start",
+        "naštartovať pomocou káblov"
+      ],
+      [
+        "jumper cables",
+        "štartovacie káble"
+      ],
+      [
+        "dashboard lights",
+        "kontrolky na palubnej doske"
+      ],
+      [
+        "tow truck",
+        "odťahové auto"
+      ],
+      [
+        "roadside assistance",
+        "asistenčná služba"
+      ],
+      [
+        "location",
+        "miesto"
+      ],
+      [
+        "cost",
+        "cena"
+      ]
+    ],
+    "phrases": [
+      [
+        "Do the dashboard lights come on?",
+        "Rozsvietia sa kontrolky na palubnej doske?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Could you help me jump-start it?",
+        "Mohli by ste mi pomôcť naštartovať ho pomocou káblov?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Do you have jumper cables?",
+        "Máte štartovacie káble?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "No. Do you have any?",
+        "Nie. Máte nejaké vy?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Is that included in my insurance?",
+        "Je to zahrnuté v mojom poistení?",
+        "Overujem si, či som dobre porozumel."
+      ],
+      [
+        "What should I tell them?",
+        "Čo im mám povedať?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "brakes",
+        "brzdy"
+      ],
+      [
+        "oil leak",
+        "únik oleja"
+      ],
+      [
+        "engine light",
+        "kontrolka motora"
+      ],
+      [
+        "mechanic",
+        "automechanik"
+      ],
+      [
+        "inspection",
+        "kontrola"
+      ],
+      [
+        "estimate",
+        "cenová ponuka"
+      ],
+      [
+        "labor",
+        "práca"
+      ],
+      [
+        "parts",
+        "diely"
+      ],
+      [
+        "approval",
+        "súhlas"
+      ]
+    ],
+    "phrases": [
+      [
+        "When did you first notice it?",
+        "Kedy ste si to prvýkrát všimli?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Have you noticed any other problems?",
+        "Všimli ste si aj iné problémy?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "How much does the inspection cost?",
+        "Koľko stojí kontrola?",
+        "Pýtam sa na cenu alebo množstvo."
+      ],
+      [
+        "Does the estimate include labor and parts?",
+        "Zahŕňa cenová ponuka prácu aj diely?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "How long will the inspection take?",
+        "Ako dlho bude kontrola trvať?",
+        "Pýtam sa, ako dlho to potrvá."
+      ],
+      [
+        "Can I get the estimate in writing?",
+        "Môžem dostať cenovú ponuku písomne?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "flat tire",
+        "defekt"
+      ],
+      [
+        "spare tire",
+        "rezervné koleso"
+      ],
+      [
+        "tire pressure",
+        "tlak v pneumatikách"
+      ],
+      [
+        "hazard lights",
+        "výstražné svetlá"
+      ],
+      [
+        "intersection",
+        "križovatka"
+      ],
+      [
+        "technician",
+        "technik"
+      ],
+      [
+        "replaced",
+        "vymenené"
+      ],
+      [
+        "safe place",
+        "bezpečné miesto"
+      ]
+    ],
+    "phrases": [
+      [
+        "I have a flat tire. Can you send someone?",
+        "Mám defekt. Môžete niekoho poslať?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Are you in a safe place, away from traffic?",
+        "Ste na bezpečnom mieste, mimo premávky?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What is your exact location?",
+        "Kde presne ste?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Can you give me the street number or a nearby intersection?",
+        "Môžete mi povedať číslo domu alebo blízku križovatku?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "The sign says 5500. Can I text you a photo?",
+        "Na označení je 5500. Môžem vám poslať fotografiu cez SMS?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Do I need a spare tire?",
+        "Potrebujem rezervné koleso?",
+        "Overujem si, čo musím urobiť alebo mať."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "insurance information",
+        "údaje o poistení"
+      ],
+      [
+        "driver's license",
+        "vodičský preukaz"
+      ],
+      [
+        "registration",
+        "registrácia vozidla"
+      ],
+      [
+        "damage",
+        "poškodenie"
+      ],
+      [
+        "police report",
+        "policajná správa"
+      ],
+      [
+        "witness",
+        "svedok"
+      ],
+      [
+        "bumper",
+        "nárazník"
+      ],
+      [
+        "exchange",
+        "vymeniť si"
+      ]
+    ],
+    "phrases": [
+      [
+        "Are you okay? Is anyone hurt?",
+        "Ste v poriadku? Je niekto zranený?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "I'm okay. Are you hurt?",
+        "Som v poriadku. Ste zranený vy?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "No. Can we pull over somewhere safe?",
+        "Nie. Môžeme zastaviť niekde, kde je bezpečne?",
+        "Pýtam sa na miesto."
+      ],
+      [
+        "Could I see your registration, too?",
+        "Môžem vidieť aj doklad o registrácii vozidla?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Yes. May I take a photo of your documents?",
+        "Áno. Môžem si odfotografovať vaše doklady?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Did anyone see what happened?",
+        "Videl niekto, čo sa stalo?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "brake pads",
+        "brzdové doštičky"
+      ],
+      [
+        "worn out",
+        "opotrebované"
+      ],
+      [
+        "seal",
+        "tesnenie"
+      ],
+      [
+        "warranty",
+        "záruka"
+      ],
+      [
+        "receipt",
+        "účtenka"
+      ],
+      [
+        "extra charge",
+        "príplatok"
+      ],
+      [
+        "inspection fee",
+        "poplatok za kontrolu"
+      ],
+      [
+        "tax",
+        "daň"
+      ]
+    ],
+    "phrases": [
+      [
+        "I'm here to pick up my car. Is it ready?",
+        "Prišiel som si po auto. Je hotové?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What was wrong with the old ones?",
+        "Čo bolo so starými?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Did you fix the leak?",
+        "Opravili ste ten únik?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Does the repair have a warranty?",
+        "Je na opravu záruka?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Could you explain this extra charge?",
+        "Mohli by ste mi vysvetliť tento príplatok?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Can I have an itemized receipt?",
+        "Môžem dostať účtenku s rozpísanými položkami?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "policy",
+        "poistná zmluva"
+      ],
+      [
+        "coverage",
+        "rozsah poistenia"
+      ],
+      [
+        "premium",
+        "poistné"
+      ],
+      [
+        "policy number",
+        "číslo poistnej zmluvy"
+      ],
+      [
+        "representative",
+        "pracovník zákazníckej podpory"
+      ],
+      [
+        "due",
+        "splatné"
+      ],
+      [
+        "renew",
+        "obnoviť"
+      ],
+      [
+        "proof of insurance",
+        "doklad o poistení"
+      ]
+    ],
+    "phrases": [
+      [
+        "May I have your policy number?",
+        "Môžete mi povedať číslo poistnej zmluvy?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Thank you. What would you like to know?",
+        "Ďakujem. Čo by ste chceli vedieť?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Is my coverage still active?",
+        "Je moje poistenie stále platné?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "When is my next payment due?",
+        "Kedy mám zaplatiť ďalšiu platbu?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Does my policy renew automatically?",
+        "Obnoví sa moja zmluva automaticky?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Could my premium change when it renews?",
+        "Môže sa pri obnovení zmeniť moje poistné?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "file a claim",
+        "nahlásiť poistnú udalosť"
+      ],
+      [
+        "claim number",
+        "číslo poistnej udalosti"
+      ],
+      [
+        "adjuster",
+        "likvidátor poistnej udalosti"
+      ],
+      [
+        "rear bumper",
+        "zadný nárazník"
+      ],
+      [
+        "photographs",
+        "fotografie"
+      ],
+      [
+        "documents",
+        "dokumenty"
+      ],
+      [
+        "secure upload",
+        "zabezpečené nahrávanie"
+      ],
+      [
+        "update",
+        "aktuálna informácia"
+      ]
+    ],
+    "phrases": [
+      [
+        "What date did the accident happen?",
+        "Kedy sa nehoda stala?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Was anyone injured?",
+        "Bol niekto zranený?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Where should I send the documents?",
+        "Kam mám poslať dokumenty?",
+        "Pýtam sa na miesto."
+      ],
+      [
+        "Will an adjuster contact me?",
+        "Ozve sa mi likvidátor poistnej udalosti?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Can you give me my claim number?",
+        "Môžete mi povedať číslo poistnej udalosti?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What should I mention when I call for an update?",
+        "Čo mám uviesť, keď zavolám a spýtam sa na stav?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "denied",
+        "zamietnuté"
+      ],
+      [
+        "not covered",
+        "nie je poistené"
+      ],
+      [
+        "deductible",
+        "spoluúčasť"
+      ],
+      [
+        "premium",
+        "poistné"
+      ],
+      [
+        "appeal",
+        "odvolanie"
+      ],
+      [
+        "deadline",
+        "lehota"
+      ],
+      [
+        "decision",
+        "rozhodnutie"
+      ],
+      [
+        "in writing",
+        "písomne"
+      ]
+    ],
+    "phrases": [
+      [
+        "Do you have your claim number?",
+        "Máte číslo poistnej udalosti?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Yes. Could you explain the reason in plain English?",
+        "Áno. Mohli by ste mi dôvod vysvetliť jednoduchou angličtinou?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Is this because of my deductible?",
+        "Je to kvôli mojej spoluúčasti?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "So a deductible is different from a premium?",
+        "Takže spoluúčasť je niečo iné než poistné?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Can I ask you to review this decision?",
+        "Môžem požiadať o prehodnotenie rozhodnutia?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Which documents do you need from me?",
+        "Aké dokumenty odo mňa potrebujete?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "copay",
+        "pevný doplatok"
+      ],
+      [
+        "deductible",
+        "spoluúčasť"
+      ],
+      [
+        "in-network",
+        "v sieti poisťovne"
+      ],
+      [
+        "out-of-network",
+        "mimo siete poisťovne"
+      ],
+      [
+        "referral",
+        "odporúčanie"
+      ],
+      [
+        "prior authorization",
+        "predchádzajúce schválenie"
+      ],
+      [
+        "prescription coverage",
+        "úhrada liekov na recept"
+      ],
+      [
+        "plan",
+        "konkrétne zdravotné poistenie"
+      ]
+    ],
+    "phrases": [
+      [
+        "What happens if I go out-of-network?",
+        "Čo sa stane, ak pôjdem mimo siete?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What is my copay for this visit?",
+        "Aký je môj pevný doplatok za túto návštevu?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Do I have to meet a deductible first?",
+        "Musím najprv zaplatiť sumu do výšky spoluúčasti?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Do I need a referral to see a specialist?",
+        "Potrebujem odporúčanie, aby som mohol ísť k špecialistovi?",
+        "Overujem si, čo musím urobiť alebo mať."
+      ],
+      [
+        "Does my prescription need prior authorization?",
+        "Treba na môj liek vopred schválenie poisťovne?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "medical bill",
+        "účet za zdravotnú starostlivosť"
+      ],
+      [
+        "EOB",
+        "prehľad vyúčtovania od poisťovne"
+      ],
+      [
+        "amount due",
+        "suma na zaplatenie"
+      ],
+      [
+        "balance",
+        "zostávajúca suma"
+      ],
+      [
+        "due date",
+        "termín splatnosti"
+      ],
+      [
+        "itemized bill",
+        "účet s rozpísanými položkami"
+      ],
+      [
+        "payment plan",
+        "splátkový plán"
+      ],
+      [
+        "billing office",
+        "fakturačné oddelenie"
+      ]
+    ],
+    "phrases": [
+      [
+        "May I have the account number on the bill?",
+        "Môžete mi povedať číslo účtu uvedené na doklade?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Do you also have your explanation of benefits?",
+        "Máte aj prehľad vyúčtovania od poisťovne?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Is that the document called an EOB?",
+        "Je to dokument s názvom EOB?",
+        "Overujem si, či som dobre porozumel."
+      ],
+      [
+        "Where can I see the insurance payment?",
+        "Kde nájdem sumu, ktorú zaplatila poisťovňa?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Could you send me an itemized bill?",
+        "Mohli by ste mi poslať účet s rozpísanými položkami?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "What is the due date? I don't want to miss it.",
+        "Aký je termín splatnosti? Nechcem ho zmeškať.",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "potatoes",
+        "zemiaky"
+      ],
+      [
+        "all-purpose flour",
+        "univerzálna múka"
+      ],
+      [
+        "produce",
+        "ovocie a zelenina"
+      ],
+      [
+        "sheep's milk cheese",
+        "ovčí syr"
+      ],
+      [
+        "farmer cheese",
+        "čerstvý hrudkovitý syr"
+      ],
+      [
+        "substitute",
+        "náhrada"
+      ],
+      [
+        "texture",
+        "konzistencia"
+      ],
+      [
+        "sour cream",
+        "kyslá smotana"
+      ]
+    ],
+    "phrases": [
+      [
+        "Excuse me. Do you carry potatoes and all-purpose flour?",
+        "Prepáčte. Máte zemiaky a hladkú univerzálnu múku?",
+        "Zdvorilo sa pýtam, či má obchod takýto výrobok v ponuke."
+      ],
+      [
+        "What else do you need?",
+        "Čo ešte potrebujete?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "We don't usually carry bryndza. What kind of cheese is it?",
+        "Bryndzu zvyčajne nemávame. Aký je to syr?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Do you have farmer cheese?",
+        "Máte farmer cheese, taký čerstvý hrudkovitý syr?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Would it be an exact substitute?",
+        "Bola by to presná náhrada?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Where can I find sour cream?",
+        "Kde nájdem kyslú smotanu?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "pork shoulder",
+        "bravčové pliecko"
+      ],
+      [
+        "pork belly",
+        "bravčový bôčik"
+      ],
+      [
+        "ground pork",
+        "mleté bravčové mäso"
+      ],
+      [
+        "smoked sausage",
+        "údená klobása"
+      ],
+      [
+        "pound",
+        "libra"
+      ],
+      [
+        "ounces",
+        "unce"
+      ],
+      [
+        "thinly",
+        "na tenké plátky"
+      ],
+      [
+        "bones for soup",
+        "kosti do polievky"
+      ]
+    ],
+    "phrases": [
+      [
+        "Would you like it whole or cut into pieces?",
+        "Chcete ho vcelku alebo nakrájané na kúsky?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Cut into pieces, please. How much is it per pound?",
+        "Na kúsky, prosím. Koľko stojí libra?",
+        "Pýtam sa na cenu alebo množstvo."
+      ],
+      [
+        "Do you also have pork belly?",
+        "Máte aj bravčový bôčik?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Do you carry smoked sausage?",
+        "Máte údenú klobásu?",
+        "Zdvorilo sa pýtam, či má obchod takýto výrobok v ponuke."
+      ],
+      [
+        "Could you slice that piece of meat thinly?",
+        "Mohli by ste mi ten kus mäsa nakrájať na tenké plátky?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Of course. How much would you like?",
+        "Samozrejme. Koľko si prosíte?",
+        "Pýtam sa na cenu alebo množstvo."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "sauerkraut",
+        "kyslá kapusta"
+      ],
+      [
+        "cabbage",
+        "kapusta"
+      ],
+      [
+        "poppy seeds",
+        "mak"
+      ],
+      [
+        "yeast",
+        "droždie"
+      ],
+      [
+        "cottage cheese",
+        "hrudkovitý čerstvý syr"
+      ],
+      [
+        "breadcrumbs",
+        "strúhanka"
+      ],
+      [
+        "caraway seeds",
+        "rasca"
+      ],
+      [
+        "cumin",
+        "rímska rasca"
+      ]
+    ],
+    "phrases": [
+      [
+        "Where can I find sauerkraut?",
+        "Kde nájdem kyslú kapustu?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Do you carry poppy seeds for baking?",
+        "Máte mak na pečenie?",
+        "Zdvorilo sa pýtam, či má obchod takýto výrobok v ponuke."
+      ],
+      [
+        "Is cottage cheese the same as Slovak tvaroh?",
+        "Je cottage cheese to isté ako slovenský tvaroh?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Where are the plain breadcrumbs?",
+        "Kde je neochutená strúhanka?",
+        "Pýtam sa na miesto."
+      ],
+      [
+        "Do you have caraway seeds, not cumin?",
+        "Máte rascu, nie rímsku rascu?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "aisle",
+        "ulička"
+      ],
+      [
+        "on the right",
+        "napravo"
+      ],
+      [
+        "lower shelf",
+        "spodná polica"
+      ],
+      [
+        "in stock",
+        "na sklade"
+      ],
+      [
+        "sold out",
+        "vypredané"
+      ],
+      [
+        "spice section",
+        "oddelenie korenín"
+      ],
+      [
+        "larger package",
+        "väčšie balenie"
+      ],
+      [
+        "delivery date",
+        "termín dodávky"
+      ]
+    ],
+    "phrases": [
+      [
+        "Excuse me. Where can I find all-purpose flour?",
+        "Prepáčte. Kde nájdem univerzálnu múku?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Is that near the sugar?",
+        "Je to pri cukre?",
+        "Overujem si, či som dobre porozumel."
+      ],
+      [
+        "Do you carry caraway seeds, too?",
+        "Máte aj rascu?",
+        "Zdvorilo sa pýtam, či má obchod takýto výrobok v ponuke."
+      ],
+      [
+        "Could you show me where they are?",
+        "Mohli by ste mi ukázať, kde sú?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "It may be sold out. Would a larger package work?",
+        "Možno je vypredané. Vyhovovalo by vám väčšie balenie?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Is there something similar?",
+        "Máte niečo podobné?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "loyalty card",
+        "zákaznícka karta"
+      ],
+      [
+        "coupon",
+        "kupón"
+      ],
+      [
+        "debit card",
+        "debetná karta"
+      ],
+      [
+        "credit card",
+        "kreditná karta"
+      ],
+      [
+        "cash",
+        "hotovosť"
+      ],
+      [
+        "self-checkout",
+        "samoobslužná pokladňa"
+      ],
+      [
+        "refund",
+        "vrátenie peňazí"
+      ],
+      [
+        "receipt",
+        "účtenka"
+      ]
+    ],
+    "phrases": [
+      [
+        "Do you have a loyalty card?",
+        "Máte zákaznícku kartu?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "No. Can I still use this coupon?",
+        "Nie. Môžem aj tak použiť tento kupón?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Which item are you asking about?",
+        "Na ktorý výrobok sa pýtate?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "This bag of flour. Could you check the price?",
+        "Na toto vrecko múky. Mohli by ste overiť cenu?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Thank you. Can I pay with a debit card?",
+        "Ďakujem. Môžem platiť debetnou kartou?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Could you put the meat in a separate bag?",
+        "Mohli by ste dať mäso do osobitnej tašky?",
+        "Zdvorilá prosba: mohli by ste..."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "delivered",
+        "doručené"
+      ],
+      [
+        "tracking number",
+        "sledovacie číslo zásielky"
+      ],
+      [
+        "delivery confirmation",
+        "potvrdenie o doručení"
+      ],
+      [
+        "front door",
+        "vchodové dvere"
+      ],
+      [
+        "shipping address",
+        "dodacia adresa"
+      ],
+      [
+        "replacement",
+        "náhradný výrobok"
+      ],
+      [
+        "refund",
+        "vrátenie peňazí"
+      ],
+      [
+        "investigation",
+        "preverovanie"
+      ]
+    ],
+    "phrases": [
+      [
+        "May I have the tracking number?",
+        "Môžete mi povedať sledovacie číslo zásielky?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Have you checked the delivery confirmation photo?",
+        "Pozreli ste si fotografiu potvrdzujúcu doručenie?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Could it be a neighbor's address?",
+        "Môže to byť adresa suseda?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Can I get a case number?",
+        "Môžem dostať číslo prípadu?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "What if the package cannot be found?",
+        "Čo ak sa balík nenájde?",
+        "Pýtam sa, čo sa stane, ak nastane problém."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "fitting",
+        "tvarovka"
+      ],
+      [
+        "pipe",
+        "rúra"
+      ],
+      [
+        "faucet",
+        "kohútik"
+      ],
+      [
+        "screws",
+        "skrutky"
+      ],
+      [
+        "nails",
+        "klince"
+      ],
+      [
+        "drill bits",
+        "vrtáky"
+      ],
+      [
+        "screwdriver",
+        "skrutkovač"
+      ],
+      [
+        "wrench",
+        "kľúč na matice"
+      ],
+      [
+        "pliers",
+        "kliešte"
+      ],
+      [
+        "inch",
+        "palec"
+      ]
+    ],
+    "phrases": [
+      [
+        "Do you know the size?",
+        "Viete rozmer?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Is this fitting for a faucet?",
+        "Je táto tvarovka určená ku kohútiku?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "How long should the screws be?",
+        "Aké dlhé majú byť skrutky?",
+        "Pýtam sa, ako dlho to potrvá."
+      ],
+      [
+        "About one inch. Do you have a small package?",
+        "Asi jeden palec. Máte malé balenie?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Where can I find drill bits and a screwdriver?",
+        "Kde nájdem vrtáky a skrutkovač?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ],
+      [
+        "Do I need a wrench or pliers for this?",
+        "Potrebujem na to kľúč alebo kliešte?",
+        "Overujem si, čo musím urobiť alebo mať."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "leaking faucet",
+        "tečúci kohútik"
+      ],
+      [
+        "clogged drain",
+        "upchatý odtok"
+      ],
+      [
+        "arrival window",
+        "časové rozpätie príchodu"
+      ],
+      [
+        "service fee",
+        "poplatok za výjazd"
+      ],
+      [
+        "appointment",
+        "dohodnutý termín"
+      ],
+      [
+        "appliance",
+        "spotrebič"
+      ],
+      [
+        "reschedule",
+        "zmeniť termín"
+      ],
+      [
+        "cancellation fees",
+        "poplatky za zrušenie"
+      ]
+    ],
+    "phrases": [
+      [
+        "Is there also a problem with the drain?",
+        "Je problém aj s odtokom?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What is the arrival window?",
+        "V akom časovom rozpätí príde?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Is there a service fee for the visit?",
+        "Platí sa poplatok za výjazd?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Will I get an estimate before you start?",
+        "Dostanem cenovú ponuku skôr, než začnete?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "My dishwasher is broken, too. Do you repair appliances?",
+        "Pokazila sa mi aj umývačka riadu. Opravujete spotrebiče?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Does your work have a warranty?",
+        "Je na vašu prácu záruka?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "speak more slowly",
+        "hovoriť pomalšie"
+      ],
+      [
+        "repeat",
+        "zopakovať"
+      ],
+      [
+        "spell",
+        "vyhláskovať"
+      ],
+      [
+        "please hold",
+        "zostaňte na linke"
+      ],
+      [
+        "write that down",
+        "zapísať si to"
+      ],
+      [
+        "voicemail",
+        "hlasová schránka"
+      ],
+      [
+        "wrong number",
+        "nesprávne číslo"
+      ],
+      [
+        "confirm",
+        "potvrdiť"
+      ]
+    ],
+    "phrases": [
+      [
+        "Could you speak more slowly, please?",
+        "Mohli by ste hovoriť pomalšie, prosím?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Could you repeat that?",
+        "Mohli by ste to zopakovať?",
+        "Zdvorilá prosba: mohli by ste..."
+      ],
+      [
+        "Let me write that down. What is the address?",
+        "Zapíšem si to. Aká je adresa?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Can you spell the street name?",
+        "Môžete vyhláskovať názov ulice?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Can you text me the address?",
+        "Môžete mi adresu poslať cez SMS?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "If we miss you, may we leave a voicemail?",
+        "Ak vás nezastihneme, môžeme nechať odkaz v hlasovej schránke?",
+        "Použi túto celú vetu v podobnej situácii."
+      ]
+    ]
+  },
+  {
+    "words": [
+      [
+        "scam",
+        "podvod"
+      ],
+      [
+        "suspicious link",
+        "podozrivý odkaz"
+      ],
+      [
+        "verification code",
+        "overovací kód"
+      ],
+      [
+        "password",
+        "heslo"
+      ],
+      [
+        "bank card",
+        "banková karta"
+      ],
+      [
+        "urgent",
+        "súrne"
+      ],
+      [
+        "warning sign",
+        "varovný signál"
+      ],
+      [
+        "trusted number",
+        "overené číslo"
+      ]
+    ],
+    "phrases": [
+      [
+        "Were you expecting a delivery?",
+        "Čakali ste zásielku?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What does it ask you to do?",
+        "Čo od vás chce?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "Should I call the number in the message?",
+        "Mám zavolať na číslo v správe?",
+        "Použi túto celú vetu v podobnej situácii."
+      ],
+      [
+        "What if they say it's urgent?",
+        "Čo ak povedia, že je to súrne?",
+        "Pýtam sa, čo sa stane, ak nastane problém."
+      ],
+      [
+        "How can I verify my identity safely?",
+        "Ako môžem bezpečne overiť svoju totožnosť?",
+        "Pýtam sa, či niečo môžem urobiť."
+      ]
+    ]
+  }
+]

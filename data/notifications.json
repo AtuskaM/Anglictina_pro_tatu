@@ -1,0 +1,427 @@
+[
+  {
+    "id": "renew",
+    "title": "RENEW",
+    "en": "Your prescription has 0 refills remaining. Reply RENEW if you would like us to contact your prescriber.",
+    "sk": "Na recepte už nemáte povolené ďalšie vydania. Odpovedzte RENEW, ak chcete, aby lekáreň kontaktovala lekára.",
+    "meaning": "Chcú vedieť, či majú požiadať lekára o nový recept.",
+    "action": "Požiadať lekáreň, aby kontaktovala lekára.",
+    "vocab": [
+      {
+        "en": "RENEW",
+        "sk": "obnoviť recept",
+        "note": ""
+      },
+      {
+        "en": "0 refills remaining",
+        "sk": "žiadne ďalšie povolené vydania",
+        "note": ""
+      },
+      {
+        "en": "contact your prescriber",
+        "sk": "kontaktovať lekára, ktorý recept vystavil",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Chcú vedieť, či majú požiadať lekára o nový recept."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Požiadať lekáreň, aby kontaktovala lekára."
+      }
+    ]
+  },
+  {
+    "id": "ready",
+    "title": "READY FOR PICKUP",
+    "en": "Good news! Your prescription is ready for pickup. Please bring your ID.",
+    "sk": "Dobrá správa! Vaše lieky sú pripravené na vyzdvihnutie. Prineste si doklad totožnosti.",
+    "meaning": "Lieky už čakajú v lekárni.",
+    "action": "Prísť si po lieky s dokladom.",
+    "vocab": [
+      {
+        "en": "READY FOR PICKUP",
+        "sk": "pripravené na vyzdvihnutie",
+        "note": ""
+      },
+      {
+        "en": "bring your ID",
+        "sk": "prineste si doklad totožnosti",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Lieky už čakajú v lekárni."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Prísť si po lieky s dokladom."
+      }
+    ]
+  },
+  {
+    "id": "delayed",
+    "title": "DELAYED",
+    "en": "Your prescription is delayed. We will notify you when it is ready.",
+    "sk": "Príprava vašich liekov sa oneskorila. Dáme vám vedieť, keď budú pripravené.",
+    "meaning": "Ešte nemá chodiť po lieky.",
+    "action": "Počkať na ďalšiu správu.",
+    "vocab": [
+      {
+        "en": "DELAYED",
+        "sk": "oneskorené",
+        "note": ""
+      },
+      {
+        "en": "notify you",
+        "sk": "dáme vám vedieť",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Ešte nemá chodiť po lieky."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Počkať na ďalšiu správu."
+      }
+    ]
+  },
+  {
+    "id": "out",
+    "title": "OUT OF STOCK",
+    "en": "This medication is temporarily out of stock. Call the pharmacy to discuss options.",
+    "sk": "Tento liek momentálne nemáme na sklade. Zavolajte do lekárne a preberte možnosti.",
+    "meaning": "Liek nie je momentálne dostupný.",
+    "action": "Zavolať do lekárne.",
+    "vocab": [
+      {
+        "en": "OUT OF STOCK",
+        "sk": "nie je na sklade",
+        "note": ""
+      },
+      {
+        "en": "temporarily",
+        "sk": "dočasne",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Liek nie je momentálne dostupný."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Zavolať do lekárne."
+      }
+    ]
+  },
+  {
+    "id": "action",
+    "title": "ACTION REQUIRED",
+    "en": "Action required: Please confirm whether you still need this prescription.",
+    "sk": "Vyžaduje sa odpoveď: Potvrďte, prosím, či tieto lieky ešte potrebujete.",
+    "meaning": "Lekáreň čaká na odpoveď.",
+    "action": "Potvrdiť, či lieky ešte potrebuje.",
+    "vocab": [
+      {
+        "en": "ACTION REQUIRED",
+        "sk": "treba niečo urobiť",
+        "note": ""
+      },
+      {
+        "en": "confirm",
+        "sk": "potvrdiť",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Lekáreň čaká na odpoveď."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Potvrdiť, či lieky ešte potrebuje."
+      }
+    ]
+  },
+  {
+    "id": "approval",
+    "title": "PRIOR AUTHORIZATION",
+    "en": "Your insurance requires prior authorization. We have contacted your prescriber.",
+    "sk": "Poisťovňa vyžaduje predchádzajúce schválenie. Kontaktovali sme vášho lekára.",
+    "meaning": "Poisťovňa ešte musí schváliť úhradu podľa svojich pravidiel.",
+    "action": "Počkať na výsledok alebo sa informovať v lekárni.",
+    "vocab": [
+      {
+        "en": "PRIOR AUTHORIZATION",
+        "sk": "predchádzajúce schválenie poisťovňou",
+        "note": ""
+      },
+      {
+        "en": "insurance",
+        "sk": "zdravotné poistenie",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Poisťovňa ešte musí schváliť úhradu podľa svojich pravidiel."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Počkať na výsledok alebo sa informovať v lekárni."
+      }
+    ]
+  },
+  {
+    "id": "call",
+    "title": "PLEASE CALL US",
+    "en": "We need more information to process your prescription. Please call the pharmacy.",
+    "sk": "Na spracovanie receptu potrebujeme ďalšie informácie. Zavolajte, prosím, do lekárne.",
+    "meaning": "Niečo potrebujú objasniť.",
+    "action": "Zavolať do lekárne.",
+    "vocab": [
+      {
+        "en": "more information",
+        "sk": "ďalšie informácie",
+        "note": ""
+      },
+      {
+        "en": "process your prescription",
+        "sk": "spracovať váš recept",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Niečo potrebujú objasniť."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Zavolať do lekárne."
+      }
+    ]
+  },
+  {
+    "id": "pickup",
+    "title": "PICKUP REMINDER",
+    "en": "Reminder: Your prescription is waiting for pickup.",
+    "sk": "Pripomienka: Vaše lieky čakajú na vyzdvihnutie.",
+    "meaning": "Lieky sú už pripravené a čakajú.",
+    "action": "Vyzdvihnúť lieky alebo kontaktovať lekáreň.",
+    "vocab": [
+      {
+        "en": "REMINDER",
+        "sk": "pripomienka",
+        "note": ""
+      },
+      {
+        "en": "waiting for pickup",
+        "sk": "čaká na vyzdvihnutie",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Lieky sú už pripravené a čakajú."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Vyzdvihnúť lieky alebo kontaktovať lekáreň."
+      }
+    ]
+  },
+  {
+    "id": "auto",
+    "title": "AUTO REFILL",
+    "en": "Your prescription is enrolled in automatic refills. We will notify you when it is ready.",
+    "sk": "Máte zapnuté automatické opakované vydávanie lieku. Dáme vám vedieť, keď bude pripravený.",
+    "meaning": "Lekáreň pripraví ďalšie povolené vydanie automaticky.",
+    "action": "Počkať na oznámenie o pripravení.",
+    "vocab": [
+      {
+        "en": "AUTO REFILL",
+        "sk": "automatické opakované vydanie",
+        "note": ""
+      },
+      {
+        "en": "enrolled",
+        "sk": "zaradený, prihlásený",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Lekáreň pripraví ďalšie povolené vydanie automaticky."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Počkať na oznámenie o pripravení."
+      }
+    ]
+  },
+  {
+    "id": "tooearly",
+    "title": "TOO SOON",
+    "en": "It is too soon to refill this prescription. Check the next eligible refill date.",
+    "sk": "Na ďalšie vydanie tohto lieku je ešte priskoro. Skontrolujte najbližší povolený dátum.",
+    "meaning": "Ďalšie vydanie zatiaľ nie je povolené.",
+    "action": "Pozrieť si dátum ďalšieho vydania.",
+    "vocab": [
+      {
+        "en": "TOO SOON",
+        "sk": "príliš skoro",
+        "note": ""
+      },
+      {
+        "en": "eligible date",
+        "sk": "dátum, odkedy je to možné",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Ďalšie vydanie zatiaľ nie je povolené."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Pozrieť si dátum ďalšieho vydania."
+      }
+    ]
+  },
+  {
+    "id": "doctor",
+    "title": "DOCTOR RESPONSE",
+    "en": "We sent a renewal request to your doctor. We are waiting for a response.",
+    "sk": "Poslali sme lekárovi žiadosť o nový recept. Čakáme na odpoveď.",
+    "meaning": "Žiadosť bola odoslaná, ale ešte nie je schválená.",
+    "action": "Počkať na odpoveď alebo sa informovať.",
+    "vocab": [
+      {
+        "en": "renewal request",
+        "sk": "žiadosť o obnovenie receptu",
+        "note": ""
+      },
+      {
+        "en": "waiting for a response",
+        "sk": "čakáme na odpoveď",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Žiadosť bola odoslaná, ale ešte nie je schválená."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Počkať na odpoveď alebo sa informovať."
+      }
+    ]
+  },
+  {
+    "id": "partial",
+    "title": "PARTIAL FILL",
+    "en": "We can fill part of your prescription today. Call us about the remaining quantity.",
+    "sk": "Dnes vám môžeme vydať iba časť predpísaného množstva. Zavolajte nám ohľadom zvyšku.",
+    "meaning": "Nemajú celé predpísané množstvo.",
+    "action": "Zavolať a dohodnúť sa na zvyšku.",
+    "vocab": [
+      {
+        "en": "PARTIAL FILL",
+        "sk": "vydanie časti predpísaného množstva",
+        "note": ""
+      },
+      {
+        "en": "remaining quantity",
+        "sk": "zostávajúce množstvo",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Nemajú celé predpísané množstvo."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Zavolať a dohodnúť sa na zvyšku."
+      }
+    ]
+  },
+  {
+    "id": "verify",
+    "title": "VERIFY YOUR NUMBER",
+    "en": "Please verify your phone number to receive prescription updates.",
+    "sk": "Potvrďte svoje telefónne číslo, aby ste dostávali správy o liekoch.",
+    "meaning": "Chcú potvrdiť číslo na posielanie správ.",
+    "action": "Overiť číslo bezpečným spôsobom.",
+    "vocab": [
+      {
+        "en": "VERIFY",
+        "sk": "overiť, potvrdiť",
+        "note": ""
+      },
+      {
+        "en": "updates",
+        "sk": "nové informácie",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Chcú potvrdiť číslo na posielanie správ."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Overiť číslo bezpečným spôsobom."
+      }
+    ]
+  },
+  {
+    "id": "expired",
+    "title": "EXPIRED",
+    "en": "Your prescription has expired. A new prescription may be required.",
+    "sk": "Platnosť vášho receptu vypršala. Môže byť potrebný nový recept.",
+    "meaning": "Recept už nie je platný.",
+    "action": "Kontaktovať lekáreň alebo lekára.",
+    "vocab": [
+      {
+        "en": "EXPIRED",
+        "sk": "platnosť vypršala",
+        "note": ""
+      },
+      {
+        "en": "new prescription",
+        "sk": "nový recept",
+        "note": ""
+      }
+    ],
+    "questions": [
+      {
+        "q": "Čo táto správa znamená?",
+        "correct": "Recept už nie je platný."
+      },
+      {
+        "q": "Čo máš teraz urobiť?",
+        "correct": "Kontaktovať lekáreň alebo lekára."
+      }
+    ]
+  }
+]

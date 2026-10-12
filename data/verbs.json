@@ -1,0 +1,713 @@
+[
+  {
+    "en": "work",
+    "sk": "pracovať",
+    "past": "worked",
+    "example": "I work at home.",
+    "translation": "Pracujem doma.",
+    "visual": "🛠️",
+    "image": "images/actions/fix.webp"
+  },
+  {
+    "en": "clean",
+    "sk": "upratovať",
+    "past": "cleaned",
+    "example": "I clean the kitchen.",
+    "translation": "Upratujem kuchyňu.",
+    "visual": "🧹",
+    "image": "images/actions/clean.webp"
+  },
+  {
+    "en": "repair",
+    "sk": "opraviť",
+    "past": "repaired",
+    "example": "I repair the door.",
+    "translation": "Opravujem dvere.",
+    "visual": "💬",
+    "image": "images/actions/fix.webp"
+  },
+  {
+    "en": "call",
+    "sk": "zavolať",
+    "past": "called",
+    "example": "I call my daughter.",
+    "translation": "Volám dcére.",
+    "visual": "📞",
+    "image": "images/actions/call.webp"
+  },
+  {
+    "en": "help",
+    "sk": "pomôcť",
+    "past": "helped",
+    "example": "I help my neighbor.",
+    "translation": "Pomáham susedovi.",
+    "visual": "🤝",
+    "image": "images/actions/help.webp"
+  },
+  {
+    "en": "buy",
+    "sk": "kúpiť",
+    "past": "bought",
+    "example": "I buy bread.",
+    "translation": "Kupujem chlieb.",
+    "visual": "🛒",
+    "image": "images/actions/buy.webp"
+  },
+  {
+    "en": "wait",
+    "sk": "čakať",
+    "past": "waited",
+    "example": "I wait for the bus.",
+    "translation": "Čakám na autobus.",
+    "visual": "💬",
+    "image": "images/actions/wait.webp"
+  },
+  {
+    "en": "take",
+    "sk": "vziať",
+    "past": "took",
+    "example": "I take the bus.",
+    "translation": "Chodím autobusom.",
+    "visual": "💬",
+    "image": "images/actions/wait.webp"
+  },
+  {
+    "en": "cook",
+    "sk": "variť",
+    "past": "cooked",
+    "example": "I cook dinner.",
+    "translation": "Varím večeru.",
+    "visual": "🍳",
+    "image": "images/actions/cook.webp"
+  },
+  {
+    "en": "open",
+    "sk": "otvoriť",
+    "past": "opened",
+    "example": "I open the door.",
+    "translation": "Otváram dvere.",
+    "visual": "🚪",
+    "image": "images/actions/open.webp"
+  },
+  {
+    "en": "read",
+    "sk": "čítať",
+    "past": "read",
+    "example": "I read the message.",
+    "translation": "Čítam správu.",
+    "visual": "📖",
+    "image": "images/actions/read.webp"
+  },
+  {
+    "en": "need",
+    "sk": "potrebovať",
+    "past": "needed",
+    "example": "I need help.",
+    "translation": "Potrebujem pomoc.",
+    "visual": "💬",
+    "image": "images/actions/need.webp"
+  },
+  {
+    "en": "drive",
+    "sk": "šoférovať",
+    "past": "drove",
+    "example": "I drive to the store.",
+    "translation": "Idem autom do obchodu.",
+    "visual": "🚗",
+    "image": "images/actions/drive.webp"
+  },
+  {
+    "en": "go",
+    "sk": "ísť",
+    "past": "went",
+    "example": "We go to the store.",
+    "translation": "Ideme do obchodu.",
+    "visual": "🚶",
+    "image": "images/actions/walk.webp"
+  },
+  {
+    "en": "come",
+    "sk": "prísť",
+    "past": "came",
+    "example": "They come home.",
+    "translation": "Prichádzajú domov.",
+    "visual": "👋",
+    "image": "images/actions/walk.webp"
+  },
+  {
+    "en": "bring",
+    "sk": "priniesť",
+    "past": "brought",
+    "example": "I bring the keys.",
+    "translation": "Prinášam kľúče.",
+    "visual": "💬",
+    "image": "images/actions/bring.webp"
+  },
+  {
+    "en": "give",
+    "sk": "dať",
+    "past": "gave",
+    "example": "I give him the package.",
+    "translation": "Dávam mu balík.",
+    "visual": "💬",
+    "image": "images/actions/bring.webp"
+  },
+  {
+    "en": "put",
+    "sk": "položiť",
+    "past": "put",
+    "example": "I put the bag on the table.",
+    "translation": "Položím tašku na stôl.",
+    "visual": "💬",
+    "image": "images/actions/bring.webp"
+  },
+  {
+    "en": "find",
+    "sk": "nájsť",
+    "past": "found",
+    "example": "We find the address.",
+    "translation": "Nájdeme adresu.",
+    "visual": "💬",
+    "image": "images/actions/show.webp"
+  },
+  {
+    "en": "pay",
+    "sk": "zaplatiť",
+    "past": "paid",
+    "example": "I pay by card.",
+    "translation": "Platím kartou.",
+    "visual": "💵",
+    "image": "images/actions/pay.webp"
+  },
+  {
+    "en": "ask",
+    "sk": "opýtať sa",
+    "past": "asked",
+    "example": "She asks a question.",
+    "translation": "Ona sa pýta.",
+    "visual": "💬",
+    "image": "images/actions/speak.webp"
+  },
+  {
+    "en": "answer",
+    "sk": "odpovedať",
+    "past": "answered",
+    "example": "He answers the phone.",
+    "translation": "On zdvihne telefón.",
+    "visual": "💬",
+    "image": "images/actions/call.webp"
+  },
+  {
+    "en": "show",
+    "sk": "ukázať",
+    "past": "showed",
+    "example": "I show my ID.",
+    "translation": "Ukazujem občiansky preukaz.",
+    "visual": "💬",
+    "image": "images/actions/show.webp"
+  },
+  {
+    "en": "send",
+    "sk": "poslať",
+    "past": "sent",
+    "example": "They send a message.",
+    "translation": "Posielajú správu.",
+    "visual": "💬",
+    "image": "images/actions/read.webp"
+  },
+  {
+    "en": "check",
+    "sk": "skontrolovať",
+    "past": "checked",
+    "example": "We check the door.",
+    "translation": "Kontrolujeme dvere.",
+    "visual": "💬",
+    "image": "images/actions/check.webp"
+  },
+  {
+    "en": "change",
+    "sk": "vymeniť",
+    "past": "changed",
+    "example": "He changes the washer.",
+    "translation": "On vymení tesnenie.",
+    "visual": "💬",
+    "image": "images/actions/fix.webp"
+  },
+  {
+    "en": "turn",
+    "sk": "otočiť",
+    "past": "turned",
+    "example": "I turn the handle.",
+    "translation": "Otáčam rukoväťou.",
+    "visual": "💬",
+    "image": "images/actions/check.webp"
+  },
+  {
+    "en": "close",
+    "sk": "zatvoriť",
+    "past": "closed",
+    "example": "She closes the window.",
+    "translation": "Ona zatvára okno.",
+    "visual": "🚪",
+    "image": "images/actions/close.webp"
+  },
+  {
+    "en": "see",
+    "sk": "vidieť",
+    "past": "saw",
+    "example": "I see the bus.",
+    "translation": "Vidím autobus.",
+    "visual": "💬",
+    "image": "images/actions/speak.webp"
+  },
+  {
+    "en": "hear",
+    "sk": "počuť",
+    "past": "heard",
+    "example": "I hear the phone.",
+    "translation": "Počujem telefón.",
+    "visual": "💬",
+    "image": "images/actions/listen.webp"
+  },
+  {
+    "en": "write",
+    "sk": "napísať",
+    "past": "wrote",
+    "example": "I write my name.",
+    "translation": "Píšem svoje meno.",
+    "visual": "✍️",
+    "image": "images/actions/write.webp"
+  },
+  {
+    "en": "speak",
+    "sk": "hovoriť",
+    "past": "spoke",
+    "example": "We speak English.",
+    "translation": "Hovoríme po anglicky.",
+    "visual": "💬",
+    "image": "images/actions/speak.webp"
+  },
+  {
+    "en": "walk",
+    "sk": "kráčať",
+    "past": "walked",
+    "example": "They walk to the park.",
+    "translation": "Idú pešo do parku.",
+    "visual": "🚶",
+    "image": "images/actions/walk.webp"
+  },
+  {
+    "en": "eat",
+    "sk": "jesť",
+    "past": "ate",
+    "example": "I eat breakfast.",
+    "translation": "Raňajkujem.",
+    "visual": "🍽️",
+    "image": "images/actions/eat.webp"
+  },
+  {
+    "en": "drink",
+    "sk": "piť",
+    "past": "drank",
+    "example": "He drinks water.",
+    "translation": "On pije vodu.",
+    "visual": "🥤",
+    "image": "images/actions/drink.webp"
+  },
+  {
+    "en": "sleep",
+    "sk": "spať",
+    "past": "slept",
+    "example": "She sleeps at night.",
+    "translation": "Ona v noci spí.",
+    "visual": "🛏️",
+    "image": "images/actions/sleep.webp"
+  },
+  {
+    "en": "feel",
+    "sk": "cítiť sa",
+    "past": "felt",
+    "example": "I feel better.",
+    "translation": "Cítim sa lepšie.",
+    "visual": "💬",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "live",
+    "sk": "bývať",
+    "past": "lived",
+    "example": "He lives upstairs.",
+    "translation": "Býva na poschodí.",
+    "visual": "💬",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "know",
+    "sk": "vedieť",
+    "past": "knew",
+    "example": "I know the answer.",
+    "translation": "Viem odpoveď.",
+    "visual": "💬",
+    "image": "images/actions/speak.webp"
+  },
+  {
+    "en": "want",
+    "sk": "chcieť",
+    "past": "wanted",
+    "example": "They want coffee.",
+    "translation": "Chcú kávu.",
+    "visual": "💬",
+    "image": "images/actions/need.webp"
+  },
+  {
+    "en": "make",
+    "sk": "robiť, vyrobiť",
+    "past": "made",
+    "example": "She makes dinner.",
+    "translation": "Ona pripravuje večeru.",
+    "visual": "💬",
+    "image": "images/actions/cook.webp"
+  },
+  {
+    "en": "have",
+    "sk": "mať",
+    "past": "had",
+    "example": "We have time.",
+    "translation": "Máme čas.",
+    "visual": "💬",
+    "image": "images/actions/key.webp"
+  },
+  {
+    "en": "I am here.",
+    "sk": "Som tu.",
+    "past": "",
+    "example": "I am here.",
+    "translation": "Som tu.",
+    "visual": "💬",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "You are here.",
+    "sk": "Si tu. / Ste tu.",
+    "past": "",
+    "example": "You are here.",
+    "translation": "Si tu. / Ste tu.",
+    "visual": "💬",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "He works here.",
+    "sk": "On tu pracuje.",
+    "past": "",
+    "example": "He works here.",
+    "translation": "On tu pracuje.",
+    "visual": "💬",
+    "image": "images/actions/fix.webp"
+  },
+  {
+    "en": "She lives here.",
+    "sk": "Ona tu býva.",
+    "past": "",
+    "example": "She lives here.",
+    "translation": "Ona tu býva.",
+    "visual": "💬",
+    "image": "images/pronouns/she-live.webp"
+  },
+  {
+    "en": "We live here.",
+    "sk": "My tu bývame.",
+    "past": "",
+    "example": "We live here.",
+    "translation": "My tu bývame.",
+    "visual": "💬",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "They work here.",
+    "sk": "Oni tu pracujú.",
+    "past": "",
+    "example": "They work here.",
+    "translation": "Oni tu pracujú.",
+    "visual": "💬",
+    "image": "images/actions/extra-they-clean.webp"
+  },
+  {
+    "en": "You help me.",
+    "sk": "Pomáhaš mi. / Pomáhate mi.",
+    "past": "",
+    "example": "You help me.",
+    "translation": "Pomáhaš mi. / Pomáhate mi.",
+    "visual": "💬",
+    "image": "images/actions/help.webp"
+  },
+  {
+    "en": "You live upstairs.",
+    "sk": "Bývaš hore. / Bývate hore.",
+    "past": "",
+    "example": "You live upstairs.",
+    "translation": "Bývaš hore. / Bývate hore.",
+    "visual": "💬",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "my car",
+    "sk": "moje auto",
+    "past": "",
+    "example": "my car",
+    "translation": "moje auto",
+    "visual": "💬",
+    "image": "images/actions/car.webp"
+  },
+  {
+    "en": "your phone",
+    "sk": "tvoj telefón / váš telefón",
+    "past": "",
+    "example": "your phone",
+    "translation": "tvoj telefón / váš telefón",
+    "visual": "💬",
+    "image": "images/actions/phone.webp"
+  },
+  {
+    "en": "his key",
+    "sk": "jeho kľúč",
+    "past": "",
+    "example": "his key",
+    "translation": "jeho kľúč",
+    "visual": "💬",
+    "image": "images/actions/key.webp"
+  },
+  {
+    "en": "her bag",
+    "sk": "jej taška",
+    "past": "",
+    "example": "her bag",
+    "translation": "jej taška",
+    "visual": "💬",
+    "image": "images/actions/bag.webp"
+  },
+  {
+    "en": "our house",
+    "sk": "náš dom",
+    "past": "",
+    "example": "our house",
+    "translation": "náš dom",
+    "visual": "💬",
+    "image": "images/actions/house.webp"
+  },
+  {
+    "en": "their apartment",
+    "sk": "ich byt",
+    "past": "",
+    "example": "their apartment",
+    "translation": "ich byt",
+    "visual": "💬",
+    "image": "images/actions/house.webp"
+  },
+  {
+    "en": "its door",
+    "sk": "jeho dvierka (napríklad na skrinke)",
+    "past": "",
+    "example": "its door",
+    "translation": "jeho dvierka (napríklad na skrinke)",
+    "visual": "💬",
+    "image": "images/actions/cabinet.webp"
+  },
+  {
+    "en": "Help me, please.",
+    "sk": "Pomôž mi, prosím. / Pomôžte mi, prosím.",
+    "past": "",
+    "example": "Help me, please.",
+    "translation": "Pomôž mi, prosím. / Pomôžte mi, prosím.",
+    "visual": "💬",
+    "image": "images/actions/help.webp"
+  },
+  {
+    "en": "I call him.",
+    "sk": "Volám mu.",
+    "past": "",
+    "example": "I call him.",
+    "translation": "Volám mu.",
+    "visual": "💬",
+    "image": "images/actions/call.webp"
+  },
+  {
+    "en": "She helps her.",
+    "sk": "Ona jej pomáha.",
+    "past": "",
+    "example": "She helps her.",
+    "translation": "Ona jej pomáha.",
+    "visual": "💬",
+    "image": "images/actions/help.webp"
+  },
+  {
+    "en": "He calls us.",
+    "sk": "On nám volá.",
+    "past": "",
+    "example": "He calls us.",
+    "translation": "On nám volá.",
+    "visual": "💬",
+    "image": "images/actions/call.webp"
+  },
+  {
+    "en": "We see them.",
+    "sk": "Vidíme ich.",
+    "past": "",
+    "example": "We see them.",
+    "translation": "Vidíme ich.",
+    "visual": "💬",
+    "image": "images/actions/speak.webp"
+  },
+  {
+    "en": "Please call her.",
+    "sk": "Zavolaj jej, prosím. / Zavolajte jej, prosím.",
+    "past": "",
+    "example": "Please call her.",
+    "translation": "Zavolaj jej, prosím. / Zavolajte jej, prosím.",
+    "visual": "💬",
+    "image": "images/actions/call.webp"
+  },
+  {
+    "en": "keys",
+    "sk": "kľúče",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🔑",
+    "image": "images/actions/key.webp"
+  },
+  {
+    "en": "bag",
+    "sk": "taška",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "👜",
+    "image": "images/actions/bag.webp"
+  },
+  {
+    "en": "car",
+    "sk": "auto",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🚗",
+    "image": "images/actions/car.webp"
+  },
+  {
+    "en": "phone",
+    "sk": "telefón",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "📱",
+    "image": "images/actions/phone.webp"
+  },
+  {
+    "en": "coat",
+    "sk": "kabát",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🧥",
+    "image": "images/actions/coat.webp"
+  },
+  {
+    "en": "house",
+    "sk": "dom",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🏠",
+    "image": "images/actions/house.webp"
+  },
+  {
+    "en": "door",
+    "sk": "dvere",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🚪",
+    "image": "images/actions/cabinet.webp"
+  },
+  {
+    "en": "window",
+    "sk": "okno",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🪟",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "water",
+    "sk": "voda",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "💧",
+    "image": "images/actions/water.webp"
+  },
+  {
+    "en": "coffee",
+    "sk": "káva",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "☕",
+    "image": "images/actions/coffee.webp"
+  },
+  {
+    "en": "money",
+    "sk": "peniaze",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "💵",
+    "image": "images/actions/cash.webp"
+  },
+  {
+    "en": "bus",
+    "sk": "autobus",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🚌",
+    "image": "images/actions/bus.webp"
+  },
+  {
+    "en": "neighbor",
+    "sk": "sused",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🏘️",
+    "image": "images/actions/be.webp"
+  },
+  {
+    "en": "father",
+    "sk": "otec",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "👨",
+    "image": "images/actions/father.webp"
+  },
+  {
+    "en": "pharmacist",
+    "sk": "lekárnik / lekárnička",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "💊",
+    "image": "images/words/pharmacist.jpg"
+  },
+  {
+    "en": "fix",
+    "sk": "opraviť",
+    "past": "",
+    "example": "",
+    "translation": "",
+    "visual": "🛠️",
+    "image": "images/actions/fix.webp"
+  }
+]

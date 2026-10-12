@@ -1,0 +1,132 @@
+[
+  {
+    "id": "message-0",
+    "en": "Your repair estimate is ready. Please call us to approve the work.",
+    "sk": "Cenová ponuka na opravu je pripravená. Zavolajte nám, prosím, a schváľte prácu.",
+    "note": "Servis žiada súhlas. Ešte to neznamená, že auto je opravené.",
+    "q": "Čo mám urobiť?",
+    "a": [
+      "Zavolať a rozhodnúť o schválení opravy.",
+      "Hneď vyzdvihnúť hotové auto.",
+      "Poslať heslo do banky."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-1",
+    "en": "Your car is ready for pickup. Please bring your receipt.",
+    "sk": "Vaše auto je pripravené na vyzdvihnutie. Prineste si účtenku.",
+    "note": "Ready for pickup znamená pripravené na vyzdvihnutie.",
+    "q": "Čo je pripravené?",
+    "a": [
+      "Auto na vyzdvihnutie.",
+      "Žiadosť o nový recept.",
+      "Polievka na večeru."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-2",
+    "en": "Your premium payment is due on November 1. Check your account for details.",
+    "sk": "Vaše poistné je splatné do prvého novembra. Podrobnosti si overte vo svojom účte.",
+    "note": "Premium je poistné, nie spoluúčasť pri škode. Pri skutočnej správe otvorím známu aplikáciu sám.",
+    "q": "Na čo upozorňuje správa?",
+    "a": [
+      "Na termín platby poistného.",
+      "Na schválenú výplatu škody.",
+      "Na dodávku múky."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-3",
+    "en": "We need additional photographs for your claim. Please use the secure upload in your account.",
+    "sk": "Na posúdenie poistnej udalosti potrebujeme ďalšie fotografie. Použite zabezpečené nahrávanie vo svojom účte.",
+    "note": "Žiadosť o ďalšie dokumenty nie je sľub úhrady. Účet otvorím známym spôsobom.",
+    "q": "Čo potrebujú?",
+    "a": [
+      "Ďalšie fotografie.",
+      "Moje heslo.",
+      "Kód z bankovej SMS."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-4",
+    "en": "Your claim is still under review. We will contact you with an update.",
+    "sk": "Vaša poistná udalosť sa stále posudzuje. Budeme vás informovať.",
+    "note": "Under review = stále sa posudzuje. Nie je to schválenie ani zamietnutie.",
+    "q": "Je už rozhodnuté?",
+    "a": [
+      "Nie, udalosť sa posudzuje.",
+      "Áno, všetko je zaplatené.",
+      "Áno, účet bol zrušený."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-5",
+    "en": "Your technician is scheduled to arrive between 9 AM and noon tomorrow.",
+    "sk": "Opravár má prísť zajtra medzi deviatou ráno a dvanástou.",
+    "note": "Je to časové rozpätie, nie presný čas. Noon = poludnie; midnight = polnoc.",
+    "q": "Kedy príde opravár?",
+    "a": [
+      "Zajtra medzi deviatou a dvanástou.",
+      "Dnes o polnoci.",
+      "Zajtra o deviatej večer."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-6",
+    "en": "Your package was delivered to the front porch. Check the delivery photo in your account.",
+    "sk": "Váš balík bol doručený na prednú verandu. Pozrite si fotografiu doručenia vo svojom účte.",
+    "note": "Overím si miesto na fotografii. Ak zásielka chýba, kontaktujem doručovateľa cez overené spojenie.",
+    "q": "Čo si mám pozrieť?",
+    "a": [
+      "Fotografiu doručenia.",
+      "Cenu brzdových doštičiek.",
+      "Termín obnovy poistky."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-7",
+    "en": "Your appointment has been rescheduled to Thursday at 2 PM. Please call if this time does not work.",
+    "sk": "Váš termín bol presunutý na štvrtok o druhej popoludní. Ak vám nevyhovuje, zavolajte.",
+    "note": "Rescheduled = termín sa zmenil. 2 PM = dve popoludní.",
+    "q": "Čo sa zmenilo?",
+    "a": [
+      "Termín návštevy.",
+      "Hmotnosť nákupu.",
+      "Číslo bytu suseda."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-8",
+    "en": "Your bank statement is available in your account. Open your banking app to review it.",
+    "sk": "Výpis z banky je dostupný vo vašom účte. Pozrite si ho v bankovej aplikácii.",
+    "note": "Pri skutočnej správe otvorím známu aplikáciu sám. Nedávam overovacie kódy cudziemu volajúcemu.",
+    "q": "Ako si mám výpis overiť?",
+    "a": [
+      "Otvorím svoju známu bankovú aplikáciu.",
+      "Pošlem heslo odosielateľovi.",
+      "Zavolám na náhodné číslo."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "message-9",
+    "en": "Urgent: your delivery is blocked. Send your card details and verification code now.",
+    "sk": "Súrne: doručenie je zablokované. Hneď pošlite údaje z karty a overovací kód.",
+    "note": "Toto je učebný príklad podozrivej správy. Nátlak a žiadosť o údaje sú varovné signály. Údaje neposielam; firmu kontaktujem sám.",
+    "q": "Aký je bezpečný postup?",
+    "a": [
+      "Neposlať údaje a overiť to cez známu firmu.",
+      "Poslať údaje z karty.",
+      "Poslať overovací kód."
+    ],
+    "correct": 0
+  }
+]

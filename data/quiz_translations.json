@@ -1,0 +1,414 @@
+[
+  {
+    "en": "Call him.",
+    "sk": "Zavolaj mu."
+  },
+  {
+    "en": "Can you fix it?",
+    "sk": "Môžeš to opraviť? / Môžete to opraviť?"
+  },
+  {
+    "en": "Close the window.",
+    "sk": "Zavri okno."
+  },
+  {
+    "en": "Come here, please.",
+    "sk": "Poď sem, prosím."
+  },
+  {
+    "en": "Do they live nearby?",
+    "sk": "Bývajú blízko?"
+  },
+  {
+    "en": "Do you have change?",
+    "sk": "Máte drobné?"
+  },
+  {
+    "en": "Do you work here?",
+    "sk": "Pracuješ tu? / Pracujete tu?"
+  },
+  {
+    "en": "Does he need help?",
+    "sk": "Potrebuje pomoc?"
+  },
+  {
+    "en": "Does she drive?",
+    "sk": "Šoféruje?"
+  },
+  {
+    "en": "He calls the doctor.",
+    "sk": "Volá lekárovi."
+  },
+  {
+    "en": "He calls us.",
+    "sk": "On nám volá."
+  },
+  {
+    "en": "He doesn’t drive.",
+    "sk": "On nešoféruje."
+  },
+  {
+    "en": "He helps my father.",
+    "sk": "On pomáha môjmu otcovi."
+  },
+  {
+    "en": "He needs help.",
+    "sk": "On potrebuje pomoc."
+  },
+  {
+    "en": "He repairs her car.",
+    "sk": "On opravuje jej auto."
+  },
+  {
+    "en": "He works here.",
+    "sk": "On tu pracuje."
+  },
+  {
+    "en": "He works.",
+    "sk": "On pracuje."
+  },
+  {
+    "en": "Help me, please.",
+    "sk": "Pomôž mi, prosím. / Pomôžte mi, prosím."
+  },
+  {
+    "en": "Her car is outside.",
+    "sk": "Jej auto je vonku."
+  },
+  {
+    "en": "Her son drives my car.",
+    "sk": "Jej syn šoféruje moje auto."
+  },
+  {
+    "en": "How much does it cost?",
+    "sk": "Koľko to stojí?"
+  },
+  {
+    "en": "I am here.",
+    "sk": "Som tu."
+  },
+  {
+    "en": "I call him.",
+    "sk": "Volám mu."
+  },
+  {
+    "en": "I call my daughter.",
+    "sk": "Volám svojej dcére."
+  },
+  {
+    "en": "I call the doctor.",
+    "sk": "Volám lekárovi."
+  },
+  {
+    "en": "I clean the kitchen.",
+    "sk": "Upratujem kuchyňu."
+  },
+  {
+    "en": "I don’t know.",
+    "sk": "Neviem."
+  },
+  {
+    "en": "I go home.",
+    "sk": "Idem domov."
+  },
+  {
+    "en": "I have cash.",
+    "sk": "Mám hotovosť."
+  },
+  {
+    "en": "I know her.",
+    "sk": "Poznám ju."
+  },
+  {
+    "en": "I live here.",
+    "sk": "Bývam tu."
+  },
+  {
+    "en": "I need a bag.",
+    "sk": "Potrebujem tašku."
+  },
+  {
+    "en": "I need help.",
+    "sk": "Potrebujem pomoc."
+  },
+  {
+    "en": "I need your help today.",
+    "sk": "Dnes potrebujem tvoju pomoc. / vašu pomoc."
+  },
+  {
+    "en": "I open the door.",
+    "sk": "Otváram dvere."
+  },
+  {
+    "en": "I want coffee.",
+    "sk": "Chcem kávu."
+  },
+  {
+    "en": "Is this your key?",
+    "sk": "Je toto tvoj kľúč? / Je toto váš kľúč?"
+  },
+  {
+    "en": "Is this yours?",
+    "sk": "Je toto tvoje? / vaše?"
+  },
+  {
+    "en": "My father works today.",
+    "sk": "Môj otec dnes pracuje."
+  },
+  {
+    "en": "My phone is here.",
+    "sk": "Môj telefón je tu."
+  },
+  {
+    "en": "Open the door, please.",
+    "sk": "Otvor dvere, prosím."
+  },
+  {
+    "en": "Our house is small.",
+    "sk": "Náš dom je malý."
+  },
+  {
+    "en": "Please call her.",
+    "sk": "Zavolaj jej, prosím. / Zavolajte jej, prosím."
+  },
+  {
+    "en": "She calls the doctor.",
+    "sk": "Ona volá lekárovi."
+  },
+  {
+    "en": "She cleans the room.",
+    "sk": "Upratuje izbu."
+  },
+  {
+    "en": "She cleans.",
+    "sk": "Upratuje."
+  },
+  {
+    "en": "She doesn’t work today.",
+    "sk": "Ona dnes nepracuje."
+  },
+  {
+    "en": "She helps her.",
+    "sk": "Ona jej pomáha."
+  },
+  {
+    "en": "She helps our neighbor.",
+    "sk": "Ona pomáha nášmu susedovi."
+  },
+  {
+    "en": "She lives here.",
+    "sk": "Ona tu býva."
+  },
+  {
+    "en": "She works today.",
+    "sk": "Ona dnes pracuje."
+  },
+  {
+    "en": "Stop here, please.",
+    "sk": "Zastavte tu, prosím."
+  },
+  {
+    "en": "That bag is hers.",
+    "sk": "Tá taška je jej."
+  },
+  {
+    "en": "That is hers.",
+    "sk": "To je jej."
+  },
+  {
+    "en": "That key is mine.",
+    "sk": "Ten kľúč je môj."
+  },
+  {
+    "en": "The blue car is his.",
+    "sk": "Modré auto je jeho."
+  },
+  {
+    "en": "Their car is blue.",
+    "sk": "Ich auto je modré."
+  },
+  {
+    "en": "They buy bread.",
+    "sk": "Kupujú chlieb."
+  },
+  {
+    "en": "They clean their apartment.",
+    "sk": "Oni upratujú svoj byt."
+  },
+  {
+    "en": "They help our neighbor.",
+    "sk": "Pomáhajú nášmu susedovi."
+  },
+  {
+    "en": "They help us.",
+    "sk": "Pomáhajú nám."
+  },
+  {
+    "en": "They live here.",
+    "sk": "Oni tu bývajú."
+  },
+  {
+    "en": "They work here.",
+    "sk": "Oni tu pracujú."
+  },
+  {
+    "en": "This bag is mine.",
+    "sk": "Táto taška je moja."
+  },
+  {
+    "en": "This car is mine.",
+    "sk": "Toto auto je moje."
+  },
+  {
+    "en": "This house is ours.",
+    "sk": "Tento dom je náš."
+  },
+  {
+    "en": "This is my bag.",
+    "sk": "Toto je moja taška."
+  },
+  {
+    "en": "This is my car.",
+    "sk": "Toto je moje auto."
+  },
+  {
+    "en": "This is our house.",
+    "sk": "Toto je náš dom."
+  },
+  {
+    "en": "This is their package.",
+    "sk": "Toto je ich balík."
+  },
+  {
+    "en": "This key is yours.",
+    "sk": "Tento kľúč je tvoj. / Tento kľúč je váš."
+  },
+  {
+    "en": "This package is theirs.",
+    "sk": "Tento balík je ich."
+  },
+  {
+    "en": "Wait for me.",
+    "sk": "Počkaj na mňa."
+  },
+  {
+    "en": "We bring his package.",
+    "sk": "Prinášame jeho balík."
+  },
+  {
+    "en": "We buy bread.",
+    "sk": "Kupujeme chlieb."
+  },
+  {
+    "en": "We don’t need it.",
+    "sk": "Nepotrebujeme to."
+  },
+  {
+    "en": "We live here.",
+    "sk": "My tu bývame."
+  },
+  {
+    "en": "We see them.",
+    "sk": "Vidíme ich."
+  },
+  {
+    "en": "We wait for the bus.",
+    "sk": "Čakáme na autobus."
+  },
+  {
+    "en": "We work.",
+    "sk": "My pracujeme."
+  },
+  {
+    "en": "What do you need?",
+    "sk": "Čo potrebuješ? / potrebujete?"
+  },
+  {
+    "en": "When do you work?",
+    "sk": "Kedy pracuješ? / pracujete?"
+  },
+  {
+    "en": "Where do you live?",
+    "sk": "Kde bývaš? / bývate?"
+  },
+  {
+    "en": "You are here.",
+    "sk": "Si tu. / Ste tu."
+  },
+  {
+    "en": "You have a key.",
+    "sk": "Máš kľúč. / Máte kľúč."
+  },
+  {
+    "en": "You help me.",
+    "sk": "Pomáhaš mi. / Pomáhate mi."
+  },
+  {
+    "en": "You live here.",
+    "sk": "Bývaš tu. / Bývate tu."
+  },
+  {
+    "en": "You live upstairs.",
+    "sk": "Bývaš hore. / Bývate hore."
+  },
+  {
+    "en": "You need water.",
+    "sk": "Potrebuješ vodu. / Potrebujete vodu."
+  },
+  {
+    "en": "You work.",
+    "sk": "Ty pracuješ. / Vy pracujete."
+  },
+  {
+    "en": "Your phone is here.",
+    "sk": "Tvoj telefón je tu. / Váš telefón je tu."
+  },
+  {
+    "en": "her bag",
+    "sk": "jej taška"
+  },
+  {
+    "en": "her phone",
+    "sk": "jej telefón"
+  },
+  {
+    "en": "his coat",
+    "sk": "jeho kabát"
+  },
+  {
+    "en": "his key",
+    "sk": "jeho kľúč"
+  },
+  {
+    "en": "its door",
+    "sk": "jeho dvierka (napríklad na skrinke)"
+  },
+  {
+    "en": "my car",
+    "sk": "moje auto"
+  },
+  {
+    "en": "my keys",
+    "sk": "moje kľúče"
+  },
+  {
+    "en": "our house",
+    "sk": "náš dom"
+  },
+  {
+    "en": "repair",
+    "sk": "Opraviť"
+  },
+  {
+    "en": "their apartment",
+    "sk": "ich byt"
+  },
+  {
+    "en": "your car",
+    "sk": "tvoje auto / vaše auto"
+  },
+  {
+    "en": "your phone",
+    "sk": "tvoj telefón / váš telefón"
+  }
+]
