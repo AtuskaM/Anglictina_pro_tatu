@@ -340,13 +340,13 @@
     "objective": "My dvaja alebo celá skupina",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/eat.webp",
-      "images/actions/buy.webp",
-      "images/actions/drive.webp",
-      "images/actions/cook.webp",
-      "images/actions/help.webp"
+      "images/complete/study-we-eat-bd4c947.webp",
+      "images/complete/study-we-buy-food-edd239e.webp",
+      "images/complete/study-we-drive-5372491.webp",
+      "images/complete/study-we-cook-dinner-3d68fde.webp",
+      "images/complete/study-we-need-help-1e6c465.webp"
     ],
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-we-eat-bd4c947.webp",
     "practice": [
       {
         "type": "build",
@@ -442,13 +442,13 @@
     "objective": "Oni alebo ony robia niečo",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/eat.webp",
-      "images/actions/drive.webp",
-      "images/actions/cook.webp",
-      "images/words/medicine.jpg",
-      "images/actions/buy.webp"
+      "images/complete/study-they-eat-cc2efba.webp",
+      "images/complete/study-they-drive-869927c.webp",
+      "images/complete/study-they-cook-dinner-da1eacb.webp",
+      "images/complete/study-they-need-medicine-f8e3247.webp",
+      "images/complete/study-they-buy-food-713ca57.webp"
     ],
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-they-eat-cc2efba.webp",
     "practice": [
       {
         "type": "build",
@@ -544,13 +544,13 @@
     "objective": "Pridám, kde alebo kedy",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/house.webp",
+      "images/pronouns/i-live.webp",
       "images/actions/eat.webp",
       "images/actions/cook.webp",
-      null,
+      "images/complete/study-they-work-today-63107b1.webp",
       "images/actions/help.webp"
     ],
-    "image": "images/actions/house.webp",
+    "image": "images/pronouns/i-live.webp",
     "practice": [
       {
         "type": "build",
@@ -749,7 +749,7 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/buy.webp",
-      "images/actions/house.webp",
+      "images/pronouns/you-plural.webp",
       "images/actions/drink.webp",
       "images/actions/clean.webp",
       "images/actions/drive.webp"
@@ -853,8 +853,8 @@
       "images/actions/extra-tired.webp",
       "images/actions/extra-ready.webp",
       "images/actions/eat.webp",
-      null,
-      null
+      "images/complete/study-i-am-thirsty-6fb81be.webp",
+      "images/complete/study-i-am-here-f47d30f.webp"
     ],
     "image": "images/actions/extra-tired.webp",
     "practice": [
@@ -958,9 +958,9 @@
     "exampleImages": [
       "images/actions/extra-tired.webp",
       "images/actions/extra-ready.webp",
-      null,
+      "images/complete/study-mary-is-here-caa04a5.webp",
       "images/actions/eat.webp",
-      null,
+      "images/complete/study-it-is-cold-a3632e9.webp",
       "images/actions/open.webp"
     ],
     "image": "images/actions/extra-tired.webp",
@@ -1064,11 +1064,11 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/extra-ready.webp",
-      null,
+      "images/complete/study-you-are-here-71a91de.webp",
       "images/actions/extra-tired.webp",
       "images/actions/eat.webp",
       "images/actions/extra-ready.webp",
-      null
+      "images/complete/study-they-are-here-c27ba74.webp"
     ],
     "image": "images/actions/extra-ready.webp",
     "practice": [
@@ -1172,10 +1172,10 @@
     "exampleImages": [
       "images/actions/extra-ready.webp",
       "images/actions/extra-tired.webp",
-      null,
+      "images/complete/study-he-s-here-b32ba56.webp",
       "images/actions/eat.webp",
       "images/actions/extra-ready.webp",
-      null
+      "images/complete/study-they-re-thirsty-4bae168.webp"
     ],
     "image": "images/actions/extra-ready.webp",
     "practice": [
@@ -1273,13 +1273,13 @@
     "objective": "Moje a tvoje veci",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/key.webp",
-      "images/actions/drive.webp",
-      "images/actions/call.webp",
-      null,
-      "images/actions/bag.webp"
+      "images/complete/study-my-key-is-here-58b4ffb.webp",
+      "images/complete/study-your-car-is-here-7e580f5.webp",
+      "images/complete/study-i-need-my-phone-3ae17f8.webp",
+      "images/complete/study-you-need-your-coat-be2e623.webp",
+      "images/complete/study-my-bag-is-here-9548d6e.webp"
     ],
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-my-key-is-here-58b4ffb.webp",
     "practice": [
       {
         "type": "build",
@@ -1375,13 +1375,13 @@
     "objective": "Jeho, jej a naše veci",
     "diagrams": [],
     "exampleImages": [
-      null,
-      "images/actions/call.webp",
-      "images/actions/drive.webp",
-      "images/actions/eat.webp",
-      "images/actions/key.webp"
+      "images/complete/study-his-coat-is-here-371ba6e.webp",
+      "images/complete/study-her-phone-is-here-3c7a6c5.webp",
+      "images/complete/study-our-car-is-here-e0a2c60.webp",
+      "images/complete/study-their-food-is-here-46185f8.webp",
+      "images/complete/study-we-need-our-keys-a59aa16.webp"
     ],
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-his-coat-is-here-371ba6e.webp",
     "practice": [
       {
         "type": "build",
@@ -1477,13 +1477,13 @@
     "objective": "Moje alebo tvoje bez názvu veci",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
-      "images/actions/drive.webp",
-      "images/actions/call.webp",
-      "images/actions/key.webp"
+      "images/complete/study-it-is-mine-9e6f9d9.webp",
+      "images/complete/study-it-is-yours-f370311.webp",
+      "images/complete/study-my-car-is-here-it-is-mine-095c728.webp",
+      "images/complete/study-your-phone-is-here-it-is-yours-661d56f.webp",
+      "images/complete/study-our-keys-are-here-6f02b20.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-it-is-mine-9e6f9d9.webp",
     "practice": [
       {
         "type": "build",
@@ -1579,13 +1579,13 @@
     "objective": "Komu pomáham: mne a tebe",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/help.webp",
-      "images/actions/help.webp",
-      "images/actions/call.webp",
-      null,
-      null
+      "images/complete/study-i-help-you-00f3948.webp",
+      "images/complete/study-you-help-me-738d272.webp",
+      "images/complete/study-we-call-you-ab2ef04.webp",
+      "images/complete/study-they-see-me-8dbf042.webp",
+      "images/complete/study-i-need-you-2620ca1.webp"
     ],
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-i-help-you-00f3948.webp",
     "practice": [
       {
         "type": "build",
@@ -1681,13 +1681,13 @@
     "objective": "Pomáham jemu, jej, nám alebo im",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/help.webp",
-      "images/actions/call.webp",
-      "images/actions/help.webp",
-      null,
-      null
+      "images/complete/study-i-help-him-eb98f85.webp",
+      "images/complete/study-we-call-her-d8d5865.webp",
+      "images/complete/study-they-help-us-4ebbb8a.webp",
+      "images/complete/study-you-see-them-f84fc49.webp",
+      "images/complete/study-we-need-him-9571543.webp"
     ],
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-i-help-him-eb98f85.webp",
     "practice": [
       {
         "type": "build",
@@ -1783,13 +1783,13 @@
     "objective": "Táto vec tu a tamtá ďalej",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      "images/actions/call.webp",
-      "images/actions/bag.webp",
-      "images/actions/eat.webp"
+      "images/complete/study-this-is-my-car-0bf925d.webp",
+      "images/complete/study-that-is-your-car-0c72ddc.webp",
+      "images/complete/study-this-phone-is-mine-a185fee.webp",
+      "images/complete/study-that-bag-is-yours-c77729c.webp",
+      "images/complete/study-this-is-our-food-96fbe79.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-this-is-my-car-0bf925d.webp",
     "practice": [
       {
         "type": "build",
@@ -1885,13 +1885,13 @@
     "objective": "Viac vecí tu a tam",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/key.webp",
-      "images/actions/bag.webp",
-      null,
-      "images/actions/extra-ready.webp",
-      null
+      "images/complete/study-these-keys-are-mine-3476a40.webp",
+      "images/complete/study-those-bags-are-yours-be9311c.webp",
+      "images/complete/study-these-cars-are-here-d5e50b3.webp",
+      "images/complete/study-those-phones-are-ready-cda2af4.webp",
+      "images/complete/study-these-coats-are-ours-6378927.webp"
     ],
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-these-keys-are-mine-3476a40.webp",
     "practice": [
       {
         "type": "build",
@@ -2003,8 +2003,8 @@
       "images/actions/drive.webp",
       "images/actions/buy.webp",
       "images/actions/call.webp",
-      null,
-      null,
+      "images/complete/study-they-need-an-appointment-5ee5b3c.webp",
+      "images/complete/study-i-need-an-umbrella-d1f7bfa.webp",
       "images/actions/bag.webp",
       "images/actions/call.webp"
     ],
@@ -2433,7 +2433,7 @@
       "images/actions/open.webp",
       "images/actions/close.webp",
       "images/actions/call.webp",
-      null,
+      "images/complete/study-it-costs-ten-dollars-ceb9638.webp",
       "images/actions/drive.webp"
     ],
     "image": "images/actions/open.webp",
@@ -2544,16 +2544,16 @@
     "objective": "Niektoré konce sa trochu zmenia",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/actions/bag.webp",
-      null,
-      "images/actions/clean.webp",
-      null,
-      null,
-      null,
-      null
+      "images/complete/study-she-washes-the-car-5ff7189.webp",
+      "images/complete/study-he-carries-the-bag-bc01f9e.webp",
+      "images/complete/study-john-goes-home-89cf0a6.webp",
+      "images/complete/study-mary-does-the-cleaning-30828cd.webp",
+      "images/complete/study-he-watches-tv-f17d8b7.webp",
+      "images/complete/study-she-fixes-the-door-77573bb.webp",
+      "images/complete/study-he-goes-to-the-store-e30ce2f.webp",
+      "images/complete/study-she-carries-my-coat-3e70790.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-she-washes-the-car-5ff7189.webp",
     "practice": [
       {
         "type": "build",
@@ -2653,14 +2653,14 @@
     "objective": "Obchod, telefón a susedia",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/pay.webp",
-      "images/actions/eat.webp",
-      "images/actions/drink.webp",
-      null,
-      "images/situations/neighbor-package.webp",
-      "images/words/medicine.jpg"
+      "images/complete/study-i-pay-the-bill-f512747.webp",
+      "images/complete/study-you-bring-food-5562902.webp",
+      "images/complete/study-we-give-him-water-b247cb3.webp",
+      "images/complete/study-they-send-a-message-cea9797.webp",
+      "images/complete/study-i-receive-a-package-6f1368b.webp",
+      "images/complete/study-she-picks-up-medicine-5035954.webp"
     ],
-    "image": "images/actions/pay.webp",
+    "image": "images/complete/study-i-pay-the-bill-f512747.webp",
     "practice": [
       {
         "type": "build",
@@ -2764,15 +2764,15 @@
     "objective": "Počujem, rozumiem a poznám",
     "diagrams": [],
     "exampleImages": [
-      null,
-      "images/actions/drive.webp",
-      null,
-      null,
-      "images/actions/coffee.webp",
-      "images/actions/key.webp",
-      null
+      "images/complete/study-i-hear-you-ab70fc7.webp",
+      "images/complete/study-she-sees-the-car-04cfaa8.webp",
+      "images/complete/study-we-know-him-d68e0e5.webp",
+      "images/complete/study-they-understand-me-e760a71.webp",
+      "images/complete/study-i-want-coffee-0416e60.webp",
+      "images/complete/study-he-finds-the-key-603933e.webp",
+      "images/complete/study-i-ask-my-neighbor-df3420e.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-hear-you-ab70fc7.webp",
     "practice": [
       {
         "type": "build",
@@ -2945,7 +2945,7 @@
       "images/actions/drive.webp",
       "images/words/medicine.jpg",
       "images/words/medicine.jpg",
-      "images/actions/house.webp",
+      "images/pronouns/you-plural.webp",
       "images/actions/house.webp",
       "images/actions/buy.webp",
       "images/actions/buy.webp"
@@ -3117,7 +3117,7 @@
     "objective": "Opýtam sa na jedného človeka",
     "diagrams": [],
     "exampleImages": [
-      null,
+      "images/complete/study-he-drives-84eb54f.webp",
       "images/actions/drive.webp",
       "images/words/medicine.jpg",
       "images/words/medicine.jpg",
@@ -3128,7 +3128,7 @@
       "images/actions/buy.webp",
       "images/actions/buy.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-he-drives-84eb54f.webp",
     "practice": [
       {
         "type": "build",
@@ -3335,14 +3335,14 @@
     "objective": "Čo potrebuješ alebo chceš?",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
+      "images/complete/study-what-do-you-need-ccf0ddf.webp",
+      "images/complete/study-what-do-you-want-b63d7a3.webp",
       "images/actions/buy.webp",
       "images/actions/cook.webp",
       "images/actions/fix.webp",
       "images/actions/key.webp"
     ],
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-what-do-you-need-ccf0ddf.webp",
     "practice": [
       {
         "type": "build",
@@ -3443,7 +3443,7 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/house.webp",
-      null,
+      "images/complete/study-where-does-he-work-f3912e8.webp",
       "images/actions/eat.webp",
       "images/actions/buy.webp",
       "images/actions/pay.webp",
@@ -3776,7 +3776,7 @@
       "images/actions/help.webp",
       "images/actions/walk.webp",
       "images/actions/pay.webp",
-      null,
+      "images/complete/study-how-does-it-work-de6c269.webp",
       "images/actions/walk.webp",
       "images/actions/pay.webp"
     ],
@@ -3884,7 +3884,7 @@
       "images/actions/drink.webp",
       "images/actions/key.webp",
       "images/actions/bag.webp",
-      null,
+      "images/complete/study-it-costs-five-dollars-7e5d92c.webp",
       "images/actions/key.webp"
     ],
     "image": "images/actions/pay.webp",
@@ -4056,8 +4056,8 @@
     "exampleImages": [
       "images/actions/extra-ready.webp",
       "images/actions/extra-ready.webp",
-      null,
-      null,
+      "images/complete/study-he-is-here-cea5d00.webp",
+      "images/complete/study-is-he-here-e7271bf.webp",
       "images/actions/extra-tired.webp",
       "images/actions/extra-tired.webp",
       "images/actions/eat.webp",
@@ -4173,16 +4173,16 @@
     "objective": "Ja alebo my niečo nerobíme",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/actions/help.webp",
-      "images/actions/buy.webp",
-      null,
-      null,
-      null,
-      null,
-      "images/actions/bag.webp"
+      "images/complete/study-i-don-t-drive-3d6f0b0.webp",
+      "images/complete/study-you-don-t-need-help-bc65ff8.webp",
+      "images/complete/study-we-don-t-buy-coffee-1dda692.webp",
+      "images/complete/study-they-don-t-work-today-b0352de.webp",
+      "images/complete/study-i-don-t-understand-278c398.webp",
+      "images/complete/study-we-don-t-know-him-38f92fe.webp",
+      "images/complete/study-i-don-t-hear-you-2e994c7.webp",
+      "images/complete/study-we-don-t-want-the-bag-96b95a9.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-don-t-drive-3d6f0b0.webp",
     "practice": [
       {
         "type": "build",
@@ -4290,16 +4290,16 @@
     "objective": "On alebo ona niečo nerobí",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/words/medicine.jpg",
-      "images/actions/cook.webp",
-      "images/actions/call.webp",
-      "images/actions/buy.webp",
-      "images/actions/pay.webp",
-      "images/actions/clean.webp",
-      null
+      "images/complete/study-he-doesn-t-drive-058c4c4.webp",
+      "images/complete/study-she-doesn-t-need-medicine-f181997.webp",
+      "images/complete/study-john-doesn-t-cook-1a876e6.webp",
+      "images/complete/study-the-phone-doesn-t-work-adf28f6.webp",
+      "images/complete/study-mary-doesn-t-buy-coffee-77d14ed.webp",
+      "images/complete/study-it-doesn-t-cost-much-ade4948.webp",
+      "images/complete/study-he-doesn-t-clean-today-664f205.webp",
+      "images/complete/study-she-doesn-t-know-me-0a53793.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-he-doesn-t-drive-058c4c4.webp",
     "practice": [
       {
         "type": "build",
@@ -4407,16 +4407,16 @@
     "objective": "Nie som alebo nie je",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/extra-ready.webp",
-      null,
-      "images/actions/extra-tired.webp",
-      "images/actions/eat.webp",
-      "images/actions/extra-ready.webp",
-      "images/actions/open.webp",
-      null,
-      "images/actions/drive.webp"
+      "images/complete/study-i-am-not-ready-7295954.webp",
+      "images/complete/study-he-is-not-here-b5c891d.webp",
+      "images/complete/study-she-is-not-tired-633ac70.webp",
+      "images/complete/study-we-are-not-hungry-129418c.webp",
+      "images/complete/study-they-are-not-ready-a2828b1.webp",
+      "images/complete/study-it-is-not-open-769d0e5.webp",
+      "images/complete/study-you-are-not-here-9844c13.webp",
+      "images/complete/study-the-car-is-not-ready-859ed29.webp"
     ],
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-i-am-not-ready-7295954.webp",
     "practice": [
       {
         "type": "build",
@@ -4524,16 +4524,16 @@
     "objective": "Nie je a nie sú v krátkom zápise",
     "diagrams": [],
     "exampleImages": [
-      null,
-      "images/actions/eat.webp",
-      "images/actions/extra-ready.webp",
-      "images/actions/extra-tired.webp",
-      null,
-      null,
-      "images/actions/open.webp",
-      "images/actions/extra-ready.webp"
+      "images/complete/study-he-isn-t-here-8c5aab4.webp",
+      "images/complete/study-she-isn-t-hungry-e64c216.webp",
+      "images/complete/study-it-isn-t-ready-340cb04.webp",
+      "images/complete/study-we-aren-t-tired-f22cc97.webp",
+      "images/complete/study-you-aren-t-late-5b9c0c9.webp",
+      "images/complete/study-i-m-not-late-6ae7e6a.webp",
+      "images/complete/study-the-store-isn-t-open-10b3bc3.webp",
+      "images/complete/study-they-aren-t-ready-d7b5be0.webp"
     ],
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-he-isn-t-here-8c5aab4.webp",
     "practice": [
       {
         "type": "build",
@@ -4641,16 +4641,16 @@
     "objective": "Vyberiem správne malé nie",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/coffee.webp",
-      null,
-      "images/actions/cook.webp",
-      "images/actions/eat.webp",
-      "images/actions/drive.webp",
-      "images/actions/extra-ready.webp",
-      null,
-      "images/actions/extra-ready.webp"
+      "images/complete/study-i-don-t-need-coffee-edd2433.webp",
+      "images/complete/study-i-m-not-thirsty-95e2385.webp",
+      "images/complete/study-she-doesn-t-cook-today-eb21a27.webp",
+      "images/complete/study-she-isn-t-hungry-e64c216.webp",
+      "images/complete/study-we-don-t-drive-76e5146.webp",
+      "images/complete/study-we-aren-t-ready-aae8e06.webp",
+      "images/complete/study-it-doesn-t-work-40eb5df.webp",
+      "images/complete/study-it-isn-t-ready-340cb04.webp"
     ],
-    "image": "images/actions/coffee.webp",
+    "image": "images/complete/study-i-don-t-need-coffee-edd2433.webp",
     "practice": [
       {
         "type": "build",
@@ -4750,14 +4750,14 @@
     "objective": "Niečo mám alebo vlastním",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/actions/key.webp",
-      null,
-      null,
-      "images/actions/call.webp",
-      "images/words/insurance.jpg"
+      "images/complete/study-i-have-a-car-f27771e.webp",
+      "images/complete/study-you-have-a-key-3201c8d.webp",
+      "images/complete/study-we-have-an-appointment-d56c494.webp",
+      "images/complete/study-they-have-a-problem-87358af.webp",
+      "images/complete/study-he-has-a-phone-12c8f4e.webp",
+      "images/complete/study-she-has-insurance-36bfb89.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-have-a-car-f27771e.webp",
     "practice": [
       {
         "type": "build",
@@ -4924,18 +4924,18 @@
     "objective": "Máš to a má to on?",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/key.webp",
-      "images/actions/key.webp",
-      "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      "images/words/insurance.jpg",
-      "images/words/insurance.jpg",
-      "images/actions/eat.webp",
-      "images/actions/eat.webp",
-      null,
-      null
+      "images/complete/study-you-have-a-key-3201c8d.webp",
+      "images/complete/study-do-you-have-a-key-2ff9dd6.webp",
+      "images/complete/study-she-has-a-car-b3a8699.webp",
+      "images/complete/study-does-she-have-a-car-ec4345d.webp",
+      "images/complete/study-he-has-insurance-b4cc9d5.webp",
+      "images/complete/study-does-he-have-insurance-baf14e6.webp",
+      "images/complete/study-they-have-food-1521550.webp",
+      "images/complete/study-do-they-have-food-90e1ef3.webp",
+      "images/complete/study-we-have-an-appointment-d56c494.webp",
+      "images/complete/study-do-we-have-an-appointment-1aea85a.webp"
     ],
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-you-have-a-key-3201c8d.webp",
     "practice": [
       {
         "type": "build",
@@ -5035,14 +5035,14 @@
     "objective": "Niečo nemám",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/actions/key.webp",
-      null,
-      "images/words/insurance.jpg",
-      null,
-      "images/actions/eat.webp"
+      "images/complete/study-i-don-t-have-a-car-5c4ea42.webp",
+      "images/complete/study-you-don-t-have-the-key-11e5a50.webp",
+      "images/complete/study-we-don-t-have-an-appointment-214c5eb.webp",
+      "images/complete/study-he-doesn-t-have-insurance-ca93b2b.webp",
+      "images/complete/study-she-doesn-t-have-my-number-d578039.webp",
+      "images/complete/study-they-don-t-have-food-9a49b3c.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-don-t-have-a-car-5c4ea42.webp",
     "practice": [
       {
         "type": "build",
@@ -5142,14 +5142,14 @@
     "objective": "Je tam niečo?",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/key.webp",
-      "images/actions/bag.webp",
-      null,
-      null,
-      "images/actions/call.webp",
-      "images/actions/key.webp"
+      "images/complete/study-there-is-a-key-here-7c306c6.webp",
+      "images/complete/study-there-are-two-bags-here-4b4598d.webp",
+      "images/complete/study-is-there-a-problem-636f50e.webp",
+      "images/complete/study-are-there-two-cars-here-93c30d1.webp",
+      "images/complete/study-there-isn-t-a-phone-here-f5de8ac.webp",
+      "images/complete/study-there-aren-t-any-keys-here-d80174d.webp"
     ],
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-there-is-a-key-here-7c306c6.webp",
     "practice": [
       {
         "type": "build",
@@ -5257,27 +5257,27 @@
     "objective": "Vo vnútri: v a vo",
     "diagrams": [
       {
-        "image": "images/learning/in.svg",
+        "image": "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
         "en": "in",
         "sk": "vo vnútri"
       },
       {
-        "image": "images/learning/key-on-bag.svg",
+        "image": "images/complete/spatial-the-key-is-on-the-bag-d7ee715.webp",
         "en": "on",
         "sk": "na povrchu"
       }
     ],
     "exampleImages": [
-      "images/learning/in.svg",
-      "images/actions/drive.webp",
-      null,
-      "images/actions/eat.webp",
-      "images/actions/house.webp",
-      "images/words/medicine.jpg",
-      "images/actions/key.webp",
-      null
+      "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
+      "images/complete/spatial-my-phone-is-in-the-car-fafd148.webp",
+      "images/complete/spatial-we-are-in-the-store-6737239.webp",
+      "images/complete/spatial-the-food-is-in-the-kitchen-4550484.webp",
+      "images/complete/spatial-he-lives-in-chicago-d9fd7b2.webp",
+      "images/complete/spatial-the-medicine-is-in-the-cabinet-3cf2d7b.webp",
+      "images/complete/spatial-the-keys-are-in-the-drawer-d4606a6.webp",
+      "images/complete/spatial-she-is-in-the-kitchen-a4260ab.webp"
     ],
-    "image": "images/learning/in.svg",
+    "image": "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
     "practice": [
       {
         "type": "build",
@@ -5385,27 +5385,27 @@
     "objective": "Na povrchu: na",
     "diagrams": [
       {
-        "image": "images/learning/key-on-bag.svg",
+        "image": "images/complete/spatial-the-key-is-on-the-bag-d7ee715.webp",
         "en": "on",
         "sk": "na povrchu"
       },
       {
-        "image": "images/learning/in.svg",
+        "image": "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
         "en": "in",
         "sk": "vo vnútri"
       }
     ],
     "exampleImages": [
-      "images/actions/key.webp",
-      "images/actions/clean.webp",
-      "images/actions/bag.webp",
-      null,
-      "images/words/medicine.jpg",
-      "images/learning/key-on-bag.svg",
-      null,
-      "images/actions/key.webp"
+      "images/complete/spatial-the-key-is-on-the-table-20a4bd7.webp",
+      "images/complete/spatial-the-phone-is-on-the-floor-ef9c47f.webp",
+      "images/complete/spatial-the-bag-is-on-the-chair-88ec2de.webp",
+      "images/complete/spatial-the-coat-is-on-the-bed-4e16989.webp",
+      "images/complete/spatial-the-medicine-is-on-the-shelf-2d28f58.webp",
+      "images/complete/spatial-the-key-is-on-the-bag-d7ee715.webp",
+      "images/complete/spatial-the-cup-is-on-the-table-691ef53.webp",
+      "images/complete/spatial-my-keys-are-on-the-shelf-7851b8a.webp"
     ],
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-the-key-is-on-the-table-20a4bd7.webp",
     "practice": [
       {
         "type": "build",
@@ -5513,14 +5513,14 @@
     "objective": "Na určitom mieste alebo pri ňom",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "images/complete/spatial-i-am-at-home-a8f8779.webp",
+      "images/complete/spatial-he-is-at-the-door-a0e0595.webp",
+      "images/complete/spatial-we-are-at-the-store-2788cdb.webp",
+      "images/complete/spatial-she-is-at-work-4ecf5a0.webp",
+      "images/complete/spatial-they-are-at-the-bus-stop-88eee64.webp",
+      "images/complete/spatial-i-am-at-the-pharmacy-154effe.webp",
+      "images/complete/spatial-he-waits-at-the-door-2b635db.webp",
+      "images/complete/spatial-we-are-at-the-bank-908c373.webp"
     ],
     "image": null,
     "practice": [
@@ -5630,27 +5630,27 @@
     "objective": "Pod a nad niečím",
     "diagrams": [
       {
-        "image": "images/learning/on.svg",
+        "image": "images/complete/spatial-the-key-is-on-the-table-20a4bd7.webp",
         "en": "on",
         "sk": "na stole"
       },
       {
-        "image": "images/learning/under.svg",
+        "image": "images/complete/spatial-the-bag-is-under-the-table-56b0a1d.webp",
         "en": "under",
         "sk": "pod stolom"
       }
     ],
     "exampleImages": [
-      "images/learning/under.svg",
-      "images/actions/key.webp",
-      "images/actions/call.webp",
-      null,
-      "images/actions/fix.webp",
-      null,
-      null,
-      null
+      "images/complete/spatial-the-bag-is-under-the-table-56b0a1d.webp",
+      "images/complete/spatial-the-key-is-under-the-chair-8d0ad72.webp",
+      "images/complete/spatial-the-phone-is-under-the-bed-113d402.webp",
+      "images/complete/spatial-the-clock-is-above-the-door-7c8c877.webp",
+      "images/complete/spatial-the-shelf-is-above-the-sink-f6c60cd.webp",
+      "images/complete/spatial-the-drawer-is-below-the-shelf-0c548a1.webp",
+      "images/complete/spatial-my-shoes-are-under-the-chair-a7d43e1.webp",
+      "images/complete/spatial-the-picture-is-above-the-table-b38c3b5.webp"
     ],
-    "image": "images/learning/under.svg",
+    "image": "images/complete/spatial-the-bag-is-under-the-table-56b0a1d.webp",
     "practice": [
       {
         "type": "build",
@@ -5758,27 +5758,27 @@
     "objective": "Vedľa niečoho",
     "diagrams": [
       {
-        "image": "images/learning/next-to.svg",
+        "image": "images/complete/spatial-the-bag-is-next-to-the-table-d930681.webp",
         "en": "next to",
         "sk": "vedľa"
       },
       {
-        "image": "images/learning/under.svg",
+        "image": "images/complete/spatial-the-bag-is-under-the-table-56b0a1d.webp",
         "en": "under",
         "sk": "pod"
       }
     ],
     "exampleImages": [
-      "images/learning/next-to.svg",
-      "images/actions/drive.webp",
-      null,
-      null,
-      "images/actions/call.webp",
-      null,
-      null,
-      null
+      "images/complete/spatial-the-bag-is-next-to-the-table-d930681.webp",
+      "images/complete/spatial-my-car-is-next-to-your-car-0701605.webp",
+      "images/complete/spatial-the-pharmacy-is-next-to-the-store-06c269e.webp",
+      "images/complete/spatial-she-is-next-to-me-9f10d69.webp",
+      "images/complete/spatial-the-key-is-next-to-the-phone-6c187d1.webp",
+      "images/complete/spatial-the-store-is-near-my-home-44ef5c6.webp",
+      "images/complete/spatial-the-chair-is-next-to-the-bed-349f81b.webp",
+      "images/complete/spatial-the-bus-stop-is-near-the-pharmacy-a0770c0.webp"
     ],
-    "image": "images/learning/next-to.svg",
+    "image": "images/complete/spatial-the-bag-is-next-to-the-table-d930681.webp",
     "practice": [
       {
         "type": "build",
@@ -5886,22 +5886,22 @@
     "objective": "Medzi dvoma vecami",
     "diagrams": [
       {
-        "image": "images/learning/between.svg",
+        "image": "images/complete/spatial-the-key-is-between-the-bag-and-the-phone-dd820ec.webp",
         "en": "between",
         "sk": "medzi"
       }
     ],
     "exampleImages": [
-      "images/learning/between.svg",
-      null,
-      null,
-      null,
-      "images/actions/call.webp",
-      "images/actions/bag.webp",
-      null,
-      null
+      "images/complete/spatial-the-key-is-between-the-bag-and-the-phone-dd820ec.webp",
+      "images/complete/spatial-the-chair-is-between-the-table-and-the-door-0647ae2.webp",
+      "images/complete/spatial-the-store-is-between-the-bank-and-the-pharmacy-fb6dde6.webp",
+      "images/complete/spatial-i-am-between-john-and-mary-e2d0e5c.webp",
+      "images/complete/spatial-the-phone-is-between-the-keys-and-the-coat-5a0f1a8.webp",
+      "images/complete/spatial-the-bag-is-between-the-chair-and-the-table-b132caa.webp",
+      "images/complete/spatial-the-bank-is-between-the-store-and-the-house-64b50ff.webp",
+      "images/complete/spatial-john-is-between-me-and-mary-76cfe32.webp"
     ],
-    "image": "images/learning/between.svg",
+    "image": "images/complete/spatial-the-key-is-between-the-bag-and-the-phone-dd820ec.webp",
     "practice": [
       {
         "type": "build",
@@ -6009,27 +6009,27 @@
     "objective": "Za a pred",
     "diagrams": [
       {
-        "image": "images/learning/behind.svg",
+        "image": "images/complete/spatial-the-bag-is-behind-the-table-e1b1bce.webp",
         "en": "behind",
         "sk": "za"
       },
       {
-        "image": "images/learning/in-front-of.svg",
+        "image": "images/complete/spatial-the-bag-is-in-front-of-the-table-a715e89.webp",
         "en": "in front of",
         "sk": "pred"
       }
     ],
     "exampleImages": [
-      "images/learning/behind.svg",
-      "images/learning/in-front-of.svg",
-      "images/actions/drive.webp",
-      null,
-      null,
-      null,
-      "images/actions/call.webp",
-      null
+      "images/complete/spatial-the-bag-is-behind-the-table-e1b1bce.webp",
+      "images/complete/spatial-the-bag-is-in-front-of-the-table-a715e89.webp",
+      "images/complete/spatial-the-car-is-behind-the-house-1ac5b5c.webp",
+      "images/complete/spatial-john-is-in-front-of-me-90ea08d.webp",
+      "images/complete/spatial-mary-is-behind-me-5be00c8.webp",
+      "images/complete/spatial-the-bus-stop-is-in-front-of-the-store-9d93bca.webp",
+      "images/complete/spatial-the-keys-are-behind-the-phone-e404ea2.webp",
+      "images/complete/spatial-the-chair-is-in-front-of-the-table-287ec20.webp"
     ],
-    "image": "images/learning/behind.svg",
+    "image": "images/complete/spatial-the-bag-is-behind-the-table-e1b1bce.webp",
     "practice": [
       {
         "type": "build",
@@ -6137,27 +6137,27 @@
     "objective": "Kam idem a odkiaľ idem",
     "diagrams": [
       {
-        "image": "images/learning/to.svg",
+        "image": "images/complete/spatial-i-go-to-the-store-95e76ea.webp",
         "en": "to",
         "sk": "do, k"
       },
       {
-        "image": "images/learning/from.svg",
+        "image": "images/complete/spatial-she-comes-from-work-45ce6cf.webp",
         "en": "from",
         "sk": "z, od"
       }
     ],
     "exampleImages": [
-      null,
-      "images/actions/walk.webp",
-      null,
-      "images/actions/drive.webp",
-      null,
-      null,
-      null,
-      "images/actions/walk.webp"
+      "images/complete/spatial-i-go-to-the-store-95e76ea.webp",
+      "images/complete/spatial-we-walk-to-the-pharmacy-10ad23b.webp",
+      "images/complete/spatial-she-comes-from-work-45ce6cf.webp",
+      "images/complete/spatial-they-drive-from-chicago-55f3f50.webp",
+      "images/complete/spatial-i-go-home-024659f.webp",
+      "images/complete/spatial-he-goes-to-the-bank-5797790.webp",
+      "images/complete/spatial-we-come-from-the-pharmacy-acb8ac2.webp",
+      "images/complete/spatial-they-walk-to-work-1f2a9b9.webp"
     ],
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-i-go-to-the-store-95e76ea.webp",
     "practice": [
       {
         "type": "build",
@@ -6265,32 +6265,32 @@
     "objective": "Dovnútra a von",
     "diagrams": [
       {
-        "image": "images/learning/in.svg",
+        "image": "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
         "en": "in",
         "sk": "vo vnútri"
       },
       {
-        "image": "images/learning/into.svg",
+        "image": "images/complete/spatial-i-put-the-key-into-the-bag-da806ba.webp",
         "en": "into",
         "sk": "dovnútra"
       },
       {
-        "image": "images/learning/out-of.svg",
+        "image": "images/complete/spatial-i-take-the-key-out-of-the-bag-bb38ca9.webp",
         "en": "out of",
         "sk": "von z"
       }
     ],
     "exampleImages": [
-      "images/learning/into.svg",
-      "images/learning/out-of.svg",
-      "images/actions/walk.webp",
-      "images/actions/walk.webp",
-      "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      "images/actions/call.webp",
-      "images/actions/call.webp"
+      "images/complete/spatial-i-put-the-key-into-the-bag-da806ba.webp",
+      "images/complete/spatial-i-take-the-key-out-of-the-bag-bb38ca9.webp",
+      "images/complete/spatial-she-walks-into-the-store-93acc9d.webp",
+      "images/complete/spatial-he-walks-out-of-the-store-fdb0c2c.webp",
+      "images/complete/spatial-we-get-into-the-car-e3cc43c.webp",
+      "images/complete/spatial-they-get-out-of-the-car-ff8e62a.webp",
+      "images/complete/spatial-he-puts-the-phone-into-the-bag-dc395fe.webp",
+      "images/complete/spatial-she-takes-the-phone-out-of-the-bag-5c8b73c.webp"
     ],
-    "image": "images/learning/into.svg",
+    "image": "images/complete/spatial-i-put-the-key-into-the-bag-da806ba.webp",
     "practice": [
       {
         "type": "build",
@@ -6398,27 +6398,27 @@
     "objective": "Cez ulicu a cez vnútro",
     "diagrams": [
       {
-        "image": "images/learning/across.svg",
+        "image": "images/complete/spatial-i-walk-across-the-street-a927947.webp",
         "en": "across",
         "sk": "cez na druhú stranu"
       },
       {
-        "image": "images/learning/through.svg",
+        "image": "images/complete/spatial-she-walks-through-the-door-ae2fe5a.webp",
         "en": "through",
         "sk": "cez vnútro"
       }
     ],
     "exampleImages": [
-      "images/learning/across.svg",
-      "images/actions/drive.webp",
-      "images/actions/walk.webp",
-      "images/actions/walk.webp",
-      null,
-      null,
-      "images/actions/walk.webp",
-      "images/actions/walk.webp"
+      "images/complete/spatial-i-walk-across-the-street-a927947.webp",
+      "images/complete/spatial-we-drive-across-the-bridge-423a8e8.webp",
+      "images/complete/spatial-she-walks-through-the-door-ae2fe5a.webp",
+      "images/complete/spatial-they-walk-through-the-park-b23c837.webp",
+      "images/complete/spatial-he-drives-through-the-tunnel-5dc78a9.webp",
+      "images/complete/spatial-the-pharmacy-is-across-the-street-e29dcb4.webp",
+      "images/complete/spatial-we-walk-through-the-store-93ac2f3.webp",
+      "images/complete/spatial-they-walk-across-the-parking-lot-3655725.webp"
     ],
-    "image": "images/learning/across.svg",
+    "image": "images/complete/spatial-i-walk-across-the-street-a927947.webp",
     "practice": [
       {
         "type": "build",
@@ -6526,16 +6526,16 @@
     "objective": "Hľadám vec a poviem presnú polohu",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/call.webp",
-      null,
-      "images/actions/key.webp",
-      "images/actions/bag.webp",
-      null,
-      null,
-      "images/actions/bag.webp",
-      null
+      "images/complete/spatial-where-is-my-phone-78d8533.webp",
+      "images/complete/spatial-it-is-on-the-table-bd67349.webp",
+      "images/complete/spatial-where-are-the-keys-b6264a1.webp",
+      "images/complete/spatial-they-are-in-the-bag-078280d.webp",
+      "images/complete/spatial-where-is-the-pharmacy-174cc3e.webp",
+      "images/complete/spatial-it-is-next-to-the-bank-18ba724.webp",
+      "images/complete/spatial-where-is-the-bag-4c470c1.webp",
+      "images/complete/spatial-it-is-under-the-chair-f31f59f.webp"
     ],
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-where-is-my-phone-78d8533.webp",
     "practice": [
       {
         "type": "build",
@@ -6643,27 +6643,27 @@
     "objective": "Miesto alebo pohyb: porovnanie",
     "diagrams": [
       {
-        "image": "images/learning/in.svg",
+        "image": "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
         "en": "in",
         "sk": "vo vnútri"
       },
       {
-        "image": "images/learning/into.svg",
+        "image": "images/complete/spatial-i-put-the-key-into-the-bag-da806ba.webp",
         "en": "into",
         "sk": "dovnútra"
       }
     ],
     "exampleImages": [
-      "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      "images/actions/key.webp",
-      "images/actions/call.webp",
-      null,
-      "images/actions/walk.webp"
+      "images/complete/spatial-the-bag-is-in-the-car-d799bfb.webp",
+      "images/complete/spatial-i-put-the-bag-into-the-car-e0e686d.webp",
+      "images/complete/spatial-i-take-the-bag-out-of-the-car-b36e73c.webp",
+      "images/complete/spatial-we-drive-to-the-store-a0a1439.webp",
+      "images/complete/spatial-the-key-is-on-the-table-20a4bd7.webp",
+      "images/complete/spatial-the-phone-is-under-the-table-9f5e3e6.webp",
+      "images/complete/spatial-she-is-in-the-store-d231fa1.webp",
+      "images/complete/spatial-she-walks-out-of-the-store-d04fce0.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-the-bag-is-in-the-car-d799bfb.webp",
     "practice": [
       {
         "type": "build",
@@ -6763,14 +6763,14 @@
     "objective": "Dnes, včera a zajtra",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
-      null,
-      "images/actions/help.webp",
-      null,
-      null
+      "images/complete/study-today-is-monday-5436418.webp",
+      "images/complete/study-tomorrow-is-tuesday-ac1ed52.webp",
+      "images/complete/study-yesterday-is-the-day-before-today-d953e8f.webp",
+      "images/complete/study-i-need-help-today-bb83bcb.webp",
+      "images/complete/study-my-appointment-is-tomorrow-d44d1ff.webp",
+      "images/complete/study-today-is-a-good-day-660a67f.webp"
     ],
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-today-is-monday-5436418.webp",
     "practice": [
       {
         "type": "build",
@@ -6870,30 +6870,30 @@
     "objective": "Ráno, popoludní a večer",
     "diagrams": [
       {
-        "image": "images/learning/morning.svg",
+        "image": "images/complete/vocabulary-morning-91fc9c4.webp",
         "en": "morning",
         "sk": "ráno, dopoludnie"
       },
       {
-        "image": "images/learning/afternoon.svg",
+        "image": "images/complete/vocabulary-afternoon-e042ecf.webp",
         "en": "afternoon",
         "sk": "popoludnie"
       },
       {
-        "image": "images/learning/evening.svg",
+        "image": "images/complete/vocabulary-evening-5dd7652.webp",
         "en": "evening",
         "sk": "večer"
       }
     ],
     "exampleImages": [
-      "images/actions/coffee.webp",
-      null,
-      "images/actions/cook.webp",
-      null,
-      "images/actions/walk.webp",
-      null
+      "images/complete/study-i-drink-coffee-in-the-morning-3395d8e.webp",
+      "images/complete/study-we-shop-in-the-afternoon-09ce1bb.webp",
+      "images/complete/study-she-cooks-in-the-evening-53ef04e.webp",
+      "images/complete/study-he-works-at-night-531505d.webp",
+      "images/complete/study-they-walk-in-the-morning-7004bfe.webp",
+      "images/complete/study-i-sleep-at-night-6418d40.webp"
     ],
-    "image": "images/actions/coffee.webp",
+    "image": "images/complete/study-i-drink-coffee-in-the-morning-3395d8e.webp",
     "practice": [
       {
         "type": "build",
@@ -7001,16 +7001,16 @@
     "objective": "O deviatej, v pondelok, v októbri",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/open.webp",
-      null,
-      null,
-      "images/actions/eat.webp",
-      null,
-      null,
-      "images/actions/close.webp",
-      null
+      "images/complete/study-the-store-opens-at-nine-51e05ba.webp",
+      "images/complete/study-my-appointment-is-on-monday-ac57fc2.webp",
+      "images/complete/study-my-birthday-is-in-october-bdd7be1.webp",
+      "images/complete/study-we-eat-at-noon-0e002e8.webp",
+      "images/complete/study-he-works-on-friday-86c1acd.webp",
+      "images/complete/study-it-is-cold-in-january-c74da93.webp",
+      "images/complete/study-the-pharmacy-closes-at-six-ec849ed.webp",
+      "images/complete/study-we-shop-on-saturday-ae73656.webp"
     ],
-    "image": "images/actions/open.webp",
+    "image": "images/complete/study-the-store-opens-at-nine-51e05ba.webp",
     "practice": [
       {
         "type": "build",
@@ -7118,16 +7118,16 @@
     "objective": "Vždy, zvyčajne, niekedy a nikdy",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drink.webp",
-      "images/actions/cook.webp",
-      "images/actions/walk.webp",
-      null,
-      null,
-      "images/actions/call.webp",
-      "images/actions/drink.webp",
-      "images/actions/call.webp"
+      "images/complete/study-i-always-drink-water-02ce543.webp",
+      "images/complete/study-she-usually-cooks-dinner-919e287.webp",
+      "images/complete/study-we-sometimes-walk-9aae2b5.webp",
+      "images/complete/study-he-never-drives-8a58185.webp",
+      "images/complete/study-they-usually-shop-on-saturday-4f11cc2.webp",
+      "images/complete/study-i-sometimes-call-my-neighbor-6aa9158.webp",
+      "images/complete/study-we-always-have-water-8dd02e5.webp",
+      "images/complete/study-she-sometimes-calls-me-e48df6e.webp"
     ],
-    "image": "images/actions/drink.webp",
+    "image": "images/complete/study-i-always-drink-water-02ce543.webp",
     "practice": [
       {
         "type": "build",
@@ -7235,16 +7235,16 @@
     "objective": "Čas pri činnosti a pri stave",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/extra-ready.webp",
-      null,
-      "images/actions/extra-tired.webp",
-      null,
-      "images/actions/eat.webp",
-      "images/actions/key.webp",
-      null,
-      null
+      "images/complete/study-i-am-always-ready-f20121e.webp",
+      "images/complete/study-he-is-usually-at-home-bf7f56d.webp",
+      "images/complete/study-we-are-sometimes-tired-d77d8c7.webp",
+      "images/complete/study-she-never-drives-at-night-1137276.webp",
+      "images/complete/study-they-usually-eat-at-noon-61f0f04.webp",
+      "images/complete/study-i-always-have-my-keys-c914df3.webp",
+      "images/complete/study-she-is-never-late-5e5eb41.webp",
+      "images/complete/study-we-usually-have-dinner-at-six-838e730.webp"
     ],
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-i-am-always-ready-f20121e.webp",
     "practice": [
       {
         "type": "build",
@@ -7411,18 +7411,18 @@
     "objective": "Včera som bol alebo niekto bol",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
+      "images/complete/study-i-am-here-today-1b5dacc.webp",
+      "images/complete/study-i-was-here-yesterday-e890ffb.webp",
       "images/actions/extra-tired.webp",
       "images/actions/extra-tired.webp",
-      null,
-      null,
-      null,
-      null,
+      "images/complete/study-she-is-at-home-today-bba8520.webp",
+      "images/complete/study-she-was-at-home-yesterday-3981226.webp",
+      "images/complete/study-it-is-cold-today-db1219f.webp",
+      "images/complete/study-it-was-cold-yesterday-497e6ad.webp",
       "images/actions/extra-ready.webp",
       "images/actions/extra-ready.webp"
     ],
-    "image": "images/actions/extra-tired.webp",
+    "image": "images/complete/study-i-am-here-today-1b5dacc.webp",
     "practice": [
       {
         "type": "build",
@@ -7530,16 +7530,16 @@
     "objective": "Boli sme, bol si, boli ste",
     "diagrams": [],
     "exampleImages": [
-      null,
+      "images/complete/study-we-were-at-home-yesterday-50f3a50.webp",
       "images/actions/extra-ready.webp",
       "images/actions/extra-tired.webp",
-      null,
-      null,
-      "images/actions/eat.webp",
-      null,
-      null
+      "images/complete/study-were-you-at-the-store-3ab2439.webp",
+      "images/complete/study-was-he-here-yesterday-7895495.webp",
+      "images/complete/study-i-wasn-t-hungry-bf21202.webp",
+      "images/complete/study-we-weren-t-late-7296bec.webp",
+      "images/complete/study-she-wasn-t-at-work-79e5e8e.webp"
     ],
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-we-were-at-home-yesterday-50f3a50.webp",
     "practice": [
       {
         "type": "build",
@@ -7829,7 +7829,7 @@
       "images/actions/call.webp",
       "images/actions/help.webp",
       "images/words/medicine.jpg",
-      null,
+      "images/complete/study-they-waited-here-27b8b19.webp",
       "images/actions/house.webp",
       "images/actions/bag.webp",
       "images/actions/close.webp"
@@ -8001,18 +8001,18 @@
     "objective": "Išiel, prišiel, videl a vzal",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
+      "images/complete/study-i-go-home-921c601.webp",
+      "images/complete/study-i-went-home-1c6fbff.webp",
+      "images/complete/study-she-comes-here-32c9013.webp",
+      "images/complete/study-she-came-here-69da72b.webp",
+      "images/complete/study-we-see-him-d4b3ecd.webp",
+      "images/complete/study-we-saw-him-b8063b2.webp",
       "images/actions/key.webp",
       "images/actions/key.webp",
-      null,
-      null
+      "images/complete/study-they-go-to-the-store-f70d174.webp",
+      "images/complete/study-they-went-to-the-store-f7aeb38.webp"
     ],
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-i-go-home-921c601.webp",
     "practice": [
       {
         "type": "build",
@@ -8187,8 +8187,8 @@
       "images/actions/drive.webp",
       "images/actions/key.webp",
       "images/actions/key.webp",
-      null,
-      null
+      "images/complete/study-they-tell-me-d9c4cdf.webp",
+      "images/complete/study-they-told-me-29daa6c.webp"
     ],
     "image": "images/actions/buy.webp",
     "practice": [
@@ -8361,8 +8361,8 @@
       "images/actions/clean.webp",
       "images/actions/buy.webp",
       "images/actions/buy.webp",
-      null,
-      null,
+      "images/complete/study-he-went-home-fe28310.webp",
+      "images/complete/study-did-he-go-home-ebf6b9e.webp",
       "images/actions/call.webp",
       "images/actions/call.webp",
       "images/actions/pay.webp",
@@ -8476,16 +8476,16 @@
     "objective": "Nestalo sa to a krátke odpovede",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/buy.webp",
-      "images/actions/call.webp",
-      null,
-      "images/actions/pay.webp",
-      "images/actions/key.webp",
+      "images/complete/study-i-didn-t-buy-food-868fc7a.webp",
+      "images/complete/study-she-didn-t-call-me-f16a339.webp",
+      "images/complete/study-we-didn-t-go-home-a499fa3.webp",
+      "images/complete/study-he-didn-t-pay-the-bill-8f83af9.webp",
+      "images/complete/study-they-didn-t-find-the-key-a626550.webp",
       null,
       null,
       null
     ],
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-i-didn-t-buy-food-868fc7a.webp",
     "practice": [
       {
         "type": "build",
@@ -8593,16 +8593,16 @@
     "objective": "Včerajšie vybavovanie krok za krokom",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
+      "images/complete/study-where-did-you-go-yesterday-adb88a3.webp",
+      "images/complete/study-i-went-to-the-pharmacy-a41b16b.webp",
       "images/actions/buy.webp",
       "images/actions/buy.webp",
       "images/actions/call.webp",
       "images/actions/call.webp",
       "images/actions/open.webp",
-      "images/actions/open.webp"
+      "images/complete/study-the-store-wasn-t-open-366ace8.webp"
     ],
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-where-did-you-go-yesterday-adb88a3.webp",
     "practice": [
       {
         "type": "build",
@@ -8831,8 +8831,8 @@
       "images/actions/help.webp",
       "images/actions/extra-ready.webp",
       "images/actions/extra-ready.webp",
-      "images/actions/drive.webp",
-      "images/actions/buy.webp",
+      "images/complete/study-i-won-t-drive-tonight-2322861.webp",
+      "images/complete/study-we-won-t-buy-it-614d0dc.webp",
       null,
       null
     ],
@@ -8950,8 +8950,8 @@
       "images/actions/call.webp",
       "images/actions/pay.webp",
       "images/actions/drive.webp",
-      "images/actions/buy.webp",
-      null
+      "images/complete/study-i-am-not-going-to-buy-it-3c4615b.webp",
+      "images/complete/study-we-are-going-to-shop-tomorrow-1c4b20f.webp"
     ],
     "image": "images/actions/cook.webp",
     "practice": [
@@ -9064,8 +9064,8 @@
       "images/actions/bag.webp",
       "images/actions/drive.webp",
       "images/actions/open.webp",
-      null,
-      null,
+      "images/complete/study-the-bus-leaves-at-six-tomorrow-b49a686.webp",
+      "images/complete/study-my-appointment-is-on-monday-ac57fc2.webp",
       "images/actions/drink.webp",
       "images/actions/call.webp",
       "images/actions/close.webp"
@@ -9181,7 +9181,7 @@
       "images/actions/cook.webp",
       "images/actions/clean.webp",
       "images/actions/drive.webp",
-      null,
+      "images/complete/study-we-are-waiting-b6416a2.webp",
       "images/actions/eat.webp",
       "images/actions/bag.webp",
       "images/actions/drive.webp",
@@ -9295,16 +9295,16 @@
     "objective": "Čo práve robíš a čo nerobíš?",
     "diagrams": [],
     "exampleImages": [
-      null,
+      "images/complete/study-are-you-waiting-391734e.webp",
       "images/actions/drive.webp",
-      null,
-      "images/actions/cook.webp",
-      null,
-      "images/actions/drive.webp",
+      "images/complete/study-what-are-you-doing-de7e54b.webp",
+      "images/complete/study-she-isn-t-cooking-38bd3b5.webp",
+      "images/complete/study-we-aren-t-working-now-1f5639d.webp",
+      "images/complete/study-i-m-not-driving-b765edf.webp",
       "images/actions/clean.webp",
       "images/actions/drive.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-are-you-waiting-391734e.webp",
     "practice": [
       {
         "type": "build",
@@ -9473,14 +9473,14 @@
     "exampleImages": [
       "images/actions/cook.webp",
       "images/actions/cook.webp",
-      null,
+      "images/complete/study-she-cleans-every-day-6cf4422.webp",
       "images/actions/clean.webp",
       "images/actions/walk.webp",
       "images/actions/drive.webp",
       "images/actions/coffee.webp",
       "images/actions/drink.webp",
-      null,
-      null
+      "images/complete/study-they-work-on-monday-4a1c0e9.webp",
+      "images/complete/study-they-aren-t-working-now-5499fa3.webp"
     ],
     "image": "images/actions/cook.webp",
     "practice": [
@@ -9585,9 +9585,9 @@
       "images/actions/drive.webp",
       "images/actions/help.webp",
       "images/actions/pay.webp",
-      null,
-      "images/actions/key.webp",
-      null
+      "images/complete/study-he-can-t-hear-you-0ddc835.webp",
+      "images/complete/study-i-can-t-find-my-keys-6a0cfed.webp",
+      "images/complete/study-they-can-t-come-today-329f8c3.webp"
     ],
     "image": "images/actions/drive.webp",
     "practice": [
@@ -9701,10 +9701,10 @@
       "images/actions/open.webp",
       "images/actions/call.webp",
       "images/actions/pay.webp",
-      null,
-      null,
-      null,
-      null
+      "images/complete/study-could-you-wait-here-please-1e4ef36.webp",
+      "images/complete/study-can-we-come-in-1dedb12.webp",
+      "images/complete/study-could-you-show-me-the-price-please-7f5ee3c.webp",
+      "images/complete/study-can-she-come-tomorrow-5976736.webp"
     ],
     "image": "images/actions/help.webp",
     "practice": [
@@ -9811,12 +9811,12 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/coffee.webp",
-      null,
+      "images/complete/study-i-would-like-an-appointment-aab7265.webp",
       "images/actions/drink.webp",
       "images/actions/pay.webp",
-      null,
-      null,
-      null
+      "images/complete/study-i-want-to-go-home-be90fe3.webp",
+      "images/complete/study-i-d-like-a-receipt-f53a823.webp",
+      "images/complete/study-i-would-like-to-speak-to-a-person-5f4e19a.webp"
     ],
     "image": "images/actions/coffee.webp",
     "practice": [
@@ -9922,8 +9922,8 @@
       "images/actions/pay.webp",
       "images/actions/buy.webp",
       "images/actions/fix.webp",
-      null,
-      null
+      "images/complete/study-i-don-t-have-to-go-today-543e00a.webp",
+      "images/complete/study-do-you-have-to-work-tomorrow-087b778.webp"
     ],
     "image": "images/actions/call.webp",
     "practice": [
@@ -10026,10 +10026,10 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/call.webp",
-      null,
-      "images/actions/drive.webp",
-      null,
-      "images/actions/drive.webp",
+      "images/complete/study-we-should-check-the-bill-8edb114.webp",
+      "images/complete/study-he-shouldn-t-drive-now-b3daeb7.webp",
+      "images/complete/study-you-must-not-park-here-f002172.webp",
+      "images/complete/study-i-don-t-have-to-drive-9f8485e.webp",
       "images/actions/key.webp"
     ],
     "image": "images/actions/call.webp",
@@ -10132,12 +10132,12 @@
     "objective": "Nerozumiem: poprosím o zopakovanie",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "images/complete/study-i-don-t-understand-278c398.webp",
+      "images/complete/study-could-you-repeat-that-please-136eb46.webp",
+      "images/complete/study-could-you-speak-slowly-please-5493104.webp",
+      "images/complete/study-what-does-that-mean-c3d549a.webp",
+      "images/complete/study-could-you-write-it-down-please-34d66db.webp",
+      "images/complete/study-i-speak-a-little-english-b94e795.webp"
     ],
     "image": null,
     "practice": [
@@ -10240,11 +10240,11 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/key.webp",
-      null,
-      null,
+      "images/complete/study-please-show-me-the-bill-d2cc70f.webp",
+      "images/complete/study-please-tell-me-the-price-b286583.webp",
       "images/actions/drink.webp",
       "images/actions/bag.webp",
-      null
+      "images/complete/study-could-you-give-me-a-receipt-please-586dc7e.webp"
     ],
     "image": "images/actions/key.webp",
     "practice": [
@@ -10347,8 +10347,8 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/key.webp",
-      null,
-      null,
+      "images/complete/study-she-s-looking-for-the-pharmacy-155c3d7.webp",
+      "images/complete/study-we-re-waiting-for-the-bus-c698e57.webp",
       "images/actions/fix.webp",
       "images/actions/help.webp",
       "images/actions/call.webp"
@@ -10454,8 +10454,8 @@
     "diagrams": [],
     "exampleImages": [
       "images/actions/drive.webp",
-      "images/actions/drive.webp",
-      null,
+      "images/complete/study-my-car-doesn-t-start-5e813cc.webp",
+      "images/complete/study-i-have-a-flat-tire-5008aa3.webp",
       "images/actions/drive.webp",
       "images/actions/fix.webp",
       "images/actions/drive.webp"
@@ -10562,10 +10562,10 @@
     "exampleImages": [
       "images/words/medicine.jpg",
       "images/words/medicine.jpg",
-      null,
+      "images/complete/study-i-have-an-appointment-on-monday-6a7105c.webp",
       "images/words/insurance.jpg",
-      null,
-      null
+      "images/complete/study-i-received-a-medical-bill-afaf709.webp",
+      "images/complete/study-could-you-explain-this-bill-please-cc9fb1d.webp"
     ],
     "image": "images/words/medicine.jpg",
     "practice": [
@@ -10667,14 +10667,14 @@
     "objective": "Zapnem, vypnem a vyzdvihnem",
     "diagrams": [],
     "exampleImages": [
-      null,
-      null,
-      "images/situations/neighbor-package.webp",
-      null,
-      null,
-      null
+      "images/complete/study-please-turn-on-the-light-72de79a.webp",
+      "images/complete/study-please-turn-it-off-a276202.webp",
+      "images/complete/study-i-need-to-pick-up-the-package-7c978f7.webp",
+      "images/complete/study-she-picks-it-up-today-985c5b2.webp",
+      "images/complete/study-could-you-turn-it-on-please-9f4f961.webp",
+      "images/complete/study-he-turned-off-the-tv-fb993d9.webp"
     ],
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/study-please-turn-on-the-light-72de79a.webp",
     "practice": [
       {
         "type": "build",
@@ -10775,7 +10775,7 @@
     "diagrams": [],
     "exampleImages": [
       "images/situations/neighbor-package.webp",
-      null,
+      "images/complete/study-could-you-pick-it-up-today-19f91a7.webp",
       "images/actions/fix.webp",
       "images/actions/fix.webp",
       "images/actions/clean.webp",
@@ -10884,8 +10884,8 @@
       "images/actions/bag.webp",
       "images/actions/pay.webp",
       "images/actions/pay.webp",
-      null,
-      null,
+      "images/complete/study-i-don-t-need-a-receipt-da00640.webp",
+      "images/complete/study-could-you-repeat-that-please-136eb46.webp",
       "images/actions/buy.webp"
     ],
     "image": "images/actions/bag.webp",
@@ -10988,14 +10988,14 @@
     "objective": "Včera, dnes a zajtra pri oprave",
     "diagrams": [],
     "exampleImages": [
-      "images/actions/drive.webp",
+      "images/complete/study-my-car-didn-t-start-yesterday-caf0ccb.webp",
       "images/actions/fix.webp",
       "images/actions/drive.webp",
       "images/actions/fix.webp",
       "images/actions/drive.webp",
-      null
+      "images/complete/study-i-m-going-to-pick-it-up-tomorrow-ebe0519.webp"
     ],
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-my-car-didn-t-start-yesterday-caf0ccb.webp",
     "practice": [
       {
         "type": "build",
@@ -11095,14 +11095,14 @@
     "objective": "U suseda: kto, komu a kde",
     "diagrams": [],
     "exampleImages": [
-      "images/situations/neighbor-package.webp",
-      null,
-      null,
-      "images/situations/neighbor-package.webp",
-      "images/actions/key.webp",
-      "images/actions/bag.webp"
+      "images/complete/study-my-neighbor-has-my-package-abbcfef.webp",
+      "images/complete/study-he-will-give-it-to-me-763c1e9.webp",
+      "images/complete/study-i-m-waiting-for-him-e0e24cd.webp",
+      "images/complete/study-the-package-is-next-to-the-door-2a822ba.webp",
+      "images/complete/study-those-keys-are-mine-5eda189.webp",
+      "images/complete/study-could-you-help-me-with-this-bag-5c23ff7.webp"
     ],
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/study-my-neighbor-has-my-package-abbcfef.webp",
     "practice": [
       {
         "type": "build",
@@ -11202,14 +11202,14 @@
     "objective": "Celý rozhovor bez ponáhľania",
     "diagrams": [],
     "exampleImages": [
-      null,
+      "images/complete/study-i-would-like-an-appointment-aab7265.webp",
       "images/actions/call.webp",
-      null,
-      null,
+      "images/complete/study-i-didn-t-receive-the-message-636829e.webp",
+      "images/complete/study-could-you-send-it-again-please-ebdb4b3.webp",
       "images/actions/call.webp",
       "images/actions/help.webp"
     ],
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-i-would-like-an-appointment-aab7265.webp",
     "practice": [
       {
         "type": "build",

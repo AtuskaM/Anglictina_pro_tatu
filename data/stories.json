@@ -2,7 +2,7 @@
   {
     "title": "V lekárni",
     "subtitle": "Reálna návšteva: čakanie, recept, telefonát, správa",
-    "scene": "images/pharmacy_scene.jpg",
+    "scene": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "emoji": "💊",
     "intro": "Ján príde do americkej lekárne. Pri okienku nikto nie je. Recept ešte nie je pripravený. Naučí sa, čo povedať a čo urobiť, keď mu príde správa.",
     "lines": [
@@ -548,7 +548,7 @@
   {
     "title": "Majster opravuje",
     "subtitle": "Pokazený kohútik",
-    "scene": "images/repair_scene.jpg",
+    "scene": "images/complete/story-a-repair-visit-2f64f07.webp",
     "emoji": "🔧",
     "intro": "V kuchyni kvapká kohútik. Ján vysvetľuje majstrovi, čo sa pokazilo.",
     "lines": [

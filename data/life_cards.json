@@ -3,7 +3,7 @@
     "id": "pharmacy-0",
     "en": "Hello? Is anybody here?",
     "sk": "Haló? Je tu niekto?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -12,7 +12,7 @@
     "id": "pharmacy-1",
     "en": "Just a moment! I’ll be right with you.",
     "sk": "Momentík! Hneď budem pri vás.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -21,7 +21,7 @@
     "id": "pharmacy-2",
     "en": "No problem. I can wait.",
     "sk": "Žiadny problém. Môžem počkať.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -30,7 +30,7 @@
     "id": "pharmacy-3",
     "en": "Sorry to keep you waiting. How can I help you?",
     "sk": "Prepáčte, že ste museli čakať. Ako vám môžem pomôcť?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -39,7 +39,7 @@
     "id": "pharmacy-4",
     "en": "I’m here to pick up my prescription.",
     "sk": "Prišiel som si vyzdvihnúť lieky na recept.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -48,7 +48,7 @@
     "id": "pharmacy-5",
     "en": "What’s your last name, please?",
     "sk": "Aké je vaše priezvisko, prosím?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -57,7 +57,7 @@
     "id": "pharmacy-6",
     "en": "Novak. N-O-V-A-K.",
     "sk": "Novak. N-O-V-A-K.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -66,7 +66,7 @@
     "id": "pharmacy-7",
     "en": "And your date of birth?",
     "sk": "A váš dátum narodenia?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -75,7 +75,7 @@
     "id": "pharmacy-8",
     "en": "March fifth, nineteen fifty-one.",
     "sk": "Piateho marca tisícdeväťstopäťdesiatjeden.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -84,7 +84,7 @@
     "id": "pharmacy-9",
     "en": "Can you confirm your phone number?",
     "sk": "Môžete potvrdiť svoje telefónne číslo?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -93,7 +93,7 @@
     "id": "pharmacy-10",
     "en": "Yes. It’s the number ending in four two eight one.",
     "sk": "Áno. Je to číslo, ktoré sa končí na štyri dva osem jeden.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -102,7 +102,7 @@
     "id": "pharmacy-11",
     "en": "Let me check the computer.",
     "sk": "Pozriem sa do počítača.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -111,7 +111,7 @@
     "id": "pharmacy-12",
     "en": "I’m sorry. It isn’t ready yet.",
     "sk": "Je mi ľúto. Ešte to nie je pripravené.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -120,7 +120,7 @@
     "id": "pharmacy-13",
     "en": "Do I need to come back later?",
     "sk": "Musím sa vrátiť neskôr?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -129,7 +129,7 @@
     "id": "pharmacy-14",
     "en": "Yes, please. We’re still working on it.",
     "sk": "Áno, prosím. Ešte na tom pracujeme.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -138,7 +138,7 @@
     "id": "pharmacy-15",
     "en": "Do you know when it will be ready?",
     "sk": "Viete, kedy to bude pripravené?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -147,7 +147,7 @@
     "id": "pharmacy-16",
     "en": "It should be ready this afternoon, but I can’t promise.",
     "sk": "Malo by to byť pripravené dnes popoludní, ale nemôžem to sľúbiť.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -156,7 +156,7 @@
     "id": "pharmacy-17",
     "en": "Will you call me when it’s ready?",
     "sk": "Zavoláte mi, keď to bude pripravené?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -165,7 +165,7 @@
     "id": "pharmacy-18",
     "en": "We can send you a text message instead.",
     "sk": "Namiesto toho vám môžeme poslať SMS.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -174,7 +174,7 @@
     "id": "pharmacy-19",
     "en": "A text is fine. What if I don’t get it?",
     "sk": "SMS mi vyhovuje. Čo ak mi nepríde?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -183,7 +183,7 @@
     "id": "pharmacy-20",
     "en": "You can call us or check with the pharmacy.",
     "sk": "Môžete nám zavolať alebo sa informovať v lekárni.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -192,7 +192,7 @@
     "id": "pharmacy-21",
     "en": "My phone says RENEW. What does that mean?",
     "sk": "Na telefóne mám napísané RENEW. Čo to znamená?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -201,7 +201,7 @@
     "id": "pharmacy-22",
     "en": "It usually means there are no refills left on that prescription.",
     "sk": "Zvyčajne to znamená, že na tom recepte už nemáte povolené ďalšie vydania.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -210,7 +210,7 @@
     "id": "pharmacy-23",
     "en": "Can you contact my doctor for a new prescription?",
     "sk": "Môžete kontaktovať môjho lekára kvôli novému receptu?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -219,7 +219,7 @@
     "id": "pharmacy-24",
     "en": "Yes, we can send a renewal request. Your doctor must approve it.",
     "sk": "Áno, môžeme poslať žiadosť o obnovenie receptu. Váš lekár ju musí schváliť.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -228,7 +228,7 @@
     "id": "pharmacy-25",
     "en": "Does that mean I can pick it up today?",
     "sk": "Znamená to, že si lieky môžem vyzdvihnúť dnes?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -237,7 +237,7 @@
     "id": "pharmacy-26",
     "en": "Not necessarily. Please wait for our confirmation.",
     "sk": "Nie nevyhnutne. Počkajte, prosím, na naše potvrdenie.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -246,7 +246,7 @@
     "id": "pharmacy-27",
     "en": "Thank you. I’ll wait for the message.",
     "sk": "Ďakujem. Počkám na správu.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -255,7 +255,7 @@
     "id": "pharmacy-28",
     "en": "Is there a problem with my insurance?",
     "sk": "Je problém s mojím poistením?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -264,7 +264,7 @@
     "id": "pharmacy-29",
     "en": "Your insurance requires prior authorization from your doctor.",
     "sk": "Vaša poisťovňa vyžaduje predchádzajúce schválenie na základe žiadosti vášho lekára.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -273,7 +273,7 @@
     "id": "pharmacy-30",
     "en": "We are waiting for approval. There may be a delay.",
     "sk": "Čakáme na schválenie. Môže to chvíľu trvať.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -282,7 +282,7 @@
     "id": "pharmacy-31",
     "en": "Please let me know when it is ready.",
     "sk": "Prosím, dajte mi vedieť, keď to bude pripravené.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "note": "V lekárni",
     "story": "pharmacy",
     "context": "V lekárni"
@@ -471,7 +471,7 @@
     "id": "repair-visit-0",
     "en": "The kitchen faucet is leaking.",
     "sk": "Kuchynský kohútik tečie.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -480,7 +480,7 @@
     "id": "repair-visit-1",
     "en": "How long has it been leaking?",
     "sk": "Ako dlho už tečie?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -489,7 +489,7 @@
     "id": "repair-visit-2",
     "en": "Since yesterday evening.",
     "sk": "Od včerajšieho večera.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -498,7 +498,7 @@
     "id": "repair-visit-3",
     "en": "Please turn off the water.",
     "sk": "Prosím, zastavte vodu.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -507,7 +507,7 @@
     "id": "repair-visit-4",
     "en": "Where is the valve?",
     "sk": "Kde je ventil?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -516,7 +516,7 @@
     "id": "repair-visit-5",
     "en": "Under the sink, on the left.",
     "sk": "Pod drezom, naľavo.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -525,7 +525,7 @@
     "id": "repair-visit-6",
     "en": "Do you need a tool?",
     "sk": "Potrebujete náradie?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -534,7 +534,7 @@
     "id": "repair-visit-7",
     "en": "No, thank you. I have everything.",
     "sk": "Nie, ďakujem. Mám všetko.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -543,7 +543,7 @@
     "id": "repair-visit-8",
     "en": "Can you give me an estimate before you start?",
     "sk": "Môžete mi dať cenovú ponuku skôr, než začnete?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -552,7 +552,7 @@
     "id": "repair-visit-9",
     "en": "Yes. First I need to check the faucet.",
     "sk": "Áno. Najprv musím skontrolovať kohútik.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -561,7 +561,7 @@
     "id": "repair-visit-10",
     "en": "Will it need a new part?",
     "sk": "Bude potrebný nový diel?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -570,7 +570,7 @@
     "id": "repair-visit-11",
     "en": "It may need a new cartridge. I will show you.",
     "sk": "Možno bude treba novú kartušu. Ukážem vám ju.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -579,7 +579,7 @@
     "id": "repair-visit-12",
     "en": "Does the price include the part and labor?",
     "sk": "Zahŕňa cena diel aj prácu?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -588,7 +588,7 @@
     "id": "repair-visit-13",
     "en": "Yes. Here is the written estimate.",
     "sk": "Áno. Tu je písomná cenová ponuka.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -597,7 +597,7 @@
     "id": "repair-visit-14",
     "en": "How long will it take?",
     "sk": "Ako dlho to bude trvať?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -606,7 +606,7 @@
     "id": "repair-visit-15",
     "en": "About an hour if I have the right part.",
     "sk": "Asi hodinu, ak mám správny diel.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -615,7 +615,7 @@
     "id": "repair-visit-16",
     "en": "Please tell me before adding any extra charges.",
     "sk": "Prosím, povedzte mi vopred, ak by vznikli ďalšie poplatky.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -624,7 +624,7 @@
     "id": "repair-visit-17",
     "en": "Of course. I need your approval.",
     "sk": "Samozrejme. Potrebujem váš súhlas.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -633,7 +633,7 @@
     "id": "repair-visit-18",
     "en": "Will you clean up when you finish?",
     "sk": "Keď skončíte, upracete po sebe?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"
@@ -642,7 +642,7 @@
     "id": "repair-visit-19",
     "en": "Yes. We will test the faucet and clean the area.",
     "sk": "Áno. Vyskúšame kohútik a upraceme okolie.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "note": "Majster opravuje",
     "story": "repair-visit",
     "context": "Majster opravuje"

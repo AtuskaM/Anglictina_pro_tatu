@@ -154,7 +154,7 @@
     "en": "We eat.",
     "sk": "Jeme.",
     "lesson": 3,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-we-eat-bd4c947.webp",
     "imageExact": false,
     "note": "I cook dinner. (Varím večeru.) → We cook dinner. (Varíme večeru.). Mení sa iba prvé slovo.",
     "context": "My dvaja alebo celá skupina"
@@ -164,7 +164,7 @@
     "en": "We buy food.",
     "sk": "Kupujeme jedlo.",
     "lesson": 3,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-we-buy-food-edd239e.webp",
     "imageExact": false,
     "note": "I cook dinner. (Varím večeru.) → We cook dinner. (Varíme večeru.). Mení sa iba prvé slovo.",
     "context": "My dvaja alebo celá skupina"
@@ -174,7 +174,7 @@
     "en": "We drive.",
     "sk": "Šoférujeme.",
     "lesson": 3,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-we-drive-5372491.webp",
     "imageExact": false,
     "note": "I cook dinner. (Varím večeru.) → We cook dinner. (Varíme večeru.). Mení sa iba prvé slovo.",
     "context": "My dvaja alebo celá skupina"
@@ -184,7 +184,7 @@
     "en": "We cook dinner.",
     "sk": "Varíme večeru.",
     "lesson": 3,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-we-cook-dinner-3d68fde.webp",
     "imageExact": false,
     "note": "I cook dinner. (Varím večeru.) → We cook dinner. (Varíme večeru.). Mení sa iba prvé slovo.",
     "context": "My dvaja alebo celá skupina"
@@ -194,7 +194,7 @@
     "en": "We need help.",
     "sk": "Potrebujeme pomoc.",
     "lesson": 3,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-we-need-help-1e6c465.webp",
     "imageExact": false,
     "note": "I cook dinner. (Varím večeru.) → We cook dinner. (Varíme večeru.). Mení sa iba prvé slovo.",
     "context": "My dvaja alebo celá skupina"
@@ -204,7 +204,7 @@
     "en": "They eat.",
     "sk": "Oni jedia.",
     "lesson": 4,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-they-eat-cc2efba.webp",
     "imageExact": false,
     "note": "We walk. (Chodíme pešo.) zahŕňa mňa. They walk. (Oni chodia pešo.) hovorí o iných. Činnosť má rovnaký tvar.",
     "context": "Oni alebo ony robia niečo"
@@ -214,7 +214,7 @@
     "en": "They drive.",
     "sk": "Oni šoférujú.",
     "lesson": 4,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-they-drive-869927c.webp",
     "imageExact": false,
     "note": "We walk. (Chodíme pešo.) zahŕňa mňa. They walk. (Oni chodia pešo.) hovorí o iných. Činnosť má rovnaký tvar.",
     "context": "Oni alebo ony robia niečo"
@@ -224,7 +224,7 @@
     "en": "They cook dinner.",
     "sk": "Oni varia večeru.",
     "lesson": 4,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-they-cook-dinner-da1eacb.webp",
     "imageExact": false,
     "note": "We walk. (Chodíme pešo.) zahŕňa mňa. They walk. (Oni chodia pešo.) hovorí o iných. Činnosť má rovnaký tvar.",
     "context": "Oni alebo ony robia niečo"
@@ -234,7 +234,7 @@
     "en": "They need medicine.",
     "sk": "Oni potrebujú lieky.",
     "lesson": 4,
-    "image": "images/words/medicine.jpg",
+    "image": "images/complete/study-they-need-medicine-f8e3247.webp",
     "imageExact": false,
     "note": "We walk. (Chodíme pešo.) zahŕňa mňa. They walk. (Oni chodia pešo.) hovorí o iných. Činnosť má rovnaký tvar.",
     "context": "Oni alebo ony robia niečo"
@@ -244,7 +244,7 @@
     "en": "They buy food.",
     "sk": "Oni kupujú jedlo.",
     "lesson": 4,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-they-buy-food-713ca57.webp",
     "imageExact": false,
     "note": "We walk. (Chodíme pešo.) zahŕňa mňa. They walk. (Oni chodia pešo.) hovorí o iných. Činnosť má rovnaký tvar.",
     "context": "Oni alebo ony robia niečo"
@@ -254,7 +254,7 @@
     "en": "I live here.",
     "sk": "Bývam tu.",
     "lesson": 5,
-    "image": "images/actions/house.webp",
+    "image": "images/pronouns/i-live.webp",
     "imageExact": false,
     "note": "I live here. (Bývam tu.) → We live here. (Bývame tu.). Miesto zostáva na konci.",
     "context": "Pridám, kde alebo kedy"
@@ -284,7 +284,7 @@
     "en": "They work today.",
     "sk": "Oni dnes pracujú.",
     "lesson": 5,
-    "image": null,
+    "image": "images/complete/study-they-work-today-63107b1.webp",
     "imageExact": false,
     "note": "I live here. (Bývam tu.) → We live here. (Bývame tu.). Miesto zostáva na konci.",
     "context": "Pridám, kde alebo kedy"
@@ -364,7 +364,7 @@
     "en": "You live here.",
     "sk": "Bývaš tu. / Bývate tu.",
     "lesson": 7,
-    "image": "images/actions/house.webp",
+    "image": "images/pronouns/you-plural.webp",
     "imageExact": false,
     "note": "I (ja), you (ty, vy), we (my) a they (oni, ony) v týchto vetách nemenia tvar činnosti.",
     "context": "Prvé pokojné opakovanie"
@@ -434,7 +434,7 @@
     "en": "I am thirsty.",
     "sk": "Som smädný.",
     "lesson": 8,
-    "image": null,
+    "image": "images/complete/study-i-am-thirsty-6fb81be.webp",
     "imageExact": false,
     "note": "I am tired. (Som unavený.) → I am ready. (Som pripravený.). Začiatok I am (ja som) nemením.",
     "context": "Poviem, aký som"
@@ -444,7 +444,7 @@
     "en": "I am here.",
     "sk": "Som tu.",
     "lesson": 8,
-    "image": null,
+    "image": "images/complete/study-i-am-here-f47d30f.webp",
     "imageExact": false,
     "note": "I am tired. (Som unavený.) → I am ready. (Som pripravený.). Začiatok I am (ja som) nemením.",
     "context": "Poviem, aký som"
@@ -474,7 +474,7 @@
     "en": "Mary is here.",
     "sk": "Mária je tu.",
     "lesson": 9,
-    "image": null,
+    "image": "images/complete/study-mary-is-here-caa04a5.webp",
     "imageExact": false,
     "note": "John is tired. (Ján je unavený.) → He is tired. (On je unavený.). Meníme meno na he (on); is (je) zostáva.",
     "context": "On, ona a jedna vec"
@@ -494,7 +494,7 @@
     "en": "It is cold.",
     "sk": "Je zima.",
     "lesson": 9,
-    "image": null,
+    "image": "images/complete/study-it-is-cold-a3632e9.webp",
     "imageExact": false,
     "note": "John is tired. (Ján je unavený.) → He is tired. (On je unavený.). Meníme meno na he (on); is (je) zostáva.",
     "context": "On, ona a jedna vec"
@@ -524,7 +524,7 @@
     "en": "You are here.",
     "sk": "Si tu. / Ste tu.",
     "lesson": 10,
-    "image": null,
+    "image": "images/complete/study-you-are-here-71a91de.webp",
     "imageExact": false,
     "note": "I am here. (Som tu.) → You are here. (Si tu. / Ste tu.) → We are here. (Sme tu.).",
     "context": "Ty, vy, my a oni: sme alebo sú"
@@ -564,7 +564,7 @@
     "en": "They are here.",
     "sk": "Oni sú tu.",
     "lesson": 10,
-    "image": null,
+    "image": "images/complete/study-they-are-here-c27ba74.webp",
     "imageExact": false,
     "note": "I am here. (Som tu.) → You are here. (Si tu. / Ste tu.) → We are here. (Sme tu.).",
     "context": "Ty, vy, my a oni: sme alebo sú"
@@ -594,7 +594,7 @@
     "en": "He’s here.",
     "sk": "On je tu.",
     "lesson": 11,
-    "image": null,
+    "image": "images/complete/study-he-s-here-b32ba56.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) a I’m ready. (Som pripravený.) hovoria to isté. Krátky zápis nie je nový čas.",
     "context": "Krátke zápisy bez strachu"
@@ -624,7 +624,7 @@
     "en": "They’re thirsty.",
     "sk": "Oni sú smädní.",
     "lesson": 11,
-    "image": null,
+    "image": "images/complete/study-they-re-thirsty-4bae168.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) a I’m ready. (Som pripravený.) hovoria to isté. Krátky zápis nie je nový čas.",
     "context": "Krátke zápisy bez strachu"
@@ -634,7 +634,7 @@
     "en": "My key is here.",
     "sk": "Môj kľúč je tu.",
     "lesson": 12,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-my-key-is-here-58b4ffb.webp",
     "imageExact": false,
     "note": "My car (moje auto) → your car (tvoje auto, vaše auto). Vec zostáva, mení sa majiteľ.",
     "context": "Moje a tvoje veci"
@@ -644,7 +644,7 @@
     "en": "Your car is here.",
     "sk": "Tvoje auto je tu. / Vaše auto je tu.",
     "lesson": 12,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-your-car-is-here-7e580f5.webp",
     "imageExact": false,
     "note": "My car (moje auto) → your car (tvoje auto, vaše auto). Vec zostáva, mení sa majiteľ.",
     "context": "Moje a tvoje veci"
@@ -654,7 +654,7 @@
     "en": "I need my phone.",
     "sk": "Potrebujem svoj telefón.",
     "lesson": 12,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-i-need-my-phone-3ae17f8.webp",
     "imageExact": false,
     "note": "My car (moje auto) → your car (tvoje auto, vaše auto). Vec zostáva, mení sa majiteľ.",
     "context": "Moje a tvoje veci"
@@ -664,7 +664,7 @@
     "en": "You need your coat.",
     "sk": "Potrebuješ svoj kabát. / Potrebujete svoj kabát.",
     "lesson": 12,
-    "image": null,
+    "image": "images/complete/study-you-need-your-coat-be2e623.webp",
     "imageExact": false,
     "note": "My car (moje auto) → your car (tvoje auto, vaše auto). Vec zostáva, mení sa majiteľ.",
     "context": "Moje a tvoje veci"
@@ -674,7 +674,7 @@
     "en": "My bag is here.",
     "sk": "Moja taška je tu.",
     "lesson": 12,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-my-bag-is-here-9548d6e.webp",
     "imageExact": false,
     "note": "My car (moje auto) → your car (tvoje auto, vaše auto). Vec zostáva, mení sa majiteľ.",
     "context": "Moje a tvoje veci"
@@ -684,7 +684,7 @@
     "en": "His coat is here.",
     "sk": "Jeho kabát je tu.",
     "lesson": 13,
-    "image": null,
+    "image": "images/complete/study-his-coat-is-here-371ba6e.webp",
     "imageExact": false,
     "note": "His phone (jeho telefón) a his bag (jeho taška) patria tomu istému mužovi.",
     "context": "Jeho, jej a naše veci"
@@ -694,7 +694,7 @@
     "en": "Her phone is here.",
     "sk": "Jej telefón je tu.",
     "lesson": 13,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-her-phone-is-here-3c7a6c5.webp",
     "imageExact": false,
     "note": "His phone (jeho telefón) a his bag (jeho taška) patria tomu istému mužovi.",
     "context": "Jeho, jej a naše veci"
@@ -704,7 +704,7 @@
     "en": "Our car is here.",
     "sk": "Naše auto je tu.",
     "lesson": 13,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-our-car-is-here-e0a2c60.webp",
     "imageExact": false,
     "note": "His phone (jeho telefón) a his bag (jeho taška) patria tomu istému mužovi.",
     "context": "Jeho, jej a naše veci"
@@ -714,7 +714,7 @@
     "en": "Their food is here.",
     "sk": "Ich jedlo je tu.",
     "lesson": 13,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-their-food-is-here-46185f8.webp",
     "imageExact": false,
     "note": "His phone (jeho telefón) a his bag (jeho taška) patria tomu istému mužovi.",
     "context": "Jeho, jej a naše veci"
@@ -724,7 +724,7 @@
     "en": "We need our keys.",
     "sk": "Potrebujeme svoje kľúče.",
     "lesson": 13,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-we-need-our-keys-a59aa16.webp",
     "imageExact": false,
     "note": "His phone (jeho telefón) a his bag (jeho taška) patria tomu istému mužovi.",
     "context": "Jeho, jej a naše veci"
@@ -734,7 +734,7 @@
     "en": "It is mine.",
     "sk": "Je to moje.",
     "lesson": 14,
-    "image": null,
+    "image": "images/complete/study-it-is-mine-9e6f9d9.webp",
     "imageExact": false,
     "note": "It is my car. (Je to moje auto.) → It is mine. (Je to moje.). Vec už nemusím znovu pomenovať.",
     "context": "Moje alebo tvoje bez názvu veci"
@@ -744,7 +744,7 @@
     "en": "It is yours.",
     "sk": "Je to tvoje. / Je to vaše.",
     "lesson": 14,
-    "image": null,
+    "image": "images/complete/study-it-is-yours-f370311.webp",
     "imageExact": false,
     "note": "It is my car. (Je to moje auto.) → It is mine. (Je to moje.). Vec už nemusím znovu pomenovať.",
     "context": "Moje alebo tvoje bez názvu veci"
@@ -754,7 +754,7 @@
     "en": "My car is here. It is mine.",
     "sk": "Moje auto je tu. Je moje.",
     "lesson": 14,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-my-car-is-here-it-is-mine-095c728.webp",
     "imageExact": false,
     "note": "It is my car. (Je to moje auto.) → It is mine. (Je to moje.). Vec už nemusím znovu pomenovať.",
     "context": "Moje alebo tvoje bez názvu veci"
@@ -764,7 +764,7 @@
     "en": "Your phone is here. It is yours.",
     "sk": "Tvoj telefón je tu. Je tvoj. / Váš telefón je tu. Je váš.",
     "lesson": 14,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-your-phone-is-here-it-is-yours-661d56f.webp",
     "imageExact": false,
     "note": "It is my car. (Je to moje auto.) → It is mine. (Je to moje.). Vec už nemusím znovu pomenovať.",
     "context": "Moje alebo tvoje bez názvu veci"
@@ -774,7 +774,7 @@
     "en": "Our keys are here.",
     "sk": "Naše kľúče sú tu.",
     "lesson": 14,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-our-keys-are-here-6f02b20.webp",
     "imageExact": false,
     "note": "It is my car. (Je to moje auto.) → It is mine. (Je to moje.). Vec už nemusím znovu pomenovať.",
     "context": "Moje alebo tvoje bez názvu veci"
@@ -784,7 +784,7 @@
     "en": "I help you.",
     "sk": "Pomáham ti. / Pomáham vám.",
     "lesson": 15,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-i-help-you-00f3948.webp",
     "imageExact": false,
     "note": "I help you. (Pomáham ti. / Pomáham vám.) → You help me. (Pomáhaš mi. / Pomáhate mi.). Človek na začiatku činnosť robí; človek na konci pomoc dostáva.",
     "context": "Komu pomáham: mne a tebe"
@@ -794,7 +794,7 @@
     "en": "You help me.",
     "sk": "Pomáhaš mi. / Pomáhate mi.",
     "lesson": 15,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-you-help-me-738d272.webp",
     "imageExact": false,
     "note": "I help you. (Pomáham ti. / Pomáham vám.) → You help me. (Pomáhaš mi. / Pomáhate mi.). Človek na začiatku činnosť robí; človek na konci pomoc dostáva.",
     "context": "Komu pomáham: mne a tebe"
@@ -804,7 +804,7 @@
     "en": "We call you.",
     "sk": "Voláme ti. / Voláme vám.",
     "lesson": 15,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-we-call-you-ab2ef04.webp",
     "imageExact": false,
     "note": "I help you. (Pomáham ti. / Pomáham vám.) → You help me. (Pomáhaš mi. / Pomáhate mi.). Človek na začiatku činnosť robí; človek na konci pomoc dostáva.",
     "context": "Komu pomáham: mne a tebe"
@@ -814,7 +814,7 @@
     "en": "They see me.",
     "sk": "Oni ma vidia.",
     "lesson": 15,
-    "image": null,
+    "image": "images/complete/study-they-see-me-8dbf042.webp",
     "imageExact": false,
     "note": "I help you. (Pomáham ti. / Pomáham vám.) → You help me. (Pomáhaš mi. / Pomáhate mi.). Človek na začiatku činnosť robí; človek na konci pomoc dostáva.",
     "context": "Komu pomáham: mne a tebe"
@@ -824,7 +824,7 @@
     "en": "I need you.",
     "sk": "Potrebujem ťa. / Potrebujem vás.",
     "lesson": 15,
-    "image": null,
+    "image": "images/complete/study-i-need-you-2620ca1.webp",
     "imageExact": false,
     "note": "I help you. (Pomáham ti. / Pomáham vám.) → You help me. (Pomáhaš mi. / Pomáhate mi.). Človek na začiatku činnosť robí; človek na konci pomoc dostáva.",
     "context": "Komu pomáham: mne a tebe"
@@ -834,7 +834,7 @@
     "en": "I help him.",
     "sk": "Pomáham mu.",
     "lesson": 16,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-i-help-him-eb98f85.webp",
     "imageExact": false,
     "note": "They help us. (Oni pomáhajú nám.) → We help them. (My pomáhame im.). Slová na oboch koncoch sa vymenia.",
     "context": "Pomáham jemu, jej, nám alebo im"
@@ -844,7 +844,7 @@
     "en": "We call her.",
     "sk": "Voláme jej.",
     "lesson": 16,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-we-call-her-d8d5865.webp",
     "imageExact": false,
     "note": "They help us. (Oni pomáhajú nám.) → We help them. (My pomáhame im.). Slová na oboch koncoch sa vymenia.",
     "context": "Pomáham jemu, jej, nám alebo im"
@@ -854,7 +854,7 @@
     "en": "They help us.",
     "sk": "Oni nám pomáhajú.",
     "lesson": 16,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-they-help-us-4ebbb8a.webp",
     "imageExact": false,
     "note": "They help us. (Oni pomáhajú nám.) → We help them. (My pomáhame im.). Slová na oboch koncoch sa vymenia.",
     "context": "Pomáham jemu, jej, nám alebo im"
@@ -864,7 +864,7 @@
     "en": "You see them.",
     "sk": "Vidíš ich. / Vidíte ich.",
     "lesson": 16,
-    "image": null,
+    "image": "images/complete/study-you-see-them-f84fc49.webp",
     "imageExact": false,
     "note": "They help us. (Oni pomáhajú nám.) → We help them. (My pomáhame im.). Slová na oboch koncoch sa vymenia.",
     "context": "Pomáham jemu, jej, nám alebo im"
@@ -874,7 +874,7 @@
     "en": "We need him.",
     "sk": "Potrebujeme ho.",
     "lesson": 16,
-    "image": null,
+    "image": "images/complete/study-we-need-him-9571543.webp",
     "imageExact": false,
     "note": "They help us. (Oni pomáhajú nám.) → We help them. (My pomáhame im.). Slová na oboch koncoch sa vymenia.",
     "context": "Pomáham jemu, jej, nám alebo im"
@@ -884,7 +884,7 @@
     "en": "This is my car.",
     "sk": "Toto je moje auto.",
     "lesson": 17,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-this-is-my-car-0bf925d.webp",
     "imageExact": false,
     "note": "This is my car. (Toto je moje auto.) → That is my car. (Tamto je moje auto.). Mení sa vzdialenosť.",
     "context": "Táto vec tu a tamtá ďalej"
@@ -894,7 +894,7 @@
     "en": "That is your car.",
     "sk": "Tamto je tvoje auto. / Tamto je vaše auto.",
     "lesson": 17,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-that-is-your-car-0c72ddc.webp",
     "imageExact": false,
     "note": "This is my car. (Toto je moje auto.) → That is my car. (Tamto je moje auto.). Mení sa vzdialenosť.",
     "context": "Táto vec tu a tamtá ďalej"
@@ -904,7 +904,7 @@
     "en": "This phone is mine.",
     "sk": "Tento telefón je môj.",
     "lesson": 17,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-this-phone-is-mine-a185fee.webp",
     "imageExact": false,
     "note": "This is my car. (Toto je moje auto.) → That is my car. (Tamto je moje auto.). Mení sa vzdialenosť.",
     "context": "Táto vec tu a tamtá ďalej"
@@ -914,7 +914,7 @@
     "en": "That bag is yours.",
     "sk": "Tamtá taška je tvoja. / Tamtá taška je vaša.",
     "lesson": 17,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-that-bag-is-yours-c77729c.webp",
     "imageExact": false,
     "note": "This is my car. (Toto je moje auto.) → That is my car. (Tamto je moje auto.). Mení sa vzdialenosť.",
     "context": "Táto vec tu a tamtá ďalej"
@@ -924,7 +924,7 @@
     "en": "This is our food.",
     "sk": "Toto je naše jedlo.",
     "lesson": 17,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-this-is-our-food-96fbe79.webp",
     "imageExact": false,
     "note": "This is my car. (Toto je moje auto.) → That is my car. (Tamto je moje auto.). Mení sa vzdialenosť.",
     "context": "Táto vec tu a tamtá ďalej"
@@ -934,7 +934,7 @@
     "en": "These keys are mine.",
     "sk": "Tieto kľúče sú moje.",
     "lesson": 18,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-these-keys-are-mine-3476a40.webp",
     "imageExact": false,
     "note": "This key is mine. (Tento kľúč je môj.) → These keys are mine. (Tieto kľúče sú moje.). Jeden kus sa mení na viac.",
     "context": "Viac vecí tu a tam"
@@ -944,7 +944,7 @@
     "en": "Those bags are yours.",
     "sk": "Tamtie tašky sú tvoje. / Tamtie tašky sú vaše.",
     "lesson": 18,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-those-bags-are-yours-be9311c.webp",
     "imageExact": false,
     "note": "This key is mine. (Tento kľúč je môj.) → These keys are mine. (Tieto kľúče sú moje.). Jeden kus sa mení na viac.",
     "context": "Viac vecí tu a tam"
@@ -954,7 +954,7 @@
     "en": "These cars are here.",
     "sk": "Tieto autá sú tu.",
     "lesson": 18,
-    "image": null,
+    "image": "images/complete/study-these-cars-are-here-d5e50b3.webp",
     "imageExact": false,
     "note": "This key is mine. (Tento kľúč je môj.) → These keys are mine. (Tieto kľúče sú moje.). Jeden kus sa mení na viac.",
     "context": "Viac vecí tu a tam"
@@ -964,7 +964,7 @@
     "en": "Those phones are ready.",
     "sk": "Tamtie telefóny sú pripravené.",
     "lesson": 18,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-those-phones-are-ready-cda2af4.webp",
     "imageExact": false,
     "note": "This key is mine. (Tento kľúč je môj.) → These keys are mine. (Tieto kľúče sú moje.). Jeden kus sa mení na viac.",
     "context": "Viac vecí tu a tam"
@@ -974,7 +974,7 @@
     "en": "These coats are ours.",
     "sk": "Tieto kabáty sú naše.",
     "lesson": 18,
-    "image": null,
+    "image": "images/complete/study-these-coats-are-ours-6378927.webp",
     "imageExact": false,
     "note": "This key is mine. (Tento kľúč je môj.) → These keys are mine. (Tieto kľúče sú moje.). Jeden kus sa mení na viac.",
     "context": "Viac vecí tu a tam"
@@ -1024,7 +1024,7 @@
     "en": "They need an appointment.",
     "sk": "Oni potrebujú termín.",
     "lesson": 19,
-    "image": null,
+    "image": "images/complete/study-they-need-an-appointment-5ee5b3c.webp",
     "imageExact": false,
     "note": "I need a key. (Potrebujem kľúč.) a I need an apple. (Potrebujem jablko.) hovoria o jednom kuse, ktorý ešte neurčujeme.",
     "context": "Jedna vec: malé slová pred ňou"
@@ -1034,7 +1034,7 @@
     "en": "I need an umbrella.",
     "sk": "Potrebujem dáždnik.",
     "lesson": 19,
-    "image": null,
+    "image": "images/complete/study-i-need-an-umbrella-d1f7bfa.webp",
     "imageExact": false,
     "note": "I need a key. (Potrebujem kľúč.) a I need an apple. (Potrebujem jablko.) hovoria o jednom kuse, ktorý ešte neurčujeme.",
     "context": "Jedna vec: malé slová pred ňou"
@@ -1284,7 +1284,7 @@
     "en": "It costs ten dollars.",
     "sk": "Stojí to desať dolárov.",
     "lesson": 23,
-    "image": null,
+    "image": "images/complete/study-it-costs-ten-dollars-ceb9638.webp",
     "imageExact": false,
     "note": "The phone works. (Telefón funguje.) → It works. (Funguje.). Meno veci nahradíme jedným slovom.",
     "context": "Aj jedna vec niečo robí"
@@ -1304,7 +1304,7 @@
     "en": "She washes the car.",
     "sk": "Ona umýva auto.",
     "lesson": 24,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-she-washes-the-car-5ff7189.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1314,7 +1314,7 @@
     "en": "He carries the bag.",
     "sk": "On nesie tašku.",
     "lesson": 24,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-he-carries-the-bag-bc01f9e.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1324,7 +1324,7 @@
     "en": "John goes home.",
     "sk": "Ján ide domov.",
     "lesson": 24,
-    "image": null,
+    "image": "images/complete/study-john-goes-home-89cf0a6.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1334,7 +1334,7 @@
     "en": "Mary does the cleaning.",
     "sk": "Mária upratuje.",
     "lesson": 24,
-    "image": "images/actions/clean.webp",
+    "image": "images/complete/study-mary-does-the-cleaning-30828cd.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1344,7 +1344,7 @@
     "en": "He watches TV.",
     "sk": "On pozerá televíziu.",
     "lesson": 24,
-    "image": null,
+    "image": "images/complete/study-he-watches-tv-f17d8b7.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1354,7 +1354,7 @@
     "en": "She fixes the door.",
     "sk": "Ona opravuje dvere.",
     "lesson": 24,
-    "image": null,
+    "image": "images/complete/study-she-fixes-the-door-77573bb.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1364,7 +1364,7 @@
     "en": "He goes to the store.",
     "sk": "On chodí do obchodu.",
     "lesson": 24,
-    "image": null,
+    "image": "images/complete/study-he-goes-to-the-store-e30ce2f.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1374,7 +1374,7 @@
     "en": "She carries my coat.",
     "sk": "Ona nesie môj kabát.",
     "lesson": 24,
-    "image": null,
+    "image": "images/complete/study-she-carries-my-coat-3e70790.webp",
     "imageExact": false,
     "note": "I wash the car. (Umývam auto.) → She washes the car. (Ona umýva auto.). Začiatok sa zmení a činnosť dostane svoj koniec.",
     "context": "Niektoré konce sa trochu zmenia"
@@ -1384,7 +1384,7 @@
     "en": "I pay the bill.",
     "sk": "Platím účet.",
     "lesson": 25,
-    "image": "images/actions/pay.webp",
+    "image": "images/complete/study-i-pay-the-bill-f512747.webp",
     "imageExact": false,
     "note": "We pick up medicine. (Vyzdvihujeme lieky.) → She picks up medicine. (Ona vyzdvihuje lieky.). Koniec sa pridáva k prvému slovu.",
     "context": "Obchod, telefón a susedia"
@@ -1394,7 +1394,7 @@
     "en": "You bring food.",
     "sk": "Prinášaš jedlo. / Prinášate jedlo.",
     "lesson": 25,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-you-bring-food-5562902.webp",
     "imageExact": false,
     "note": "We pick up medicine. (Vyzdvihujeme lieky.) → She picks up medicine. (Ona vyzdvihuje lieky.). Koniec sa pridáva k prvému slovu.",
     "context": "Obchod, telefón a susedia"
@@ -1404,7 +1404,7 @@
     "en": "We give him water.",
     "sk": "Dávame mu vodu.",
     "lesson": 25,
-    "image": "images/actions/drink.webp",
+    "image": "images/complete/study-we-give-him-water-b247cb3.webp",
     "imageExact": false,
     "note": "We pick up medicine. (Vyzdvihujeme lieky.) → She picks up medicine. (Ona vyzdvihuje lieky.). Koniec sa pridáva k prvému slovu.",
     "context": "Obchod, telefón a susedia"
@@ -1414,7 +1414,7 @@
     "en": "They send a message.",
     "sk": "Oni posielajú správu.",
     "lesson": 25,
-    "image": null,
+    "image": "images/complete/study-they-send-a-message-cea9797.webp",
     "imageExact": false,
     "note": "We pick up medicine. (Vyzdvihujeme lieky.) → She picks up medicine. (Ona vyzdvihuje lieky.). Koniec sa pridáva k prvému slovu.",
     "context": "Obchod, telefón a susedia"
@@ -1424,7 +1424,7 @@
     "en": "I receive a package.",
     "sk": "Dostávam balík.",
     "lesson": 25,
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/study-i-receive-a-package-6f1368b.webp",
     "imageExact": false,
     "note": "We pick up medicine. (Vyzdvihujeme lieky.) → She picks up medicine. (Ona vyzdvihuje lieky.). Koniec sa pridáva k prvému slovu.",
     "context": "Obchod, telefón a susedia"
@@ -1434,7 +1434,7 @@
     "en": "She picks up medicine.",
     "sk": "Ona vyzdvihuje lieky.",
     "lesson": 25,
-    "image": "images/words/medicine.jpg",
+    "image": "images/complete/study-she-picks-up-medicine-5035954.webp",
     "imageExact": false,
     "note": "We pick up medicine. (Vyzdvihujeme lieky.) → She picks up medicine. (Ona vyzdvihuje lieky.). Koniec sa pridáva k prvému slovu.",
     "context": "Obchod, telefón a susedia"
@@ -1444,7 +1444,7 @@
     "en": "I hear you.",
     "sk": "Počujem ťa. / Počujem vás.",
     "lesson": 26,
-    "image": null,
+    "image": "images/complete/study-i-hear-you-ab70fc7.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1454,7 +1454,7 @@
     "en": "She sees the car.",
     "sk": "Ona vidí auto.",
     "lesson": 26,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-she-sees-the-car-04cfaa8.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1464,7 +1464,7 @@
     "en": "We know him.",
     "sk": "Poznáme ho.",
     "lesson": 26,
-    "image": null,
+    "image": "images/complete/study-we-know-him-d68e0e5.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1474,7 +1474,7 @@
     "en": "They understand me.",
     "sk": "Oni mi rozumejú.",
     "lesson": 26,
-    "image": null,
+    "image": "images/complete/study-they-understand-me-e760a71.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1484,7 +1484,7 @@
     "en": "I want coffee.",
     "sk": "Chcem kávu.",
     "lesson": 26,
-    "image": "images/actions/coffee.webp",
+    "image": "images/complete/study-i-want-coffee-0416e60.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1494,7 +1494,7 @@
     "en": "He finds the key.",
     "sk": "On nájde kľúč.",
     "lesson": 26,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-he-finds-the-key-603933e.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1504,7 +1504,7 @@
     "en": "I ask my neighbor.",
     "sk": "Pýtam sa svojho suseda.",
     "lesson": 26,
-    "image": null,
+    "image": "images/complete/study-i-ask-my-neighbor-df3420e.webp",
     "imageExact": false,
     "note": "I understand you. (Rozumiem ti. / Rozumiem vám.) → She understands you. (Ona ti rozumie. / Ona vám rozumie.).",
     "context": "Počujem, rozumiem a poznám"
@@ -1574,7 +1574,7 @@
     "en": "You live here.",
     "sk": "Bývaš tu. / Bývate tu.",
     "lesson": 27,
-    "image": "images/actions/house.webp",
+    "image": "images/pronouns/you-plural.webp",
     "imageExact": false,
     "note": "Najprv pribudne Do (pomocné slovo otázky), potom človek a pôvodná činnosť. Všetky dvojice nižšie porovnaj.",
     "context": "Opýtam sa: potrebuješ pomoc?"
@@ -1614,7 +1614,7 @@
     "en": "He drives.",
     "sk": "On šoféruje.",
     "lesson": 28,
-    "image": null,
+    "image": "images/complete/study-he-drives-84eb54f.webp",
     "imageExact": false,
     "note": "Does (pomocné slovo otázky pre jedného) už označí jedného človeka; need (potrebovať) zostáva bez -s.",
     "context": "Opýtam sa na jedného človeka"
@@ -1774,7 +1774,7 @@
     "en": "What do you need?",
     "sk": "Čo potrebuješ? / Čo potrebujete?",
     "lesson": 30,
-    "image": null,
+    "image": "images/complete/study-what-do-you-need-ccf0ddf.webp",
     "imageExact": false,
     "note": "Do you need water? (Potrebuješ vodu? / Potrebujete vodu?) žiada áno alebo nie. What do you need? (Čo potrebuješ? / Čo potrebujete?) žiada názov veci.",
     "context": "Čo potrebuješ alebo chceš?"
@@ -1784,7 +1784,7 @@
     "en": "What do you want?",
     "sk": "Čo chceš? / Čo chcete?",
     "lesson": 30,
-    "image": null,
+    "image": "images/complete/study-what-do-you-want-b63d7a3.webp",
     "imageExact": false,
     "note": "Do you need water? (Potrebuješ vodu? / Potrebujete vodu?) žiada áno alebo nie. What do you need? (Čo potrebuješ? / Čo potrebujete?) žiada názov veci.",
     "context": "Čo potrebuješ alebo chceš?"
@@ -1844,7 +1844,7 @@
     "en": "Where does he work?",
     "sk": "Kde pracuje?",
     "lesson": 31,
-    "image": null,
+    "image": "images/complete/study-where-does-he-work-f3912e8.webp",
     "imageExact": false,
     "note": "Where do you live? (Kde bývaš? / Kde bývate?) → I live here. (Bývam tu.). Mení sa otázka na odpoveď, do (pomocné slovo otázky) odíde.",
     "context": "Kde niekto býva alebo pracuje?"
@@ -2064,7 +2064,7 @@
     "en": "How does it work?",
     "sk": "Ako to funguje?",
     "lesson": 34,
-    "image": null,
+    "image": "images/complete/study-how-does-it-work-de6c269.webp",
     "imageExact": false,
     "note": "Why do you walk? (Prečo chodíš pešo? / Prečo chodíte pešo?) nie je to isté ako How do you pay? (Ako platíš? / Ako platíte?).",
     "context": "Prečo a ako?"
@@ -2134,7 +2134,7 @@
     "en": "It costs five dollars.",
     "sk": "Stojí to päť dolárov.",
     "lesson": 35,
-    "image": null,
+    "image": "images/complete/study-it-costs-five-dollars-7e5d92c.webp",
     "imageExact": false,
     "note": "How much does it cost? (Koľko to stojí?) sa pýta na cenu. How many keys do you need? (Koľko kľúčov potrebuješ? / Koľko kľúčov potrebujete?) sa pýta na kusy.",
     "context": "Koľko to stojí a koľko kusov?"
@@ -2174,7 +2174,7 @@
     "en": "He is here.",
     "sk": "On je tu.",
     "lesson": 36,
-    "image": null,
+    "image": "images/complete/study-he-is-here-cea5d00.webp",
     "imageExact": false,
     "note": "You are ready. (Si pripravený. / Ste pripravení.) → Are you ready? (Si pripravený? / Ste pripravení?). Vymenia sa prvé dva kúsky.",
     "context": "Otázka na to, aký alebo kde som"
@@ -2184,7 +2184,7 @@
     "en": "Is he here?",
     "sk": "Je tu?",
     "lesson": 36,
-    "image": null,
+    "image": "images/complete/study-is-he-here-e7271bf.webp",
     "imageExact": false,
     "note": "You are ready. (Si pripravený. / Ste pripravení.) → Are you ready? (Si pripravený? / Ste pripravení?). Vymenia sa prvé dva kúsky.",
     "context": "Otázka na to, aký alebo kde som"
@@ -2254,7 +2254,7 @@
     "en": "I don’t drive.",
     "sk": "Nešoférujem.",
     "lesson": 37,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-don-t-drive-3d6f0b0.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2264,7 +2264,7 @@
     "en": "You don’t need help.",
     "sk": "Nepotrebuješ pomoc. / Nepotrebujete pomoc.",
     "lesson": 37,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-you-don-t-need-help-bc65ff8.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2274,7 +2274,7 @@
     "en": "We don’t buy coffee.",
     "sk": "Nekupujeme kávu.",
     "lesson": 37,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-we-don-t-buy-coffee-1dda692.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2284,7 +2284,7 @@
     "en": "They don’t work today.",
     "sk": "Oni dnes nepracujú.",
     "lesson": 37,
-    "image": null,
+    "image": "images/complete/study-they-don-t-work-today-b0352de.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2294,7 +2294,7 @@
     "en": "I don’t understand.",
     "sk": "Nerozumiem.",
     "lesson": 37,
-    "image": null,
+    "image": "images/complete/study-i-don-t-understand-278c398.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2304,7 +2304,7 @@
     "en": "We don’t know him.",
     "sk": "Nepoznáme ho.",
     "lesson": 37,
-    "image": null,
+    "image": "images/complete/study-we-don-t-know-him-38f92fe.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2314,7 +2314,7 @@
     "en": "I don’t hear you.",
     "sk": "Nepočujem ťa. / Nepočujem vás.",
     "lesson": 37,
-    "image": null,
+    "image": "images/complete/study-i-don-t-hear-you-2e994c7.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2324,7 +2324,7 @@
     "en": "We don’t want the bag.",
     "sk": "Nechceme tú tašku.",
     "lesson": 37,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-we-don-t-want-the-bag-96b95a9.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I don’t drive. (Nešoférujem.). Pribudne don’t (ne- pri činnosti); drive (šoférovať) nemením.",
     "context": "Ja alebo my niečo nerobíme"
@@ -2334,7 +2334,7 @@
     "en": "He doesn’t drive.",
     "sk": "On nešoféruje.",
     "lesson": 38,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-he-doesn-t-drive-058c4c4.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2344,7 +2344,7 @@
     "en": "She doesn’t need medicine.",
     "sk": "Ona nepotrebuje lieky.",
     "lesson": 38,
-    "image": "images/words/medicine.jpg",
+    "image": "images/complete/study-she-doesn-t-need-medicine-f181997.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2354,7 +2354,7 @@
     "en": "John doesn’t cook.",
     "sk": "Ján nevarí.",
     "lesson": 38,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-john-doesn-t-cook-1a876e6.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2364,7 +2364,7 @@
     "en": "The phone doesn’t work.",
     "sk": "Telefón nefunguje.",
     "lesson": 38,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-the-phone-doesn-t-work-adf28f6.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2374,7 +2374,7 @@
     "en": "Mary doesn’t buy coffee.",
     "sk": "Mária nekupuje kávu.",
     "lesson": 38,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-mary-doesn-t-buy-coffee-77d14ed.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2384,7 +2384,7 @@
     "en": "It doesn’t cost much.",
     "sk": "Nestojí to veľa.",
     "lesson": 38,
-    "image": "images/actions/pay.webp",
+    "image": "images/complete/study-it-doesn-t-cost-much-ade4948.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2394,7 +2394,7 @@
     "en": "He doesn’t clean today.",
     "sk": "On dnes neupratuje.",
     "lesson": 38,
-    "image": "images/actions/clean.webp",
+    "image": "images/complete/study-he-doesn-t-clean-today-664f205.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2404,7 +2404,7 @@
     "en": "She doesn’t know me.",
     "sk": "Ona ma nepozná.",
     "lesson": 38,
-    "image": null,
+    "image": "images/complete/study-she-doesn-t-know-me-0a53793.webp",
     "imageExact": false,
     "note": "She drives. (Ona šoféruje.) → She doesn’t drive. (Ona nešoféruje.). Malý koniec -s už nepridávame.",
     "context": "On alebo ona niečo nerobí"
@@ -2414,7 +2414,7 @@
     "en": "I am not ready.",
     "sk": "Nie som pripravený.",
     "lesson": 39,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-i-am-not-ready-7295954.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2424,7 +2424,7 @@
     "en": "He is not here.",
     "sk": "On tu nie je.",
     "lesson": 39,
-    "image": null,
+    "image": "images/complete/study-he-is-not-here-b5c891d.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2434,7 +2434,7 @@
     "en": "She is not tired.",
     "sk": "Ona nie je unavená.",
     "lesson": 39,
-    "image": "images/actions/extra-tired.webp",
+    "image": "images/complete/study-she-is-not-tired-633ac70.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2444,7 +2444,7 @@
     "en": "We are not hungry.",
     "sk": "Nie sme hladní.",
     "lesson": 39,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-we-are-not-hungry-129418c.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2454,7 +2454,7 @@
     "en": "They are not ready.",
     "sk": "Oni nie sú pripravení.",
     "lesson": 39,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-they-are-not-ready-a2828b1.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2464,7 +2464,7 @@
     "en": "It is not open.",
     "sk": "Nie je to otvorené.",
     "lesson": 39,
-    "image": "images/actions/open.webp",
+    "image": "images/complete/study-it-is-not-open-769d0e5.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2474,7 +2474,7 @@
     "en": "You are not here.",
     "sk": "Nie si tu. / Nie ste tu.",
     "lesson": 39,
-    "image": null,
+    "image": "images/complete/study-you-are-not-here-9844c13.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2484,7 +2484,7 @@
     "en": "The car is not ready.",
     "sk": "Auto nie je pripravené.",
     "lesson": 39,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-the-car-is-not-ready-859ed29.webp",
     "imageExact": false,
     "note": "I am ready. (Som pripravený.) → I am not ready. (Nie som pripravený.). Činnosť tu nie je, hovoríme o stave.",
     "context": "Nie som alebo nie je"
@@ -2494,7 +2494,7 @@
     "en": "He isn’t here.",
     "sk": "On tu nie je.",
     "lesson": 40,
-    "image": null,
+    "image": "images/complete/study-he-isn-t-here-8c5aab4.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2504,7 +2504,7 @@
     "en": "She isn’t hungry.",
     "sk": "Ona nie je hladná.",
     "lesson": 40,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-she-isn-t-hungry-e64c216.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2514,7 +2514,7 @@
     "en": "It isn’t ready.",
     "sk": "Nie je to pripravené.",
     "lesson": 40,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-it-isn-t-ready-340cb04.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2524,7 +2524,7 @@
     "en": "We aren’t tired.",
     "sk": "Nie sme unavení.",
     "lesson": 40,
-    "image": "images/actions/extra-tired.webp",
+    "image": "images/complete/study-we-aren-t-tired-f22cc97.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2534,7 +2534,7 @@
     "en": "You aren’t late.",
     "sk": "Nemeškáš. / Nemeškáte.",
     "lesson": 40,
-    "image": null,
+    "image": "images/complete/study-you-aren-t-late-5b9c0c9.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2544,7 +2544,7 @@
     "en": "I’m not late.",
     "sk": "Nemeškám.",
     "lesson": 40,
-    "image": null,
+    "image": "images/complete/study-i-m-not-late-6ae7e6a.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2554,7 +2554,7 @@
     "en": "The store isn’t open.",
     "sk": "Obchod nie je otvorený.",
     "lesson": 40,
-    "image": "images/actions/open.webp",
+    "image": "images/complete/study-the-store-isn-t-open-10b3bc3.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2564,7 +2564,7 @@
     "en": "They aren’t ready.",
     "sk": "Oni nie sú pripravení.",
     "lesson": 40,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-they-aren-t-ready-d7b5be0.webp",
     "imageExact": false,
     "note": "He is not ready. (On nie je pripravený.) a He isn’t ready. (On nie je pripravený.) majú rovnaký význam.",
     "context": "Nie je a nie sú v krátkom zápise"
@@ -2574,7 +2574,7 @@
     "en": "I don’t need coffee.",
     "sk": "Nepotrebujem kávu.",
     "lesson": 41,
-    "image": "images/actions/coffee.webp",
+    "image": "images/complete/study-i-don-t-need-coffee-edd2433.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2584,7 +2584,7 @@
     "en": "I’m not thirsty.",
     "sk": "Nie som smädný.",
     "lesson": 41,
-    "image": null,
+    "image": "images/complete/study-i-m-not-thirsty-95e2385.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2594,7 +2594,7 @@
     "en": "She doesn’t cook today.",
     "sk": "Ona dnes nevarí.",
     "lesson": 41,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-she-doesn-t-cook-today-eb21a27.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2604,7 +2604,7 @@
     "en": "She isn’t hungry.",
     "sk": "Ona nie je hladná.",
     "lesson": 41,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-she-isn-t-hungry-e64c216.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2614,7 +2614,7 @@
     "en": "We don’t drive.",
     "sk": "Nešoférujeme.",
     "lesson": 41,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-we-don-t-drive-76e5146.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2624,7 +2624,7 @@
     "en": "We aren’t ready.",
     "sk": "Nie sme pripravení.",
     "lesson": 41,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-we-aren-t-ready-aae8e06.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2634,7 +2634,7 @@
     "en": "It doesn’t work.",
     "sk": "Nefunguje to.",
     "lesson": 41,
-    "image": null,
+    "image": "images/complete/study-it-doesn-t-work-40eb5df.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2644,7 +2644,7 @@
     "en": "It isn’t ready.",
     "sk": "Nie je to pripravené.",
     "lesson": 41,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-it-isn-t-ready-340cb04.webp",
     "imageExact": false,
     "note": "I don’t drive. (Nešoférujem.) hovorí o činnosti. I’m not ready. (Nie som pripravený.) hovorí o stave.",
     "context": "Vyberiem správne malé nie"
@@ -2654,7 +2654,7 @@
     "en": "I have a car.",
     "sk": "Mám auto.",
     "lesson": 42,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-have-a-car-f27771e.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → He has a car. (On má auto.). Mení sa have (mať) na has (má).",
     "context": "Niečo mám alebo vlastním"
@@ -2664,7 +2664,7 @@
     "en": "You have a key.",
     "sk": "Máš kľúč. / Máte kľúč.",
     "lesson": 42,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-you-have-a-key-3201c8d.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → He has a car. (On má auto.). Mení sa have (mať) na has (má).",
     "context": "Niečo mám alebo vlastním"
@@ -2674,7 +2674,7 @@
     "en": "We have an appointment.",
     "sk": "Máme termín.",
     "lesson": 42,
-    "image": null,
+    "image": "images/complete/study-we-have-an-appointment-d56c494.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → He has a car. (On má auto.). Mení sa have (mať) na has (má).",
     "context": "Niečo mám alebo vlastním"
@@ -2684,7 +2684,7 @@
     "en": "They have a problem.",
     "sk": "Oni majú problém.",
     "lesson": 42,
-    "image": null,
+    "image": "images/complete/study-they-have-a-problem-87358af.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → He has a car. (On má auto.). Mení sa have (mať) na has (má).",
     "context": "Niečo mám alebo vlastním"
@@ -2694,7 +2694,7 @@
     "en": "He has a phone.",
     "sk": "On má telefón.",
     "lesson": 42,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-he-has-a-phone-12c8f4e.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → He has a car. (On má auto.). Mení sa have (mať) na has (má).",
     "context": "Niečo mám alebo vlastním"
@@ -2704,7 +2704,7 @@
     "en": "She has insurance.",
     "sk": "Ona má poistenie.",
     "lesson": 42,
-    "image": "images/words/insurance.jpg",
+    "image": "images/complete/study-she-has-insurance-36bfb89.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → He has a car. (On má auto.). Mení sa have (mať) na has (má).",
     "context": "Niečo mám alebo vlastním"
@@ -2714,7 +2714,7 @@
     "en": "You have a key.",
     "sk": "Máš kľúč. / Máte kľúč.",
     "lesson": 43,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-you-have-a-key-3201c8d.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2724,7 +2724,7 @@
     "en": "Do you have a key?",
     "sk": "Máš kľúč? / Máte kľúč?",
     "lesson": 43,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-do-you-have-a-key-2ff9dd6.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2734,7 +2734,7 @@
     "en": "She has a car.",
     "sk": "Ona má auto.",
     "lesson": 43,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-she-has-a-car-b3a8699.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2744,7 +2744,7 @@
     "en": "Does she have a car?",
     "sk": "Má auto?",
     "lesson": 43,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-does-she-have-a-car-ec4345d.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2754,7 +2754,7 @@
     "en": "He has insurance.",
     "sk": "On má poistenie.",
     "lesson": 43,
-    "image": "images/words/insurance.jpg",
+    "image": "images/complete/study-he-has-insurance-b4cc9d5.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2764,7 +2764,7 @@
     "en": "Does he have insurance?",
     "sk": "Má poistenie?",
     "lesson": 43,
-    "image": "images/words/insurance.jpg",
+    "image": "images/complete/study-does-he-have-insurance-baf14e6.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2774,7 +2774,7 @@
     "en": "They have food.",
     "sk": "Oni majú jedlo.",
     "lesson": 43,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-they-have-food-1521550.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2784,7 +2784,7 @@
     "en": "Do they have food?",
     "sk": "Majú jedlo?",
     "lesson": 43,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-do-they-have-food-90e1ef3.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2794,7 +2794,7 @@
     "en": "We have an appointment.",
     "sk": "Máme termín.",
     "lesson": 43,
-    "image": null,
+    "image": "images/complete/study-we-have-an-appointment-d56c494.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2804,7 +2804,7 @@
     "en": "Do we have an appointment?",
     "sk": "Máme termín?",
     "lesson": 43,
-    "image": null,
+    "image": "images/complete/study-do-we-have-an-appointment-1aea85a.webp",
     "imageExact": false,
     "note": "He has insurance. (On má poistenie.) → Does he have insurance? (Má poistenie?).",
     "context": "Máš to a má to on?"
@@ -2814,7 +2814,7 @@
     "en": "I don’t have a car.",
     "sk": "Nemám auto.",
     "lesson": 44,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-don-t-have-a-car-5c4ea42.webp",
     "imageExact": false,
     "note": "She has a car. (Ona má auto.) → She doesn’t have a car. (Ona nemá auto.).",
     "context": "Niečo nemám"
@@ -2824,7 +2824,7 @@
     "en": "You don’t have the key.",
     "sk": "Nemáš ten kľúč. / Nemáte ten kľúč.",
     "lesson": 44,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-you-don-t-have-the-key-11e5a50.webp",
     "imageExact": false,
     "note": "She has a car. (Ona má auto.) → She doesn’t have a car. (Ona nemá auto.).",
     "context": "Niečo nemám"
@@ -2834,7 +2834,7 @@
     "en": "We don’t have an appointment.",
     "sk": "Nemáme termín.",
     "lesson": 44,
-    "image": null,
+    "image": "images/complete/study-we-don-t-have-an-appointment-214c5eb.webp",
     "imageExact": false,
     "note": "She has a car. (Ona má auto.) → She doesn’t have a car. (Ona nemá auto.).",
     "context": "Niečo nemám"
@@ -2844,7 +2844,7 @@
     "en": "He doesn’t have insurance.",
     "sk": "On nemá poistenie.",
     "lesson": 44,
-    "image": "images/words/insurance.jpg",
+    "image": "images/complete/study-he-doesn-t-have-insurance-ca93b2b.webp",
     "imageExact": false,
     "note": "She has a car. (Ona má auto.) → She doesn’t have a car. (Ona nemá auto.).",
     "context": "Niečo nemám"
@@ -2854,7 +2854,7 @@
     "en": "She doesn’t have my number.",
     "sk": "Ona nemá moje číslo.",
     "lesson": 44,
-    "image": null,
+    "image": "images/complete/study-she-doesn-t-have-my-number-d578039.webp",
     "imageExact": false,
     "note": "She has a car. (Ona má auto.) → She doesn’t have a car. (Ona nemá auto.).",
     "context": "Niečo nemám"
@@ -2864,7 +2864,7 @@
     "en": "They don’t have food.",
     "sk": "Oni nemajú jedlo.",
     "lesson": 44,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-they-don-t-have-food-9a49b3c.webp",
     "imageExact": false,
     "note": "She has a car. (Ona má auto.) → She doesn’t have a car. (Ona nemá auto.).",
     "context": "Niečo nemám"
@@ -2874,7 +2874,7 @@
     "en": "There is a key here.",
     "sk": "Je tu kľúč.",
     "lesson": 45,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-there-is-a-key-here-7c306c6.webp",
     "imageExact": false,
     "note": "I have a key. (Mám kľúč.) hovorí o mne. There is a key here. (Je tu kľúč.) hovorí, že sa tu nachádza.",
     "context": "Je tam niečo?"
@@ -2884,7 +2884,7 @@
     "en": "There are two bags here.",
     "sk": "Sú tu dve tašky.",
     "lesson": 45,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-there-are-two-bags-here-4b4598d.webp",
     "imageExact": false,
     "note": "I have a key. (Mám kľúč.) hovorí o mne. There is a key here. (Je tu kľúč.) hovorí, že sa tu nachádza.",
     "context": "Je tam niečo?"
@@ -2894,7 +2894,7 @@
     "en": "Is there a problem?",
     "sk": "Je nejaký problém?",
     "lesson": 45,
-    "image": null,
+    "image": "images/complete/study-is-there-a-problem-636f50e.webp",
     "imageExact": false,
     "note": "I have a key. (Mám kľúč.) hovorí o mne. There is a key here. (Je tu kľúč.) hovorí, že sa tu nachádza.",
     "context": "Je tam niečo?"
@@ -2904,7 +2904,7 @@
     "en": "Are there two cars here?",
     "sk": "Sú tu dve autá?",
     "lesson": 45,
-    "image": null,
+    "image": "images/complete/study-are-there-two-cars-here-93c30d1.webp",
     "imageExact": false,
     "note": "I have a key. (Mám kľúč.) hovorí o mne. There is a key here. (Je tu kľúč.) hovorí, že sa tu nachádza.",
     "context": "Je tam niečo?"
@@ -2914,7 +2914,7 @@
     "en": "There isn’t a phone here.",
     "sk": "Nie je tu telefón.",
     "lesson": 45,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-there-isn-t-a-phone-here-f5de8ac.webp",
     "imageExact": false,
     "note": "I have a key. (Mám kľúč.) hovorí o mne. There is a key here. (Je tu kľúč.) hovorí, že sa tu nachádza.",
     "context": "Je tam niečo?"
@@ -2924,7 +2924,7 @@
     "en": "There aren’t any keys here.",
     "sk": "Nie sú tu žiadne kľúče.",
     "lesson": 45,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-there-aren-t-any-keys-here-d80174d.webp",
     "imageExact": false,
     "note": "I have a key. (Mám kľúč.) hovorí o mne. There is a key here. (Je tu kľúč.) hovorí, že sa tu nachádza.",
     "context": "Je tam niečo?"
@@ -2934,7 +2934,7 @@
     "en": "The key is in the bag.",
     "sk": "Kľúč je v taške.",
     "lesson": 46,
-    "image": "images/learning/in.svg",
+    "image": "images/complete/spatial-the-key-is-in-the-bag-2c64bdf.webp",
     "imageExact": true,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -2944,7 +2944,7 @@
     "en": "My phone is in the car.",
     "sk": "Môj telefón je v aute.",
     "lesson": 46,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-my-phone-is-in-the-car-fafd148.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -2954,7 +2954,7 @@
     "en": "We are in the store.",
     "sk": "Sme v obchode.",
     "lesson": 46,
-    "image": null,
+    "image": "images/complete/spatial-we-are-in-the-store-6737239.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -2964,7 +2964,7 @@
     "en": "The food is in the kitchen.",
     "sk": "Jedlo je v kuchyni.",
     "lesson": 46,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/spatial-the-food-is-in-the-kitchen-4550484.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -2974,7 +2974,7 @@
     "en": "He lives in Chicago.",
     "sk": "On býva v Chicagu.",
     "lesson": 46,
-    "image": "images/actions/house.webp",
+    "image": "images/complete/spatial-he-lives-in-chicago-d9fd7b2.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -2984,7 +2984,7 @@
     "en": "The medicine is in the cabinet.",
     "sk": "Lieky sú v skrinke.",
     "lesson": 46,
-    "image": "images/words/medicine.jpg",
+    "image": "images/complete/spatial-the-medicine-is-in-the-cabinet-3cf2d7b.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -2994,7 +2994,7 @@
     "en": "The keys are in the drawer.",
     "sk": "Kľúče sú v zásuvke.",
     "lesson": 46,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-the-keys-are-in-the-drawer-d4606a6.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -3004,7 +3004,7 @@
     "en": "She is in the kitchen.",
     "sk": "Ona je v kuchyni.",
     "lesson": 46,
-    "image": null,
+    "image": "images/complete/spatial-she-is-in-the-kitchen-a4260ab.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The phone is in the bag. (Telefón je v taške.). Miesto zostáva.",
     "context": "Vo vnútri: v a vo"
@@ -3014,7 +3014,7 @@
     "en": "The key is on the table.",
     "sk": "Kľúč je na stole.",
     "lesson": 47,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-the-key-is-on-the-table-20a4bd7.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3024,7 +3024,7 @@
     "en": "The phone is on the floor.",
     "sk": "Telefón je na podlahe.",
     "lesson": 47,
-    "image": "images/actions/clean.webp",
+    "image": "images/complete/spatial-the-phone-is-on-the-floor-ef9c47f.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3034,7 +3034,7 @@
     "en": "The bag is on the chair.",
     "sk": "Taška je na stoličke.",
     "lesson": 47,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/spatial-the-bag-is-on-the-chair-88ec2de.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3044,7 +3044,7 @@
     "en": "The coat is on the bed.",
     "sk": "Kabát je na posteli.",
     "lesson": 47,
-    "image": null,
+    "image": "images/complete/spatial-the-coat-is-on-the-bed-4e16989.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3054,7 +3054,7 @@
     "en": "The medicine is on the shelf.",
     "sk": "Lieky sú na polici.",
     "lesson": 47,
-    "image": "images/words/medicine.jpg",
+    "image": "images/complete/spatial-the-medicine-is-on-the-shelf-2d28f58.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3064,7 +3064,7 @@
     "en": "The key is on the bag.",
     "sk": "Kľúč je na taške.",
     "lesson": 47,
-    "image": "images/learning/key-on-bag.svg",
+    "image": "images/complete/spatial-the-key-is-on-the-bag-d7ee715.webp",
     "imageExact": true,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3074,7 +3074,7 @@
     "en": "The cup is on the table.",
     "sk": "Šálka je na stole.",
     "lesson": 47,
-    "image": null,
+    "image": "images/complete/spatial-the-cup-is-on-the-table-691ef53.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3084,7 +3084,7 @@
     "en": "My keys are on the shelf.",
     "sk": "Moje kľúče sú na polici.",
     "lesson": 47,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-my-keys-are-on-the-shelf-7851b8a.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → The key is on the bag. (Kľúč je na taške.). Tá istá vec, iné miesto.",
     "context": "Na povrchu: na"
@@ -3094,7 +3094,7 @@
     "en": "I am at home.",
     "sk": "Som doma.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-i-am-at-home-a8f8779.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3104,7 +3104,7 @@
     "en": "He is at the door.",
     "sk": "On je pri dverách.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-he-is-at-the-door-a0e0595.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3114,7 +3114,7 @@
     "en": "We are at the store.",
     "sk": "Sme v obchode alebo pri obchode.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-we-are-at-the-store-2788cdb.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3124,7 +3124,7 @@
     "en": "She is at work.",
     "sk": "Ona je v práci.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-she-is-at-work-4ecf5a0.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3134,7 +3134,7 @@
     "en": "They are at the bus stop.",
     "sk": "Oni sú na autobusovej zastávke.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-they-are-at-the-bus-stop-88eee64.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3144,7 +3144,7 @@
     "en": "I am at the pharmacy.",
     "sk": "Som v lekárni alebo pri lekárni.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-i-am-at-the-pharmacy-154effe.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3154,7 +3154,7 @@
     "en": "He waits at the door.",
     "sk": "On čaká pri dverách.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-he-waits-at-the-door-2b635db.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3164,7 +3164,7 @@
     "en": "We are at the bank.",
     "sk": "Sme v banke alebo pri banke.",
     "lesson": 48,
-    "image": null,
+    "image": "images/complete/spatial-we-are-at-the-bank-908c373.webp",
     "imageExact": false,
     "note": "We are at the store. (Sme v obchode alebo pri obchode.) neurčuje presne vnútro. We are in the store. (Sme vo vnútri obchodu.) ho určuje.",
     "context": "Na určitom mieste alebo pri ňom"
@@ -3174,7 +3174,7 @@
     "en": "The bag is under the table.",
     "sk": "Taška je pod stolom.",
     "lesson": 49,
-    "image": "images/learning/under.svg",
+    "image": "images/complete/spatial-the-bag-is-under-the-table-56b0a1d.webp",
     "imageExact": true,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3184,7 +3184,7 @@
     "en": "The key is under the chair.",
     "sk": "Kľúč je pod stoličkou.",
     "lesson": 49,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-the-key-is-under-the-chair-8d0ad72.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3194,7 +3194,7 @@
     "en": "The phone is under the bed.",
     "sk": "Telefón je pod posteľou.",
     "lesson": 49,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-the-phone-is-under-the-bed-113d402.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3204,7 +3204,7 @@
     "en": "The clock is above the door.",
     "sk": "Hodiny sú nad dverami.",
     "lesson": 49,
-    "image": null,
+    "image": "images/complete/spatial-the-clock-is-above-the-door-7c8c877.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3214,7 +3214,7 @@
     "en": "The shelf is above the sink.",
     "sk": "Polica je nad umývadlom.",
     "lesson": 49,
-    "image": "images/actions/fix.webp",
+    "image": "images/complete/spatial-the-shelf-is-above-the-sink-f6c60cd.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3224,7 +3224,7 @@
     "en": "The drawer is below the shelf.",
     "sk": "Zásuvka je pod policou.",
     "lesson": 49,
-    "image": null,
+    "image": "images/complete/spatial-the-drawer-is-below-the-shelf-0c548a1.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3234,7 +3234,7 @@
     "en": "My shoes are under the chair.",
     "sk": "Moje topánky sú pod stoličkou.",
     "lesson": 49,
-    "image": null,
+    "image": "images/complete/spatial-my-shoes-are-under-the-chair-a7d43e1.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3244,7 +3244,7 @@
     "en": "The picture is above the table.",
     "sk": "Obraz je nad stolom.",
     "lesson": 49,
-    "image": null,
+    "image": "images/complete/spatial-the-picture-is-above-the-table-b38c3b5.webp",
     "imageExact": false,
     "note": "The bag is on the table. (Taška je na stole.) → The bag is under the table. (Taška je pod stolom.).",
     "context": "Pod a nad niečím"
@@ -3254,7 +3254,7 @@
     "en": "The bag is next to the table.",
     "sk": "Taška je vedľa stola.",
     "lesson": 50,
-    "image": "images/learning/next-to.svg",
+    "image": "images/complete/spatial-the-bag-is-next-to-the-table-d930681.webp",
     "imageExact": true,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3264,7 +3264,7 @@
     "en": "My car is next to your car.",
     "sk": "Moje auto je vedľa tvojho auta. / Moje auto je vedľa vášho auta.",
     "lesson": 50,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-my-car-is-next-to-your-car-0701605.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3274,7 +3274,7 @@
     "en": "The pharmacy is next to the store.",
     "sk": "Lekáreň je vedľa obchodu.",
     "lesson": 50,
-    "image": null,
+    "image": "images/complete/spatial-the-pharmacy-is-next-to-the-store-06c269e.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3284,7 +3284,7 @@
     "en": "She is next to me.",
     "sk": "Ona je vedľa mňa.",
     "lesson": 50,
-    "image": null,
+    "image": "images/complete/spatial-she-is-next-to-me-9f10d69.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3294,7 +3294,7 @@
     "en": "The key is next to the phone.",
     "sk": "Kľúč je vedľa telefónu.",
     "lesson": 50,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-the-key-is-next-to-the-phone-6c187d1.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3304,7 +3304,7 @@
     "en": "The store is near my home.",
     "sk": "Obchod je blízko môjho domu.",
     "lesson": 50,
-    "image": null,
+    "image": "images/complete/spatial-the-store-is-near-my-home-44ef5c6.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3314,7 +3314,7 @@
     "en": "The chair is next to the bed.",
     "sk": "Stolička je vedľa postele.",
     "lesson": 50,
-    "image": null,
+    "image": "images/complete/spatial-the-chair-is-next-to-the-bed-349f81b.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3324,7 +3324,7 @@
     "en": "The bus stop is near the pharmacy.",
     "sk": "Autobusová zastávka je blízko lekárne.",
     "lesson": 50,
-    "image": null,
+    "image": "images/complete/spatial-the-bus-stop-is-near-the-pharmacy-a0770c0.webp",
     "imageExact": false,
     "note": "The bag is next to the table. (Taška je vedľa stola.) nie je pod ním ani na ňom.",
     "context": "Vedľa niečoho"
@@ -3334,7 +3334,7 @@
     "en": "The key is between the bag and the phone.",
     "sk": "Kľúč je medzi taškou a telefónom.",
     "lesson": 51,
-    "image": "images/learning/between.svg",
+    "image": "images/complete/spatial-the-key-is-between-the-bag-and-the-phone-dd820ec.webp",
     "imageExact": true,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3344,7 +3344,7 @@
     "en": "The chair is between the table and the door.",
     "sk": "Stolička je medzi stolom a dverami.",
     "lesson": 51,
-    "image": null,
+    "image": "images/complete/spatial-the-chair-is-between-the-table-and-the-door-0647ae2.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3354,7 +3354,7 @@
     "en": "The store is between the bank and the pharmacy.",
     "sk": "Obchod je medzi bankou a lekárňou.",
     "lesson": 51,
-    "image": null,
+    "image": "images/complete/spatial-the-store-is-between-the-bank-and-the-pharmacy-fb6dde6.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3364,7 +3364,7 @@
     "en": "I am between John and Mary.",
     "sk": "Som medzi Jánom a Máriou.",
     "lesson": 51,
-    "image": null,
+    "image": "images/complete/spatial-i-am-between-john-and-mary-e2d0e5c.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3374,7 +3374,7 @@
     "en": "The phone is between the keys and the coat.",
     "sk": "Telefón je medzi kľúčmi a kabátom.",
     "lesson": 51,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-the-phone-is-between-the-keys-and-the-coat-5a0f1a8.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3384,7 +3384,7 @@
     "en": "The bag is between the chair and the table.",
     "sk": "Taška je medzi stoličkou a stolom.",
     "lesson": 51,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/spatial-the-bag-is-between-the-chair-and-the-table-b132caa.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3394,7 +3394,7 @@
     "en": "The bank is between the store and the house.",
     "sk": "Banka je medzi obchodom a domom.",
     "lesson": 51,
-    "image": null,
+    "image": "images/complete/spatial-the-bank-is-between-the-store-and-the-house-64b50ff.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3404,7 +3404,7 @@
     "en": "John is between me and Mary.",
     "sk": "Ján je medzi mnou a Máriou.",
     "lesson": 51,
-    "image": null,
+    "image": "images/complete/spatial-john-is-between-me-and-mary-76cfe32.webp",
     "imageExact": false,
     "note": "The key is next to the bag. (Kľúč je vedľa tašky.) → The key is between the bag and the phone. (Kľúč je medzi taškou a telefónom.).",
     "context": "Medzi dvoma vecami"
@@ -3414,7 +3414,7 @@
     "en": "The bag is behind the table.",
     "sk": "Taška je za stolom.",
     "lesson": 52,
-    "image": "images/learning/behind.svg",
+    "image": "images/complete/spatial-the-bag-is-behind-the-table-e1b1bce.webp",
     "imageExact": true,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3424,7 +3424,7 @@
     "en": "The bag is in front of the table.",
     "sk": "Taška je pred stolom.",
     "lesson": 52,
-    "image": "images/learning/in-front-of.svg",
+    "image": "images/complete/spatial-the-bag-is-in-front-of-the-table-a715e89.webp",
     "imageExact": true,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3434,7 +3434,7 @@
     "en": "The car is behind the house.",
     "sk": "Auto je za domom.",
     "lesson": 52,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-the-car-is-behind-the-house-1ac5b5c.webp",
     "imageExact": false,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3444,7 +3444,7 @@
     "en": "John is in front of me.",
     "sk": "Ján je predo mnou.",
     "lesson": 52,
-    "image": null,
+    "image": "images/complete/spatial-john-is-in-front-of-me-90ea08d.webp",
     "imageExact": false,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3454,7 +3454,7 @@
     "en": "Mary is behind me.",
     "sk": "Mária je za mnou.",
     "lesson": 52,
-    "image": null,
+    "image": "images/complete/spatial-mary-is-behind-me-5be00c8.webp",
     "imageExact": false,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3464,7 +3464,7 @@
     "en": "The bus stop is in front of the store.",
     "sk": "Autobusová zastávka je pred obchodom.",
     "lesson": 52,
-    "image": null,
+    "image": "images/complete/spatial-the-bus-stop-is-in-front-of-the-store-9d93bca.webp",
     "imageExact": false,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3474,7 +3474,7 @@
     "en": "The keys are behind the phone.",
     "sk": "Kľúče sú za telefónom.",
     "lesson": 52,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-the-keys-are-behind-the-phone-e404ea2.webp",
     "imageExact": false,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3484,7 +3484,7 @@
     "en": "The chair is in front of the table.",
     "sk": "Stolička je pred stolom.",
     "lesson": 52,
-    "image": null,
+    "image": "images/complete/spatial-the-chair-is-in-front-of-the-table-287ec20.webp",
     "imageExact": false,
     "note": "The bag is behind the table. (Taška je za stolom.) → The bag is in front of the table. (Taška je pred stolom.).",
     "context": "Za a pred"
@@ -3494,7 +3494,7 @@
     "en": "I go to the store.",
     "sk": "Idem do obchodu.",
     "lesson": 53,
-    "image": null,
+    "image": "images/complete/spatial-i-go-to-the-store-95e76ea.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3504,7 +3504,7 @@
     "en": "We walk to the pharmacy.",
     "sk": "Ideme pešo do lekárne.",
     "lesson": 53,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-we-walk-to-the-pharmacy-10ad23b.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3514,7 +3514,7 @@
     "en": "She comes from work.",
     "sk": "Ona prichádza z práce.",
     "lesson": 53,
-    "image": null,
+    "image": "images/complete/spatial-she-comes-from-work-45ce6cf.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3524,7 +3524,7 @@
     "en": "They drive from Chicago.",
     "sk": "Oni idú autom z Chicaga.",
     "lesson": 53,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-they-drive-from-chicago-55f3f50.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3534,7 +3534,7 @@
     "en": "I go home.",
     "sk": "Idem domov.",
     "lesson": 53,
-    "image": null,
+    "image": "images/complete/spatial-i-go-home-024659f.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3544,7 +3544,7 @@
     "en": "He goes to the bank.",
     "sk": "On ide do banky.",
     "lesson": 53,
-    "image": null,
+    "image": "images/complete/spatial-he-goes-to-the-bank-5797790.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3554,7 +3554,7 @@
     "en": "We come from the pharmacy.",
     "sk": "Prichádzame z lekárne.",
     "lesson": 53,
-    "image": null,
+    "image": "images/complete/spatial-we-come-from-the-pharmacy-acb8ac2.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3564,7 +3564,7 @@
     "en": "They walk to work.",
     "sk": "Oni idú pešo do práce.",
     "lesson": 53,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-they-walk-to-work-1f2a9b9.webp",
     "imageExact": false,
     "note": "I go to the store. (Idem do obchodu.) → I come from the store. (Prichádzam z obchodu.). Cieľ a začiatok sa vymenia.",
     "context": "Kam idem a odkiaľ idem"
@@ -3574,7 +3574,7 @@
     "en": "I put the key into the bag.",
     "sk": "Vkladám kľúč do tašky.",
     "lesson": 54,
-    "image": "images/learning/into.svg",
+    "image": "images/complete/spatial-i-put-the-key-into-the-bag-da806ba.webp",
     "imageExact": true,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3584,7 +3584,7 @@
     "en": "I take the key out of the bag.",
     "sk": "Vyberám kľúč z tašky.",
     "lesson": 54,
-    "image": "images/learning/out-of.svg",
+    "image": "images/complete/spatial-i-take-the-key-out-of-the-bag-bb38ca9.webp",
     "imageExact": true,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3594,7 +3594,7 @@
     "en": "She walks into the store.",
     "sk": "Ona vchádza do obchodu.",
     "lesson": 54,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-she-walks-into-the-store-93acc9d.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3604,7 +3604,7 @@
     "en": "He walks out of the store.",
     "sk": "On vychádza z obchodu.",
     "lesson": 54,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-he-walks-out-of-the-store-fdb0c2c.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3614,7 +3614,7 @@
     "en": "We get into the car.",
     "sk": "Nastupujeme do auta.",
     "lesson": 54,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-we-get-into-the-car-e3cc43c.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3624,7 +3624,7 @@
     "en": "They get out of the car.",
     "sk": "Oni vystupujú z auta.",
     "lesson": 54,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-they-get-out-of-the-car-ff8e62a.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3634,7 +3634,7 @@
     "en": "He puts the phone into the bag.",
     "sk": "On vkladá telefón do tašky.",
     "lesson": 54,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-he-puts-the-phone-into-the-bag-dc395fe.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3644,7 +3644,7 @@
     "en": "She takes the phone out of the bag.",
     "sk": "Ona vyberá telefón z tašky.",
     "lesson": 54,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-she-takes-the-phone-out-of-the-bag-5c8b73c.webp",
     "imageExact": false,
     "note": "The key is in the bag. (Kľúč je v taške.) → I put the key into the bag. (Vkladám kľúč do tašky.). Poloha sa mení na pohyb.",
     "context": "Dovnútra a von"
@@ -3654,7 +3654,7 @@
     "en": "I walk across the street.",
     "sk": "Prechádzam cez ulicu.",
     "lesson": 55,
-    "image": "images/learning/across.svg",
+    "image": "images/complete/spatial-i-walk-across-the-street-a927947.webp",
     "imageExact": true,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3664,7 +3664,7 @@
     "en": "We drive across the bridge.",
     "sk": "Prechádzame autom cez most.",
     "lesson": 55,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-we-drive-across-the-bridge-423a8e8.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3674,7 +3674,7 @@
     "en": "She walks through the door.",
     "sk": "Ona prechádza cez dvere.",
     "lesson": 55,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-she-walks-through-the-door-ae2fe5a.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3684,7 +3684,7 @@
     "en": "They walk through the park.",
     "sk": "Oni prechádzajú cez park.",
     "lesson": 55,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-they-walk-through-the-park-b23c837.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3694,7 +3694,7 @@
     "en": "He drives through the tunnel.",
     "sk": "On prechádza autom cez tunel.",
     "lesson": 55,
-    "image": null,
+    "image": "images/complete/spatial-he-drives-through-the-tunnel-5dc78a9.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3704,7 +3704,7 @@
     "en": "The pharmacy is across the street.",
     "sk": "Lekáreň je na druhej strane ulice.",
     "lesson": 55,
-    "image": null,
+    "image": "images/complete/spatial-the-pharmacy-is-across-the-street-e29dcb4.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3714,7 +3714,7 @@
     "en": "We walk through the store.",
     "sk": "Prechádzame cez vnútro obchodu.",
     "lesson": 55,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-we-walk-through-the-store-93ac2f3.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3724,7 +3724,7 @@
     "en": "They walk across the parking lot.",
     "sk": "Oni prechádzajú cez parkovisko.",
     "lesson": 55,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-they-walk-across-the-parking-lot-3655725.webp",
     "imageExact": false,
     "note": "We walk across the street. (Prechádzame cez ulicu.) → We walk through the park. (Prechádzame cez park.). Pri druhom príklade ideme jeho vnútrom.",
     "context": "Cez ulicu a cez vnútro"
@@ -3734,7 +3734,7 @@
     "en": "Where is my phone?",
     "sk": "Kde je môj telefón?",
     "lesson": 56,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-where-is-my-phone-78d8533.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3744,7 +3744,7 @@
     "en": "It is on the table.",
     "sk": "Je na stole.",
     "lesson": 56,
-    "image": null,
+    "image": "images/complete/spatial-it-is-on-the-table-bd67349.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3754,7 +3754,7 @@
     "en": "Where are the keys?",
     "sk": "Kde sú kľúče?",
     "lesson": 56,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-where-are-the-keys-b6264a1.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3764,7 +3764,7 @@
     "en": "They are in the bag.",
     "sk": "Sú v taške.",
     "lesson": 56,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/spatial-they-are-in-the-bag-078280d.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3774,7 +3774,7 @@
     "en": "Where is the pharmacy?",
     "sk": "Kde je lekáreň?",
     "lesson": 56,
-    "image": null,
+    "image": "images/complete/spatial-where-is-the-pharmacy-174cc3e.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3784,7 +3784,7 @@
     "en": "It is next to the bank.",
     "sk": "Je vedľa banky.",
     "lesson": 56,
-    "image": null,
+    "image": "images/complete/spatial-it-is-next-to-the-bank-18ba724.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3794,7 +3794,7 @@
     "en": "Where is the bag?",
     "sk": "Kde je taška?",
     "lesson": 56,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/spatial-where-is-the-bag-4c470c1.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3804,7 +3804,7 @@
     "en": "It is under the chair.",
     "sk": "Je pod stoličkou.",
     "lesson": 56,
-    "image": null,
+    "image": "images/complete/spatial-it-is-under-the-chair-f31f59f.webp",
     "imageExact": false,
     "note": "Where is the key? (Kde je kľúč?) → The key is under the table. (Kľúč je pod stolom.).",
     "context": "Hľadám vec a poviem presnú polohu"
@@ -3814,7 +3814,7 @@
     "en": "The bag is in the car.",
     "sk": "Taška je v aute.",
     "lesson": 57,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-the-bag-is-in-the-car-d799bfb.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3824,7 +3824,7 @@
     "en": "I put the bag into the car.",
     "sk": "Vkladám tašku do auta.",
     "lesson": 57,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-i-put-the-bag-into-the-car-e0e686d.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3834,7 +3834,7 @@
     "en": "I take the bag out of the car.",
     "sk": "Vyberám tašku z auta.",
     "lesson": 57,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-i-take-the-bag-out-of-the-car-b36e73c.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3844,7 +3844,7 @@
     "en": "We drive to the store.",
     "sk": "Ideme autom do obchodu.",
     "lesson": 57,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/spatial-we-drive-to-the-store-a0a1439.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3854,7 +3854,7 @@
     "en": "The key is on the table.",
     "sk": "Kľúč je na stole.",
     "lesson": 57,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/spatial-the-key-is-on-the-table-20a4bd7.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3864,7 +3864,7 @@
     "en": "The phone is under the table.",
     "sk": "Telefón je pod stolom.",
     "lesson": 57,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/spatial-the-phone-is-under-the-table-9f5e3e6.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3874,7 +3874,7 @@
     "en": "She is in the store.",
     "sk": "Ona je v obchode.",
     "lesson": 57,
-    "image": null,
+    "image": "images/complete/spatial-she-is-in-the-store-d231fa1.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3884,7 +3884,7 @@
     "en": "She walks out of the store.",
     "sk": "Ona vychádza z obchodu.",
     "lesson": 57,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/spatial-she-walks-out-of-the-store-d04fce0.webp",
     "imageExact": false,
     "note": "The bag is in the car. (Taška je v aute.) → I put the bag into the car. (Vkladám tašku do auta.).",
     "context": "Miesto alebo pohyb: porovnanie"
@@ -3894,7 +3894,7 @@
     "en": "Today is Monday.",
     "sk": "Dnes je pondelok.",
     "lesson": 58,
-    "image": null,
+    "image": "images/complete/study-today-is-monday-5436418.webp",
     "imageExact": false,
     "note": "Today is Monday. (Dnes je pondelok.) → Tomorrow is Tuesday. (Zajtra je utorok.). Ide o pomenovanie dňa, nie o rozprávanie minulého deja.",
     "context": "Dnes, včera a zajtra"
@@ -3904,7 +3904,7 @@
     "en": "Tomorrow is Tuesday.",
     "sk": "Zajtra je utorok.",
     "lesson": 58,
-    "image": null,
+    "image": "images/complete/study-tomorrow-is-tuesday-ac1ed52.webp",
     "imageExact": false,
     "note": "Today is Monday. (Dnes je pondelok.) → Tomorrow is Tuesday. (Zajtra je utorok.). Ide o pomenovanie dňa, nie o rozprávanie minulého deja.",
     "context": "Dnes, včera a zajtra"
@@ -3914,7 +3914,7 @@
     "en": "Yesterday is the day before today.",
     "sk": "Včera je deň pred dneškom.",
     "lesson": 58,
-    "image": null,
+    "image": "images/complete/study-yesterday-is-the-day-before-today-d953e8f.webp",
     "imageExact": false,
     "note": "Today is Monday. (Dnes je pondelok.) → Tomorrow is Tuesday. (Zajtra je utorok.). Ide o pomenovanie dňa, nie o rozprávanie minulého deja.",
     "context": "Dnes, včera a zajtra"
@@ -3924,7 +3924,7 @@
     "en": "I need help today.",
     "sk": "Dnes potrebujem pomoc.",
     "lesson": 58,
-    "image": "images/actions/help.webp",
+    "image": "images/complete/study-i-need-help-today-bb83bcb.webp",
     "imageExact": false,
     "note": "Today is Monday. (Dnes je pondelok.) → Tomorrow is Tuesday. (Zajtra je utorok.). Ide o pomenovanie dňa, nie o rozprávanie minulého deja.",
     "context": "Dnes, včera a zajtra"
@@ -3934,7 +3934,7 @@
     "en": "My appointment is tomorrow.",
     "sk": "Môj termín je zajtra.",
     "lesson": 58,
-    "image": null,
+    "image": "images/complete/study-my-appointment-is-tomorrow-d44d1ff.webp",
     "imageExact": false,
     "note": "Today is Monday. (Dnes je pondelok.) → Tomorrow is Tuesday. (Zajtra je utorok.). Ide o pomenovanie dňa, nie o rozprávanie minulého deja.",
     "context": "Dnes, včera a zajtra"
@@ -3944,7 +3944,7 @@
     "en": "Today is a good day.",
     "sk": "Dnes je dobrý deň.",
     "lesson": 58,
-    "image": null,
+    "image": "images/complete/study-today-is-a-good-day-660a67f.webp",
     "imageExact": false,
     "note": "Today is Monday. (Dnes je pondelok.) → Tomorrow is Tuesday. (Zajtra je utorok.). Ide o pomenovanie dňa, nie o rozprávanie minulého deja.",
     "context": "Dnes, včera a zajtra"
@@ -3954,7 +3954,7 @@
     "en": "I drink coffee in the morning.",
     "sk": "Ráno pijem kávu.",
     "lesson": 59,
-    "image": "images/actions/coffee.webp",
+    "image": "images/complete/study-i-drink-coffee-in-the-morning-3395d8e.webp",
     "imageExact": false,
     "note": "I drink coffee in the morning. (Ráno pijem kávu.) → I drink water in the evening. (Večer pijem vodu.).",
     "context": "Ráno, popoludní a večer"
@@ -3964,7 +3964,7 @@
     "en": "We shop in the afternoon.",
     "sk": "Popoludní nakupujeme.",
     "lesson": 59,
-    "image": null,
+    "image": "images/complete/study-we-shop-in-the-afternoon-09ce1bb.webp",
     "imageExact": false,
     "note": "I drink coffee in the morning. (Ráno pijem kávu.) → I drink water in the evening. (Večer pijem vodu.).",
     "context": "Ráno, popoludní a večer"
@@ -3974,7 +3974,7 @@
     "en": "She cooks in the evening.",
     "sk": "Ona večer varí.",
     "lesson": 59,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-she-cooks-in-the-evening-53ef04e.webp",
     "imageExact": false,
     "note": "I drink coffee in the morning. (Ráno pijem kávu.) → I drink water in the evening. (Večer pijem vodu.).",
     "context": "Ráno, popoludní a večer"
@@ -3984,7 +3984,7 @@
     "en": "He works at night.",
     "sk": "On pracuje v noci.",
     "lesson": 59,
-    "image": null,
+    "image": "images/complete/study-he-works-at-night-531505d.webp",
     "imageExact": false,
     "note": "I drink coffee in the morning. (Ráno pijem kávu.) → I drink water in the evening. (Večer pijem vodu.).",
     "context": "Ráno, popoludní a večer"
@@ -3994,7 +3994,7 @@
     "en": "They walk in the morning.",
     "sk": "Oni ráno chodia pešo.",
     "lesson": 59,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/study-they-walk-in-the-morning-7004bfe.webp",
     "imageExact": false,
     "note": "I drink coffee in the morning. (Ráno pijem kávu.) → I drink water in the evening. (Večer pijem vodu.).",
     "context": "Ráno, popoludní a večer"
@@ -4004,7 +4004,7 @@
     "en": "I sleep at night.",
     "sk": "V noci spím.",
     "lesson": 59,
-    "image": null,
+    "image": "images/complete/study-i-sleep-at-night-6418d40.webp",
     "imageExact": false,
     "note": "I drink coffee in the morning. (Ráno pijem kávu.) → I drink water in the evening. (Večer pijem vodu.).",
     "context": "Ráno, popoludní a večer"
@@ -4014,7 +4014,7 @@
     "en": "The store opens at nine.",
     "sk": "Obchod otvára o deviatej.",
     "lesson": 60,
-    "image": "images/actions/open.webp",
+    "image": "images/complete/study-the-store-opens-at-nine-51e05ba.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4024,7 +4024,7 @@
     "en": "My appointment is on Monday.",
     "sk": "Môj termín je v pondelok.",
     "lesson": 60,
-    "image": null,
+    "image": "images/complete/study-my-appointment-is-on-monday-ac57fc2.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4034,7 +4034,7 @@
     "en": "My birthday is in October.",
     "sk": "Moje narodeniny sú v októbri.",
     "lesson": 60,
-    "image": null,
+    "image": "images/complete/study-my-birthday-is-in-october-bdd7be1.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4044,7 +4044,7 @@
     "en": "We eat at noon.",
     "sk": "Jeme na poludnie.",
     "lesson": 60,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-we-eat-at-noon-0e002e8.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4054,7 +4054,7 @@
     "en": "He works on Friday.",
     "sk": "On pracuje v piatok.",
     "lesson": 60,
-    "image": null,
+    "image": "images/complete/study-he-works-on-friday-86c1acd.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4064,7 +4064,7 @@
     "en": "It is cold in January.",
     "sk": "V januári je zima.",
     "lesson": 60,
-    "image": null,
+    "image": "images/complete/study-it-is-cold-in-january-c74da93.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4074,7 +4074,7 @@
     "en": "The pharmacy closes at six.",
     "sk": "Lekáreň zatvára o šiestej.",
     "lesson": 60,
-    "image": "images/actions/close.webp",
+    "image": "images/complete/study-the-pharmacy-closes-at-six-ec849ed.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4084,7 +4084,7 @@
     "en": "We shop on Saturday.",
     "sk": "Nakupujeme v sobotu.",
     "lesson": 60,
-    "image": null,
+    "image": "images/complete/study-we-shop-on-saturday-ae73656.webp",
     "imageExact": false,
     "note": "At nine (o deviatej) je bod na hodinách, on Monday (v pondelok) jeden deň, in October (v októbri) dlhšie obdobie.",
     "context": "O deviatej, v pondelok, v októbri"
@@ -4094,7 +4094,7 @@
     "en": "I always drink water.",
     "sk": "Vždy pijem vodu.",
     "lesson": 61,
-    "image": "images/actions/drink.webp",
+    "image": "images/complete/study-i-always-drink-water-02ce543.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4104,7 +4104,7 @@
     "en": "She usually cooks dinner.",
     "sk": "Ona zvyčajne varí večeru.",
     "lesson": 61,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-she-usually-cooks-dinner-919e287.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4114,7 +4114,7 @@
     "en": "We sometimes walk.",
     "sk": "Niekedy chodíme pešo.",
     "lesson": 61,
-    "image": "images/actions/walk.webp",
+    "image": "images/complete/study-we-sometimes-walk-9aae2b5.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4124,7 +4124,7 @@
     "en": "He never drives.",
     "sk": "On nikdy nešoféruje.",
     "lesson": 61,
-    "image": null,
+    "image": "images/complete/study-he-never-drives-8a58185.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4134,7 +4134,7 @@
     "en": "They usually shop on Saturday.",
     "sk": "Oni zvyčajne nakupujú v sobotu.",
     "lesson": 61,
-    "image": null,
+    "image": "images/complete/study-they-usually-shop-on-saturday-4f11cc2.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4144,7 +4144,7 @@
     "en": "I sometimes call my neighbor.",
     "sk": "Niekedy volám svojmu susedovi.",
     "lesson": 61,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-i-sometimes-call-my-neighbor-6aa9158.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4154,7 +4154,7 @@
     "en": "We always have water.",
     "sk": "Vždy máme vodu.",
     "lesson": 61,
-    "image": "images/actions/drink.webp",
+    "image": "images/complete/study-we-always-have-water-8dd02e5.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4164,7 +4164,7 @@
     "en": "She sometimes calls me.",
     "sk": "Ona mi niekedy volá.",
     "lesson": 61,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-she-sometimes-calls-me-e48df6e.webp",
     "imageExact": false,
     "note": "I usually drive. (Zvyčajne šoférujem.) → I sometimes walk. (Niekedy chodím pešo.). Mení sa, ako často to robím.",
     "context": "Vždy, zvyčajne, niekedy a nikdy"
@@ -4174,7 +4174,7 @@
     "en": "I am always ready.",
     "sk": "Som vždy pripravený.",
     "lesson": 62,
-    "image": "images/actions/extra-ready.webp",
+    "image": "images/complete/study-i-am-always-ready-f20121e.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4184,7 +4184,7 @@
     "en": "He is usually at home.",
     "sk": "On je zvyčajne doma.",
     "lesson": 62,
-    "image": null,
+    "image": "images/complete/study-he-is-usually-at-home-bf7f56d.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4194,7 +4194,7 @@
     "en": "We are sometimes tired.",
     "sk": "Niekedy sme unavení.",
     "lesson": 62,
-    "image": "images/actions/extra-tired.webp",
+    "image": "images/complete/study-we-are-sometimes-tired-d77d8c7.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4204,7 +4204,7 @@
     "en": "She never drives at night.",
     "sk": "Ona nikdy nešoféruje v noci.",
     "lesson": 62,
-    "image": null,
+    "image": "images/complete/study-she-never-drives-at-night-1137276.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4214,7 +4214,7 @@
     "en": "They usually eat at noon.",
     "sk": "Oni zvyčajne jedia na poludnie.",
     "lesson": 62,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-they-usually-eat-at-noon-61f0f04.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4224,7 +4224,7 @@
     "en": "I always have my keys.",
     "sk": "Vždy mám svoje kľúče.",
     "lesson": 62,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-i-always-have-my-keys-c914df3.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4234,7 +4234,7 @@
     "en": "She is never late.",
     "sk": "Ona nikdy nemešká.",
     "lesson": 62,
-    "image": null,
+    "image": "images/complete/study-she-is-never-late-5e5eb41.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4244,7 +4244,7 @@
     "en": "We usually have dinner at six.",
     "sk": "Zvyčajne večeriame o šiestej.",
     "lesson": 62,
-    "image": null,
+    "image": "images/complete/study-we-usually-have-dinner-at-six-838e730.webp",
     "imageExact": false,
     "note": "He usually drives. (On zvyčajne šoféruje.) → He is usually ready. (On je zvyčajne pripravený.). Slovo is (je) mení miesto usually (zvyčajne).",
     "context": "Čas pri činnosti a pri stave"
@@ -4254,7 +4254,7 @@
     "en": "I am here today.",
     "sk": "Dnes som tu.",
     "lesson": 63,
-    "image": null,
+    "image": "images/complete/study-i-am-here-today-1b5dacc.webp",
     "imageExact": false,
     "note": "I am tired today. (Dnes som unavený.) → I was tired yesterday. (Včera som bol unavený.). Mení sa čas aj malé slovo.",
     "context": "Včera som bol alebo niekto bol"
@@ -4264,7 +4264,7 @@
     "en": "I was here yesterday.",
     "sk": "Včera som bol tu.",
     "lesson": 63,
-    "image": null,
+    "image": "images/complete/study-i-was-here-yesterday-e890ffb.webp",
     "imageExact": false,
     "note": "I am tired today. (Dnes som unavený.) → I was tired yesterday. (Včera som bol unavený.). Mení sa čas aj malé slovo.",
     "context": "Včera som bol alebo niekto bol"
@@ -4294,7 +4294,7 @@
     "en": "She is at home today.",
     "sk": "Ona je dnes doma.",
     "lesson": 63,
-    "image": null,
+    "image": "images/complete/study-she-is-at-home-today-bba8520.webp",
     "imageExact": false,
     "note": "I am tired today. (Dnes som unavený.) → I was tired yesterday. (Včera som bol unavený.). Mení sa čas aj malé slovo.",
     "context": "Včera som bol alebo niekto bol"
@@ -4304,7 +4304,7 @@
     "en": "She was at home yesterday.",
     "sk": "Ona bola včera doma.",
     "lesson": 63,
-    "image": null,
+    "image": "images/complete/study-she-was-at-home-yesterday-3981226.webp",
     "imageExact": false,
     "note": "I am tired today. (Dnes som unavený.) → I was tired yesterday. (Včera som bol unavený.). Mení sa čas aj malé slovo.",
     "context": "Včera som bol alebo niekto bol"
@@ -4314,7 +4314,7 @@
     "en": "It is cold today.",
     "sk": "Dnes je zima.",
     "lesson": 63,
-    "image": null,
+    "image": "images/complete/study-it-is-cold-today-db1219f.webp",
     "imageExact": false,
     "note": "I am tired today. (Dnes som unavený.) → I was tired yesterday. (Včera som bol unavený.). Mení sa čas aj malé slovo.",
     "context": "Včera som bol alebo niekto bol"
@@ -4324,7 +4324,7 @@
     "en": "It was cold yesterday.",
     "sk": "Včera bola zima.",
     "lesson": 63,
-    "image": null,
+    "image": "images/complete/study-it-was-cold-yesterday-497e6ad.webp",
     "imageExact": false,
     "note": "I am tired today. (Dnes som unavený.) → I was tired yesterday. (Včera som bol unavený.). Mení sa čas aj malé slovo.",
     "context": "Včera som bol alebo niekto bol"
@@ -4354,7 +4354,7 @@
     "en": "We were at home yesterday.",
     "sk": "Včera sme boli doma.",
     "lesson": 64,
-    "image": null,
+    "image": "images/complete/study-we-were-at-home-yesterday-50f3a50.webp",
     "imageExact": false,
     "note": "We are here. (Sme tu.) → We were here. (Boli sme tu.) → Were we here? (Boli sme tu?).",
     "context": "Boli sme, bol si, boli ste"
@@ -4384,7 +4384,7 @@
     "en": "Were you at the store?",
     "sk": "Bol si v obchode? / Boli ste v obchode?",
     "lesson": 64,
-    "image": null,
+    "image": "images/complete/study-were-you-at-the-store-3ab2439.webp",
     "imageExact": false,
     "note": "We are here. (Sme tu.) → We were here. (Boli sme tu.) → Were we here? (Boli sme tu?).",
     "context": "Boli sme, bol si, boli ste"
@@ -4394,7 +4394,7 @@
     "en": "Was he here yesterday?",
     "sk": "Bol tu včera?",
     "lesson": 64,
-    "image": null,
+    "image": "images/complete/study-was-he-here-yesterday-7895495.webp",
     "imageExact": false,
     "note": "We are here. (Sme tu.) → We were here. (Boli sme tu.) → Were we here? (Boli sme tu?).",
     "context": "Boli sme, bol si, boli ste"
@@ -4404,7 +4404,7 @@
     "en": "I wasn’t hungry.",
     "sk": "Nebol som hladný.",
     "lesson": 64,
-    "image": "images/actions/eat.webp",
+    "image": "images/complete/study-i-wasn-t-hungry-bf21202.webp",
     "imageExact": false,
     "note": "We are here. (Sme tu.) → We were here. (Boli sme tu.) → Were we here? (Boli sme tu?).",
     "context": "Boli sme, bol si, boli ste"
@@ -4414,7 +4414,7 @@
     "en": "We weren’t late.",
     "sk": "Nemeškali sme.",
     "lesson": 64,
-    "image": null,
+    "image": "images/complete/study-we-weren-t-late-7296bec.webp",
     "imageExact": false,
     "note": "We are here. (Sme tu.) → We were here. (Boli sme tu.) → Were we here? (Boli sme tu?).",
     "context": "Boli sme, bol si, boli ste"
@@ -4424,7 +4424,7 @@
     "en": "She wasn’t at work.",
     "sk": "Ona nebola v práci.",
     "lesson": 64,
-    "image": null,
+    "image": "images/complete/study-she-wasn-t-at-work-79e5e8e.webp",
     "imageExact": false,
     "note": "We are here. (Sme tu.) → We were here. (Boli sme tu.) → Were we here? (Boli sme tu?).",
     "context": "Boli sme, bol si, boli ste"
@@ -4574,7 +4574,7 @@
     "en": "They waited here.",
     "sk": "Oni čakali tu.",
     "lesson": 66,
-    "image": null,
+    "image": "images/complete/study-they-waited-here-27b8b19.webp",
     "imageExact": false,
     "note": "Koniec -ed nemá vždy samostatnú slabiku. I washed the car. (Umyl som auto.) počúvaj vedľa I wanted help. (Chcel som pomoc.).",
     "context": "Malé zmeny v písaní a zvuku"
@@ -4614,7 +4614,7 @@
     "en": "I go home.",
     "sk": "Idem domov.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-i-go-home-921c601.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4624,7 +4624,7 @@
     "en": "I went home.",
     "sk": "Išiel som domov.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-i-went-home-1c6fbff.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4634,7 +4634,7 @@
     "en": "She comes here.",
     "sk": "Ona sem prichádza.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-she-comes-here-32c9013.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4644,7 +4644,7 @@
     "en": "She came here.",
     "sk": "Ona sem prišla.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-she-came-here-69da72b.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4654,7 +4654,7 @@
     "en": "We see him.",
     "sk": "Vidíme ho.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-we-see-him-d4b3ecd.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4664,7 +4664,7 @@
     "en": "We saw him.",
     "sk": "Videli sme ho.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-we-saw-him-b8063b2.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4694,7 +4694,7 @@
     "en": "They go to the store.",
     "sk": "Oni idú do obchodu.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-they-go-to-the-store-f70d174.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4704,7 +4704,7 @@
     "en": "They went to the store.",
     "sk": "Oni išli do obchodu.",
     "lesson": 67,
-    "image": null,
+    "image": "images/complete/study-they-went-to-the-store-f7aeb38.webp",
     "imageExact": false,
     "note": "I go home. (Idem domov.) → I went home. (Išiel som domov.). Nepokúšaj sa ku každej činnosti pridať -ed.",
     "context": "Išiel, prišiel, videl a vzal"
@@ -4794,7 +4794,7 @@
     "en": "They tell me.",
     "sk": "Oni mi povedia.",
     "lesson": 68,
-    "image": null,
+    "image": "images/complete/study-they-tell-me-d9c4cdf.webp",
     "imageExact": false,
     "note": "I pay the bill. (Platím účet.) → I paid the bill. (Zaplatil som účet.). Mení sa iba činnosť a čas, poradie zostáva.",
     "context": "Kúpil, zaplatil, mal, našiel a povedal"
@@ -4804,7 +4804,7 @@
     "en": "They told me.",
     "sk": "Oni mi povedali.",
     "lesson": 68,
-    "image": null,
+    "image": "images/complete/study-they-told-me-29daa6c.webp",
     "imageExact": false,
     "note": "I pay the bill. (Platím účet.) → I paid the bill. (Zaplatil som účet.). Mení sa iba činnosť a čas, poradie zostáva.",
     "context": "Kúpil, zaplatil, mal, našiel a povedal"
@@ -4854,7 +4854,7 @@
     "en": "He went home.",
     "sk": "On išiel domov.",
     "lesson": 69,
-    "image": null,
+    "image": "images/complete/study-he-went-home-fe28310.webp",
     "imageExact": false,
     "note": "You went home. (Išiel si domov. / Išli ste domov.) → Did you go home? (Išiel si domov? / Išli ste domov?).",
     "context": "Stalo sa to? Minulá otázka"
@@ -4864,7 +4864,7 @@
     "en": "Did he go home?",
     "sk": "Išiel domov?",
     "lesson": 69,
-    "image": null,
+    "image": "images/complete/study-did-he-go-home-ebf6b9e.webp",
     "imageExact": false,
     "note": "You went home. (Išiel si domov. / Išli ste domov.) → Did you go home? (Išiel si domov? / Išli ste domov?).",
     "context": "Stalo sa to? Minulá otázka"
@@ -4914,7 +4914,7 @@
     "en": "I didn’t buy food.",
     "sk": "Nekúpil som jedlo.",
     "lesson": 70,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-i-didn-t-buy-food-868fc7a.webp",
     "imageExact": false,
     "note": "I bought food. (Kúpil som jedlo.) → I didn’t buy food. (Nekúpil som jedlo.). Tvar bought (kúpil) sa vráti na buy (kúpiť).",
     "context": "Nestalo sa to a krátke odpovede"
@@ -4924,7 +4924,7 @@
     "en": "She didn’t call me.",
     "sk": "Ona mi nezavolala.",
     "lesson": 70,
-    "image": "images/actions/call.webp",
+    "image": "images/complete/study-she-didn-t-call-me-f16a339.webp",
     "imageExact": false,
     "note": "I bought food. (Kúpil som jedlo.) → I didn’t buy food. (Nekúpil som jedlo.). Tvar bought (kúpil) sa vráti na buy (kúpiť).",
     "context": "Nestalo sa to a krátke odpovede"
@@ -4934,7 +4934,7 @@
     "en": "We didn’t go home.",
     "sk": "Nešli sme domov.",
     "lesson": 70,
-    "image": null,
+    "image": "images/complete/study-we-didn-t-go-home-a499fa3.webp",
     "imageExact": false,
     "note": "I bought food. (Kúpil som jedlo.) → I didn’t buy food. (Nekúpil som jedlo.). Tvar bought (kúpil) sa vráti na buy (kúpiť).",
     "context": "Nestalo sa to a krátke odpovede"
@@ -4944,7 +4944,7 @@
     "en": "He didn’t pay the bill.",
     "sk": "On nezaplatil účet.",
     "lesson": 70,
-    "image": "images/actions/pay.webp",
+    "image": "images/complete/study-he-didn-t-pay-the-bill-8f83af9.webp",
     "imageExact": false,
     "note": "I bought food. (Kúpil som jedlo.) → I didn’t buy food. (Nekúpil som jedlo.). Tvar bought (kúpil) sa vráti na buy (kúpiť).",
     "context": "Nestalo sa to a krátke odpovede"
@@ -4954,7 +4954,7 @@
     "en": "They didn’t find the key.",
     "sk": "Oni nenašli kľúč.",
     "lesson": 70,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-they-didn-t-find-the-key-a626550.webp",
     "imageExact": false,
     "note": "I bought food. (Kúpil som jedlo.) → I didn’t buy food. (Nekúpil som jedlo.). Tvar bought (kúpil) sa vráti na buy (kúpiť).",
     "context": "Nestalo sa to a krátke odpovede"
@@ -4994,7 +4994,7 @@
     "en": "Where did you go yesterday?",
     "sk": "Kam si včera išiel? / Kam ste včera išli?",
     "lesson": 71,
-    "image": null,
+    "image": "images/complete/study-where-did-you-go-yesterday-adb88a3.webp",
     "imageExact": false,
     "note": "Where did you go? (Kam si išiel? / Kam ste išli?) → I went to the pharmacy. (Išiel som do lekárne.).",
     "context": "Včerajšie vybavovanie krok za krokom"
@@ -5004,7 +5004,7 @@
     "en": "I went to the pharmacy.",
     "sk": "Išiel som do lekárne.",
     "lesson": 71,
-    "image": null,
+    "image": "images/complete/study-i-went-to-the-pharmacy-a41b16b.webp",
     "imageExact": false,
     "note": "Where did you go? (Kam si išiel? / Kam ste išli?) → I went to the pharmacy. (Išiel som do lekárne.).",
     "context": "Včerajšie vybavovanie krok za krokom"
@@ -5064,7 +5064,7 @@
     "en": "The store wasn’t open.",
     "sk": "Obchod nebol otvorený.",
     "lesson": 71,
-    "image": "images/actions/open.webp",
+    "image": "images/complete/study-the-store-wasn-t-open-366ace8.webp",
     "imageExact": false,
     "note": "Where did you go? (Kam si išiel? / Kam ste išli?) → I went to the pharmacy. (Išiel som do lekárne.).",
     "context": "Včerajšie vybavovanie krok za krokom"
@@ -5194,7 +5194,7 @@
     "en": "I won’t drive tonight.",
     "sk": "Dnes večer nebudem šoférovať.",
     "lesson": 73,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-won-t-drive-tonight-2322861.webp",
     "imageExact": false,
     "note": "It will be ready. (Bude to pripravené.) → Will it be ready? (Bude to pripravené?) → It won’t be ready. (Nebude to pripravené.). Be (byť) je tvar bez nového konca po will (bude).",
     "context": "Bude to a nebude to?"
@@ -5204,7 +5204,7 @@
     "en": "We won’t buy it.",
     "sk": "Nekúpime to.",
     "lesson": 73,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-we-won-t-buy-it-614d0dc.webp",
     "imageExact": false,
     "note": "It will be ready. (Bude to pripravené.) → Will it be ready? (Bude to pripravené?) → It won’t be ready. (Nebude to pripravené.). Be (byť) je tvar bez nového konca po will (bude).",
     "context": "Bude to a nebude to?"
@@ -5294,7 +5294,7 @@
     "en": "I am not going to buy it.",
     "sk": "Nechystám sa to kúpiť.",
     "lesson": 74,
-    "image": "images/actions/buy.webp",
+    "image": "images/complete/study-i-am-not-going-to-buy-it-3c4615b.webp",
     "imageExact": false,
     "note": "I will call him. (Zavolám mu.) môže byť nové rozhodnutie. I am going to call him. (Chystám sa mu zavolať.) predstaví už zamýšľaný plán.",
     "context": "Plán už mám pripravený"
@@ -5304,7 +5304,7 @@
     "en": "We are going to shop tomorrow.",
     "sk": "Chystáme sa zajtra nakupovať.",
     "lesson": 74,
-    "image": null,
+    "image": "images/complete/study-we-are-going-to-shop-tomorrow-1c4b20f.webp",
     "imageExact": false,
     "note": "I will call him. (Zavolám mu.) môže byť nové rozhodnutie. I am going to call him. (Chystám sa mu zavolať.) predstaví už zamýšľaný plán.",
     "context": "Plán už mám pripravený"
@@ -5344,7 +5344,7 @@
     "en": "The bus leaves at six tomorrow.",
     "sk": "Autobus zajtra odchádza o šiestej.",
     "lesson": 75,
-    "image": null,
+    "image": "images/complete/study-the-bus-leaves-at-six-tomorrow-b49a686.webp",
     "imageExact": false,
     "note": "Porovnaj, či ide o ponuku v tejto chvíli, zamýšľanú činnosť alebo čas na rozvrhu. Nie je to súťaž o jediný možný tvar.",
     "context": "Rozhodnutie, plán a pevný čas"
@@ -5354,7 +5354,7 @@
     "en": "My appointment is on Monday.",
     "sk": "Môj termín je v pondelok.",
     "lesson": 75,
-    "image": null,
+    "image": "images/complete/study-my-appointment-is-on-monday-ac57fc2.webp",
     "imageExact": false,
     "note": "Porovnaj, či ide o ponuku v tejto chvíli, zamýšľanú činnosť alebo čas na rozvrhu. Nie je to súťaž o jediný možný tvar.",
     "context": "Rozhodnutie, plán a pevný čas"
@@ -5424,7 +5424,7 @@
     "en": "We are waiting.",
     "sk": "Práve čakáme.",
     "lesson": 76,
-    "image": null,
+    "image": "images/complete/study-we-are-waiting-b6416a2.webp",
     "imageExact": false,
     "note": "I cook dinner. (Varím večeru, bežne.) → I am cooking dinner now. (Práve teraz varím večeru.). Now (teraz) zdôrazní túto chvíľu.",
     "context": "Niečo práve robím"
@@ -5474,7 +5474,7 @@
     "en": "Are you waiting?",
     "sk": "Práve čakáš? / Práve čakáte?",
     "lesson": 77,
-    "image": null,
+    "image": "images/complete/study-are-you-waiting-391734e.webp",
     "imageExact": false,
     "note": "You are waiting. (Práve čakáš. / Práve čakáte.) → Are you waiting? (Práve čakáš? / Práve čakáte?).",
     "context": "Čo práve robíš a čo nerobíš?"
@@ -5494,7 +5494,7 @@
     "en": "What are you doing?",
     "sk": "Čo práve robíš? / Čo práve robíte?",
     "lesson": 77,
-    "image": null,
+    "image": "images/complete/study-what-are-you-doing-de7e54b.webp",
     "imageExact": false,
     "note": "You are waiting. (Práve čakáš. / Práve čakáte.) → Are you waiting? (Práve čakáš? / Práve čakáte?).",
     "context": "Čo práve robíš a čo nerobíš?"
@@ -5504,7 +5504,7 @@
     "en": "She isn’t cooking.",
     "sk": "Ona práve nevarí.",
     "lesson": 77,
-    "image": "images/actions/cook.webp",
+    "image": "images/complete/study-she-isn-t-cooking-38bd3b5.webp",
     "imageExact": false,
     "note": "You are waiting. (Práve čakáš. / Práve čakáte.) → Are you waiting? (Práve čakáš? / Práve čakáte?).",
     "context": "Čo práve robíš a čo nerobíš?"
@@ -5514,7 +5514,7 @@
     "en": "We aren’t working now.",
     "sk": "Teraz nepracujeme.",
     "lesson": 77,
-    "image": null,
+    "image": "images/complete/study-we-aren-t-working-now-1f5639d.webp",
     "imageExact": false,
     "note": "You are waiting. (Práve čakáš. / Práve čakáte.) → Are you waiting? (Práve čakáš? / Práve čakáte?).",
     "context": "Čo práve robíš a čo nerobíš?"
@@ -5524,7 +5524,7 @@
     "en": "I’m not driving.",
     "sk": "Teraz nešoférujem.",
     "lesson": 77,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-m-not-driving-b765edf.webp",
     "imageExact": false,
     "note": "You are waiting. (Práve čakáš. / Práve čakáte.) → Are you waiting? (Práve čakáš? / Práve čakáte?).",
     "context": "Čo práve robíš a čo nerobíš?"
@@ -5574,7 +5574,7 @@
     "en": "She cleans every day.",
     "sk": "Ona upratuje každý deň.",
     "lesson": 78,
-    "image": null,
+    "image": "images/complete/study-she-cleans-every-day-6cf4422.webp",
     "imageExact": false,
     "note": "I usually walk. (Zvyčajne chodím pešo.) → I am driving now. (Teraz šoférujem.). Nie každý dnešný dej je zvyk.",
     "context": "Bežne alebo v tejto chvíli?"
@@ -5634,7 +5634,7 @@
     "en": "They work on Monday.",
     "sk": "Oni pracujú v pondelok.",
     "lesson": 78,
-    "image": null,
+    "image": "images/complete/study-they-work-on-monday-4a1c0e9.webp",
     "imageExact": false,
     "note": "I usually walk. (Zvyčajne chodím pešo.) → I am driving now. (Teraz šoférujem.). Nie každý dnešný dej je zvyk.",
     "context": "Bežne alebo v tejto chvíli?"
@@ -5644,7 +5644,7 @@
     "en": "They aren’t working now.",
     "sk": "Oni teraz nepracujú.",
     "lesson": 78,
-    "image": null,
+    "image": "images/complete/study-they-aren-t-working-now-5499fa3.webp",
     "imageExact": false,
     "note": "I usually walk. (Zvyčajne chodím pešo.) → I am driving now. (Teraz šoférujem.). Nie každý dnešný dej je zvyk.",
     "context": "Bežne alebo v tejto chvíli?"
@@ -5684,7 +5684,7 @@
     "en": "He can’t hear you.",
     "sk": "On ťa nepočuje. / On vás nepočuje.",
     "lesson": 79,
-    "image": null,
+    "image": "images/complete/study-he-can-t-hear-you-0ddc835.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I can drive. (Viem šoférovať.) → I can’t drive. (Neviem šoférovať. / Nemôžem šoférovať.).",
     "context": "Viem, môžem a nemôžem"
@@ -5694,7 +5694,7 @@
     "en": "I can’t find my keys.",
     "sk": "Neviem nájsť svoje kľúče.",
     "lesson": 79,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-i-can-t-find-my-keys-6a0cfed.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I can drive. (Viem šoférovať.) → I can’t drive. (Neviem šoférovať. / Nemôžem šoférovať.).",
     "context": "Viem, môžem a nemôžem"
@@ -5704,7 +5704,7 @@
     "en": "They can’t come today.",
     "sk": "Oni dnes nemôžu prísť.",
     "lesson": 79,
-    "image": null,
+    "image": "images/complete/study-they-can-t-come-today-329f8c3.webp",
     "imageExact": false,
     "note": "I drive. (Šoférujem.) → I can drive. (Viem šoférovať.) → I can’t drive. (Neviem šoférovať. / Nemôžem šoférovať.).",
     "context": "Viem, môžem a nemôžem"
@@ -5754,7 +5754,7 @@
     "en": "Could you wait here, please?",
     "sk": "Mohol by si tu počkať, prosím? / Mohli by ste tu počkať, prosím?",
     "lesson": 80,
-    "image": null,
+    "image": "images/complete/study-could-you-wait-here-please-1e4ef36.webp",
     "imageExact": false,
     "note": "Can you help me? (Môžeš mi pomôcť? / Môžete mi pomôcť?) → Could you help me, please? (Mohol by si mi pomôcť, prosím? / Mohli by ste mi pomôcť, prosím?).",
     "context": "Môžete mi pomôcť?"
@@ -5764,7 +5764,7 @@
     "en": "Can we come in?",
     "sk": "Môžeme vojsť?",
     "lesson": 80,
-    "image": null,
+    "image": "images/complete/study-can-we-come-in-1dedb12.webp",
     "imageExact": false,
     "note": "Can you help me? (Môžeš mi pomôcť? / Môžete mi pomôcť?) → Could you help me, please? (Mohol by si mi pomôcť, prosím? / Mohli by ste mi pomôcť, prosím?).",
     "context": "Môžete mi pomôcť?"
@@ -5774,7 +5774,7 @@
     "en": "Could you show me the price, please?",
     "sk": "Mohli by ste mi ukázať cenu, prosím?",
     "lesson": 80,
-    "image": null,
+    "image": "images/complete/study-could-you-show-me-the-price-please-7f5ee3c.webp",
     "imageExact": false,
     "note": "Can you help me? (Môžeš mi pomôcť? / Môžete mi pomôcť?) → Could you help me, please? (Mohol by si mi pomôcť, prosím? / Mohli by ste mi pomôcť, prosím?).",
     "context": "Môžete mi pomôcť?"
@@ -5784,7 +5784,7 @@
     "en": "Can she come tomorrow?",
     "sk": "Môže zajtra prísť?",
     "lesson": 80,
-    "image": null,
+    "image": "images/complete/study-can-she-come-tomorrow-5976736.webp",
     "imageExact": false,
     "note": "Can you help me? (Môžeš mi pomôcť? / Môžete mi pomôcť?) → Could you help me, please? (Mohol by si mi pomôcť, prosím? / Mohli by ste mi pomôcť, prosím?).",
     "context": "Môžete mi pomôcť?"
@@ -5804,7 +5804,7 @@
     "en": "I would like an appointment.",
     "sk": "Rád by som termín.",
     "lesson": 81,
-    "image": null,
+    "image": "images/complete/study-i-would-like-an-appointment-aab7265.webp",
     "imageExact": false,
     "note": "I want coffee. (Chcem kávu.) → I would like coffee. (Rád by som kávu.). Význam je podobný, druhá veta je zdvorilejšia.",
     "context": "Chcem a rád by som"
@@ -5834,7 +5834,7 @@
     "en": "I want to go home.",
     "sk": "Chcem ísť domov.",
     "lesson": 81,
-    "image": null,
+    "image": "images/complete/study-i-want-to-go-home-be90fe3.webp",
     "imageExact": false,
     "note": "I want coffee. (Chcem kávu.) → I would like coffee. (Rád by som kávu.). Význam je podobný, druhá veta je zdvorilejšia.",
     "context": "Chcem a rád by som"
@@ -5844,7 +5844,7 @@
     "en": "I’d like a receipt.",
     "sk": "Rád by som účtenku.",
     "lesson": 81,
-    "image": null,
+    "image": "images/complete/study-i-d-like-a-receipt-f53a823.webp",
     "imageExact": false,
     "note": "I want coffee. (Chcem kávu.) → I would like coffee. (Rád by som kávu.). Význam je podobný, druhá veta je zdvorilejšia.",
     "context": "Chcem a rád by som"
@@ -5854,7 +5854,7 @@
     "en": "I would like to speak to a person.",
     "sk": "Rád by som hovoril s človekom.",
     "lesson": 81,
-    "image": null,
+    "image": "images/complete/study-i-would-like-to-speak-to-a-person-5f4e19a.webp",
     "imageExact": false,
     "note": "I want coffee. (Chcem kávu.) → I would like coffee. (Rád by som kávu.). Význam je podobný, druhá veta je zdvorilejšia.",
     "context": "Chcem a rád by som"
@@ -5904,7 +5904,7 @@
     "en": "I don’t have to go today.",
     "sk": "Dnes nemusím ísť.",
     "lesson": 82,
-    "image": null,
+    "image": "images/complete/study-i-don-t-have-to-go-today-543e00a.webp",
     "imageExact": false,
     "note": "I need medicine. (Potrebujem lieky.) → I need to buy medicine. (Potrebujem kúpiť lieky.). Vec sa zmení na ďalšiu činnosť.",
     "context": "Potrebujem alebo musím niečo urobiť"
@@ -5914,7 +5914,7 @@
     "en": "Do you have to work tomorrow?",
     "sk": "Musíš zajtra pracovať? / Musíte zajtra pracovať?",
     "lesson": 82,
-    "image": null,
+    "image": "images/complete/study-do-you-have-to-work-tomorrow-087b778.webp",
     "imageExact": false,
     "note": "I need medicine. (Potrebujem lieky.) → I need to buy medicine. (Potrebujem kúpiť lieky.). Vec sa zmení na ďalšiu činnosť.",
     "context": "Potrebujem alebo musím niečo urobiť"
@@ -5934,7 +5934,7 @@
     "en": "We should check the bill.",
     "sk": "Mali by sme skontrolovať účet.",
     "lesson": 83,
-    "image": null,
+    "image": "images/complete/study-we-should-check-the-bill-8edb114.webp",
     "imageExact": false,
     "note": "You should call. (Mal by si zavolať. / Mali by ste zavolať.) je rada. You must not park here. (Tu nesmieš parkovať. / Tu nesmiete parkovať.) je zákaz.",
     "context": "Dobrá rada a zákaz"
@@ -5944,7 +5944,7 @@
     "en": "He shouldn’t drive now.",
     "sk": "On by teraz nemal šoférovať.",
     "lesson": 83,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-he-shouldn-t-drive-now-b3daeb7.webp",
     "imageExact": false,
     "note": "You should call. (Mal by si zavolať. / Mali by ste zavolať.) je rada. You must not park here. (Tu nesmieš parkovať. / Tu nesmiete parkovať.) je zákaz.",
     "context": "Dobrá rada a zákaz"
@@ -5954,7 +5954,7 @@
     "en": "You must not park here.",
     "sk": "Tu nesmieš parkovať. / Tu nesmiete parkovať.",
     "lesson": 83,
-    "image": null,
+    "image": "images/complete/study-you-must-not-park-here-f002172.webp",
     "imageExact": false,
     "note": "You should call. (Mal by si zavolať. / Mali by ste zavolať.) je rada. You must not park here. (Tu nesmieš parkovať. / Tu nesmiete parkovať.) je zákaz.",
     "context": "Dobrá rada a zákaz"
@@ -5964,7 +5964,7 @@
     "en": "I don’t have to drive.",
     "sk": "Nemusím šoférovať.",
     "lesson": 83,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-i-don-t-have-to-drive-9f8485e.webp",
     "imageExact": false,
     "note": "You should call. (Mal by si zavolať. / Mali by ste zavolať.) je rada. You must not park here. (Tu nesmieš parkovať. / Tu nesmiete parkovať.) je zákaz.",
     "context": "Dobrá rada a zákaz"
@@ -5984,7 +5984,7 @@
     "en": "I don’t understand.",
     "sk": "Nerozumiem.",
     "lesson": 84,
-    "image": null,
+    "image": "images/complete/study-i-don-t-understand-278c398.webp",
     "imageExact": false,
     "note": "I don’t understand. (Nerozumiem.) môžeš doplniť Could you repeat that, please? (Mohli by ste to zopakovať, prosím?).",
     "context": "Nerozumiem: poprosím o zopakovanie"
@@ -5994,7 +5994,7 @@
     "en": "Could you repeat that, please?",
     "sk": "Mohli by ste to zopakovať, prosím?",
     "lesson": 84,
-    "image": null,
+    "image": "images/complete/study-could-you-repeat-that-please-136eb46.webp",
     "imageExact": false,
     "note": "I don’t understand. (Nerozumiem.) môžeš doplniť Could you repeat that, please? (Mohli by ste to zopakovať, prosím?).",
     "context": "Nerozumiem: poprosím o zopakovanie"
@@ -6004,7 +6004,7 @@
     "en": "Could you speak slowly, please?",
     "sk": "Mohli by ste hovoriť pomaly, prosím?",
     "lesson": 84,
-    "image": null,
+    "image": "images/complete/study-could-you-speak-slowly-please-5493104.webp",
     "imageExact": false,
     "note": "I don’t understand. (Nerozumiem.) môžeš doplniť Could you repeat that, please? (Mohli by ste to zopakovať, prosím?).",
     "context": "Nerozumiem: poprosím o zopakovanie"
@@ -6014,7 +6014,7 @@
     "en": "What does that mean?",
     "sk": "Čo to znamená?",
     "lesson": 84,
-    "image": null,
+    "image": "images/complete/study-what-does-that-mean-c3d549a.webp",
     "imageExact": false,
     "note": "I don’t understand. (Nerozumiem.) môžeš doplniť Could you repeat that, please? (Mohli by ste to zopakovať, prosím?).",
     "context": "Nerozumiem: poprosím o zopakovanie"
@@ -6024,7 +6024,7 @@
     "en": "Could you write it down, please?",
     "sk": "Mohli by ste to napísať, prosím?",
     "lesson": 84,
-    "image": null,
+    "image": "images/complete/study-could-you-write-it-down-please-34d66db.webp",
     "imageExact": false,
     "note": "I don’t understand. (Nerozumiem.) môžeš doplniť Could you repeat that, please? (Mohli by ste to zopakovať, prosím?).",
     "context": "Nerozumiem: poprosím o zopakovanie"
@@ -6034,7 +6034,7 @@
     "en": "I speak a little English.",
     "sk": "Hovorím trochu po anglicky.",
     "lesson": 84,
-    "image": null,
+    "image": "images/complete/study-i-speak-a-little-english-b94e795.webp",
     "imageExact": false,
     "note": "I don’t understand. (Nerozumiem.) môžeš doplniť Could you repeat that, please? (Mohli by ste to zopakovať, prosím?).",
     "context": "Nerozumiem: poprosím o zopakovanie"
@@ -6054,7 +6054,7 @@
     "en": "Please show me the bill.",
     "sk": "Prosím, ukážte mi účet.",
     "lesson": 85,
-    "image": null,
+    "image": "images/complete/study-please-show-me-the-bill-d2cc70f.webp",
     "imageExact": false,
     "note": "You give me the key. (Dávaš mi kľúč. / Dávate mi kľúč.) → Please give me the key. (Prosím, dajte mi kľúč.).",
     "context": "Dajte mi a ukážte mi"
@@ -6064,7 +6064,7 @@
     "en": "Please tell me the price.",
     "sk": "Prosím, povedzte mi cenu.",
     "lesson": 85,
-    "image": null,
+    "image": "images/complete/study-please-tell-me-the-price-b286583.webp",
     "imageExact": false,
     "note": "You give me the key. (Dávaš mi kľúč. / Dávate mi kľúč.) → Please give me the key. (Prosím, dajte mi kľúč.).",
     "context": "Dajte mi a ukážte mi"
@@ -6094,7 +6094,7 @@
     "en": "Could you give me a receipt, please?",
     "sk": "Mohli by ste mi dať účtenku, prosím?",
     "lesson": 85,
-    "image": null,
+    "image": "images/complete/study-could-you-give-me-a-receipt-please-586dc7e.webp",
     "imageExact": false,
     "note": "You give me the key. (Dávaš mi kľúč. / Dávate mi kľúč.) → Please give me the key. (Prosím, dajte mi kľúč.).",
     "context": "Dajte mi a ukážte mi"
@@ -6114,7 +6114,7 @@
     "en": "She’s looking for the pharmacy.",
     "sk": "Ona hľadá lekáreň.",
     "lesson": 86,
-    "image": null,
+    "image": "images/complete/study-she-s-looking-for-the-pharmacy-155c3d7.webp",
     "imageExact": false,
     "note": "I see the key. (Vidím kľúč.) → I’m looking for the key. (Hľadám kľúč.). Hľadanie neznamená, že už vec vidím.",
     "context": "Hľadám a čakám"
@@ -6124,7 +6124,7 @@
     "en": "We’re waiting for the bus.",
     "sk": "Čakáme na autobus.",
     "lesson": 86,
-    "image": null,
+    "image": "images/complete/study-we-re-waiting-for-the-bus-c698e57.webp",
     "imageExact": false,
     "note": "I see the key. (Vidím kľúč.) → I’m looking for the key. (Hľadám kľúč.). Hľadanie neznamená, že už vec vidím.",
     "context": "Hľadám a čakám"
@@ -6174,7 +6174,7 @@
     "en": "My car doesn’t start.",
     "sk": "Moje auto neštartuje.",
     "lesson": 87,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-my-car-doesn-t-start-5e813cc.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → I have a problem with my car. (Mám problém s autom.). Pridáme, čo je zle.",
     "context": "Mám problém s autom"
@@ -6184,7 +6184,7 @@
     "en": "I have a flat tire.",
     "sk": "Mám defekt.",
     "lesson": 87,
-    "image": null,
+    "image": "images/complete/study-i-have-a-flat-tire-5008aa3.webp",
     "imageExact": false,
     "note": "I have a car. (Mám auto.) → I have a problem with my car. (Mám problém s autom.). Pridáme, čo je zle.",
     "context": "Mám problém s autom"
@@ -6244,7 +6244,7 @@
     "en": "I have an appointment on Monday.",
     "sk": "Mám termín v pondelok.",
     "lesson": 88,
-    "image": null,
+    "image": "images/complete/study-i-have-an-appointment-on-monday-6a7105c.webp",
     "imageExact": false,
     "note": "I need medicine. (Potrebujem lieky.) → I need to pick up my medicine. (Potrebujem si vyzdvihnúť lieky.). Pridáme činnosť.",
     "context": "Lieky, termín a poistenie"
@@ -6264,7 +6264,7 @@
     "en": "I received a medical bill.",
     "sk": "Dostal som účet za zdravotnú starostlivosť.",
     "lesson": 88,
-    "image": null,
+    "image": "images/complete/study-i-received-a-medical-bill-afaf709.webp",
     "imageExact": false,
     "note": "I need medicine. (Potrebujem lieky.) → I need to pick up my medicine. (Potrebujem si vyzdvihnúť lieky.). Pridáme činnosť.",
     "context": "Lieky, termín a poistenie"
@@ -6274,7 +6274,7 @@
     "en": "Could you explain this bill, please?",
     "sk": "Mohli by ste mi vysvetliť tento účet, prosím?",
     "lesson": 88,
-    "image": null,
+    "image": "images/complete/study-could-you-explain-this-bill-please-cc9fb1d.webp",
     "imageExact": false,
     "note": "I need medicine. (Potrebujem lieky.) → I need to pick up my medicine. (Potrebujem si vyzdvihnúť lieky.). Pridáme činnosť.",
     "context": "Lieky, termín a poistenie"
@@ -6284,7 +6284,7 @@
     "en": "Please turn on the light.",
     "sk": "Prosím, zapnite svetlo.",
     "lesson": 89,
-    "image": null,
+    "image": "images/complete/study-please-turn-on-the-light-72de79a.webp",
     "imageExact": false,
     "note": "Turn off the light. (Vypnite svetlo.) → Turn it off. (Vypnite ho.). Vec sa skráti na it (to) a presunie medzi dve slová.",
     "context": "Zapnem, vypnem a vyzdvihnem"
@@ -6294,7 +6294,7 @@
     "en": "Please turn it off.",
     "sk": "Prosím, vypnite ho.",
     "lesson": 89,
-    "image": null,
+    "image": "images/complete/study-please-turn-it-off-a276202.webp",
     "imageExact": false,
     "note": "Turn off the light. (Vypnite svetlo.) → Turn it off. (Vypnite ho.). Vec sa skráti na it (to) a presunie medzi dve slová.",
     "context": "Zapnem, vypnem a vyzdvihnem"
@@ -6304,7 +6304,7 @@
     "en": "I need to pick up the package.",
     "sk": "Potrebujem vyzdvihnúť balík.",
     "lesson": 89,
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/study-i-need-to-pick-up-the-package-7c978f7.webp",
     "imageExact": false,
     "note": "Turn off the light. (Vypnite svetlo.) → Turn it off. (Vypnite ho.). Vec sa skráti na it (to) a presunie medzi dve slová.",
     "context": "Zapnem, vypnem a vyzdvihnem"
@@ -6314,7 +6314,7 @@
     "en": "She picks it up today.",
     "sk": "Ona ho dnes vyzdvihuje.",
     "lesson": 89,
-    "image": null,
+    "image": "images/complete/study-she-picks-it-up-today-985c5b2.webp",
     "imageExact": false,
     "note": "Turn off the light. (Vypnite svetlo.) → Turn it off. (Vypnite ho.). Vec sa skráti na it (to) a presunie medzi dve slová.",
     "context": "Zapnem, vypnem a vyzdvihnem"
@@ -6324,7 +6324,7 @@
     "en": "Could you turn it on, please?",
     "sk": "Mohli by ste to zapnúť, prosím?",
     "lesson": 89,
-    "image": null,
+    "image": "images/complete/study-could-you-turn-it-on-please-9f4f961.webp",
     "imageExact": false,
     "note": "Turn off the light. (Vypnite svetlo.) → Turn it off. (Vypnite ho.). Vec sa skráti na it (to) a presunie medzi dve slová.",
     "context": "Zapnem, vypnem a vyzdvihnem"
@@ -6334,7 +6334,7 @@
     "en": "He turned off the TV.",
     "sk": "On vypol televíziu.",
     "lesson": 89,
-    "image": null,
+    "image": "images/complete/study-he-turned-off-the-tv-fb993d9.webp",
     "imageExact": false,
     "note": "Turn off the light. (Vypnite svetlo.) → Turn it off. (Vypnite ho.). Vec sa skráti na it (to) a presunie medzi dve slová.",
     "context": "Zapnem, vypnem a vyzdvihnem"
@@ -6354,7 +6354,7 @@
     "en": "Could you pick it up today?",
     "sk": "Mohol by si ho dnes vyzdvihnúť? / Mohli by ste ho dnes vyzdvihnúť?",
     "lesson": 90,
-    "image": null,
+    "image": "images/complete/study-could-you-pick-it-up-today-19f91a7.webp",
     "imageExact": false,
     "note": "The sink leaks. (Umývadlo preteká.) opisuje problém. The sink is leaking now. (Umývadlo teraz preteká.) zdôrazňuje túto chvíľu.",
     "context": "Sused a práca v dome"
@@ -6434,7 +6434,7 @@
     "en": "I don’t need a receipt.",
     "sk": "Nepotrebujem účtenku.",
     "lesson": 91,
-    "image": null,
+    "image": "images/complete/study-i-don-t-need-a-receipt-da00640.webp",
     "imageExact": false,
     "note": "What do you need? (Čo potrebuješ? / Čo potrebujete?) → I need a bag. (Potrebujem tašku.). Otázka a odpoveď majú odlišný začiatok.",
     "context": "V obchode: vyberiem, opýtam sa, zaplatím"
@@ -6444,7 +6444,7 @@
     "en": "Could you repeat that, please?",
     "sk": "Mohli by ste to zopakovať, prosím?",
     "lesson": 91,
-    "image": null,
+    "image": "images/complete/study-could-you-repeat-that-please-136eb46.webp",
     "imageExact": false,
     "note": "What do you need? (Čo potrebuješ? / Čo potrebujete?) → I need a bag. (Potrebujem tašku.). Otázka a odpoveď majú odlišný začiatok.",
     "context": "V obchode: vyberiem, opýtam sa, zaplatím"
@@ -6464,7 +6464,7 @@
     "en": "My car didn’t start yesterday.",
     "sk": "Moje auto včera nenaštartovalo.",
     "lesson": 92,
-    "image": "images/actions/drive.webp",
+    "image": "images/complete/study-my-car-didn-t-start-yesterday-caf0ccb.webp",
     "imageExact": false,
     "note": "I called yesterday. (Zavolal som včera.) → I’m waiting now. (Teraz čakám.) → I’ll call tomorrow. (Zavolám zajtra.).",
     "context": "Včera, dnes a zajtra pri oprave"
@@ -6514,7 +6514,7 @@
     "en": "I’m going to pick it up tomorrow.",
     "sk": "Zajtra sa ho chystám vyzdvihnúť.",
     "lesson": 92,
-    "image": null,
+    "image": "images/complete/study-i-m-going-to-pick-it-up-tomorrow-ebe0519.webp",
     "imageExact": false,
     "note": "I called yesterday. (Zavolal som včera.) → I’m waiting now. (Teraz čakám.) → I’ll call tomorrow. (Zavolám zajtra.).",
     "context": "Včera, dnes a zajtra pri oprave"
@@ -6524,7 +6524,7 @@
     "en": "My neighbor has my package.",
     "sk": "Môj sused má môj balík.",
     "lesson": 93,
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/study-my-neighbor-has-my-package-abbcfef.webp",
     "imageExact": false,
     "note": "I give him the key. (Dávam mu kľúč.) → He gives me the key. (On mi dáva kľúč.). Mení sa človek na začiatku aj ten, ktorý vec dostáva.",
     "context": "U suseda: kto, komu a kde"
@@ -6534,7 +6534,7 @@
     "en": "He will give it to me.",
     "sk": "On mi ho dá.",
     "lesson": 93,
-    "image": null,
+    "image": "images/complete/study-he-will-give-it-to-me-763c1e9.webp",
     "imageExact": false,
     "note": "I give him the key. (Dávam mu kľúč.) → He gives me the key. (On mi dáva kľúč.). Mení sa človek na začiatku aj ten, ktorý vec dostáva.",
     "context": "U suseda: kto, komu a kde"
@@ -6544,7 +6544,7 @@
     "en": "I’m waiting for him.",
     "sk": "Čakám naňho.",
     "lesson": 93,
-    "image": null,
+    "image": "images/complete/study-i-m-waiting-for-him-e0e24cd.webp",
     "imageExact": false,
     "note": "I give him the key. (Dávam mu kľúč.) → He gives me the key. (On mi dáva kľúč.). Mení sa človek na začiatku aj ten, ktorý vec dostáva.",
     "context": "U suseda: kto, komu a kde"
@@ -6554,7 +6554,7 @@
     "en": "The package is next to the door.",
     "sk": "Balík je vedľa dverí.",
     "lesson": 93,
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/study-the-package-is-next-to-the-door-2a822ba.webp",
     "imageExact": false,
     "note": "I give him the key. (Dávam mu kľúč.) → He gives me the key. (On mi dáva kľúč.). Mení sa človek na začiatku aj ten, ktorý vec dostáva.",
     "context": "U suseda: kto, komu a kde"
@@ -6564,7 +6564,7 @@
     "en": "Those keys are mine.",
     "sk": "Tamtie kľúče sú moje.",
     "lesson": 93,
-    "image": "images/actions/key.webp",
+    "image": "images/complete/study-those-keys-are-mine-5eda189.webp",
     "imageExact": false,
     "note": "I give him the key. (Dávam mu kľúč.) → He gives me the key. (On mi dáva kľúč.). Mení sa človek na začiatku aj ten, ktorý vec dostáva.",
     "context": "U suseda: kto, komu a kde"
@@ -6574,7 +6574,7 @@
     "en": "Could you help me with this bag?",
     "sk": "Mohli by ste mi pomôcť s touto taškou?",
     "lesson": 93,
-    "image": "images/actions/bag.webp",
+    "image": "images/complete/study-could-you-help-me-with-this-bag-5c23ff7.webp",
     "imageExact": false,
     "note": "I give him the key. (Dávam mu kľúč.) → He gives me the key. (On mi dáva kľúč.). Mení sa človek na začiatku aj ten, ktorý vec dostáva.",
     "context": "U suseda: kto, komu a kde"
@@ -6584,7 +6584,7 @@
     "en": "I would like an appointment.",
     "sk": "Rád by som termín.",
     "lesson": 94,
-    "image": null,
+    "image": "images/complete/study-i-would-like-an-appointment-aab7265.webp",
     "imageExact": false,
     "note": "I need help. (Potrebujem pomoc.) môže začať rozhovor. Could you explain it? (Mohli by ste to vysvetliť?) ho pomôže pokojne pokračovať.",
     "context": "Celý rozhovor bez ponáhľania"
@@ -6604,7 +6604,7 @@
     "en": "I didn’t receive the message.",
     "sk": "Nedostal som správu.",
     "lesson": 94,
-    "image": null,
+    "image": "images/complete/study-i-didn-t-receive-the-message-636829e.webp",
     "imageExact": false,
     "note": "I need help. (Potrebujem pomoc.) môže začať rozhovor. Could you explain it? (Mohli by ste to vysvetliť?) ho pomôže pokojne pokračovať.",
     "context": "Celý rozhovor bez ponáhľania"
@@ -6614,7 +6614,7 @@
     "en": "Could you send it again, please?",
     "sk": "Mohli by ste ju poslať znova, prosím?",
     "lesson": 94,
-    "image": null,
+    "image": "images/complete/study-could-you-send-it-again-please-ebdb4b3.webp",
     "imageExact": false,
     "note": "I need help. (Potrebujem pomoc.) môže začať rozhovor. Could you explain it? (Mohli by ste to vysvetliť?) ho pomôže pokojne pokračovať.",
     "context": "Celý rozhovor bez ponáhľania"

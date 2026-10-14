@@ -6,7 +6,7 @@
     "example": "I work at home.",
     "translation": "Pracujem doma.",
     "visual": "🛠️",
-    "image": "images/actions/fix.webp"
+    "image": "images/complete/vocabulary-work-b5374e7.webp"
   },
   {
     "en": "clean",
@@ -60,7 +60,7 @@
     "example": "I wait for the bus.",
     "translation": "Čakám na autobus.",
     "visual": "💬",
-    "image": "images/actions/wait.webp"
+    "image": "images/complete/vocabulary-wait-c0d5121.webp"
   },
   {
     "en": "take",
@@ -69,7 +69,7 @@
     "example": "I take the bus.",
     "translation": "Chodím autobusom.",
     "visual": "💬",
-    "image": "images/actions/wait.webp"
+    "image": "images/complete/vocabulary-take-bc8373c.webp"
   },
   {
     "en": "cook",
@@ -96,7 +96,7 @@
     "example": "I read the message.",
     "translation": "Čítam správu.",
     "visual": "📖",
-    "image": "images/actions/read.webp"
+    "image": "images/complete/vocabulary-read-a1c2837.webp"
   },
   {
     "en": "need",
@@ -105,7 +105,7 @@
     "example": "I need help.",
     "translation": "Potrebujem pomoc.",
     "visual": "💬",
-    "image": "images/actions/need.webp"
+    "image": "images/complete/vocabulary-need-c540da5.webp"
   },
   {
     "en": "drive",
@@ -123,7 +123,7 @@
     "example": "We go to the store.",
     "translation": "Ideme do obchodu.",
     "visual": "🚶",
-    "image": "images/actions/walk.webp"
+    "image": "images/complete/vocabulary-go-b72b6a5.webp"
   },
   {
     "en": "come",
@@ -132,7 +132,7 @@
     "example": "They come home.",
     "translation": "Prichádzajú domov.",
     "visual": "👋",
-    "image": "images/actions/walk.webp"
+    "image": "images/complete/vocabulary-come-1970bc3.webp"
   },
   {
     "en": "bring",
@@ -150,7 +150,7 @@
     "example": "I give him the package.",
     "translation": "Dávam mu balík.",
     "visual": "💬",
-    "image": "images/actions/bring.webp"
+    "image": "images/complete/vocabulary-give-7a7913d.webp"
   },
   {
     "en": "put",
@@ -159,7 +159,7 @@
     "example": "I put the bag on the table.",
     "translation": "Položím tašku na stôl.",
     "visual": "💬",
-    "image": "images/actions/bring.webp"
+    "image": "images/complete/vocabulary-put-ea3e738.webp"
   },
   {
     "en": "find",
@@ -168,7 +168,7 @@
     "example": "We find the address.",
     "translation": "Nájdeme adresu.",
     "visual": "💬",
-    "image": "images/actions/show.webp"
+    "image": "images/complete/vocabulary-find-1892f74.webp"
   },
   {
     "en": "pay",
@@ -186,7 +186,7 @@
     "example": "She asks a question.",
     "translation": "Ona sa pýta.",
     "visual": "💬",
-    "image": "images/actions/speak.webp"
+    "image": "images/complete/vocabulary-ask-a7d81d0.webp"
   },
   {
     "en": "answer",
@@ -195,7 +195,7 @@
     "example": "He answers the phone.",
     "translation": "On zdvihne telefón.",
     "visual": "💬",
-    "image": "images/actions/call.webp"
+    "image": "images/complete/vocabulary-answer-f032aeb.webp"
   },
   {
     "en": "show",
@@ -213,7 +213,7 @@
     "example": "They send a message.",
     "translation": "Posielajú správu.",
     "visual": "💬",
-    "image": "images/actions/read.webp"
+    "image": "images/complete/vocabulary-send-f003889.webp"
   },
   {
     "en": "check",
@@ -231,7 +231,7 @@
     "example": "He changes the washer.",
     "translation": "On vymení tesnenie.",
     "visual": "💬",
-    "image": "images/actions/fix.webp"
+    "image": "images/complete/vocabulary-change-865eb09.webp"
   },
   {
     "en": "turn",
@@ -240,7 +240,7 @@
     "example": "I turn the handle.",
     "translation": "Otáčam rukoväťou.",
     "visual": "💬",
-    "image": "images/actions/check.webp"
+    "image": "images/complete/vocabulary-turn-676493d.webp"
   },
   {
     "en": "close",
@@ -258,7 +258,7 @@
     "example": "I see the bus.",
     "translation": "Vidím autobus.",
     "visual": "💬",
-    "image": "images/actions/speak.webp"
+    "image": "images/complete/vocabulary-see-eafa74b.webp"
   },
   {
     "en": "hear",
@@ -267,7 +267,7 @@
     "example": "I hear the phone.",
     "translation": "Počujem telefón.",
     "visual": "💬",
-    "image": "images/actions/listen.webp"
+    "image": "images/complete/vocabulary-hear-5f90e0c.webp"
   },
   {
     "en": "write",
@@ -330,7 +330,7 @@
     "example": "I feel better.",
     "translation": "Cítim sa lepšie.",
     "visual": "💬",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-feel-87223d5.webp"
   },
   {
     "en": "live",
@@ -339,7 +339,7 @@
     "example": "He lives upstairs.",
     "translation": "Býva na poschodí.",
     "visual": "💬",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-live-d14fb1a.webp"
   },
   {
     "en": "know",
@@ -348,7 +348,7 @@
     "example": "I know the answer.",
     "translation": "Viem odpoveď.",
     "visual": "💬",
-    "image": "images/actions/speak.webp"
+    "image": "images/complete/vocabulary-know-e2c2055.webp"
   },
   {
     "en": "want",
@@ -357,7 +357,7 @@
     "example": "They want coffee.",
     "translation": "Chcú kávu.",
     "visual": "💬",
-    "image": "images/actions/need.webp"
+    "image": "images/complete/vocabulary-want-d220e3d.webp"
   },
   {
     "en": "make",
@@ -366,7 +366,7 @@
     "example": "She makes dinner.",
     "translation": "Ona pripravuje večeru.",
     "visual": "💬",
-    "image": "images/actions/cook.webp"
+    "image": "images/complete/vocabulary-make-98cf513.webp"
   },
   {
     "en": "have",
@@ -375,7 +375,7 @@
     "example": "We have time.",
     "translation": "Máme čas.",
     "visual": "💬",
-    "image": "images/actions/key.webp"
+    "image": "images/complete/vocabulary-have-638cfff.webp"
   },
   {
     "en": "I am here.",
@@ -384,7 +384,7 @@
     "example": "I am here.",
     "translation": "Som tu.",
     "visual": "💬",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-i-am-here-16020c0.webp"
   },
   {
     "en": "You are here.",
@@ -393,7 +393,7 @@
     "example": "You are here.",
     "translation": "Si tu. / Ste tu.",
     "visual": "💬",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-you-are-here-298a128.webp"
   },
   {
     "en": "He works here.",
@@ -402,7 +402,7 @@
     "example": "He works here.",
     "translation": "On tu pracuje.",
     "visual": "💬",
-    "image": "images/actions/fix.webp"
+    "image": "images/complete/vocabulary-he-works-here-5f0aba8.webp"
   },
   {
     "en": "She lives here.",
@@ -411,7 +411,7 @@
     "example": "She lives here.",
     "translation": "Ona tu býva.",
     "visual": "💬",
-    "image": "images/pronouns/she-live.webp"
+    "image": "images/complete/vocabulary-she-lives-here-16094d3.webp"
   },
   {
     "en": "We live here.",
@@ -420,7 +420,7 @@
     "example": "We live here.",
     "translation": "My tu bývame.",
     "visual": "💬",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-we-live-here-6991c2c.webp"
   },
   {
     "en": "They work here.",
@@ -429,7 +429,7 @@
     "example": "They work here.",
     "translation": "Oni tu pracujú.",
     "visual": "💬",
-    "image": "images/actions/extra-they-clean.webp"
+    "image": "images/complete/vocabulary-they-work-here-6f2d83f.webp"
   },
   {
     "en": "You help me.",
@@ -438,7 +438,7 @@
     "example": "You help me.",
     "translation": "Pomáhaš mi. / Pomáhate mi.",
     "visual": "💬",
-    "image": "images/actions/help.webp"
+    "image": "images/complete/vocabulary-you-help-me-2cf8631.webp"
   },
   {
     "en": "You live upstairs.",
@@ -447,7 +447,7 @@
     "example": "You live upstairs.",
     "translation": "Bývaš hore. / Bývate hore.",
     "visual": "💬",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-you-live-upstairs-bb2cd3a.webp"
   },
   {
     "en": "my car",
@@ -456,7 +456,7 @@
     "example": "my car",
     "translation": "moje auto",
     "visual": "💬",
-    "image": "images/actions/car.webp"
+    "image": "images/complete/vocabulary-my-car-c45c1e8.webp"
   },
   {
     "en": "your phone",
@@ -465,7 +465,7 @@
     "example": "your phone",
     "translation": "tvoj telefón / váš telefón",
     "visual": "💬",
-    "image": "images/actions/phone.webp"
+    "image": "images/complete/vocabulary-your-phone-9320cdb.webp"
   },
   {
     "en": "his key",
@@ -474,7 +474,7 @@
     "example": "his key",
     "translation": "jeho kľúč",
     "visual": "💬",
-    "image": "images/actions/key.webp"
+    "image": "images/complete/vocabulary-his-key-14d003f.webp"
   },
   {
     "en": "her bag",
@@ -483,7 +483,7 @@
     "example": "her bag",
     "translation": "jej taška",
     "visual": "💬",
-    "image": "images/actions/bag.webp"
+    "image": "images/complete/vocabulary-her-bag-c113727.webp"
   },
   {
     "en": "our house",
@@ -492,7 +492,7 @@
     "example": "our house",
     "translation": "náš dom",
     "visual": "💬",
-    "image": "images/actions/house.webp"
+    "image": "images/complete/vocabulary-our-house-952739d.webp"
   },
   {
     "en": "their apartment",
@@ -501,7 +501,7 @@
     "example": "their apartment",
     "translation": "ich byt",
     "visual": "💬",
-    "image": "images/actions/house.webp"
+    "image": "images/complete/vocabulary-their-apartment-8e4503a.webp"
   },
   {
     "en": "its door",
@@ -510,7 +510,7 @@
     "example": "its door",
     "translation": "jeho dvierka (napríklad na skrinke)",
     "visual": "💬",
-    "image": "images/actions/cabinet.webp"
+    "image": "images/complete/vocabulary-its-door-3fd929c.webp"
   },
   {
     "en": "Help me, please.",
@@ -519,7 +519,7 @@
     "example": "Help me, please.",
     "translation": "Pomôž mi, prosím. / Pomôžte mi, prosím.",
     "visual": "💬",
-    "image": "images/actions/help.webp"
+    "image": "images/complete/vocabulary-help-me-please-e6ee320.webp"
   },
   {
     "en": "I call him.",
@@ -528,7 +528,7 @@
     "example": "I call him.",
     "translation": "Volám mu.",
     "visual": "💬",
-    "image": "images/actions/call.webp"
+    "image": "images/complete/vocabulary-i-call-him-7b1c7b9.webp"
   },
   {
     "en": "She helps her.",
@@ -537,7 +537,7 @@
     "example": "She helps her.",
     "translation": "Ona jej pomáha.",
     "visual": "💬",
-    "image": "images/actions/help.webp"
+    "image": "images/complete/vocabulary-she-helps-her-a94fa65.webp"
   },
   {
     "en": "He calls us.",
@@ -546,7 +546,7 @@
     "example": "He calls us.",
     "translation": "On nám volá.",
     "visual": "💬",
-    "image": "images/actions/call.webp"
+    "image": "images/complete/vocabulary-he-calls-us-5e91d5b.webp"
   },
   {
     "en": "We see them.",
@@ -555,7 +555,7 @@
     "example": "We see them.",
     "translation": "Vidíme ich.",
     "visual": "💬",
-    "image": "images/actions/speak.webp"
+    "image": "images/complete/vocabulary-we-see-them-8838210.webp"
   },
   {
     "en": "Please call her.",
@@ -564,7 +564,7 @@
     "example": "Please call her.",
     "translation": "Zavolaj jej, prosím. / Zavolajte jej, prosím.",
     "visual": "💬",
-    "image": "images/actions/call.webp"
+    "image": "images/complete/vocabulary-please-call-her-ef54dee.webp"
   },
   {
     "en": "keys",
@@ -573,7 +573,7 @@
     "example": "",
     "translation": "",
     "visual": "🔑",
-    "image": "images/actions/key.webp"
+    "image": "images/complete/vocabulary-keys-1ad0705.webp"
   },
   {
     "en": "bag",
@@ -582,7 +582,7 @@
     "example": "",
     "translation": "",
     "visual": "👜",
-    "image": "images/actions/bag.webp"
+    "image": "images/complete/vocabulary-bag-06f0b86.webp"
   },
   {
     "en": "car",
@@ -591,7 +591,7 @@
     "example": "",
     "translation": "",
     "visual": "🚗",
-    "image": "images/actions/car.webp"
+    "image": "images/complete/vocabulary-car-eae31b6.webp"
   },
   {
     "en": "phone",
@@ -600,7 +600,7 @@
     "example": "",
     "translation": "",
     "visual": "📱",
-    "image": "images/actions/phone.webp"
+    "image": "images/complete/vocabulary-phone-0b8c9d3.webp"
   },
   {
     "en": "coat",
@@ -609,7 +609,7 @@
     "example": "",
     "translation": "",
     "visual": "🧥",
-    "image": "images/actions/coat.webp"
+    "image": "images/complete/vocabulary-coat-b64fe1a.webp"
   },
   {
     "en": "house",
@@ -618,7 +618,7 @@
     "example": "",
     "translation": "",
     "visual": "🏠",
-    "image": "images/actions/house.webp"
+    "image": "images/complete/vocabulary-house-e521a5c.webp"
   },
   {
     "en": "door",
@@ -627,7 +627,7 @@
     "example": "",
     "translation": "",
     "visual": "🚪",
-    "image": "images/actions/cabinet.webp"
+    "image": "images/complete/vocabulary-door-535bd3a.webp"
   },
   {
     "en": "window",
@@ -636,7 +636,7 @@
     "example": "",
     "translation": "",
     "visual": "🪟",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-window-6ddf656.webp"
   },
   {
     "en": "water",
@@ -645,7 +645,7 @@
     "example": "",
     "translation": "",
     "visual": "💧",
-    "image": "images/actions/water.webp"
+    "image": "images/complete/vocabulary-water-bd45eb1.webp"
   },
   {
     "en": "coffee",
@@ -654,7 +654,7 @@
     "example": "",
     "translation": "",
     "visual": "☕",
-    "image": "images/actions/coffee.webp"
+    "image": "images/complete/vocabulary-coffee-cc63c05.webp"
   },
   {
     "en": "money",
@@ -663,7 +663,7 @@
     "example": "",
     "translation": "",
     "visual": "💵",
-    "image": "images/actions/cash.webp"
+    "image": "images/complete/vocabulary-money-9d2d692.webp"
   },
   {
     "en": "bus",
@@ -672,7 +672,7 @@
     "example": "",
     "translation": "",
     "visual": "🚌",
-    "image": "images/actions/bus.webp"
+    "image": "images/complete/vocabulary-bus-fc9b1fb.webp"
   },
   {
     "en": "neighbor",
@@ -681,7 +681,7 @@
     "example": "",
     "translation": "",
     "visual": "🏘️",
-    "image": "images/actions/be.webp"
+    "image": "images/complete/vocabulary-neighbor-98109e3.webp"
   },
   {
     "en": "father",
@@ -690,7 +690,7 @@
     "example": "",
     "translation": "",
     "visual": "👨",
-    "image": "images/actions/father.webp"
+    "image": "images/complete/vocabulary-father-f366cc3.webp"
   },
   {
     "en": "pharmacist",
@@ -699,7 +699,7 @@
     "example": "",
     "translation": "",
     "visual": "💊",
-    "image": "images/words/pharmacist.jpg"
+    "image": "images/complete/vocabulary-pharmacist-76f2ad2.webp"
   },
   {
     "en": "fix",

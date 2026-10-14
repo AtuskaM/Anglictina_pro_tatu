@@ -3,7 +3,7 @@
     "id": "pharmacy-word-1",
     "en": "pharmacist",
     "sk": "lekárnik / lekárnička",
-    "image": "images/words/pharmacist.jpg",
+    "image": "images/complete/vocabulary-pharmacist-76f2ad2.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -12,7 +12,7 @@
     "id": "pharmacy-word-2",
     "en": "prescription",
     "sk": "lekársky recept",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-prescription-9d5b6a8.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -21,7 +21,7 @@
     "id": "pharmacy-word-3",
     "en": "tablet",
     "sk": "tabletka",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-tablet-26a9026.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -30,7 +30,7 @@
     "id": "pharmacy-word-4",
     "en": "morning",
     "sk": "ráno",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-morning-91fc9c4.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -39,7 +39,7 @@
     "id": "pharmacy-word-5",
     "en": "evening",
     "sk": "večer",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-evening-5dd7652.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -48,7 +48,7 @@
     "id": "pharmacy-word-6",
     "en": "water",
     "sk": "voda",
-    "image": "images/actions/water.webp",
+    "image": "images/complete/vocabulary-water-bd45eb1.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -57,7 +57,7 @@
     "id": "pharmacy-word-7",
     "en": "name",
     "sk": "meno",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-name-762ad52.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -66,7 +66,7 @@
     "id": "pharmacy-word-8",
     "en": "food",
     "sk": "jedlo",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-food-b8ef315.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -75,7 +75,7 @@
     "id": "pharmacy-word-9",
     "en": "pharmacy bag",
     "sk": "sáčok z lekárne",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-pharmacy-bag-08ccce5.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -84,7 +84,7 @@
     "id": "pharmacy-word-10",
     "en": "instructions",
     "sk": "pokyny",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-instructions-47afb5f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -93,7 +93,7 @@
     "id": "pharmacy-word-11",
     "en": "last name",
     "sk": "priezvisko",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-last-name-9f9d2c9.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -102,7 +102,7 @@
     "id": "pharmacy-word-12",
     "en": "date of birth",
     "sk": "dátum narodenia",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-date-of-birth-0399d8a.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -111,7 +111,7 @@
     "id": "pharmacy-word-13",
     "en": "phone number",
     "sk": "telefónne číslo",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-phone-number-cb3f1a9.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -120,7 +120,7 @@
     "id": "pharmacy-word-14",
     "en": "ready",
     "sk": "pripravený",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-ready-eac06cb.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -129,7 +129,7 @@
     "id": "pharmacy-word-15",
     "en": "later",
     "sk": "neskôr",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-later-ac61aeb.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -138,7 +138,7 @@
     "id": "pharmacy-word-16",
     "en": "text message",
     "sk": "SMS správa",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-text-message-b478245.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -147,7 +147,7 @@
     "id": "pharmacy-word-17",
     "en": "refill",
     "sk": "ďalšie vydanie lieku na existujúci recept",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-refill-66bf3fe.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -156,7 +156,7 @@
     "id": "pharmacy-word-18",
     "en": "renewal",
     "sk": "obnovenie receptu",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-renewal-a47cbb7.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -165,7 +165,7 @@
     "id": "pharmacy-word-19",
     "en": "approve",
     "sk": "schváliť",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-approve-93aa590.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -174,7 +174,7 @@
     "id": "pharmacy-word-20",
     "en": "prior authorization",
     "sk": "predchádzajúce schválenie",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-prior-authorization-266c24a.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -183,7 +183,7 @@
     "id": "pharmacy-word-21",
     "en": "approval",
     "sk": "schválenie",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-approval-03d3b61.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -192,7 +192,7 @@
     "id": "pharmacy-word-22",
     "en": "delay",
     "sk": "oneskorenie",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/vocabulary-delay-822d4c6.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -201,7 +201,7 @@
     "id": "pharmacy-word-23",
     "en": "Good afternoon.",
     "sk": "Dobrý deň.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Takto môžeš pozdraviť niekoho popoludní."
@@ -210,7 +210,7 @@
     "id": "pharmacy-word-24",
     "en": "I have a prescription.",
     "sk": "Mám recept.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "I have = mám."
@@ -219,7 +219,7 @@
     "id": "pharmacy-word-25",
     "en": "What is your name?",
     "sk": "Ako sa voláte?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Otázka na meno."
@@ -228,7 +228,7 @@
     "id": "pharmacy-word-26",
     "en": "My name is…",
     "sk": "Volám sa…",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Takto povieš svoje meno."
@@ -237,7 +237,7 @@
     "id": "pharmacy-word-27",
     "en": "Take one tablet.",
     "sk": "Užite jednu tabletku.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Take pri liekoch znamená užiť."
@@ -246,7 +246,7 @@
     "id": "pharmacy-word-28",
     "en": "in the morning",
     "sk": "ráno",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "IN THE MORNING = ráno."
@@ -255,7 +255,7 @@
     "id": "pharmacy-word-29",
     "en": "in the evening",
     "sk": "večer",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "IN THE EVENING = večer."
@@ -264,7 +264,7 @@
     "id": "pharmacy-word-30",
     "en": "with food",
     "sk": "s jedlom",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "WITH = s."
@@ -273,7 +273,7 @@
     "id": "pharmacy-word-31",
     "en": "plenty of water",
     "sk": "veľa vody",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "PLENTY OF = veľa."
@@ -282,7 +282,7 @@
     "id": "pharmacy-word-32",
     "en": "Should I take it with food?",
     "sk": "Mám ho užívať s jedlom?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Should I…? sa tu používa, keď sa pýtaš, čo máš urobiť."
@@ -291,7 +291,7 @@
     "id": "pharmacy-word-33",
     "en": "Could you write that down, please?",
     "sk": "Mohli by ste mi to, prosím, napísať?",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Zdvorilá prosba: mohli by ste..."
@@ -300,7 +300,7 @@
     "id": "pharmacy-word-34",
     "en": "Here you are.",
     "sk": "Nech sa páči.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Keď niekomu niečo podávaš."
@@ -309,7 +309,7 @@
     "id": "pharmacy-word-35",
     "en": "check them again",
     "sk": "znova si ich skontrolovať",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "AGAIN = znova."
@@ -318,7 +318,7 @@
     "id": "pharmacy-word-36",
     "en": "at home",
     "sk": "doma",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "AT HOME = doma."
@@ -327,7 +327,7 @@
     "id": "pharmacy-word-37",
     "en": "I’ll be right with you.",
     "sk": "Hneď budem pri vás.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Keď pracovník príde o chvíľu."
@@ -336,7 +336,7 @@
     "id": "pharmacy-word-38",
     "en": "Sorry to keep you waiting.",
     "sk": "Prepáčte, že ste museli čakať.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Ospravedlnenie za čakanie."
@@ -345,7 +345,7 @@
     "id": "pharmacy-word-39",
     "en": "It isn’t ready yet.",
     "sk": "Ešte to nie je pripravené.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "YET tu znamená ešte nie."
@@ -354,7 +354,7 @@
     "id": "pharmacy-word-40",
     "en": "Come back later.",
     "sk": "Vráťte sa neskôr.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Nemusíš sa vrátiť hneď."
@@ -363,7 +363,7 @@
     "id": "pharmacy-word-41",
     "en": "We’ll send you a text.",
     "sk": "Pošleme vám SMS.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "TEXT je tu SMS správa."
@@ -372,7 +372,7 @@
     "id": "pharmacy-word-42",
     "en": "There are no refills left.",
     "sk": "Už nemáte povolené ďalšie vydania.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Na ďalšie vydanie môže byť potrebný nový recept."
@@ -381,7 +381,7 @@
     "id": "pharmacy-word-43",
     "en": "Contact your doctor.",
     "sk": "Kontaktujte svojho lekára.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "CONTACT znamená spojiť sa s niekým."
@@ -390,7 +390,7 @@
     "id": "pharmacy-word-44",
     "en": "Wait for confirmation.",
     "sk": "Počkajte na potvrdenie.",
-    "image": "images/pharmacy_scene.jpg",
+    "image": "images/complete/story-at-the-pharmacy-1dac72f.webp",
     "story": "pharmacy",
     "context": "V lekárni",
     "note": "Potvrdenie ešte nie je hotové."
@@ -399,7 +399,7 @@
     "id": "neighbor-package-word-1",
     "en": "package",
     "sk": "balík",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-package-c1af1f0.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -408,7 +408,7 @@
     "id": "neighbor-package-word-2",
     "en": "neighbor",
     "sk": "sused",
-    "image": "images/actions/be.webp",
+    "image": "images/complete/vocabulary-neighbor-98109e3.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -417,7 +417,7 @@
     "id": "neighbor-package-word-3",
     "en": "delivery driver",
     "sk": "kuriér",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-delivery-driver-63d0ed6.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -426,7 +426,7 @@
     "id": "neighbor-package-word-4",
     "en": "apartment",
     "sk": "byt",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-apartment-087d859.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -435,7 +435,7 @@
     "id": "neighbor-package-word-5",
     "en": "upstairs",
     "sk": "hore / na poschodí",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-upstairs-47db468.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -444,7 +444,7 @@
     "id": "neighbor-package-word-6",
     "en": "door",
     "sk": "dvere",
-    "image": "images/actions/cabinet.webp",
+    "image": "images/complete/vocabulary-door-535bd3a.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -453,7 +453,7 @@
     "id": "neighbor-package-word-7",
     "en": "name",
     "sk": "meno",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-name-762ad52.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -462,7 +462,7 @@
     "id": "neighbor-package-word-8",
     "en": "inside",
     "sk": "vnútri",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-inside-0979744.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -471,7 +471,7 @@
     "id": "neighbor-package-word-9",
     "en": "later",
     "sk": "neskôr",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-later-ac61aeb.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -480,7 +480,7 @@
     "id": "neighbor-package-word-10",
     "en": "twelve",
     "sk": "dvanásť",
-    "image": "images/situations/neighbor-package.webp",
+    "image": "images/complete/vocabulary-twelve-92df461.webp",
     "story": "neighbor-package",
     "context": "Balík pre suseda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -642,7 +642,7 @@
     "id": "repair-visit-word-1",
     "en": "kitchen",
     "sk": "kuchyňa",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-kitchen-0ff585f.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -651,7 +651,7 @@
     "id": "repair-visit-word-2",
     "en": "faucet",
     "sk": "vodovodný kohútik",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-faucet-63ce9d7.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -660,7 +660,7 @@
     "id": "repair-visit-word-3",
     "en": "leak",
     "sk": "tiecť / pretekať",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-leak-4aacfc1.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -669,7 +669,7 @@
     "id": "repair-visit-word-4",
     "en": "water",
     "sk": "voda",
-    "image": "images/actions/water.webp",
+    "image": "images/complete/vocabulary-water-bd45eb1.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -678,7 +678,7 @@
     "id": "repair-visit-word-5",
     "en": "valve",
     "sk": "ventil",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-valve-91ce7ce.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -687,7 +687,7 @@
     "id": "repair-visit-word-6",
     "en": "sink",
     "sk": "drez",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-sink-63ee16d.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -696,7 +696,7 @@
     "id": "repair-visit-word-7",
     "en": "left",
     "sk": "ľavá strana",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-left-b6f82a5.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -705,7 +705,7 @@
     "id": "repair-visit-word-8",
     "en": "tool",
     "sk": "náradie / nástroj",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-tool-003dc5a.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -714,7 +714,7 @@
     "id": "repair-visit-word-9",
     "en": "plumber",
     "sk": "inštalatér",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-plumber-c5076d7.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -723,7 +723,7 @@
     "id": "repair-visit-word-10",
     "en": "washer",
     "sk": "tesnenie",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-washer-70feeb2.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -732,7 +732,7 @@
     "id": "repair-visit-word-11",
     "en": "drip",
     "sk": "kvapkať",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/vocabulary-drip-8109976.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -741,7 +741,7 @@
     "id": "repair-visit-word-12",
     "en": "The faucet is leaking.",
     "sk": "Kohútik tečie.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "IS LEAKING = práve tečie / preteká."
@@ -750,7 +750,7 @@
     "id": "repair-visit-word-13",
     "en": "How long…?",
     "sk": "Ako dlho…?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Pýtam sa, ako dlho to potrvá."
@@ -759,7 +759,7 @@
     "id": "repair-visit-word-14",
     "en": "How long has it been leaking?",
     "sk": "Ako dlho už tečie?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Pýtam sa, ako dlho to potrvá."
@@ -768,7 +768,7 @@
     "id": "repair-visit-word-15",
     "en": "Since yesterday evening.",
     "sk": "Od včerajšieho večera.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "SINCE = od určitého okamihu."
@@ -777,7 +777,7 @@
     "id": "repair-visit-word-16",
     "en": "Please turn off the water.",
     "sk": "Prosím, zastavte vodu.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "TURN OFF = vypnúť alebo zastaviť."
@@ -786,7 +786,7 @@
     "id": "repair-visit-word-17",
     "en": "Where is the valve?",
     "sk": "Kde je ventil?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Pýtam sa na miesto."
@@ -795,7 +795,7 @@
     "id": "repair-visit-word-18",
     "en": "under the sink",
     "sk": "pod drezom",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "UNDER = pod."
@@ -804,7 +804,7 @@
     "id": "repair-visit-word-19",
     "en": "on the left",
     "sk": "naľavo",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "LEFT = ľavá strana."
@@ -813,7 +813,7 @@
     "id": "repair-visit-word-20",
     "en": "Do you need a tool?",
     "sk": "Potrebujete náradie?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "NEED = potrebovať."
@@ -822,7 +822,7 @@
     "id": "repair-visit-word-21",
     "en": "I have everything.",
     "sk": "Mám všetko.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "EVERYTHING = všetko."
@@ -831,7 +831,7 @@
     "id": "repair-visit-word-22",
     "en": "stops dripping",
     "sk": "prestane kvapkať",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "STOP + činnosť = prestať s ňou."
@@ -840,7 +840,7 @@
     "id": "repair-visit-word-23",
     "en": "changes a small washer",
     "sk": "vymení malé tesnenie",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "CHANGE môže znamenať vymeniť."
@@ -849,7 +849,7 @@
     "id": "repair-visit-word-24",
     "en": "Can you give me an estimate before you start?",
     "sk": "Môžete mi dať cenovú ponuku skôr, než začnete?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
@@ -858,7 +858,7 @@
     "id": "repair-visit-word-25",
     "en": "Yes. First I need to check the faucet.",
     "sk": "Áno. Najprv musím skontrolovať kohútik.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
@@ -867,7 +867,7 @@
     "id": "repair-visit-word-26",
     "en": "Will it need a new part?",
     "sk": "Bude potrebný nový diel?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
@@ -876,7 +876,7 @@
     "id": "repair-visit-word-27",
     "en": "It may need a new cartridge. I will show you.",
     "sk": "Možno bude treba novú kartušu. Ukážem vám ju.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
@@ -885,7 +885,7 @@
     "id": "repair-visit-word-28",
     "en": "Does the price include the part and labor?",
     "sk": "Zahŕňa cena diel aj prácu?",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
@@ -894,7 +894,7 @@
     "id": "repair-visit-word-29",
     "en": "Yes. Here is the written estimate.",
     "sk": "Áno. Tu je písomná cenová ponuka.",
-    "image": "images/repair_scene.jpg",
+    "image": "images/complete/story-a-repair-visit-2f64f07.webp",
     "story": "repair-visit",
     "context": "Majster opravuje",
     "note": "Celá veta, ktorú môžeš použiť pri návšteve alebo odovzdaní balíka."
@@ -903,7 +903,7 @@
     "id": "car-start-word-1",
     "en": "battery",
     "sk": "batéria",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-battery-c7883a6.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -912,7 +912,7 @@
     "id": "car-start-word-2",
     "en": "jump-start",
     "sk": "naštartovať pomocou káblov",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-jump-start-5e8f663.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -921,7 +921,7 @@
     "id": "car-start-word-3",
     "en": "jumper cables",
     "sk": "štartovacie káble",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-jumper-cables-f4098de.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -930,7 +930,7 @@
     "id": "car-start-word-4",
     "en": "dashboard lights",
     "sk": "kontrolky na palubnej doske",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-dashboard-lights-fe45a3e.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -939,7 +939,7 @@
     "id": "car-start-word-5",
     "en": "tow truck",
     "sk": "odťahové auto",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-tow-truck-45cf669.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -948,7 +948,7 @@
     "id": "car-start-word-6",
     "en": "roadside assistance",
     "sk": "asistenčná služba",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-roadside-assistance-cd4cfa0.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -957,7 +957,7 @@
     "id": "car-start-word-7",
     "en": "location",
     "sk": "miesto",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-location-8e2f4e5.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -966,7 +966,7 @@
     "id": "car-start-word-8",
     "en": "cost",
     "sk": "cena",
-    "image": "images/situations/car-start.webp",
+    "image": "images/complete/vocabulary-cost-b998a33.webp",
     "story": "car-start",
     "context": "Auto neštartuje",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1029,7 +1029,7 @@
     "id": "repair-shop-word-1",
     "en": "brakes",
     "sk": "brzdy",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-brakes-a10ea81.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1038,7 +1038,7 @@
     "id": "repair-shop-word-2",
     "en": "oil leak",
     "sk": "únik oleja",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-oil-leak-64ba00d.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1047,7 +1047,7 @@
     "id": "repair-shop-word-3",
     "en": "engine light",
     "sk": "kontrolka motora",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-engine-light-3052797.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1056,7 +1056,7 @@
     "id": "repair-shop-word-4",
     "en": "mechanic",
     "sk": "automechanik",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-mechanic-c8de10a.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1065,7 +1065,7 @@
     "id": "repair-shop-word-5",
     "en": "inspection",
     "sk": "kontrola",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-inspection-fdc758e.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1074,7 +1074,7 @@
     "id": "repair-shop-word-6",
     "en": "estimate",
     "sk": "cenová ponuka",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-estimate-df71421.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1083,7 +1083,7 @@
     "id": "repair-shop-word-7",
     "en": "labor",
     "sk": "práca",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-labor-df77efb.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1092,7 +1092,7 @@
     "id": "repair-shop-word-8",
     "en": "parts",
     "sk": "diely",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-parts-ff8bf9f.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1101,7 +1101,7 @@
     "id": "repair-shop-word-9",
     "en": "approval",
     "sk": "súhlas",
-    "image": "images/situations/repair-shop.webp",
+    "image": "images/complete/vocabulary-approval-03d3b61.webp",
     "story": "repair-shop",
     "context": "V autoservise",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1164,7 +1164,7 @@
     "id": "flat-tire-word-1",
     "en": "flat tire",
     "sk": "defekt",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-flat-tire-ee72351.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1173,7 +1173,7 @@
     "id": "flat-tire-word-2",
     "en": "spare tire",
     "sk": "rezervné koleso",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-spare-tire-4afe08d.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1182,7 +1182,7 @@
     "id": "flat-tire-word-3",
     "en": "tire pressure",
     "sk": "tlak v pneumatikách",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-tire-pressure-6ca47f4.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1191,7 +1191,7 @@
     "id": "flat-tire-word-4",
     "en": "hazard lights",
     "sk": "výstražné svetlá",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-hazard-lights-bca4366.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1200,7 +1200,7 @@
     "id": "flat-tire-word-5",
     "en": "intersection",
     "sk": "križovatka",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-intersection-a8c4d28.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1209,7 +1209,7 @@
     "id": "flat-tire-word-6",
     "en": "technician",
     "sk": "technik",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-technician-8b834d8.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1218,7 +1218,7 @@
     "id": "flat-tire-word-7",
     "en": "replaced",
     "sk": "vymenené",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-replaced-69b1958.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1227,7 +1227,7 @@
     "id": "flat-tire-word-8",
     "en": "safe place",
     "sk": "bezpečné miesto",
-    "image": "images/situations/flat-tire.webp",
+    "image": "images/complete/vocabulary-safe-place-8f6d89c.webp",
     "story": "flat-tire",
     "context": "Defekt na ceste",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1290,7 +1290,7 @@
     "id": "minor-accident-word-1",
     "en": "insurance information",
     "sk": "údaje o poistení",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-insurance-information-922d4d8.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1299,7 +1299,7 @@
     "id": "minor-accident-word-2",
     "en": "driver's license",
     "sk": "vodičský preukaz",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-driver-s-license-3da6a89.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1308,7 +1308,7 @@
     "id": "minor-accident-word-3",
     "en": "registration",
     "sk": "registrácia vozidla",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-registration-44ed412.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1317,7 +1317,7 @@
     "id": "minor-accident-word-4",
     "en": "damage",
     "sk": "poškodenie",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-damage-ab082ef.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1326,7 +1326,7 @@
     "id": "minor-accident-word-5",
     "en": "police report",
     "sk": "policajná správa",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-police-report-05b91b9.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1335,7 +1335,7 @@
     "id": "minor-accident-word-6",
     "en": "witness",
     "sk": "svedok",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-witness-059a2aa.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1344,7 +1344,7 @@
     "id": "minor-accident-word-7",
     "en": "bumper",
     "sk": "nárazník",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-bumper-b37f4c7.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1353,7 +1353,7 @@
     "id": "minor-accident-word-8",
     "en": "exchange",
     "sk": "vymeniť si",
-    "image": "images/situations/minor-accident.webp",
+    "image": "images/complete/vocabulary-exchange-bbd4b44.webp",
     "story": "minor-accident",
     "context": "Malá dopravná nehoda",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1416,7 +1416,7 @@
     "id": "car-ready-word-1",
     "en": "brake pads",
     "sk": "brzdové doštičky",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-brake-pads-470a63a.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1425,7 +1425,7 @@
     "id": "car-ready-word-2",
     "en": "worn out",
     "sk": "opotrebované",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-worn-out-ea2d19f.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1434,7 +1434,7 @@
     "id": "car-ready-word-3",
     "en": "seal",
     "sk": "tesnenie",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-seal-23e8843.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1443,7 +1443,7 @@
     "id": "car-ready-word-4",
     "en": "warranty",
     "sk": "záruka",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-warranty-5c72eca.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1452,7 +1452,7 @@
     "id": "car-ready-word-5",
     "en": "receipt",
     "sk": "účtenka",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-receipt-3776435.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1461,7 +1461,7 @@
     "id": "car-ready-word-6",
     "en": "extra charge",
     "sk": "príplatok",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-extra-charge-91c7c9f.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1470,7 +1470,7 @@
     "id": "car-ready-word-7",
     "en": "inspection fee",
     "sk": "poplatok za kontrolu",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-inspection-fee-7b048b1.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1479,7 +1479,7 @@
     "id": "car-ready-word-8",
     "en": "tax",
     "sk": "daň",
-    "image": "images/situations/car-ready.webp",
+    "image": "images/complete/vocabulary-tax-143c3e7.webp",
     "story": "car-ready",
     "context": "Auto je opravené",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1542,7 +1542,7 @@
     "id": "insurance-call-word-1",
     "en": "policy",
     "sk": "poistná zmluva",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-policy-7882afb.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1551,7 +1551,7 @@
     "id": "insurance-call-word-2",
     "en": "coverage",
     "sk": "rozsah poistenia",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-coverage-439bf8b.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1560,7 +1560,7 @@
     "id": "insurance-call-word-3",
     "en": "premium",
     "sk": "poistné",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-premium-e53c849.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1569,7 +1569,7 @@
     "id": "insurance-call-word-4",
     "en": "policy number",
     "sk": "číslo poistnej zmluvy",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-policy-number-50adbac.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1578,7 +1578,7 @@
     "id": "insurance-call-word-5",
     "en": "representative",
     "sk": "pracovník zákazníckej podpory",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-representative-2ad9f4c.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1587,7 +1587,7 @@
     "id": "insurance-call-word-6",
     "en": "due",
     "sk": "splatné",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-due-78dcea7.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1596,7 +1596,7 @@
     "id": "insurance-call-word-7",
     "en": "renew",
     "sk": "obnoviť",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-renew-ca456ee.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1605,7 +1605,7 @@
     "id": "insurance-call-word-8",
     "en": "proof of insurance",
     "sk": "doklad o poistení",
-    "image": "images/situations/insurance-call.webp",
+    "image": "images/complete/vocabulary-proof-of-insurance-8409393.webp",
     "story": "insurance-call",
     "context": "Volám do poisťovne",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1668,7 +1668,7 @@
     "id": "insurance-claim-word-1",
     "en": "file a claim",
     "sk": "nahlásiť poistnú udalosť",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-file-a-claim-c80be16.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1677,7 +1677,7 @@
     "id": "insurance-claim-word-2",
     "en": "claim number",
     "sk": "číslo poistnej udalosti",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-claim-number-c70b496.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1686,7 +1686,7 @@
     "id": "insurance-claim-word-3",
     "en": "adjuster",
     "sk": "likvidátor poistnej udalosti",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-adjuster-da1c17a.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1695,7 +1695,7 @@
     "id": "insurance-claim-word-4",
     "en": "rear bumper",
     "sk": "zadný nárazník",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-rear-bumper-72688eb.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1704,7 +1704,7 @@
     "id": "insurance-claim-word-5",
     "en": "photographs",
     "sk": "fotografie",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-photographs-b888d00.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1713,7 +1713,7 @@
     "id": "insurance-claim-word-6",
     "en": "documents",
     "sk": "dokumenty",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-documents-92b7fee.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1722,7 +1722,7 @@
     "id": "insurance-claim-word-7",
     "en": "secure upload",
     "sk": "zabezpečené nahrávanie",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-secure-upload-fd63bdb.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1731,7 +1731,7 @@
     "id": "insurance-claim-word-8",
     "en": "update",
     "sk": "aktuálna informácia",
-    "image": "images/situations/insurance-claim.webp",
+    "image": "images/complete/vocabulary-update-e5c6c38.webp",
     "story": "insurance-claim",
     "context": "Nahlasujem nehodu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1794,7 +1794,7 @@
     "id": "insurance-denied-word-1",
     "en": "denied",
     "sk": "zamietnuté",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-denied-69cd8ad.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1803,7 +1803,7 @@
     "id": "insurance-denied-word-2",
     "en": "not covered",
     "sk": "nie je poistené",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-not-covered-9fc7d39.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1812,7 +1812,7 @@
     "id": "insurance-denied-word-3",
     "en": "deductible",
     "sk": "spoluúčasť",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-deductible-46fcb50.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1821,7 +1821,7 @@
     "id": "insurance-denied-word-4",
     "en": "premium",
     "sk": "poistné",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-premium-e53c849.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1830,7 +1830,7 @@
     "id": "insurance-denied-word-5",
     "en": "appeal",
     "sk": "odvolanie",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-appeal-e54e311.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1839,7 +1839,7 @@
     "id": "insurance-denied-word-6",
     "en": "deadline",
     "sk": "lehota",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-deadline-e565ffe.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1848,7 +1848,7 @@
     "id": "insurance-denied-word-7",
     "en": "decision",
     "sk": "rozhodnutie",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-decision-63e27af.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1857,7 +1857,7 @@
     "id": "insurance-denied-word-8",
     "en": "in writing",
     "sk": "písomne",
-    "image": "images/situations/insurance-denied.webp",
+    "image": "images/complete/vocabulary-in-writing-ca5e751.webp",
     "story": "insurance-denied",
     "context": "Poisťovňa nechce zaplatiť",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1920,7 +1920,7 @@
     "id": "health-insurance-word-1",
     "en": "copay",
     "sk": "pevný doplatok",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-copay-ef93232.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1929,7 +1929,7 @@
     "id": "health-insurance-word-2",
     "en": "deductible",
     "sk": "spoluúčasť",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-deductible-46fcb50.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1938,7 +1938,7 @@
     "id": "health-insurance-word-3",
     "en": "in-network",
     "sk": "v sieti poisťovne",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-in-network-8503661.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1947,7 +1947,7 @@
     "id": "health-insurance-word-4",
     "en": "out-of-network",
     "sk": "mimo siete poisťovne",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-out-of-network-7a63a3d.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1956,7 +1956,7 @@
     "id": "health-insurance-word-5",
     "en": "referral",
     "sk": "odporúčanie",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-referral-71eb445.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1965,7 +1965,7 @@
     "id": "health-insurance-word-6",
     "en": "prior authorization",
     "sk": "predchádzajúce schválenie",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-prior-authorization-266c24a.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1974,7 +1974,7 @@
     "id": "health-insurance-word-7",
     "en": "prescription coverage",
     "sk": "úhrada liekov na recept",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-prescription-coverage-4269743.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -1983,7 +1983,7 @@
     "id": "health-insurance-word-8",
     "en": "plan",
     "sk": "konkrétne zdravotné poistenie",
-    "image": "images/situations/health-insurance.webp",
+    "image": "images/complete/vocabulary-plan-0dca3fa.webp",
     "story": "health-insurance",
     "context": "Zdravotné poistenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2037,7 +2037,7 @@
     "id": "medical-bill-word-1",
     "en": "medical bill",
     "sk": "účet za zdravotnú starostlivosť",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-medical-bill-acd5a1c.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2046,7 +2046,7 @@
     "id": "medical-bill-word-2",
     "en": "EOB",
     "sk": "prehľad vyúčtovania od poisťovne",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-eob-fbb2c47.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2055,7 +2055,7 @@
     "id": "medical-bill-word-3",
     "en": "amount due",
     "sk": "suma na zaplatenie",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-amount-due-59acde4.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2064,7 +2064,7 @@
     "id": "medical-bill-word-4",
     "en": "balance",
     "sk": "zostávajúca suma",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-balance-cc8986d.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2073,7 +2073,7 @@
     "id": "medical-bill-word-5",
     "en": "due date",
     "sk": "termín splatnosti",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-due-date-5e7ee1c.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2082,7 +2082,7 @@
     "id": "medical-bill-word-6",
     "en": "itemized bill",
     "sk": "účet s rozpísanými položkami",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-itemized-bill-7ed874a.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2091,7 +2091,7 @@
     "id": "medical-bill-word-7",
     "en": "payment plan",
     "sk": "splátkový plán",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-payment-plan-f20baff.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2100,7 +2100,7 @@
     "id": "medical-bill-word-8",
     "en": "billing office",
     "sk": "fakturačné oddelenie",
-    "image": "images/situations/medical-bill.webp",
+    "image": "images/complete/vocabulary-billing-office-56bc2da.webp",
     "story": "medical-bill",
     "context": "Nerozumiem účtu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2163,7 +2163,7 @@
     "id": "food-halusky-word-1",
     "en": "potatoes",
     "sk": "zemiaky",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-potatoes-72cdf44.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2172,7 +2172,7 @@
     "id": "food-halusky-word-2",
     "en": "all-purpose flour",
     "sk": "univerzálna múka",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-all-purpose-flour-550ae2a.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2181,7 +2181,7 @@
     "id": "food-halusky-word-3",
     "en": "produce",
     "sk": "ovocie a zelenina",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-produce-e9eff30.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2190,7 +2190,7 @@
     "id": "food-halusky-word-4",
     "en": "sheep's milk cheese",
     "sk": "ovčí syr",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-sheep-s-milk-cheese-0d22293.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2199,7 +2199,7 @@
     "id": "food-halusky-word-5",
     "en": "farmer cheese",
     "sk": "čerstvý hrudkovitý syr",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-farmer-cheese-5a24fc3.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2208,7 +2208,7 @@
     "id": "food-halusky-word-6",
     "en": "substitute",
     "sk": "náhrada",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-substitute-775a72d.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2217,7 +2217,7 @@
     "id": "food-halusky-word-7",
     "en": "texture",
     "sk": "konzistencia",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-texture-131137e.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2226,7 +2226,7 @@
     "id": "food-halusky-word-8",
     "en": "sour cream",
     "sk": "kyslá smotana",
-    "image": "images/situations/food-halusky.webp",
+    "image": "images/complete/vocabulary-sour-cream-f04c335.webp",
     "story": "food-halusky",
     "context": "Suroviny na halušky",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2289,7 +2289,7 @@
     "id": "meat-counter-word-1",
     "en": "pork shoulder",
     "sk": "bravčové pliecko",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-pork-shoulder-04d1b19.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2298,7 +2298,7 @@
     "id": "meat-counter-word-2",
     "en": "pork belly",
     "sk": "bravčový bôčik",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-pork-belly-532bb35.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2307,7 +2307,7 @@
     "id": "meat-counter-word-3",
     "en": "ground pork",
     "sk": "mleté bravčové mäso",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-ground-pork-8a0ac42.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2316,7 +2316,7 @@
     "id": "meat-counter-word-4",
     "en": "smoked sausage",
     "sk": "údená klobása",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-smoked-sausage-46b9c5d.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2325,7 +2325,7 @@
     "id": "meat-counter-word-5",
     "en": "pound",
     "sk": "libra",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-pound-8d14371.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2334,7 +2334,7 @@
     "id": "meat-counter-word-6",
     "en": "ounces",
     "sk": "unce",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-ounces-1364fa7.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2343,7 +2343,7 @@
     "id": "meat-counter-word-7",
     "en": "thinly",
     "sk": "na tenké plátky",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-thinly-adaa8dc.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2352,7 +2352,7 @@
     "id": "meat-counter-word-8",
     "en": "bones for soup",
     "sk": "kosti do polievky",
-    "image": "images/situations/meat-counter.webp",
+    "image": "images/complete/vocabulary-bones-for-soup-4c5ff88.webp",
     "story": "meat-counter",
     "context": "U mäsiara",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2415,7 +2415,7 @@
     "id": "food-baking-word-1",
     "en": "sauerkraut",
     "sk": "kyslá kapusta",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-sauerkraut-d2a20e4.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2424,7 +2424,7 @@
     "id": "food-baking-word-2",
     "en": "cabbage",
     "sk": "kapusta",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-cabbage-6595718.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2433,7 +2433,7 @@
     "id": "food-baking-word-3",
     "en": "poppy seeds",
     "sk": "mak",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-poppy-seeds-a846c2e.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2442,7 +2442,7 @@
     "id": "food-baking-word-4",
     "en": "yeast",
     "sk": "droždie",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-yeast-516b311.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2451,7 +2451,7 @@
     "id": "food-baking-word-5",
     "en": "cottage cheese",
     "sk": "hrudkovitý čerstvý syr",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-cottage-cheese-a580f71.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2460,7 +2460,7 @@
     "id": "food-baking-word-6",
     "en": "breadcrumbs",
     "sk": "strúhanka",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-breadcrumbs-448c541.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2469,7 +2469,7 @@
     "id": "food-baking-word-7",
     "en": "caraway seeds",
     "sk": "rasca",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-caraway-seeds-bcbb194.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2478,7 +2478,7 @@
     "id": "food-baking-word-8",
     "en": "cumin",
     "sk": "rímska rasca",
-    "image": "images/situations/food-baking.webp",
+    "image": "images/complete/vocabulary-cumin-7d712a1.webp",
     "story": "food-baking",
     "context": "Kapusta a pečenie",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2532,7 +2532,7 @@
     "id": "store-directions-word-1",
     "en": "aisle",
     "sk": "ulička",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-aisle-94420ad.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2541,7 +2541,7 @@
     "id": "store-directions-word-2",
     "en": "on the right",
     "sk": "napravo",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-on-the-right-b383ab9.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2550,7 +2550,7 @@
     "id": "store-directions-word-3",
     "en": "lower shelf",
     "sk": "spodná polica",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-lower-shelf-74cb567.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2559,7 +2559,7 @@
     "id": "store-directions-word-4",
     "en": "in stock",
     "sk": "na sklade",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-in-stock-5bb653b.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2568,7 +2568,7 @@
     "id": "store-directions-word-5",
     "en": "sold out",
     "sk": "vypredané",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-sold-out-de69665.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2577,7 +2577,7 @@
     "id": "store-directions-word-6",
     "en": "spice section",
     "sk": "oddelenie korenín",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-spice-section-428c727.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2586,7 +2586,7 @@
     "id": "store-directions-word-7",
     "en": "larger package",
     "sk": "väčšie balenie",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-larger-package-f8507fd.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2595,7 +2595,7 @@
     "id": "store-directions-word-8",
     "en": "delivery date",
     "sk": "termín dodávky",
-    "image": "images/situations/store-directions.webp",
+    "image": "images/complete/vocabulary-delivery-date-9a3f95a.webp",
     "story": "store-directions",
     "context": "Kde to nájdem?",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2658,7 +2658,7 @@
     "id": "checkout-word-1",
     "en": "loyalty card",
     "sk": "zákaznícka karta",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-loyalty-card-a384d6a.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2667,7 +2667,7 @@
     "id": "checkout-word-2",
     "en": "coupon",
     "sk": "kupón",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-coupon-312f7f1.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2676,7 +2676,7 @@
     "id": "checkout-word-3",
     "en": "debit card",
     "sk": "debetná karta",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-debit-card-7f5b864.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2685,7 +2685,7 @@
     "id": "checkout-word-4",
     "en": "credit card",
     "sk": "kreditná karta",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-credit-card-6f34cc5.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2694,7 +2694,7 @@
     "id": "checkout-word-5",
     "en": "cash",
     "sk": "hotovosť",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-cash-a95024a.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2703,7 +2703,7 @@
     "id": "checkout-word-6",
     "en": "self-checkout",
     "sk": "samoobslužná pokladňa",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-self-checkout-b501f11.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2712,7 +2712,7 @@
     "id": "checkout-word-7",
     "en": "refund",
     "sk": "vrátenie peňazí",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-refund-68964b2.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2721,7 +2721,7 @@
     "id": "checkout-word-8",
     "en": "receipt",
     "sk": "účtenka",
-    "image": "images/situations/checkout.webp",
+    "image": "images/complete/vocabulary-receipt-3776435.webp",
     "story": "checkout",
     "context": "Pri pokladni",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2784,7 +2784,7 @@
     "id": "package-missing-word-1",
     "en": "delivered",
     "sk": "doručené",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-delivered-e917dba.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2793,7 +2793,7 @@
     "id": "package-missing-word-2",
     "en": "tracking number",
     "sk": "sledovacie číslo zásielky",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-tracking-number-25d0f85.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2802,7 +2802,7 @@
     "id": "package-missing-word-3",
     "en": "delivery confirmation",
     "sk": "potvrdenie o doručení",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-delivery-confirmation-8c66bec.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2811,7 +2811,7 @@
     "id": "package-missing-word-4",
     "en": "front door",
     "sk": "vchodové dvere",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-front-door-1d8678f.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2820,7 +2820,7 @@
     "id": "package-missing-word-5",
     "en": "shipping address",
     "sk": "dodacia adresa",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-shipping-address-c0436b5.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2829,7 +2829,7 @@
     "id": "package-missing-word-6",
     "en": "replacement",
     "sk": "náhradný výrobok",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-replacement-2e57460.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2838,7 +2838,7 @@
     "id": "package-missing-word-7",
     "en": "refund",
     "sk": "vrátenie peňazí",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-refund-68964b2.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2847,7 +2847,7 @@
     "id": "package-missing-word-8",
     "en": "investigation",
     "sk": "preverovanie",
-    "image": "images/situations/package-missing.webp",
+    "image": "images/complete/vocabulary-investigation-202eef9.webp",
     "story": "package-missing",
     "context": "Balík sa stratil",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2901,7 +2901,7 @@
     "id": "hardware-word-1",
     "en": "fitting",
     "sk": "tvarovka",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-fitting-6f8b461.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2910,7 +2910,7 @@
     "id": "hardware-word-2",
     "en": "pipe",
     "sk": "rúra",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-pipe-b35912c.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2919,7 +2919,7 @@
     "id": "hardware-word-3",
     "en": "faucet",
     "sk": "kohútik",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-faucet-63ce9d7.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2928,7 +2928,7 @@
     "id": "hardware-word-4",
     "en": "screws",
     "sk": "skrutky",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-screws-d86f5b4.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2937,7 +2937,7 @@
     "id": "hardware-word-5",
     "en": "nails",
     "sk": "klince",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-nails-8aff240.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2946,7 +2946,7 @@
     "id": "hardware-word-6",
     "en": "drill bits",
     "sk": "vrtáky",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-drill-bits-5c75e5a.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2955,7 +2955,7 @@
     "id": "hardware-word-7",
     "en": "screwdriver",
     "sk": "skrutkovač",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-screwdriver-8c31214.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2964,7 +2964,7 @@
     "id": "hardware-word-8",
     "en": "wrench",
     "sk": "kľúč na matice",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-wrench-f843a21.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2973,7 +2973,7 @@
     "id": "hardware-word-9",
     "en": "pliers",
     "sk": "kliešte",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-pliers-ff4d7fe.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -2982,7 +2982,7 @@
     "id": "hardware-word-10",
     "en": "inch",
     "sk": "palec",
-    "image": "images/situations/hardware.webp",
+    "image": "images/complete/vocabulary-inch-4ef89d9.webp",
     "story": "hardware",
     "context": "V obchode s náradím",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3045,7 +3045,7 @@
     "id": "repair-call-word-1",
     "en": "leaking faucet",
     "sk": "tečúci kohútik",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-leaking-faucet-412050a.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3054,7 +3054,7 @@
     "id": "repair-call-word-2",
     "en": "clogged drain",
     "sk": "upchatý odtok",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-clogged-drain-7e14802.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3063,7 +3063,7 @@
     "id": "repair-call-word-3",
     "en": "arrival window",
     "sk": "časové rozpätie príchodu",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-arrival-window-46a03d3.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3072,7 +3072,7 @@
     "id": "repair-call-word-4",
     "en": "service fee",
     "sk": "poplatok za výjazd",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-service-fee-151492b.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3081,7 +3081,7 @@
     "id": "repair-call-word-5",
     "en": "appointment",
     "sk": "dohodnutý termín",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-appointment-e119c8a.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3090,7 +3090,7 @@
     "id": "repair-call-word-6",
     "en": "appliance",
     "sk": "spotrebič",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-appliance-4974b03.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3099,7 +3099,7 @@
     "id": "repair-call-word-7",
     "en": "reschedule",
     "sk": "zmeniť termín",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-reschedule-ff339c3.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3108,7 +3108,7 @@
     "id": "repair-call-word-8",
     "en": "cancellation fees",
     "sk": "poplatky za zrušenie",
-    "image": "images/situations/repair-call.webp",
+    "image": "images/complete/vocabulary-cancellation-fees-5a9a176.webp",
     "story": "repair-call",
     "context": "Volám opravára",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3171,7 +3171,7 @@
     "id": "phone-help-word-1",
     "en": "speak more slowly",
     "sk": "hovoriť pomalšie",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-speak-more-slowly-166b621.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3180,7 +3180,7 @@
     "id": "phone-help-word-2",
     "en": "repeat",
     "sk": "zopakovať",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-repeat-4a74fc5.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3189,7 +3189,7 @@
     "id": "phone-help-word-3",
     "en": "spell",
     "sk": "vyhláskovať",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-spell-c253f6d.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3198,7 +3198,7 @@
     "id": "phone-help-word-4",
     "en": "please hold",
     "sk": "zostaňte na linke",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-please-hold-26bcc66.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3207,7 +3207,7 @@
     "id": "phone-help-word-5",
     "en": "write that down",
     "sk": "zapísať si to",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-write-that-down-e3aae5e.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3216,7 +3216,7 @@
     "id": "phone-help-word-6",
     "en": "voicemail",
     "sk": "hlasová schránka",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-voicemail-e17cdfb.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3225,7 +3225,7 @@
     "id": "phone-help-word-7",
     "en": "wrong number",
     "sk": "nesprávne číslo",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-wrong-number-45577b7.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3234,7 +3234,7 @@
     "id": "phone-help-word-8",
     "en": "confirm",
     "sk": "potvrdiť",
-    "image": "images/situations/phone-help.webp",
+    "image": "images/complete/vocabulary-confirm-ef691e7.webp",
     "story": "phone-help",
     "context": "Nerozumiem telefonátu",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3297,7 +3297,7 @@
     "id": "suspicious-text-word-1",
     "en": "scam",
     "sk": "podvod",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-scam-0ad21e4.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3306,7 +3306,7 @@
     "id": "suspicious-text-word-2",
     "en": "suspicious link",
     "sk": "podozrivý odkaz",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-suspicious-link-5777080.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3315,7 +3315,7 @@
     "id": "suspicious-text-word-3",
     "en": "verification code",
     "sk": "overovací kód",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-verification-code-5b17fb1.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3324,7 +3324,7 @@
     "id": "suspicious-text-word-4",
     "en": "password",
     "sk": "heslo",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-password-2d52ed1.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3333,7 +3333,7 @@
     "id": "suspicious-text-word-5",
     "en": "bank card",
     "sk": "banková karta",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-bank-card-d01c304.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3342,7 +3342,7 @@
     "id": "suspicious-text-word-6",
     "en": "urgent",
     "sk": "súrne",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-urgent-c641ed9.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3351,7 +3351,7 @@
     "id": "suspicious-text-word-7",
     "en": "warning sign",
     "sk": "varovný signál",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-warning-sign-fa607fd.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
@@ -3360,7 +3360,7 @@
     "id": "suspicious-text-word-8",
     "en": "trusted number",
     "sk": "overené číslo",
-    "image": "images/situations/suspicious-text.webp",
+    "image": "images/complete/vocabulary-trusted-number-2e30f0c.webp",
     "story": "suspicious-text",
     "context": "Podozrivá správa",
     "note": "Použi slovo v rozhovore z tejto situácie."
